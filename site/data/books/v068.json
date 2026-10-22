@@ -1,0 +1,151 @@
+{
+  "video_id": "v068",
+  "title": "NAT Neighborhood Attention Transformer[2204.07143]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v068/0001.jpg",
+      "path": "assets/slides/v068/0001.jpg",
+      "sha256": "f6db430ccd41223522d1560427ed81ae56dc18ea2fdaa6a059d8fa0288d55d21",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v068/0002.jpg",
+      "path": "assets/slides/v068/0002.jpg",
+      "sha256": "7e14638dda0c6759774291ae562b79feba265cc2aed072000abceaf1521e366a",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v068/0003.jpg",
+      "path": "assets/slides/v068/0003.jpg",
+      "sha256": "ffb82ad7688faa928c216cf62b23732e3ddedb5fa7fe8b0814c163e018e38335",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v068/0004.jpg",
+      "path": "assets/slides/v068/0004.jpg",
+      "sha256": "9ab89cadbe4ac09b64d7c6d48f1d9d1d1d2ee6606ce7a71d01f1dc9716503a62",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v068/0005.jpg",
+      "path": "assets/slides/v068/0005.jpg",
+      "sha256": "4528f0982eab421d7282f62e9c7382c1150ef52b904824e326b194fb22706d11",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v068/0006.jpg",
+      "path": "assets/slides/v068/0006.jpg",
+      "sha256": "9fd82683228c605078fc16474114e5b1a1da824754d9ba5f0ce23e949280d5ba",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v068/0007.jpg",
+      "path": "assets/slides/v068/0007.jpg",
+      "sha256": "f1fbcd8194d3c5f7337220b71226f606ede6caeec9e26d3038c872517b662b83",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v068/0008.jpg",
+      "path": "assets/slides/v068/0008.jpg",
+      "sha256": "d01b6ef824f0b7e75049d544f59c50eab45245e285b3a636c32e0fac0b05e6fc",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v068/0009.jpg",
+      "path": "assets/slides/v068/0009.jpg",
+      "sha256": "4dff2ffc888063dd118e9f0739e6782b1e14c5342ed8bd017e25fd587bada054",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v068/0010.jpg",
+      "path": "assets/slides/v068/0010.jpg",
+      "sha256": "f38959789d7013709e7abe3bcd1664124d4c9b50a0eeb8815359f5c863ce2e88",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v068/0011.jpg",
+      "path": "assets/slides/v068/0011.jpg",
+      "sha256": "2c3fd3898d048c37473e639233bebf6342216ff0cdd99a0772f5c877dfa6ca88",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v068/0012.jpg",
+      "path": "assets/slides/v068/0012.jpg",
+      "sha256": "5882165a9112f13f9e07881cc58d18ec8d70be116b30ac59a1963d30a165e2e4",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v068/0013.jpg",
+      "path": "assets/slides/v068/0013.jpg",
+      "sha256": "6bc28fdf217666aeca945c5b02609979aab8882f78cfb6fcf6603cb9a8d3298c",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v068/0014.jpg",
+      "path": "assets/slides/v068/0014.jpg",
+      "sha256": "0ccb954c4e7e907daf5656ab4da51a11c71204fcbedcafd236a5738c59507094",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v068/0015.jpg",
+      "path": "assets/slides/v068/0015.jpg",
+      "sha256": "0c01755e7fb0829316deaa48425c00f284afce8d1cca9100f4c1ed60de88966e",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v068/0016.jpg",
+      "path": "assets/slides/v068/0016.jpg",
+      "sha256": "50bb599cb0fbb48353e04043536ba41aac7e0bfc53c6c1957f091ffe1a6f0f1f",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v068/0017.jpg",
+      "path": "assets/slides/v068/0017.jpg",
+      "sha256": "6510a6dba47da7e5c9608cb087a107ef6715b11bb3b9dac08428aaa0621a7102",
+      "slide_index": 17
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速使用一篇论文，neighborhood attention transformer。这篇论文呢，非常简单，一个 neighborhood attention 什么意思呢？看这个图啊，一个标准的 self attention，我们 vision transformer 里面用的这个红色的 token 也好，这个蓝色的 token 也好，他们都是跟其他的所有的 token 做这个 attention。那对比之下，Swin Transformer 他把我们这个 attention 的范围限制在了一个局部的这个 windows 里面啊，局部的这个小窗里面这样子呢，各自做各自的。",
+    "然后呢，在下一层呢，我们去换一下这个划分小窗的位置，就像这样啊，对吧？就这样做 attention。那本文的 attention 呢，更直接，就是我 attention 的范围呢，只局限于自己这个 token 周边的这些 token，然后这个蓝色也是只局限于周边的这个 token。那其他的这些外围的这个 token 都不关注，所以他的这个实现呢，就跟 convolution 一样。",
+    "只是在一个 kernel 里面的范围内去做操作，但是和 convolution 不同的是，因为我们做的是 attention，所以每一个 value 之后出来的权重是根据我们输入的值来决定的，而不是像 convolution 一样固定的一个值。那这个呢，就是本文的核心的思想。那这个视频到这里其实就可以结束了，那么一点小的细节，比如说我们的这个 neighborhood 这个 neighbor 可以选多大对吧？你可以从 3 乘 3 一直选到整个图整个图这么大。那像整个图这么大的时候呢，就是跟我们的 self-attention 是等效的了。那然后我们来看具体的实现啊，一个对于一个任意位置的一个 IG 的这么一个 token 来说对吧，它的这个 neighbor 假如说这是一个集合是一个 row，那么这个 query 和 key 这里呢做着加上一个 relative positional embedding。",
+    "啊，这个呢，也是很常见的套路了。然后呢，normalization 这样是一个 attention value，然后乘上这个实际的 value 就可以了。那么这种 attention 呢，是从当前的一个 query 他周周边取这些 key。那如果到角落里没有 token 怎么办呢？比如说他的这个 attention 怎么解决呢？很简单对吧，也是做一个 neighbor，只不过这个 neighbor 呢被限制在了这个 tensor 里面。然后呢，这就导致我们的这个 query 他不在这个 attention 的这个 window 的正中间啊，一样做他在哪其实并不重要。",
+    "那么这个就是 neighborhood attention，作者还分析了一下它的计算代价，我们简单来看一下，对比了这样 self attention 对吧，convolution 这些东西，从这个计算复杂度来说，linear projection 把我们的 key query 和 value 都投影出来，这个大家都是一样的。然后计算 attention，每个 token 有 c 个 channel，相对于 self attention 的 h 乘 w 这里全部划成 l 就是我们局部 attention 的 window 它的边长，那么它的邻居一共就是 l 乘 l 这样一个 token。",
+    "那 attention value 做一次，在乘上这个 value 做一次，所以前面有一个 2，这个就是计算的复杂度。所以你这个 L 可以选的很小嘛，计算复杂度相对于这个 selfattention 就大幅下降，同时这个内存的占用也是减少了。那最后来看作者根据这个 neighborhoodattention 建出来这个 transformer 这个网络，首先是每一个 block 对吧，就是把这个全局的 selfattention 换成了这个 neighborhoodattention。",
+    "然后整个结构跟 Swin 也是一样的四个阶段然后每个阶段的时候我们把 Spatial Resolution 砍掉一半那么砍的方法这里跟 Swin 有区别就是这里虽然用的是 3x3 的卷积但是它是有一个 2x2 的 stride 这样子我们在 downsample 的过程中也有这种 Overlapping 也会把相邻的信息给它相互交互起来这个是 downsample 和我们的 Swin Transformer 的区别",
+    "那么当然一开始我们把这个图像变成 token 的时候呢也是用了两层这个三乘三的卷积但是呢带这个二乘二的这个 stride 那这个就结束了以上就是本文的主要技术细节了那下面我们就来看实验里面啊首先是根据不同的这个参数量对吧我们的不同尺寸的模型四个阶段嘛每个阶段的层数然后 dimension 的数量和这个 head 的数量然后注意这里所有的这个 neighbor attention 呢它都是用了这个七乘七的这个 attention 那这个呢就是主要的网络结构的几种辨识",
+    "然后一个快速的结果 ImageNet 一些漂亮的图表对比了 DEIT 和 Swin 这些我们之前都介绍了还有 ConvNeXt 这个也是最近很出名的一个工作了反正一些漂亮的数字感兴趣的朋友仔细研究一下包括后面作者还做了其他的下游任务包括 Object Detection 还有 Instance Segmentation 感兴趣的朋友欢迎到原文查看它的实验的配置还有它汇报的一些结果",
+    "那最后呢我们来关注一些 ablation 啊首先这个 position embedding 会很有用啊这个 Swin 里面的包括这个 neighborhood attention 这些东西加上这个 position embedding 之后啊性能的提升然后还有我们采样的时候这个 convolution 的设计啊从原来没有交叠的这种 convolution 变成了这种有交叠的 convolution 啊这这个 ablation 证明了首先有交叠的 convolution 是管用的同时呢本文的这个 neighborhood attention 是管用的",
+    "那么总的来说呢本文的这个思想呢我相信很多人也都想到过但是呢它的难点其实在于它的这个 CUDA 的这个实现上因为现有的 CUDA 呢没有一个能够很好的支持你去高效的去做这种 neighbor 的 attention 所以呢这里作者就需要重新写这个 CUDA kernel 是这样的那么以上呢就是我对这篇论文的一个快速的整理那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2cd4031a76c7dab2d75f2f2f8d2a592f8d6ec854b7e0dd80882f2f9f923d53b2"
+}

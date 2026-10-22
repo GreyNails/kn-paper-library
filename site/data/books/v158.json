@@ -1,0 +1,197 @@
+{
+  "video_id": "v158",
+  "title": "Directional SSL for Heavy Image Augmentations[2110.13555]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v158/0001.jpg",
+      "path": "assets/slides/v158/0001.jpg",
+      "sha256": "9275cbbbc2ccec71a2f90d09a8bc908160be26c856a45af31bbf727aa79fe909",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v158/0002.jpg",
+      "path": "assets/slides/v158/0002.jpg",
+      "sha256": "e6f0f452656505bb7e312f4e847a962a7cb5daa0644d9ce4395e6b531bff2183",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v158/0003.jpg",
+      "path": "assets/slides/v158/0003.jpg",
+      "sha256": "bb7bee2c7340291f62a3abbfcb523ea109129855fc0a3c0de63d788f24e65ac9",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v158/0004.jpg",
+      "path": "assets/slides/v158/0004.jpg",
+      "sha256": "9b5d91421f34a773477ddff239d265a2d65a4cc7d44de80796010c66feb1fcd3",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v158/0005.jpg",
+      "path": "assets/slides/v158/0005.jpg",
+      "sha256": "91051ae2ae69eff8012f332708b54ea7659bca94692a3cf5cd64b66bf079404b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v158/0006.jpg",
+      "path": "assets/slides/v158/0006.jpg",
+      "sha256": "cafff669809847209d147cea72a6f40d38d6b2565a667f40753f9cb12ec915ca",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v158/0007.jpg",
+      "path": "assets/slides/v158/0007.jpg",
+      "sha256": "dbcc906ccdbce2f1ab0648bdaeef83d9471391eaa188f03c3f42ac2f52ac6e3f",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v158/0008.jpg",
+      "path": "assets/slides/v158/0008.jpg",
+      "sha256": "60a4ee5c6a784c79ea193096b2ff0f9414d51264b145411af2b2f789a98f8dcb",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v158/0009.jpg",
+      "path": "assets/slides/v158/0009.jpg",
+      "sha256": "ef747ed19e63e6bc489517232e89e4ae86df8229c25c0f9303e3587e298faab6",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v158/0010.jpg",
+      "path": "assets/slides/v158/0010.jpg",
+      "sha256": "77ba47766f80ec65373fe38ddf938f0c2246db84136d9a03a657d3c0b550c6ba",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v158/0011.jpg",
+      "path": "assets/slides/v158/0011.jpg",
+      "sha256": "6052898bebecca8ce39a7d8d26b80778a02dd9b6e85d9ad444088ed6d1d51ad7",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v158/0012.jpg",
+      "path": "assets/slides/v158/0012.jpg",
+      "sha256": "ab99bd60841b22a65061fe213a52f8ded32a1564542c5975966bb6cb466719f2",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v158/0013.jpg",
+      "path": "assets/slides/v158/0013.jpg",
+      "sha256": "d4d0993533375e03c2da394b779098c1347ac80979e5272f3950bb1ac574536d",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v158/0014.jpg",
+      "path": "assets/slides/v158/0014.jpg",
+      "sha256": "f94c05ccd27e57519cf55dd53d0ae252675443f7b7adc6023d9a58c0debe4374",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v158/0015.jpg",
+      "path": "assets/slides/v158/0015.jpg",
+      "sha256": "3615dff28a576bafacfd7a34797e1d4e2f9793cf4459fb64a091d9cea1d4c8f3",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v158/0016.jpg",
+      "path": "assets/slides/v158/0016.jpg",
+      "sha256": "7cdf83ad05173e30e6deb822a3861cb55cfea51ad5238e0a39b7d4ee09d44f66",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v158/0017.jpg",
+      "path": "assets/slides/v158/0017.jpg",
+      "sha256": "2cb1d3be91d2f1d07e8d59b47f42d65cab6499e983871bb5dc20f385b2f72aef",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v158/0018.jpg",
+      "path": "assets/slides/v158/0018.jpg",
+      "sha256": "098262bebfc60db10002fa526143ffdc3a616181eec8116c0a94f2bcd3e318f3",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v158/0019.jpg",
+      "path": "assets/slides/v158/0019.jpg",
+      "sha256": "bfd38a87a7339b48a6e31611aa582f2041a3b04741c5d34f9e4caa710210022e",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v158/0020.jpg",
+      "path": "assets/slides/v158/0020.jpg",
+      "sha256": "353e035af674fc37a95503702d51c88450bfb07c921ccbbdffca61ba22fc2787",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v158/0021.jpg",
+      "path": "assets/slides/v158/0021.jpg",
+      "sha256": "ccdc3c086015139dd05362be65287b3fc4b0b989a7bed26ebc43cda3cf1a328b",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v158/0022.jpg",
+      "path": "assets/slides/v158/0022.jpg",
+      "sha256": "c1844c4d1346ef0ab3ede6bd6e20f0924be89cb4170ac0fa58dfd53c344e295b",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v158/0023.jpg",
+      "path": "assets/slides/v158/0023.jpg",
+      "sha256": "4e2b5ccfacbd83e7c6c37f7526b8bd07c074f9cfbd1714ae69caa01abe0e34ee",
+      "slide_index": 23
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速说一篇论文，Directional Self-Supervised Learning for Heavy Image Augmentation。那这篇论文呢，就是用一个小的 trick，让我们的这个 Self-Supervised Learning 这个学习的过程中呢，更好的应对这个 Heavy Augmented 的这个 Image，也就是被 Augmented 到妈都不认识的那种图像。那么思路呢也是非常简单，我们直接来看，总体来说呢，就是我们随着 Data Augmentation 它的程度的不断加强",
+    "最后呢，加强到一定程度，实在是难以辨认了。那这个时候我们如果还是把这种图像视为原来的图像的话，它会产生一些问题。因为原来在我们的这个 loss 的设计当中呢，所有的这个样本主要它是正样本，它们的 loss 就是对称的，也就是说这些样本拥有相同的发言权，它们共同商议商议出一个中心出来。那么这个中心呢，就是我们聚类的中心但实际上作者认为，对于这种程度的增强的图像，我们最低的底线是可以接受它是我们这一类的图像，但是我们坚决不能向这个方向靠拢。所以本文作者提出了一种非对称的 loss",
+    "其实就是把原来的 loss 看去一半啊，改成非对称的。那么这样子呢，让这些 hard example 这些 heavy augmented 这些 example 向我们的这个聚类中心靠拢，但是呢我们不会向他们靠拢。那这个呢是本文的这个核心的思想。那举个简单的例子对吧，草莓小笼包这个巧克力小笼包对吧",
+    "还有什么巧克力酱意大利面对不对，这些东西我们视之为异端啊，我们的最低的标准是可以接纳他们啊，我们认为他们啊这还算小笼包，这还算意大利面啊，但是呢我们坚决不能让我们的这个聚类的中心像这种玩意儿靠拢。那么下面呢我们就来看具体的实现吧",
+    "那么首先我们拿到原始图像，先进行标准的 data augmentation，这一点呢跟这个标准的 ssl 它的框架是一样的。那么随后呢，我们在这个增强过的这个图像的基础上再对它进行一个强的这个 data augmentation，那得到这一串图像那这些呢我们就称之为异端，它们的 loss 呢我们只计算单向的，就是只让它们的 representation 向我们的聚类中心靠拢，但是呢不会因为这些样本去移动我们的聚类中心。那么在我们的实际框架中你可以看到这样，那假如说我们把上下这个边缘的这两只去掉，这个就是一个标准的 SSL，你就正常做，比如说这里作者用了这个 SimSiam 、SimCLR 还有这个 BYOL 这些东西，你就都正常做也没问题。那现在呢，本文有了这个 Heavy Augmented Image",
+    "那么首先还是再强调这个图像是根据这个 standard augmented image 出来的。那么然后呢，这个计算 loss 的时候我们只是单向的，把这个 representation 向这个 standard augmented 的这个 image 推动，只是单向的这么一个推动，这个呢就是本文的核心的贡献。那么来看到伪代码这里，以这个 SimSiam 为例子，那这里呢这个输入呢不应该是 l 而是这个 v 和这个 v'这个呢是做 heavy data augmentation，然后呢把他们都送到这个 encoder 送到这个 projector 里面，然后看 loss 这个环节。那么首先弱增强的两个样本他们相互靠拢，一个是 z 到这个 y prime，一个是 z prime 到这个 y，这个呢是一个对称的 loss。那随后呢是我们强增强的两个 loss，这个 z hat 和这个 z prime hat 他们呢向着我们标准增强的这个 y 和这个 y prime 靠拢",
+    "那注意这里的对应呢是从它升升它，那么就从它对应回它，那这边呢也是一样的，所以这只是一个单向 loss，就没有反过来的这个环节。那么以上呢就是本文的主要的技术细节，下面直接来看作者汇报的结果。那么作者使用了这个 SimCLR 和这个 BYOL 还有 SimSiam，那 BYOL 和 SimSiam 它都是非对称的一个结构，它中间就有一支是需要停止梯度的",
+    "所以它们很自然的呢就可以形成一个非对称的这个 loss。而对于这个 SimCLR 呢，你记得在给这个 heavy augmented image 计算 loss 的时候，把我们这个标准的这个 augmented 这个 image 它的这个梯度给它停掉就可以了。那这边你可以看到不同的数据集，第一行呢是这个原始的标准的性能。",
+    "那么第二行呢是加了这个 Heavy Augmented 的这个图像之后，SimSiam 呢就开始崩溃了。那么最后呢是用了本文的这个方法性能的提升。那这边有 BYOL 还有这个 SimSiam，根据不同的这个 Data Augmentation 的强度来，可以看到这个 Augmentation 强过某一个程度呢，这个 SimSiam 就直接崩溃了。那么最后呢，这边是这个其他的下游任务，像这个 Segmentation 还有这个 Detection 都有一个提升。那这边呢是不同的 Hyper Parameter。",
+    "那本质上这个 loss 呢可以写成这么一个通用的形式。这边呢是这个 standard augmented image 它的这个对称的 loss。这边呢是 heavy augmented image 它的这个对称的 loss。那这边呢是从这个 heavy 到 standard 它的这个非对称的 loss。那这边反过来嘛，从 standard 到 heavy 它的一个非对称的 loss。这里的评估呢就是去掉这个 heavy 的它的这个对称的 loss，同时呢逐渐减少这个从 heavy 到 standard 的这个权重。",
+    "增大这个从 standard 到 heavy 的这一项权重。可以看到这边性能是逐渐下降的。那这里又有一个 typo，这里应该指的是这个 gamma 这个值。那这边这个图呢更加详细的向我们展示了在这个 heavy data augmentation 的时候，这个 SimSiam 是怎么崩溃的。那包括这边作者不同的配置。那么当然作者的探索并不局限于此，我们来看到这里。这里呢作者尝试了不同的这个 data augmentation 还有计算这个 loss 的方法。那像这种。",
+    "蓝色的这个虚线的箭头呢就是标准 data augmentation。那么这个紫色呢是这个 heavy。这种黑色实心呢是这个对称的 loss。红色呢是非对称的 loss。那本文的方法呢是这种。你可以看到这个 heavy 的图像呢是从 novel 里面在做这个 heavy 做出来的。那对比一下呢，很接近的是这种就是从这个原始图像做 heavy 做出来的一个图像。",
+    "那么还有这种非对称呢指向另外的一个样本啊，这个也是了，跟我们这个本文的实现的最佳结果呢也很接近。那总的来说呢，这是一个简单的 trick，能够改善这个 self-supervised learning 的性能，特别是加入这种强的 data augmentation 之后，让我们的这个 self-supervised learning 的框架呢能够更好的应对这些麻烦的样本。那挺有意思的一个工作，好的，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "7c1ba5bda7781d2e59640455435a96d24764ad20f6dc91c841307a4576a6ce9a"
+}

@@ -1,0 +1,133 @@
+{
+  "video_id": "v198",
+  "title": "Masked Feature Prediction .Self-Supervised Visual Pre-Training[2112.09133]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v198/0001.jpg",
+      "path": "assets/slides/v198/0001.jpg",
+      "sha256": "3ac9ce1be57bca0026fd63a6ae7a293c8a3ddd6baca9b9ba97a2b121117f9137",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v198/0002.jpg",
+      "path": "assets/slides/v198/0002.jpg",
+      "sha256": "a09aeb6e0b63755c596cf399a61de2379da7669b727cb523ed3baf821ecedc1a",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v198/0003.jpg",
+      "path": "assets/slides/v198/0003.jpg",
+      "sha256": "ac2ae0d1c77c448b3361fd87001237aa3c39f6f84e0f07efaecddeb890bae8e5",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v198/0004.jpg",
+      "path": "assets/slides/v198/0004.jpg",
+      "sha256": "395d37b7b7c5ee855b2d9bf0886bd7f2f829d879333a77ac2df91a04c74aaa60",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v198/0005.jpg",
+      "path": "assets/slides/v198/0005.jpg",
+      "sha256": "3ec712795a81a7417ce4024722ea43e3eae44f49cd9e49c0a909bdcac0e02055",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v198/0006.jpg",
+      "path": "assets/slides/v198/0006.jpg",
+      "sha256": "b576ed1586f53e02129136a3b7b020e0eaf83657710a47cfe9d598c8c825c4dd",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v198/0007.jpg",
+      "path": "assets/slides/v198/0007.jpg",
+      "sha256": "2ba585ce73d45427966e0b26a972de8520551ac7c743e1af63e5704077cfbba2",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v198/0008.jpg",
+      "path": "assets/slides/v198/0008.jpg",
+      "sha256": "70ec3516999636cc5dc467a86bdba5612bb92074c2b1d9d76724c68eabfb9c3f",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v198/0009.jpg",
+      "path": "assets/slides/v198/0009.jpg",
+      "sha256": "1d145bc449319353f76f377a726a744a4da2ca922bae447831d53a4993359c36",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v198/0010.jpg",
+      "path": "assets/slides/v198/0010.jpg",
+      "sha256": "a3478d3dba7d12962ba4355287293a1279be85587501c95e453dce28041a1928",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v198/0011.jpg",
+      "path": "assets/slides/v198/0011.jpg",
+      "sha256": "3ee4f296cb5eb42f16371d952db300d0b3af84474cd5b70b0440186d39c237c3",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v198/0012.jpg",
+      "path": "assets/slides/v198/0012.jpg",
+      "sha256": "36ea8b0ca7a608f7d2baaef4306aa16a17a7f4bc1ed6bc2bdb48f594787cd104",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v198/0013.jpg",
+      "path": "assets/slides/v198/0013.jpg",
+      "sha256": "ada87b2af869df33c996904f85ce89001006ec6cd71c786c71cf62b917be9f87",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v198/0014.jpg",
+      "path": "assets/slides/v198/0014.jpg",
+      "sha256": "ce00b5828d02f9653556329ab6bd49923722ff7e027058a10f73af4e01089f0f",
+      "slide_index": 14
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速介绍一篇论文，Masked Feature Prediction for Self-Supervised Visual Pre-Training。那首先我们看这个 Masked Prediction，那就是 BEiT, BERT, MAE 那些东西，但是呢它是这个 Feature Prediction，这就意味着呢我们做的 Prediction 的这个 Supervision 来自的呢并不是说原始的像素，而是我们提的一个 Feature。那更具体来说呢就是这个 Hog 这个梯度直方图，那么下面呢我们就来看作者具体的实现。",
+    "首先呢这是这个 mask feature 啊，对吧？intuition 非常简单，视频进来切成了这个 space time cubes，也就是你想象这个视频它是一个大的 tensor 对吧，你在这个空间尺度上切节道，时间尺度上切节道，就像切这个面包块一样啊，就把它切成一个个小的 cube，然后呢做这个 tokenizationmask 的一部分的这个 token 换成这个 mask token，这么一个专门的一个 learnable 的这么一个 token，然后再加 positional embedding。",
+    "然后呢扔到 transformer 里面做变换就行了。那么正如我们之前所说的，本轮预测的呢并不是原始的像素，而是说这个 target feature，就像这样啊，我们的这个比如说这里最好用的其实是 HOG feature 梯度直方图。那么经过这样一通预测这个 pretraining 之后呢，我们就可以把这个 encoder 拿下来做后面的任务，那么下面呢我们就来看作者具体用了哪些这个 target feature。",
+    "那作者呢试了两大类，的一种呢就是 one stage，就是我们通过简单的计算就可以得到的，另一种呢是 two stage，它呢就比较像知识蒸馏，让我们这个已经训练好的这个网络呢去解一些 feature 出来，然后呢让我们的现在的这个学习的这个网络呢去 match 这个解出来的已经好的这个 feature。那么在这个 one stage 里面呢，我们包括这个原始的这个像素，它呢你用 MSE 就可以做这个误差了。",
+    "它的实现是通过整个数据集的均值和标准差来做 Normalization，它是区别于 MAE，它是相对于每一个 Patch 来做 Normalization 这样一个实现。那么再就是 HogHistogram 对吧，这个是非常经典的，但凡是一个正经的 Computer Vision 的课它都会讲，最早是这篇 Hog 加 SVM 去检测人的对吧，这里有一个不错的手把手的解释。",
+    "这里呢做一个简单的介绍吧，这里拿到一个图像之后呢，首先我们会根据这个它这个每一个像素周边的这个区域计算这个像素位置它的这个梯度它的大小啊，它的这个方向。这里呢这里呢看我们有两张表，一个是梯度的方向，一个是梯度的大小。然后呢我们把这个图像画成一个小格子嘛，那么每一个格子这个区域里呢，我们就得到像这样一个。",
+    "统计的这个表。然后呢在这个小区域当中呢，我们呢开始统计这个直方图，你可以看到它的直方图的 b 呢是根据我们这个梯度它的方向来划分的，那么它里面填的数值呢是我们实际的这个 magnitude。那比如说这个正好落在 80 度的角上，这两个 magnitude 呢就给到这个 80。那比如说这个它落在 0 和 20 之间，因为它是 10 嘛对吧，所以这个 4 拆成两半，一个 2 一个 2 就到这这两边来。",
+    "那同理呢一样的，那么统计完这个区域的这个直方图之后呢，它本身呢就是一个 vector 对吧，你把它 normalize 把它变成一个这个单位向量，它呢就可以作为我们这个预测的这个目标了。那么再回到作者尝试的这些方法当中，作者还试了这个离散的这个 VAE，这个 VAE 本质上呢就是它是讯好了一个这个 8192 的这么一个字典，然后呢你去查每一个 patch 它是属于哪一个字典。",
+    "对吧？还有更多的 deep features，就是 distillation，我们用一些训练好的网络去标记每一个 patch，它到底是什么样的一个 feature，把我们的每一个 patch 送到这样的网络里面，比如说 vit ，更直接了，你直接就 token 直接进 token 里面来，对吧？然后得到 token 或者 patch 它对应了 feature，然后用它来作为 supervision 的来源，那么最后作者还设 pseudo-label，本质上是这里它的这个核心的意思呢，就是说啊，我给这个每一个 patch 都分了一个这个 classification，那么一个 pseudo-label，然后呢，你就用这个 cross entropy 去预测这个 label 就好了，那么经过这么一轮这个五种不同的这个 target 做着试下来呢，发现哎，这个 hog 这个东西啊，他这个出奇的好啊，比如说这里呢，在这个 video 上评价方法呢，也是这个 fine-tuning，你可以看到呢，效果出奇的好",
+    "那么这边呢，有更详细的评测的结果，那么同样呢，不止限于 video，你这个东西呢，本来就可以做在这个图片上，对不对？这里呢，作者也汇报了这个 ImageNet 上面的一些结果，感兴趣的朋友呢，可以到原文仔细查看，此外呢，作者还汇报了很多 ablation，比如说我们这个 mask 应该怎么弄，我们这个 token 应该怎么画，是画成 tube 还是画成 frame 还是画成这个现在这样的 cube，为什么画成这样的 cube 等等，这些东西呢，非常推荐你去原文中查看",
+    "那么以上呢，就是本文这个核心的这个方法，好的，那么以上就是我对这个论文的一个快速的介绍，那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "fb276bcb0bd3e587073eef9ecd6ac84b892dc300db6ee760887d2cacfc174818"
+}

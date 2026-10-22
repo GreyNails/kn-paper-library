@@ -1,0 +1,276 @@
+{
+  "video_id": "v207",
+  "title": "Video Rep. Learning by Recognizing Temporal Transformations[2007.10730]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v207/0001.jpg",
+      "path": "assets/slides/v207/0001.jpg",
+      "sha256": "0fa479aa46954d606cfbd0bf3f24b33ee9a1510ac5e66f454a8f8b4ef24562ed",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v207/0002.jpg",
+      "path": "assets/slides/v207/0002.jpg",
+      "sha256": "1662fcf9a6e537e56c1b878e12abb525433ab61830ab7ed059042c6a2df57f1e",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v207/0003.jpg",
+      "path": "assets/slides/v207/0003.jpg",
+      "sha256": "3af8d1af68131b0959fd78f4ecca8b69a666a912968ce15a7ad9045de8ac84a3",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v207/0004.jpg",
+      "path": "assets/slides/v207/0004.jpg",
+      "sha256": "df9549a4eddb17989efa0f0373024a596ab56bb5b4b19a3e6675e6bf127c2fcb",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v207/0005.jpg",
+      "path": "assets/slides/v207/0005.jpg",
+      "sha256": "7d4236f077b344b467e81a30691f276868942a706a758e69fd97bb9ed494f9f9",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v207/0006.jpg",
+      "path": "assets/slides/v207/0006.jpg",
+      "sha256": "b1ffa859857598fd13f8fe017540b74cc4eab4fd459807c8502ec9620527e25a",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v207/0007.jpg",
+      "path": "assets/slides/v207/0007.jpg",
+      "sha256": "568998ee45b52d6a7d02f67666881b49545e548822637ef59363cad462ad60b9",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v207/0008.jpg",
+      "path": "assets/slides/v207/0008.jpg",
+      "sha256": "506fd28178ccca8f10e1125b94c69d970b496229a7f0e13810a9d9975ba0c49b",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v207/0009.jpg",
+      "path": "assets/slides/v207/0009.jpg",
+      "sha256": "80a1c92674d0ff1050f920b8f181df43253a41693316ec724cccd32eef28f516",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v207/0010.jpg",
+      "path": "assets/slides/v207/0010.jpg",
+      "sha256": "8b59283e7fd2369252128cbc778fc1da95e0b2aa52596d21f5e8605cd58a26ef",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v207/0011.jpg",
+      "path": "assets/slides/v207/0011.jpg",
+      "sha256": "d7248371752f5514aa7ae56a7aa3498093d48a4bb18a2175d2e14215bf70fcb7",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v207/0012.jpg",
+      "path": "assets/slides/v207/0012.jpg",
+      "sha256": "b750e4b4310b064c21aba3ce169687b9a739e8d1f768fff1d91b4a479bbe4895",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v207/0013.jpg",
+      "path": "assets/slides/v207/0013.jpg",
+      "sha256": "c50ef48b13f8024a73f6d54c5f7d15b654e3f2b89d521ca98af27c8d8b5c152a",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v207/0014.jpg",
+      "path": "assets/slides/v207/0014.jpg",
+      "sha256": "14ed4b6a3550fd10dabefe30fa4cd991c26e62ec986a71b1da4f4c55bc3338b0",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v207/0015.jpg",
+      "path": "assets/slides/v207/0015.jpg",
+      "sha256": "fde51cc3a0fa72e59936c0f28dd67d34a31a0435d1164fe47a613376249b31cf",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v207/0016.jpg",
+      "path": "assets/slides/v207/0016.jpg",
+      "sha256": "f5d98380fc9ea8ab1cf94e04395f98ec2de46829719f074a4c22d15e2bf9ed5f",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v207/0017.jpg",
+      "path": "assets/slides/v207/0017.jpg",
+      "sha256": "82746ee58be1c448d5175a9dee2c1cc5418f64288d5dc136124e82bff9a16c69",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v207/0018.jpg",
+      "path": "assets/slides/v207/0018.jpg",
+      "sha256": "94be0ee4a1b58d1b08da2ff9b587e6c69393f795a12200a3f0cb39cc84fc6f35",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v207/0019.jpg",
+      "path": "assets/slides/v207/0019.jpg",
+      "sha256": "51f502efd500a9c6d2539f5b31c8bb64723a2cc2c9ad8c74c6a369601fe51f19",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v207/0020.jpg",
+      "path": "assets/slides/v207/0020.jpg",
+      "sha256": "c8e9fb44eca23379ba653ecb091c4640ca57658158377bd4128d9a8bc556fd54",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v207/0021.jpg",
+      "path": "assets/slides/v207/0021.jpg",
+      "sha256": "96cb6674df16c18168a2ffa3319c60333c7a4953bcc0612c812bd26f76b22af8",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v207/0022.jpg",
+      "path": "assets/slides/v207/0022.jpg",
+      "sha256": "3a146bf9894697fb90989af312c6ef743b9abaace385ba674feb53d2df30b414",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v207/0023.jpg",
+      "path": "assets/slides/v207/0023.jpg",
+      "sha256": "d8fe26dc9684756f6135b9384f5ccd22e023c2a54989663968d2d4a892afe125",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v207/0024.jpg",
+      "path": "assets/slides/v207/0024.jpg",
+      "sha256": "886d90189a07e2cea32806b60a5256e006e7d40ba50a6cfb7462f7b9b17b9d2c",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v207/0025.jpg",
+      "path": "assets/slides/v207/0025.jpg",
+      "sha256": "efa368c2a6287c43dc63440d9d06fc9f8918c69b35786edb5a28f8d043b70a58",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v207/0026.jpg",
+      "path": "assets/slides/v207/0026.jpg",
+      "sha256": "ae760d55b696f74c7af166400162fd20b4bc4af5a7ed5ea60417248a8cca4366",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v207/0027.jpg",
+      "path": "assets/slides/v207/0027.jpg",
+      "sha256": "3caae27228390ebea4123fff58527b77cb854489f389cc566c811e7a704a6e3d",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v207/0028.jpg",
+      "path": "assets/slides/v207/0028.jpg",
+      "sha256": "30b36338a298520bd8e54531ea00a7ff2bc69f22ededa7fe65900dd3d310c807",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v207/0029.jpg",
+      "path": "assets/slides/v207/0029.jpg",
+      "sha256": "1f5abfd9787efd42e8d2799ae23663a9de3856cd03f0f59c0792d8edeb95ec40",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v207/0030.jpg",
+      "path": "assets/slides/v207/0030.jpg",
+      "sha256": "04d6a9f83dc680882e583236288d18069e898eb898dd3ff62014fffe039c4b99",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v207/0031.jpg",
+      "path": "assets/slides/v207/0031.jpg",
+      "sha256": "48d4914ddea94f62be1767532213848c636ebf881eb9b198c37de605f41e7401",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v207/0032.jpg",
+      "path": "assets/slides/v207/0032.jpg",
+      "sha256": "71b327789fdc77c7e4779fab5d0b9941e63f604739ce9ac74729fe21d094da5d",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v207/0033.jpg",
+      "path": "assets/slides/v207/0033.jpg",
+      "sha256": "e4ec3bb8bb6acb2f92efe3732b833db0c9515825c1ad65523699db11e308eeae",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v207/0034.jpg",
+      "path": "assets/slides/v207/0034.jpg",
+      "sha256": "c3a2e4e9bdb2fc74a41ef3e82948f9555456f931a98e17e4f690eae4c6acf498",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v207/0035.jpg",
+      "path": "assets/slides/v207/0035.jpg",
+      "sha256": "5ac7f23ec251ae2ebbf86867bb5735208a150da458edced5c41cbd8588d82f22",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v207/0036.jpg",
+      "path": "assets/slides/v207/0036.jpg",
+      "sha256": "f2e919dc74a5d8136b0e266db5cf723ae07ffa635fa0be12346f125e9590efaa",
+      "slide_index": 36
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Video Representation Learning by Recognizing Temporal Transformations。这篇论文是一个很经典的用时序上的信息各种变换作为我们的辅助任务，帮助我们学到一个好的 Video Representation 这么一个自监督的文章。那么我们直接来看",
+    "那么 video 对于 image 来说，它多的是时间轴上的信息。而在时间轴上做的各种变化可以帮助我们进一步构建不同的下游的辅助任务，帮我们学到一个好的 representation。这里作者提出了四种有意思的 transformation，我们一个个来看。首先就是 speed，就是通过调整视频的播放的速度，怎么调整就是我按照不同的间隔去均匀的在时间轴上采样",
+    "采出我们的这个帧来。这样子呢，我们一帧一帧播放的时候呢，由于他们的这个两帧之间的间隔不一样，所以呢就产生了不同的这个视频速度的这样一个效果啊。这个是最经典的这个 speed。当然还有 random permutation，就是我打乱这个视频的顺序。第三种呢是这个 periodic，就是周期性的。那怎么操作呢？就像这里有一个图啊，我的视频呢先正着放，然后呢再倒着放啊，假如存在一个周期性",
+    "那看到这里呢，就是我先正向放到一定的帧数，然后呢再把这个视频倒着放一下啊。这个是周期性。那第四种呢叫这个 warp，就是在这个时间尺度上的这么一个变形。那这里呢它区别于我们这个 speed 是均匀的在时间轴上采样，那这个 warp 呢就是就是两帧之间跳过一个随机个数的帧。那这样子呢来实现这个视频的播放速度是快是慢啊这样一个效果",
+    "那么这个呢是作者在本文中涉及的探讨的四种这个 temporal transformation。那么下面我们来看这四种 transformation 的这个具体实现。那首先我们四种 transformation 那都编好号对吧，每次呢我们只选一个。然后呢对于这个 speed 来说呢，它有一个速度档位。那么首先我们只看这个变速度的情况下，它这个 01234 呢就变就对应着不同的这个速度的档位。然后呢就是播放速度的区别",
+    "这个就是我采的这个帧的 index 是什么。这个是一个标准的速度变化。第二种是 randomrandom。这里我们注意就是我们既然是随机的交换帧的数量了，这里我们就不再进行对速度的调整了。因为假如说这两个帧本来是按照正常的顺序，你加速一下它可能就顺序就显得不正常了。所以对这种情况我们的速度就设置成没有加速的第三种呢是这个周期性的对吧。这个看起来数学表达式比较复杂啊，其实也很好理解。就是首先它是能兼容加速的，所以你看到它的各种值里面都有这个 2 的这个指数啊等等等等，这个你可以先忽略它。那么它的核心就是我选中一个 S，这个 S 就是我视频播放的最远点，就是我正向播这个视频播播播播到这个 S 这个位置",
+    "OK 停住，然后掉头反向的给它拨拨拨拨回去。那具体来看它产生的这个 index 虽然很复杂，但本质上就是从 0 一直拨拨拨拨到我们的这个 S 这个位置。这个 S 是随机选的嘛，然后再倒回去就可以了。但是在倒回去的过程中呢，我们注意到这里加了一个这个 delta，那么这个 delta 的作用就是我们在下回倒的时候我们使用的帧和我们正放时候使用视频的帧不一定完全的这个匹配。就是比如说你正向播放的时候可能踩的是 135 这样子，那倒向播放的时候踩的是 642 假装的像有一种周期性一样的。那这个呢是这个周期性。那最后呢是这个 Warp 就是变速度的",
+    "这里我们假设速度参数是 0，因为我们没有一个固定的速度来搞它。那么每两帧之间我跳过随机的 0 到 7 帧这样子，一共长度为 16 帧的片段。那么它的播放速度就是随机的。这种操作就是 Warp",
+    "那么有了这上面的操作还有有了不同的这个还有这个不同的速度档位那作者要干什么呢很简单就是我们把我们的 transformation 过后的这个视频整个送到我们这个 3D convolutional networks 里面然后呢我们出来两个 head 那一个 head 叫做一个 motion type 它告诉我们我们对这个视频做了什么样的 transformation 那另一个 head 就是 speed type 它告诉我们假如说我们是做了这个 speed",
+    "或者是这个 periodic 啊他假如说做了这两种的情况下我们实际播放的这个速度是什么样子的那么有了这两个辅助的 loss 呢又可以帮助让我们的这个 encoder 去更好的理解我们在时间轴上做的这一系列的操作那这里呢既然他们每个都有四类那就是一个多分类问题做着用 cross entropy 把这两个 loss 都计算出来直接把这两个 loss 加起来就可以了那这个呢是本文的一个结构",
+    "那这里呢我们快速展示一个结果就是作者先 pretrain 好了然后在这两个数据集上 fine-tuning 那下面呢是不同的这个训练的配置那作者的一个结论就是首先这个 warp 和这个 speed 是能够帮助我们更好地做这个 transfer learning 的",
+    "然后 random 它的 transfer learning 的性能是最差的但是作者还说在训练的过程中 random 其实它的 loss 会很好就是很容易的会区别出 random 这一类来所以可能说就是 random 这个任务它过于简单了或者说相对于其他的 transformation 它过于明显了过于容易了所以它对我们的 encoder 的提升并不是很大",
+    "那么当然既然说到这里我们谈到 self-supervised learning 谈到 random 它的 loss 和它的性能不匹配的问题这也是一个 self-supervised learning 常见的一个问题就是我们不清楚我们的辅助的 loss 或者说 self-supervised 的 loss 我们应该训练到什么样的地步我们应该停止它因为你在实际训练的时候它的 loss 始终是在减减减减减",
+    "它不像你有一个 validation set 当你看到我的性能不再提升了我就可以停了研究什么时候停止其实也是 self-supervised learning 里面很有意思的一个方向那么当然作者还汇报了一些其他的结果因为这篇文章也是有年头了感兴趣的朋友欢迎去原文查看这里介绍这篇文章还是为之后的一篇文章我们做一个小的铺垫那么以上就是我对这个文章的一个快速的整理那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "f0494a1ad671929ee0654b4223e58705fbf8ba6c8a0c7df1febc18603bf90d12"
+}

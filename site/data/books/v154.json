@@ -1,0 +1,278 @@
+{
+  "video_id": "v154",
+  "title": "Broaden Your Views for Self-Supervised Video Learning[2103.16559]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v154/0001.jpg",
+      "path": "assets/slides/v154/0001.jpg",
+      "sha256": "79beae247f3a4039a033cff916364a770d6226cb5cf1f1ebfc0c23562567088f",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v154/0002.jpg",
+      "path": "assets/slides/v154/0002.jpg",
+      "sha256": "f2875eb0c182d0b04b6d22ed759c2a46471a727b0429b03bb1bfe25fcabd89f8",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v154/0003.jpg",
+      "path": "assets/slides/v154/0003.jpg",
+      "sha256": "2f314ab5fc63d6a057ceec5ded5164c31d31598dce38f888088c6763e40009ff",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v154/0004.jpg",
+      "path": "assets/slides/v154/0004.jpg",
+      "sha256": "10e34881a4c2f0acf7d2d1e26f11b934b2a222fb2fa581759f7a6a1b8fc559a0",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v154/0005.jpg",
+      "path": "assets/slides/v154/0005.jpg",
+      "sha256": "b28a122980985124666e6dd81f80b4ff8d409acd70190514cd316c02f8e06718",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v154/0006.jpg",
+      "path": "assets/slides/v154/0006.jpg",
+      "sha256": "2e33e249cd53b3c4ebd91ac7a65f41fafb74acb84739068d1f604158e239bbdd",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v154/0007.jpg",
+      "path": "assets/slides/v154/0007.jpg",
+      "sha256": "da420ddcd4f054afa3d5bda14137d350af64f4a891aaf915e7d5838814fcd358",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v154/0008.jpg",
+      "path": "assets/slides/v154/0008.jpg",
+      "sha256": "5bfaeeedd8a6e60b2743c165c9bd2d8f4d6457ef19bbf96dbf7569c51ca88b25",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v154/0009.jpg",
+      "path": "assets/slides/v154/0009.jpg",
+      "sha256": "e258dbec257dd97f99af174b2cfbe281a6afb948da06d66d3820ac56ed5aed1e",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v154/0010.jpg",
+      "path": "assets/slides/v154/0010.jpg",
+      "sha256": "adc62949f49d0e2b3053cbec213bc6d1c67313a33b77c04857f82bb61dc5bf21",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v154/0011.jpg",
+      "path": "assets/slides/v154/0011.jpg",
+      "sha256": "b14db11bbe853ad74d28ffa4d84e84df53c280b455a1b7df2ed51bdb863255a7",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v154/0012.jpg",
+      "path": "assets/slides/v154/0012.jpg",
+      "sha256": "42c1946106e717c1953af3f7daa7b3e0bf962c1a553bde151c0e1e483c72d7c6",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v154/0013.jpg",
+      "path": "assets/slides/v154/0013.jpg",
+      "sha256": "6ca581279f591860a816f51b11ad6cfb87e8b813cb0f963ecb56040212983868",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v154/0014.jpg",
+      "path": "assets/slides/v154/0014.jpg",
+      "sha256": "d3dc2d5250a61f55333a962ec9c0e2e9eba7777efe11b62ccf994f7ac2e579cd",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v154/0015.jpg",
+      "path": "assets/slides/v154/0015.jpg",
+      "sha256": "f74bfd72b46a939bd9f7845043b325dc38353147fba0a39e25281b80126bce56",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v154/0016.jpg",
+      "path": "assets/slides/v154/0016.jpg",
+      "sha256": "2f5c48c18d15be5ca6cb91d68adf94a8188e903ab1286e05c0c03a112c2d23e3",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v154/0017.jpg",
+      "path": "assets/slides/v154/0017.jpg",
+      "sha256": "71a65d8402c1bab9f3a45d84b1325079c5e7dbd7fb8d9c966c659d730c25e8b5",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v154/0018.jpg",
+      "path": "assets/slides/v154/0018.jpg",
+      "sha256": "3621ea650f4c72a081f4bca0f2e64d8e2589e2a770e217f2cd1a5dbd1deab528",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v154/0019.jpg",
+      "path": "assets/slides/v154/0019.jpg",
+      "sha256": "de77f4be69a830a02408875683ef7a21a606164ccbd828705f1dc9da9e361e82",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v154/0020.jpg",
+      "path": "assets/slides/v154/0020.jpg",
+      "sha256": "27e17c115e47b000feb8a380f9aad53fc0c0f58371f874ef1cc89a0c43abef7a",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v154/0021.jpg",
+      "path": "assets/slides/v154/0021.jpg",
+      "sha256": "c0f3ac0ead090bb821b935ad46b7f55a843213ca5572ee3d7830944876fb5f73",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v154/0022.jpg",
+      "path": "assets/slides/v154/0022.jpg",
+      "sha256": "898e08333f4e5a4bd649ad7f7d7d2a79b643bb94bc7b1e9a3dd8ac3793745473",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v154/0023.jpg",
+      "path": "assets/slides/v154/0023.jpg",
+      "sha256": "bc10e22e706e7cbf7f39f775e79fa88472d2f8bf57da13cf9b410eec89023cb6",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v154/0024.jpg",
+      "path": "assets/slides/v154/0024.jpg",
+      "sha256": "3b01dd171464e447a6b247dd7d320ccc0ee51ef8f64e6d5c6b5e8eaa202eea16",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v154/0025.jpg",
+      "path": "assets/slides/v154/0025.jpg",
+      "sha256": "bd88126ee227ab46ea3d0f98b36157810dde656374c45052f47b5fb293a3628e",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v154/0026.jpg",
+      "path": "assets/slides/v154/0026.jpg",
+      "sha256": "a68d7e03861d4528c5748b41e4271ea4f9063191c10651c808afe6c1b7f47739",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v154/0027.jpg",
+      "path": "assets/slides/v154/0027.jpg",
+      "sha256": "ffe6f1dc62f6036fab566fc6e852c013c1f128e78ca5939e4c27dc1f0c1e1216",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v154/0028.jpg",
+      "path": "assets/slides/v154/0028.jpg",
+      "sha256": "d67b1d2fecf7addbab4179e417c2fd7ec3b520c837ac487c61b9ad4f512752b3",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v154/0029.jpg",
+      "path": "assets/slides/v154/0029.jpg",
+      "sha256": "e766d52ff432990e3b81ba571ba8b013278abd8900d25e1b44d32dc8a5432fe6",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v154/0030.jpg",
+      "path": "assets/slides/v154/0030.jpg",
+      "sha256": "3ada09cb09b7c73601ef79b9ef075c4bb00e4f1e866d85049ddb7e41b5655cdd",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v154/0031.jpg",
+      "path": "assets/slides/v154/0031.jpg",
+      "sha256": "cfeacd0b8328f393362fc0b15e13108f321d22fabae65d4d5529441c07d71226",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v154/0032.jpg",
+      "path": "assets/slides/v154/0032.jpg",
+      "sha256": "232b15e5c781bc6389855969f11ac9b97cf6f87cb84b7f3f27603c3344b97a23",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v154/0033.jpg",
+      "path": "assets/slides/v154/0033.jpg",
+      "sha256": "c6ab6dab0938e1bfd60d37f2bd8eae4b0d19a55077b3e0a8a0fa32af2abf8cd5",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v154/0034.jpg",
+      "path": "assets/slides/v154/0034.jpg",
+      "sha256": "ee0c670af7cd570608d1b7939a8f91b6e955708088d771b8fb05d205515c7304",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v154/0035.jpg",
+      "path": "assets/slides/v154/0035.jpg",
+      "sha256": "1b8d2de4a488f9c912727712b794fbc12163efe0d65af3aae88f7a07936aa7d4",
+      "slide_index": 35
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速说一篇论文，Broaden your views for self-supervised video learning。这篇呢估计是今年投 CVPR 的，原理呢也是非常简单，标题呢你也看到了，那么直接来到他的这个介绍。那我们之前介绍过这个 videomoco，那 videomoco 的核心呢是通过训练一个 frame dropper。",
+    "它有选择性的把视频中的一些帧去剔除,通过这种方式来构建一个新的 view。在本文提出这个 BraVe 的中,作者提出的是使用这个 narrow view,配合这个 broad view,甚至是 multi-modality 的这个 broad view,来做我们的 contrast learning。那么首先我们先了解一个概念,什么是 narrow view,什么是 broad view。这里作者说我们的一个视频中,我切出非常短的一个时间的 clip,它形成一个 narrow view。",
+    "那如果找到一个时间比较长的 clip，它呢叫做 broad view。那么这里呢很自然的我们就可以假设，因为这个 narrow view 和 broad view 都是来自于同一个视频的，所以呢他们应该具有一定的 evidence，他们有一定的 consistency。所以呢他们可以被用来监督这个 contrastive learning。那这个呢是本文最核心的这个思想。那么当然了，因为这是 video 嘛，你可以把它拓展到这个 multimodality 上面。那么我们继续来看作者的实现啊。",
+    "这里呢我们左边有这个 narrow view，右边呢有不同 modality 的这个 broad views。那还是他们有各自的 backbone，这里的 fnn 代表 narrow 嘛，给它提出一个 representation 出来。这里的 fb 呢就是 broad view。那右上角呢表示不同的 broad view，它可能来自不同的 modality，它也可能来自不同的 clips。这个呢我们在后面的配置中呢会看到。那我们的视频经过这个 encoder 提出 representation，来过这个 projector，过这个 predictor。那之后呢我们就可以做这个 contrastive loss。这个 contrastive loss 其实非常简单，就是用的 BYOL。",
+    "里面的这个 vector normalized 之后，然后做了这个 MSE 或者你可以说它是一种 cosine similarity。那这边呢同样的像 BYOL 一样，我可以预测从 narrow 到 broad，也可以预测从 broad 到 narrow。那么这样两个 loss 呢，它两个这个网络结构是不对称的，但是呢我们的这个输入是可以相互对称的。那这里呢注意到我们这个 G。",
+    "那这里呢我们需要注意的这个 projector 和这个 predictor，它呢是在所有的网络中所有的 modality 当中都是通用的，共用一套参数的。那这边呢不论是我们的 broad view 的不同的 modality，还是呢我们的这个 narrow view，它的这个 encoder 呢都是各自不同的。那这种配置呢是 empirically 作者经过实验说这个这种配置呢效果是最好的。",
+    "那回到这边这个 loss 我们来看到说对于一个 narrow view 对于一个 broad view 来说他们这个 BYOL 式的这个 losssg 表示这个 stop gradient 对吧只传递一支梯度这个呢是非常好理解那你当然可以很轻松的把它拓展到很多个这个 broad views 这里呢 narrow view 始终只有一个啊但是 broad views 你拓展很多个比如说你一个视频里面截取不同的这个视频的片段截很多次对吧但是你每次做呢还是一样做，那包括你甚至有不同的 modality 对吧，你用不同的 modality 呢提出 feature 来，一样的还是只跟这一个这个 narrow view 来做比对。那么当然他们这个位置是可以互换的嘛对吧，这个我们之前说过，你有从 narrow 到 broad，从 broad 到 narrow 嘛。这里只是举个例子。那现在假如说你有一个 narrow view 和很多 broad views，那怎么处理一个 loss 呢，非常简单。",
+    "假如说你有 Keg 这样的 Broadviews 直接求个平均那么这个就是最终 loss 所以你看这篇文章它的思路非常简单都是现有的技术自然而然发展成就像现在这个样子就是过去的技术堆堆堆实际到了自然会有这么一篇文章它像一个实验报告这样一个形式把我们的一些感兴趣的可能的组合给我们尝试了出来那么下面我们来看一些实验的细节最后我们就可以看到作者汇报的结果",
+    "首先是采样的过程对于这些 broad views 它像素取得比较低但是它的时间比较长一般比如说 10 秒这样子因为时间比较长如果你采样的时候视频达不到这个长度你把这个视频循环一遍把前面的几帧填上就可以了这个是 broad views 的产生 narrow views 就相对讲究一点它要首先使用 higher resolution 的 clip 同时因为它这个 clip 比较短也就 1.3 秒",
+    "所以你可以在整个视频中不需要 padding 的就直接切出这么一段来作为我们的 narrow views 这个是作者在 sample 上能设计的一个区别至于 Augmentation 由于所有 Visual 的 Augmentation 这种都是常规操作了如果 Visual 是 RGB 的话我们可以再加各种模糊对吧尺度还有颜色的抖动等等包括 Random Convolutions 之前我们也介绍过了就是用一层随机的 Convolution 来给它增强一下同时 Convolution 的 kernel 的尺寸也是不同的作者也研究了而关于 Audio",
+    "他呢你这个 narrow 从哪里开始他就从哪里开始但是如果长度不够的话呢他就跟 broad 一样我拿前面的来给他填充进来就可以了那么现在既然这个框架好了我们就来看作者研究了哪些东西吧首先呢是这个 syncing 他的意思呢就是说我们的这个 narrow 和 broad 他们都从一个时间点开始出发你看到呢如果他们 sync 的之后呢他们性能的下降呢是非常明显的哎为什么会这样呢",
+    "作者说这不意外你想如果 narrow 和 broad sync 之后对于 narrow 来说它就只是单纯的做一个 prediction 那所有的任务都是做 prediction 而从这个 broad 到 narrow 更简单了你只把前面的几帧留下后面几帧都不要就可以了所以这里说这个 syncing 是很不必要的不要用那么再往下我们来看到这个 broad views 其实也就是这个 narrow views 和 broad views 它们相对时间长短的这么一些调整",
+    "坐这试了各种发现这个 1.3 这个 10 秒这个组合不错啊那就这么着吧那再往下呢这个 visual transformation for broadviews 那本质上来说呢就是我的这个 broadviews 我该用怎么样的这个 augmentation 呢或者说我应该选用什么样的这个 visual 的这个 modality 呢那可以看到呢光流这个效果呢是大部分情况下都 ok 的在这 kinetics 上呢原始的像素呢效果是最好的",
+    "那么再往下的 number of broad views、broad views 很多个能不能为我们带来提升呢？啊答案是可以的，虽然不多，但是可以的。那最后呢，包括这个 weight sharing，就是我们之前强调的这个 broad view 的和 narrow view，他们的 backbone 是不一样，而他们的 projector 和这个 predictor，他们的 backbone 是一样的。那为什么这么设计呢？你看到作者这些都试过了啊，发现这种效果最好。这时候有朋友说了，哎哎，你停一停。",
+    "你这个下面这一组啊，他的这个情况都更好吗？对吧？你把这个 backbone share 了，这性能不也挺好的吗？啊，说的都很有道理。但是假如说你处理的是两个 modality，一个是图像，一个是音频，你这个怎么 share 呢？对吧？所以呢，最实际的方法还是这个 share projector 和这个 predictor。那么最后呢，就是作者汇报一些主要的结果了。感兴趣的朋友呢，自己呢可以到原文中查一下。",
+    "本质上就是作者秀了一下自己的算力，给我们的网络的设计方法呢提供一个参考。这边呢还有这个关于 audio 的这些东西。好的，那么以上就是我对这个论文的简单的一个介绍。感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "de5399e152544ebf8e6f3ad373e4289919d86cfcc70671a62904b39b0ebeedf7"
+}

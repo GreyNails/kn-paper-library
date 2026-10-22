@@ -1,0 +1,131 @@
+{
+  "video_id": "v081",
+  "title": "When Shift Operation Meets Vision Transformer[2201.10801]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v081/0001.jpg",
+      "path": "assets/slides/v081/0001.jpg",
+      "sha256": "59a3ba24eff2a6d4b80508a11871307cff93e361d9e96abfde64d95862a394e4",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v081/0002.jpg",
+      "path": "assets/slides/v081/0002.jpg",
+      "sha256": "7e1a7e69a62849a418c79ec92abcf0ce1f5e3af8bfe9eb37b5b94c3cbdf206a3",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v081/0003.jpg",
+      "path": "assets/slides/v081/0003.jpg",
+      "sha256": "414fa8d6d00af009a5b8c75924524ac5218f46207a36254e9bfa5207d7b3c8a6",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v081/0004.jpg",
+      "path": "assets/slides/v081/0004.jpg",
+      "sha256": "96805f20a3ecfe1484ce228ca225251b657e6a082f06eda26176037ec49cfa2d",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v081/0005.jpg",
+      "path": "assets/slides/v081/0005.jpg",
+      "sha256": "99ce72ea140d755b349630de86742f07df652b865f33975637cc4971aa1be86d",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v081/0006.jpg",
+      "path": "assets/slides/v081/0006.jpg",
+      "sha256": "7508ebf9efdddc95c184d06def61df2f23e248f4eebb61e58a7791c69b0762c2",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v081/0007.jpg",
+      "path": "assets/slides/v081/0007.jpg",
+      "sha256": "392d5b261eb20e78ad1853aafc72d9b11286c33c9f89b844b994ed3adc367652",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v081/0008.jpg",
+      "path": "assets/slides/v081/0008.jpg",
+      "sha256": "800157484887c830167e6ecfc1db66628bc4717cd8de7d56b97f7ea550969097",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v081/0009.jpg",
+      "path": "assets/slides/v081/0009.jpg",
+      "sha256": "56276365fc0de65ef616122306f8cda880ad13ec8b02ffebf10c8fcaa26d7344",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v081/0010.jpg",
+      "path": "assets/slides/v081/0010.jpg",
+      "sha256": "1ca1022b7ba582f0d918fd349cf4d7efa552fb5c9c61ca739b310673aa86a979",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v081/0011.jpg",
+      "path": "assets/slides/v081/0011.jpg",
+      "sha256": "862070f3aea22821fd164b0bfe42d6c3b913f7eeb86044059bdab5406c6a061b",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v081/0012.jpg",
+      "path": "assets/slides/v081/0012.jpg",
+      "sha256": "58daed2767dd95e80511753f6d0404148550329e47c7bbb99b9d34582e3cc595",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v081/0013.jpg",
+      "path": "assets/slides/v081/0013.jpg",
+      "sha256": "22747b06d11885118b95ce233cba62402424ec6d43cb8236120537bb2360038f",
+      "slide_index": 13
+    }
+  ],
+  "paragraphs": [
+    "大家好今天我们来快速说一篇论文 When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism 我们知道这个 transformer 它无非就两部分一部分这个 attention 另一部分呢是这个 MLP 那在本文中呢作者说这个 attention 其实是不需要的我直接用一个 shift 就是直接去挪动这个 tensor 用它来替代这个 attention mechanism 这样子它实现起来非常高效",
+    "同时呢也没有什么需要学习的参数啊这个就是本文的核心的思想那么下面呢我们就来看具体的做人实现首先那么全文的一个结构呢本文呢就是直接沿用了这个 Swin Transformer 这个我们之前也介绍过那么一张图像进来高度和宽度对吧它是三通道图像",
+    "首先呢打成这个 patch 每个 patch 呢是 4x4 的像素那这样三层道一共是 48 个像素 linear embedding 进来把它投成长度为 C 的这么一个 channel 然后这里呢区别于这个 Swin Transformer 的这个 block 这里呢作者直接使用了这个 shift block 用一串 shift block 给它叠起来那么随后我们具体讲这个 shift block 那叠完之后呢这边是 H 除以 4 这个 W 除以 4 乘以 C 这么一个 tensor 对吧那像 Swin Transformer 一样我们在两个 stage 之间我们需要把这个 patch 的尺寸变大深度变大 patch 的这个数量减少那怎么做呢 patch merging 其实就是一个 2 乘 2 的这么一个卷积把这个原来的 C 的 channel 变成 2C 的 channel 同时呢 patch 的数量每个边可减少一半",
+    "那同样的呢这边也是过这个 shift block 一次不断的重复不断重复最后呢还是提出 feature 来你后面做你想做的下游任务就可以了这个呢是本文作者提出的这个 shift vit 那么下面呢我们就具体来看这个 shift block 里面有什么了作者提出这个 shift block 只为做三件事公平公平还是走错了这个 shift operation layer normalization 和这个 MLP 啊这个就是一个 shift block 的这个结构那对比来看你如果跟正常的 attention transformer 来比较的话对吧还是就是整个这个 attention 加这个 skip connection 被替换成了这个 shift operation 那下面就有朋友问了这个 shift operation 是什么呢非常简单我这一个大的 tensor 我在这个 channel 这个尺度上我去切出四片来这个片呢它是有一定的厚度的不一定是只有厚度为一的",
+    "有的片向左有的片向右有的片向上有的片向下各移一个像素齐活结束了这个深得汉岳府精髓同时这个画的图呢也很到位只不过 channel 这个方向呢给它标反了按照作者的这个代码的顺序呢应该是先从最低的这个 channel 开始算的不过完全不影响你都明白这个意思那么剩下的这个灰色部分呢就保持不变了这个呢就是本文的这个 shift block非常简单那至于像里面这个 MLP 呢就是两层的这个 MLP 第一层是从 C 扩展到倍数倍的 C 第二层呢是把这个倍数倍的 C 再压缩回这个 C 那同时呢中间是这个 GELU 这个激活函数它比 ReLU 要好一点那么还是正如作者所说的这种 shift 你完全没有需要学习的参数而且计算起来非常高效那这个意味着呢在同等的算力的要求下同等的参数量的要求下",
+    "你就可以叠更多层的这个 block 在每一个这个 stage 里，那么在此基础上呢，作者提出了三种不同尺寸的这个 shift vit 对吧？具体的参数在这里，像这个 ni 呢，就是每个 stage 它的这个 block 的数量啊，这个感兴趣的朋友可以仔细看一下。这个 gamma 呢，就是这里就是这一片这个 channel 的数量占整个 channel 数量的这个比例，然后呢，每次呢都是切四片。",
+    "结束了这个就是本文的这个实现，那么下面我们来看作者汇报的一些结果吧。首先呢，就是在各个程度上跟这个 Swin Transformer 的一个对比，我们把这个 attention 替换成了这个 shift 之后呢，它的这个准确率肯定是有下降，但是呢依然比 resnet 要好，同时呢参数量大减，速度飞快。那么当你再根据这个 Swin 的这个 baseline 把它这个参数量把它这个需要的这个运算给它补回来之后呢，那作者发现在这种小尺度的模型下，",
+    "性能呢有一定的提升，同时呢在这个相对大尺度的一些情况下啊，我觉得结果是 comparable 的，这是一个很有意思的一个结论，而且是不同的下游任务啊，图像的分类啊，检测啊等等。那最后一个快速的 ablation，比如说我每次该 shift 多大比例的像素呢？有的测试了 20%25%33%看起来是一个不错的数值啊，所以呢每次只 shift 三分之一的深度的这个 tensor。",
+    "然后作者还试了说每次 shift 多大对吧？如果完全不 shiftshift 一个像素就是默认的一个配置，shift 两个像素这是它的区别。那么最后还有一些我们在训练 Vision Transformer 的时候才使用的一些训练的一些方式，这些改进作者做了一些 ablation。所以总来说，这篇文章的 idea 真的不复杂，包括 shift 这种操作之前有很多论文提出了各种各样的方法。",
+    "其实大家都有很多的选择了，但是呢让人惊叹的是对吧？抹去了这个 attention 对吧？依然能够取得不错的结果，像之前有人说的这个 patches are all you need 对吧？还有这个 MLP-Mixer 这种东西的工作在一起了，连起来看呢就很有趣。那希望我们在未来能够进一步揭示说 Vision Transformer 它成功在哪，到底是哪个部分在发挥作用。",
+    "好的，那么以上就是我非常快速的一个对这个论文的一个介绍，本身一个很简单的论文，感谢你的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2abb189eddbbc0db4c726c6b5ae1c4dff2f9c8a2abc58842d85164c16cff0b26"
+}

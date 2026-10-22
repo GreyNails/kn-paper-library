@@ -1,0 +1,131 @@
+{
+  "video_id": "v191",
+  "title": "Data-Efficient Image Recog with Contrastive Predictive Coding[1905.09272]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v191/0001.jpg",
+      "path": "assets/slides/v191/0001.jpg",
+      "sha256": "076fc7d0538882ed7b401a18f1278022ba2fb32245c01973ff22e3e1ca645fac",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v191/0002.jpg",
+      "path": "assets/slides/v191/0002.jpg",
+      "sha256": "e063f78c095c93ac06da9c946b516731158b4f581552db729e3675e9aff06614",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v191/0003.jpg",
+      "path": "assets/slides/v191/0003.jpg",
+      "sha256": "1c55b4fcd91f74d0507235b4056e12d1bb593710e7c3a96f87ca974612a944c1",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v191/0004.jpg",
+      "path": "assets/slides/v191/0004.jpg",
+      "sha256": "90867ea267e22ef8a0aeefe5b2963e91900c50f8b282af95b40f98ed58463dbd",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v191/0005.jpg",
+      "path": "assets/slides/v191/0005.jpg",
+      "sha256": "cc608d365b204088be39ade09257475ed3e1b9d610891639726b3c90c2838b85",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v191/0006.jpg",
+      "path": "assets/slides/v191/0006.jpg",
+      "sha256": "1915e13a61700e6de531cd76de51cba4ad76a733fd758347d06ebc01131ff87e",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v191/0007.jpg",
+      "path": "assets/slides/v191/0007.jpg",
+      "sha256": "4327211caf44cb04b61a2850bfcde120bdf6838d00d3e32fe6e2ed63de63a21c",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v191/0008.jpg",
+      "path": "assets/slides/v191/0008.jpg",
+      "sha256": "ab9f26bbb86f43d2ec4df4d810172aa87d89303d15abc0a2c92ee5be95c6b362",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v191/0009.jpg",
+      "path": "assets/slides/v191/0009.jpg",
+      "sha256": "7c1fec30f5e50ee7c6f8dc61171b95ecd3393df47ae8ab1fdfd9aef90634bed7",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v191/0010.jpg",
+      "path": "assets/slides/v191/0010.jpg",
+      "sha256": "f9058bd059f42732b1e711928091f8dcfa76acf01f24f2693b5c6e5e24bc9abb",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v191/0011.jpg",
+      "path": "assets/slides/v191/0011.jpg",
+      "sha256": "8484e44a85fe1f77418a41cf6064e82df5f476b91cfd55039af202c7deb0ead0",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v191/0012.jpg",
+      "path": "assets/slides/v191/0012.jpg",
+      "sha256": "932084676f4592acba3f718753314fa4dc3fb52d12101c202e6b9ab8e97c1046",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v191/0013.jpg",
+      "path": "assets/slides/v191/0013.jpg",
+      "sha256": "34b88440de0cf7c23e4892c7e3cc59312133ae996bbd60d2bcc9562b19197ee1",
+      "slide_index": 13
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Data-Efficient Image Recognition with Contrastive Predictive Coding 这篇论文是我们之前的 CPC 的延续,现在叫它 CPCv2 它主打的就是 Data Efficient,原来有更高的数据利用的效率那么如果你不了解这个 CPC 也就是 InfoNCE 的这个提出的这个文章非常建议呢你先去看我们之前的一个视频包括它里面的一些数学的推导那么链接呢在我们的视频的简介里面那么我们来看看在这个版本作者给我们提供了哪些改进吧首先一个快速的回顾啊我们的 CPC 是干什么的这个原始的信息扔到一个 Encoder 里面然后呢再过一个有记忆的比如说 LSTM 这样的网络里面",
+    "然后我们就可以对未来的信息来进行预测那么 CPC 的目标就是要提升我中间的 hidden state 和我们原始的信息的 mutual information 这样子就得到一个更好的 representation 那么在这篇论文里我们主要的关心就是视觉上的改进那么这个时候有朋友就会问了一张图像就一张图像嘛对吧怎么会对未来做的预测呢",
+    "那么这个当然也是可以的只要思想不滑坡办法总比困难多嘛那么我们来看到这里那么同第一个版本的 cpc 一样呢这里呢我们把单张图像呢还是拆成一个个小的这个 patch 然后当我想预测某一个 patch 的时候呢我就用顶上的一些 patch 对它呢来进行一个预测它的主干的网络呢是一个 resnet",
+    "它把我们原来的 256x256 的图像变成了 7x7 个 patch 每个 patch 是用 4096 的这样一个长度的 vector 来描述的就是这个图像里面白色的小长棍比如说我以这个 patch 为例我要预测它未来的几个 patch 这里所谓的未来目前指的是这个 patch 下面的几个 patch 我要对未来产生预测这个时候呢我们就可以利用这个 patch 上面的若干的这个 patch 然后呢对下面来产生预测而使用的 loss 呢是我们后面在 contrastive learning 里面非常常用的这个 InfoNCE 那它的原理呢就是和这个 positive samples 也就是我们的 ground truth 尽量的相似和其他的这些 sample 就是图像中随便其他位置踩的 sample 这个 negative samples 尽量的远离",
+    "那么这种配置相对于 MSE 呢有诸多的优势已经逐渐成为我们做这种 prediction 还有做 reconstruction 这种比较好的选择那么这个呢就是我们如何把 CPC、InfoNCE 应用到我们图像的里面让它去学一个好的 representation 那么学好这个 representation 学好这个 encoder 之后呢我们可以看到作者的这些评估的方法这些都是评价这个 representation learning 的一个很标准的方法了加一个 linear layer 然后 fine-tune 还有 transfer learning 等等这里提一下因为他做的这个图是真的不错方便你直观的了解我们是怎么样评价这些 self-supervised learning 的这些方法当然还有这些 supervised 方法那么下面我们来看到这个版本的 cpc 相对于之前作者给我们带来的哪些改进首先我们看到这里主要有 5 条改进",
+    "那么面对的这些改进呢我们的模型的性能呢也是从一开始的版本呢逐渐提升首先第一个呢是使用了更强力的模型原来是只有 ResNet 中三个 block 嘛现在用了更多的 block 然后呢它的网络的宽度呢也变大了那么这个呢是 MC 很直观的一个提升那么然后呢是使用了这个更大的这个 patch原来是 64x64 的 patch 现在变成了 80x80 这样子一个 patch 里面包含的信息就更多了它是 LP 可以看到它这里带来一定提升那么第三个是使用 layer normalization 替代 batch normalization 那么这里作者认为说 batch normalization 因为它是一个 batch 里面的信息有相互的交互可能会让我们 CPC loss 变得更容易了",
+    "所以这里只做这个 layer normalization 就消除掉这个影响那么可以看到这个 ln 这里它在这儿性能的一个提升那么第四个是更多的预测任务那么之前我们的预测是根据上方的 patch 来预测下面未来几个 patch 当然我完全可以根据下方的 patch 来预测上面同时根据左边的 patch 来预测右边根据右边来预测左边对吧这样增加了更多的任务我们的网络就变得更强可以看到 bottom up 还有 horizontal spatial predictions 这里都会带来我们性能的提升那么最后是 patch level 的 data augmentation 我们在每一个 patch 上加 data augmentation 让我们的 encoder 不要 overfit",
+    "这个也是一个很常规的操作这里包括 random color dropping 还有 further patch based augmentation 感兴趣的朋友你可以去查看他论文的实现那么下面来看到作者汇报的一些主要结果",
+    "这个 linear classification 还有这个 semi-supervised learning 主要是这个数据的效率在这个有标记的样本数量比较少的情况下呢依然能够取得不错的性能那么总的来说呢本门更倾向于一种工程上的改进那么当然最主要的 take away 呢就是你在做未来的预测啊然后做各种 regression 的时候呢未必一定要用 MSE 这种 loss 你可以完全可以尝试一下用这个 contrastive loss那么如果您想快速的查找过去我们总结整理过的这些论文还有呢对我们未来想要谈的这个论文有什么好的提议呢我们最近新开一个公共编辑的文档在我动态的这个置顶那感兴趣的朋友呢可以去看一看那么以上就是我对这个论文的一个快速的介绍感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "5d2111d0ea82e4bb414e6d4e1a58b3e87188af2e345a328119471f5b2db91514"
+}

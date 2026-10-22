@@ -1,0 +1,283 @@
+{
+  "video_id": "v022",
+  "title": "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling",
+  "frames": [
+    {
+      "src": "../../assets/slides/v022/0001.jpg",
+      "path": "assets/slides/v022/0001.jpg",
+      "sha256": "3a328b9cb4d7db016cbdc3f15c5033dc8fce079fd73b3087f82269740213c42a",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v022/0002.jpg",
+      "path": "assets/slides/v022/0002.jpg",
+      "sha256": "096f14ba58a5e3756141b562424c8411f848d4f47fb9efc3e86b6eec8b21fda0",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v022/0003.jpg",
+      "path": "assets/slides/v022/0003.jpg",
+      "sha256": "90fdab8c8fea316b2bfe6712b9f9aa26e314fa21509e4ab0e50b1484928a3d43",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v022/0004.jpg",
+      "path": "assets/slides/v022/0004.jpg",
+      "sha256": "5b2ee0f181330d317d50318d9e673c4f24b23e8f2a5c3d0a4d8bb8195c2a7ff9",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v022/0005.jpg",
+      "path": "assets/slides/v022/0005.jpg",
+      "sha256": "e1ec239613ddcbfdc49779fd8e1dc7d6560ae6d4130765d2388f03f26b8e7df1",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v022/0006.jpg",
+      "path": "assets/slides/v022/0006.jpg",
+      "sha256": "81cf0e81ce53b1d4e13ef469ba99de3131081a72368cb312531986d5a74b22c6",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v022/0007.jpg",
+      "path": "assets/slides/v022/0007.jpg",
+      "sha256": "65ec2226448ea78094887148dad9012e5a89a9366b6aefe8a6bb181e1607920c",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v022/0008.jpg",
+      "path": "assets/slides/v022/0008.jpg",
+      "sha256": "4d98fa191edb059df5cef4d8182c35742e6b2cef30956b9f98c50f2baf64fb80",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v022/0009.jpg",
+      "path": "assets/slides/v022/0009.jpg",
+      "sha256": "91ad54af451f63081c7e7244e37fc28f95378f2485a51acf5dd7e404e2139217",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v022/0010.jpg",
+      "path": "assets/slides/v022/0010.jpg",
+      "sha256": "f2c10e1af10e815fd48062f50e3056c555cc5b261b2f6ba213d82fead4e26868",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v022/0011.jpg",
+      "path": "assets/slides/v022/0011.jpg",
+      "sha256": "a73c090a585077665289c21bb15ab12333e76323e18dc17f44773f02b80a8451",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v022/0012.jpg",
+      "path": "assets/slides/v022/0012.jpg",
+      "sha256": "1cd3c927fa2e0a5de81c015cd5a1c4788131c45077769edde39848c11918d717",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v022/0013.jpg",
+      "path": "assets/slides/v022/0013.jpg",
+      "sha256": "1879127b9c334ba7679462099e1de42fe6e94daa4c319a282094dbef3395b444",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v022/0014.jpg",
+      "path": "assets/slides/v022/0014.jpg",
+      "sha256": "c491a8fe473bdeb367babdb6de83bfeddaaee1ea25c872873e510c9adb98a74a",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v022/0015.jpg",
+      "path": "assets/slides/v022/0015.jpg",
+      "sha256": "9ac3f1181a9564818911a6d3341d4a582742986b2c528cd5329629180be6681b",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v022/0016.jpg",
+      "path": "assets/slides/v022/0016.jpg",
+      "sha256": "2194e499a57e5ba3eea916e842b4cf68a416edd8354f6af8df4e0b62f29e30f8",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v022/0017.jpg",
+      "path": "assets/slides/v022/0017.jpg",
+      "sha256": "5c81d6bb2ea0ceff5e1ba3508f223f0cc6451ad058ecb9eb50f8ab006de0001e",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v022/0018.jpg",
+      "path": "assets/slides/v022/0018.jpg",
+      "sha256": "1d8959e2528b3dcdc5c5d694dbe44bb143924840d5734b3f79a29f065231b749",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v022/0019.jpg",
+      "path": "assets/slides/v022/0019.jpg",
+      "sha256": "976c3d187581478cf21b6c0b19c420ab4948df5f847ac143b3d82bae37064fa9",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v022/0020.jpg",
+      "path": "assets/slides/v022/0020.jpg",
+      "sha256": "ee543e5941c496109165f9c53a1f004b6cbdb1575f4f6aae3de2a3b98e1728b6",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v022/0021.jpg",
+      "path": "assets/slides/v022/0021.jpg",
+      "sha256": "d20c993de7149b8dc2f9d4af384e4614b2de6bf98346ca1a93d315e7aaab3530",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v022/0022.jpg",
+      "path": "assets/slides/v022/0022.jpg",
+      "sha256": "5e9d6404d937f8491c7ad907ef87fa73085eb1ff64a0792d04465a97cf5f8550",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v022/0023.jpg",
+      "path": "assets/slides/v022/0023.jpg",
+      "sha256": "e1462a9c76569529aef80c5ce2c05ae77edbbb301bb86bb02ac79cb1ebaeae08",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v022/0024.jpg",
+      "path": "assets/slides/v022/0024.jpg",
+      "sha256": "149e54e55a53ed980f574378a3b64f97cea8ec6cbf2012593951af8cb5ebc06e",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v022/0025.jpg",
+      "path": "assets/slides/v022/0025.jpg",
+      "sha256": "f03f87eeb40fc660b618bdf3940df672bbd9efdd1b240feae8314620774dd397",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v022/0026.jpg",
+      "path": "assets/slides/v022/0026.jpg",
+      "sha256": "14f25e16390ed20440ffad9dc8ce753f62d2cae30fcf930d699c969e47172711",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v022/0027.jpg",
+      "path": "assets/slides/v022/0027.jpg",
+      "sha256": "63b62d6dbdf287c3fd92b1769a6e19a2de828cea3306be853df619d46513b1d1",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v022/0028.jpg",
+      "path": "assets/slides/v022/0028.jpg",
+      "sha256": "891c6241e507084784c21c0fc6b1880f893edb6637d6d66f8003980705f5f316",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v022/0029.jpg",
+      "path": "assets/slides/v022/0029.jpg",
+      "sha256": "77a38c8da361d1bf487bacdf3fae79472b2aee43b396845f397267ec376e53b6",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v022/0030.jpg",
+      "path": "assets/slides/v022/0030.jpg",
+      "sha256": "919827ddc29edb56eb3095d3582dbce965be0d48cb42bb31bf6d58c12197bdeb",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v022/0031.jpg",
+      "path": "assets/slides/v022/0031.jpg",
+      "sha256": "65e85fea18587cf79b221bcc7fa191dbba833e7c668efe98b49d26fe17de8bbf",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v022/0032.jpg",
+      "path": "assets/slides/v022/0032.jpg",
+      "sha256": "f27acc51bc80f5dfb880ed511a73a20a169c975663e657336ab1fdaa82d0bb89",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v022/0033.jpg",
+      "path": "assets/slides/v022/0033.jpg",
+      "sha256": "5fb21e0813ea6c5e141052b80b0f00006f5f0c9ab4ac7a617b5ea49f8f8ebb3a",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v022/0034.jpg",
+      "path": "assets/slides/v022/0034.jpg",
+      "sha256": "264c9cec19eadcad570df8a0102ce0696fb7d0ae1641469579963a5715dd3ef3",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v022/0035.jpg",
+      "path": "assets/slides/v022/0035.jpg",
+      "sha256": "0ccd41017dc6c519ce3191a5a1ef03787b0211048b013433b622cfff492bf1be",
+      "slide_index": 35
+    }
+  ],
+  "paragraphs": [
+    "大家好啊今天我们来介绍一个自动笔记人偶 violet end-to-end video language transformers with masked visual token modeling 那么这篇论文呢主要就是把我们的这个 mask 这个 bert 这些东西套到这个 video 和 language 共同的训练的这么一个模型上同时呢大量灵活的运用了不同的 transformers 那么整个这个模型的运作的流程呢就是我首先做这个 pretrain",
+    "回讯的过程中，我会有这个 video 进来，我把它 mask 掉做这个 prediction，然后我会有这个 text language 进来，也是 mask 掉做 prediction。把这些拿到一起做回讯之后，我们得到了这个 encoder，用来做两个下游任务，一个是这个 video 的 question and answer，就是我通过输入一个问题，然后观看这个视频，那么现在请这个模型根据视频的内容来回答我这个输入的问题。",
+    "那么第二个任务呢，就是这个 text-video retrieval，就是我现在有一个视频库，然后呢，我现在输入一句话，然后呢，我想通过这一句话把我想要的那一个视频给它找出来。那么这个呢，是两个下游任务。那么下面呢，我们就来看本文提出的这个 VIOLET 它的这个框架是什么样子。那么来到这里，就是本文的这个核心的这个网络的结构。那么我们可以看到呢，",
+    "本文乍一看这个模型很复杂，但实际上找到它的输入是一个 video 加上一个 language。那么看到它下面的演示你也知道了，它们都是各自做了 mask，然后 mask 之后经过上面各种复杂的网络结构出来，我们还是需要预测这些被 mask 掉的这些 token 它原来是什么。这里用离散的 vae 给我们这个 token 来提供一个 supervision。",
+    "那么这样子呢我们的重建呢就有了目标那么左边这一块呢叫做这个 mask visual token modelingmvm 他的这个 video 的 backbone 呢是这个 Swin Transformer 那这个我们都介绍过了那么再看到右边呢这个是 mask language modeling 他呢就是把我们的这一句话同样的也是 mask 掉一些的单词然后呢送到这个 language embedder 里面得到一些 token 最后呢我们再用来预测这些被 mask 掉的这个单词是什么",
+    "这个呢就是 bert 的这些东西那么本文的核心的贡献呢在于他中间多了一个 cross-modal transformer 就是很直接的把这个视频这个 token 和这个语言这个 token 还放到一起来大家一起做这个 transformer 一起做 attention 这些东西那么在此之外呢我们还有一个额外的任务就是这个 visual text matching 你可以看到呢在我们得到这个 visual token 和这个 language token 之后呢我们就加了一个 classification token 那么这个 token 呢他得到 feature 呢用来判断",
+    "说我们输入的这个视频和我们的输入的这句话，他们是不是相互匹配的。这个也是在这个 self-supervised learning 里面常见的这种这个 multi modality 之间这个做 contrastive 这样这种 loss 的这种操作。那么以上呢，就是本文的整个的这个框架。我们继续来看实现的细节，首先是在我们拿到这个 video token 和这个 language token 之后呢，这里呢施加了两种不同的这个 position embedding。",
+    "那对于这个 video 来说呢，你的 position embedding 这个 pv 呢就可以沿用这个 Swin Transformer 他使用的这个 positional encoding 这个没问题。那么对于这个 language 来说呢，我们有另一套的这个 positional encoding 这个 px 啊，一起你看到了这里呢，我们把它们直接加起来，然后呢再把我们的这个 classification token 放在这里。那放在这里呢，他不仅就是一个 classification token，同时呢他还把这个视频和这个语言",
+    "两串这个 token 呢给它划分开。虽然在 transformer 里面这个顺序并没有什么用啊，特别是你前后用了两种不同的这个 positional embedding 的情况下，但是呢放在这里好看啊。那么对于这个 mask 来说呢，我们这个 word 的 mask 呢，这个 language 的 mask 呢跟这个 bert 是一样的。而对于这个 video 的 mask 来说呢，它跟我们之前呢介绍的有些不同。这里呢作者直接使用的是把这个 mask 的这个 token 呢，这个 cube 呢给它全部用换成 0 来替代",
+    "那这样你看整个这个模型就是 video 的 token ，classification tokenlanguage 的 token 对吧，放到一起串起来，放到这个 cross modality 这个 transformer 里面，得到了这么一长串这个 h 这些东西。那么这个 h 呢，关于这个 video 的 token 呢，也是去预测这个 patch 的 feature 的这个 id，就是跟这个 base 这些东西一样的，去预测这个离散的这个 vae 它的这个 hatch 的这个 id。然后这个 classification token 呢对吧，就是一个分类的问题",
+    "那么最后呢，这个 language 这个 word 这个 token 呢，还是去预测去重建我们的这个被 mask 的单词是什么。那么既然我们这三个任务都已经确定了，那么很显然的这个 loss 呢也就非常容易设计了。那这里呢就是 cross entropy 乘 3 对吧，三个都是 cross entropy loss。那具体我们来看这个 language，首先最简单的对吧，这个 feature 出来，fully connected layer 出来啊，然后呢一个 cross entropy，因为每一个单词呢你可以把它视为一个类",
+    "那么你对这个 mask 这个单词呢做它做预测，相当于做一个多分类的问题，那把它分的正确的类就可以了啊。这个看着很唬人啊，啊，只有一个 log 什么这些东西八七八糟的啊，别忘了它一个希望呢对吧，本质呢它是一个 cross entropy。再往下这个 visual text matching 这个二分类的问题了，这个 video 和这个 text它是同一个东西出来的，要么就不是这个 v6 和这个 test 描述的不是同一个东西对吧，二分类的问题。那么再往下这个 visualtoken 呢，其实它跟这个 language 是一样的，因为我们用的是这个离散的 vae，离散的 vae 正如我们之前介绍的对吧，每一个 token 呢它其实对应了字典中的一个 feature，那我只需要预测出这个 feature 的 index 就可以了。那本质上它也是个多分类的问题，所以一样的 cross entropy 来做处理就好",
+    "这块如果你不熟悉的话可以看我们之前的 BEVT，甚至你再翻翻 BEIT 这些东西都是一样的。那么以上就是本文主要的技术贡献了。那么在看结果之前我们还有一个事情要确认就是 masking，我应该怎么样 mask 去我的输入。首先最经典的 blockwise masking，我每次选一个块它是有",
+    "高宽和这个时序的，也就是说，我不是每一帧随便选，是说我选定了一个块之后，它后面的后续的几帧都要在这个位置上给它 mask 掉。那么就每次这么 mask 一个，每次这么 mask 一颗，重复直到大于 15%的这个 token 被 mask 掉了。那么这个呢是 blockwise masking。那么还有第二种呢是 attended 的这个 masking，这个就比较有意思了。首先呢，我们把原始的这个 video 这个 language 送到我们的模型里面。",
+    "先给你这个模型看一面，好看吗？对吧，对哪个感兴趣对不对？我们计算一下这个 attention 这个 matrix，看看这个模型对哪个地方有 attention，好看是吧？下课不给你看了好吗？这这么坏呢，就是我们选择前 15%的最受这个模型关注的这些 patch，然后我们把它们来 master。这个是一个很有意思的一个策略。那么后面我们就可以来看到作者汇报的一些结果，首先是这个 v6 retrieval。",
+    "包括 fine-tune 和 ZeroShot 这些一些漂亮的数字，像这些有高亮背景的这些表示它用了这些其他的模态，像语音声音这些东西，所以并不能直接的比较。那么再往下来，第二个任务是这个 video question answering，根据我们的视频的内容来回答问题，这个取得了一个不错的性能。当然为什么把它变灰了，可以看到因为它实在是太消耗资源了。",
+    "那么再往下呢就是一些有趣的 ablation，比如说这个 temporal modeling methods，就是对于一个视频来说，你怎么样把很多帧的这个信息给它融合到一起啊？是把每一帧的 feature 啊求平均值啊换起来，还是当一个 token 来使啊？对吧？然后这边呢是不同的这个 encoder 的这个配置，可以看到它的性能的表现。那么这边呢是通过不同的 fusion 里啊得到了结果的这个一个对比。",
+    "那么再往下，因为本文的标题探讨的是 mask video modeling，也就是我的 video 应该怎么 mask 合适，所以也可以看到这里对比了 mask classification modeling、feature modeling，就是预测一个 feature，还有 patch modeling，有点像 nce 的这一个东西。那么这里可以看到本文的这种 video 的 modeling 方法是最好的，这边还有 masking strategy，对吧？两个一起用效果最好。那么此外，苏哲还在文中汇报了详细的实验和分析",
+    "感兴趣的朋友呢，非常推荐你去原文来查看。那总的来说呢，这一篇还是一个不太意外的工作啊，是把这个 video 和我们的这个 language 拿到一起，同时呢，bert 这些东西最近很流行的对吧，拿过来这么一起搞这么一个事情。然后呢，实验也非常充足，很有意思的一个工作。好的，以上就是我对于这篇论文的一个简单的介绍。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "81b78fa5ec36d4b6f46328d59dbc88f7c6e0f43f51123a48729bd373da24e9bf"
+}

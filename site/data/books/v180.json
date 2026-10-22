@@ -1,0 +1,309 @@
+{
+  "video_id": "v180",
+  "title": "SimSiam Exploring Simple Siamese Representation Learning[2011.10566]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v180/0001.jpg",
+      "path": "assets/slides/v180/0001.jpg",
+      "sha256": "e3ec85ab7132a6e44d3d95d23f7812a6f41384d1b68b4ebfabbc9f00260f48d7",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v180/0002.jpg",
+      "path": "assets/slides/v180/0002.jpg",
+      "sha256": "184f83df2526bb07f3ce4b70fcc36cdb5aea5b0b290447396fab6d1d3f2dc732",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v180/0003.jpg",
+      "path": "assets/slides/v180/0003.jpg",
+      "sha256": "78c61b571ab936eac421f79067d0a0aa314e1c851661f314d5bcfef01e88ec35",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v180/0004.jpg",
+      "path": "assets/slides/v180/0004.jpg",
+      "sha256": "66f668d8b41589306a9b4af9de7b8ef76157df03c984eb0ef64c3d3881541bb4",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v180/0005.jpg",
+      "path": "assets/slides/v180/0005.jpg",
+      "sha256": "a8bf2e62dd017d46609079eefaa70dcb73447eadd0204fa26cdd690692b732f5",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v180/0006.jpg",
+      "path": "assets/slides/v180/0006.jpg",
+      "sha256": "2728b9a1b3b0ab577436859578f8d5b243d54350bbd317d36d94ad9c41998ae5",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v180/0007.jpg",
+      "path": "assets/slides/v180/0007.jpg",
+      "sha256": "faed7daf67c60f33d413a78933906217d63714d62fc25d6f3818299f97588045",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v180/0008.jpg",
+      "path": "assets/slides/v180/0008.jpg",
+      "sha256": "93cd6b263d19bd1b991bf9f43c15a9e9fa5d43f21a75459ae234279c0e44854b",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v180/0009.jpg",
+      "path": "assets/slides/v180/0009.jpg",
+      "sha256": "f4b22920dc560394d2b2eed80d435dbc53355c253236dd87977572fbaecda5c7",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v180/0010.jpg",
+      "path": "assets/slides/v180/0010.jpg",
+      "sha256": "47639abbf5ddd95b963596a43a48a5159a983c8e2600930b2ce1234d6c484128",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v180/0011.jpg",
+      "path": "assets/slides/v180/0011.jpg",
+      "sha256": "920a85bb3c7b6543d7bd3a9a95c9b4398c49703ca0e79ec12623970fa5be94b1",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v180/0012.jpg",
+      "path": "assets/slides/v180/0012.jpg",
+      "sha256": "b21aa17d1d43ee54b1806a0410842de99e4ec5e795d661934690ac8616276b0a",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v180/0013.jpg",
+      "path": "assets/slides/v180/0013.jpg",
+      "sha256": "bcc7daa506224802f8c60fbfdf8a050c74baeff695e8e90e7394ae1368efb73f",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v180/0014.jpg",
+      "path": "assets/slides/v180/0014.jpg",
+      "sha256": "862e0f8eb33f85d41e0229965c510ca483d487cb0b484d58baab5d096225c91b",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v180/0015.jpg",
+      "path": "assets/slides/v180/0015.jpg",
+      "sha256": "c861ba685fa2865b5b59913543868667fb5b53cdffa4829893e33060b50c720c",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v180/0016.jpg",
+      "path": "assets/slides/v180/0016.jpg",
+      "sha256": "f2be78c0e42f26af385ff03679054d1a29e3ebd499592228da92c627c330848b",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v180/0017.jpg",
+      "path": "assets/slides/v180/0017.jpg",
+      "sha256": "5bf661048e70fc763b7c4c01cbfd62d761cf6f6da217bf361b98de8cee83efea",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v180/0018.jpg",
+      "path": "assets/slides/v180/0018.jpg",
+      "sha256": "27952f08da26b02e66d9c94e2504b106fb7d2b74a86acc211c901f4335d69c12",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v180/0019.jpg",
+      "path": "assets/slides/v180/0019.jpg",
+      "sha256": "f956ae96a93613ae86c591fc3c529c233848b251436d932f5583bb24f9c5b28f",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v180/0020.jpg",
+      "path": "assets/slides/v180/0020.jpg",
+      "sha256": "b58ee102ab1d4dba21a39ad64e4e044f9aad78c96896654fa13ad70e4294af0d",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v180/0021.jpg",
+      "path": "assets/slides/v180/0021.jpg",
+      "sha256": "9ff00a239b9d5091548be2f23b56b393d87960a15f9686147f2b534b795577ac",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v180/0022.jpg",
+      "path": "assets/slides/v180/0022.jpg",
+      "sha256": "d02ce6e7547c7e7057b327edae03ef05b89e0fc97b63f1bdbec01ab3f5b9ebc7",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v180/0023.jpg",
+      "path": "assets/slides/v180/0023.jpg",
+      "sha256": "34df019fec86eaa044b76dd228778df6ed4221bb75dca0746c5d0c9b669a5cc0",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v180/0024.jpg",
+      "path": "assets/slides/v180/0024.jpg",
+      "sha256": "19d07e24494c65becdb523aaaa31bc77df35567f42e1e98e552b3b5ef8fe4104",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v180/0025.jpg",
+      "path": "assets/slides/v180/0025.jpg",
+      "sha256": "195f724e44a6e1966c241a1eb79996bad562dc56900d031c678c8835a2674b0b",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v180/0026.jpg",
+      "path": "assets/slides/v180/0026.jpg",
+      "sha256": "7ccd416f3b15cfbcf6d1528245087ef7f1197368047199b0d4b8a51fd02d8ee9",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v180/0027.jpg",
+      "path": "assets/slides/v180/0027.jpg",
+      "sha256": "fa93cc9d50ea8b38242a47e6f4d5a039dea948b4254a30f4d6ec2d23a0c5b566",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v180/0028.jpg",
+      "path": "assets/slides/v180/0028.jpg",
+      "sha256": "986b166f5a085b27d5c782cd083cf70dda1c1fb54b9ac81c941281db2f69bf5e",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v180/0029.jpg",
+      "path": "assets/slides/v180/0029.jpg",
+      "sha256": "086a140ea14df2d36c74357feab2eff1d498789b00568ec70040921b930bf723",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v180/0030.jpg",
+      "path": "assets/slides/v180/0030.jpg",
+      "sha256": "3bd7c3d2fa9045be12cb064f011ff07660642caffead310e9bcadcb963c436cb",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v180/0031.jpg",
+      "path": "assets/slides/v180/0031.jpg",
+      "sha256": "0c6766eccee5bd2d712372f3295e7dfaf9c1b7f9ec220bba96ff764f43e6616f",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v180/0032.jpg",
+      "path": "assets/slides/v180/0032.jpg",
+      "sha256": "b0675857236c6c152a6f05188b188fc6411cbde7566b98099d60ef9b61e1497b",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v180/0033.jpg",
+      "path": "assets/slides/v180/0033.jpg",
+      "sha256": "217c00453a9da64c75749a2ac3e152daa60de86e973cb1e81f14001c53b7e208",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v180/0034.jpg",
+      "path": "assets/slides/v180/0034.jpg",
+      "sha256": "fef7a66e923c6b56183b258294fb55c639b4b5eeefa86b0a60495aa5b282f6cd",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v180/0035.jpg",
+      "path": "assets/slides/v180/0035.jpg",
+      "sha256": "2998bf16ad2e5c86be93d83b89a6f827bcdfd034e29970a4d563b9db4a07a9f8",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v180/0036.jpg",
+      "path": "assets/slides/v180/0036.jpg",
+      "sha256": "5e1eab48703e01d7407612ff39ca2e075964460ff1b82aadfddae6b289ef3a86",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v180/0037.jpg",
+      "path": "assets/slides/v180/0037.jpg",
+      "sha256": "af25cf101a4519bc080183c67c2ca97903b55aeaa3a42fb9e905e63629e5a786",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v180/0038.jpg",
+      "path": "assets/slides/v180/0038.jpg",
+      "sha256": "1e1db90f48835eec9bc4c0dae3bd85b2755fbf45f4ce680717efc64ed1119729",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v180/0039.jpg",
+      "path": "assets/slides/v180/0039.jpg",
+      "sha256": "c7676f1fd0b34df7ba2bfb01d45fe7c914cd85be6a5c0bff11b0ee32fa82b452",
+      "slide_index": 39
+    }
+  ],
+  "paragraphs": [
+    "大家好今天我们来介绍 Exploring Simple Siamese Representation Learning 那么这篇文章呢和 BYOL 非常相关在本文中呢作者使用一个非常简单的 Siamese Network 就可以学到有用的这个 Representation 用来表达图像同时呢本文也没有使用像负样本呀没有使用大的 Batch Size 呀甚至没有使用 Momentum Encoders 这些东西等等等等这些都没有但是依然能够防止模型坍塌达到了一个不错的结果那么在今天的视频中我们首先介绍一下什么是 Siamese Network 然后会对本文提出的方法以及作者进行了一些实验进行分析最后是一些更加正式的实验结果以及作者的猜测说为什么这样一个简单的网络结构能够 work 好的那么我们开始",
+    "首先什么是 Siamese NetworkSiamese Network 呢就是同一个网络它分成了两个支然后每一支呢它们都使用相同的权重但是呢输入呢是两个不同的向量就像图中表示的这两个 encoder 它们的权重里面的参数是一样的它们的输入呢是由 X 产生的两个不同的图像那么像这样的网络呢就是 Siamese Network 那当然呢你如果直接在网上搜 Siamese 是吧",
+    "可以得到可爱的线罗猫那么本文提出的一种什么样的方法呢其实本文提出的方法跟之前我们介绍的 BYOL 是非常相近的只不过在本文中它的两个 encoder 把 momentum 都去掉了直接使用相同的权重那么它从结构上它把 BYOL 的 encoder 和 projection 拧合到一起也就是这个 encoder 是 CNN 加很多层全连接层的结果",
+    "那么同时呢也保留这个 predictor 这边呢就是跟左边一样的结构那么训练这个网络的方法呢作者也在这里提供了伪代码与和 BYOL 非常相近也是同样一幅图像来进行两种不同的互相增强得到 X1 和 X2 那么把 X1 和 X2 呢分别送到两只 encoder 里面当然因为这里面两个 encoder 他们的参数是一样的所以我们都用一个 F 就好了那么在之后呢把这个 encoder 之后的结果再送到这个 predictor 里面那么同时呢也是计算两个相当之间的 MSE 最后呢进行计算最后计算一下梯度来更新一下这个 encoder 那么这就是本文提出的 Siamese Network 的训练方法非常简单嘛所以叫 SimSiam",
+    "那么对比其他的 contrastive learning 的方法,像 SimCLR,它是使用了 similarity 和 dissimilarity,就是 contrastive loss 这种方法,BYOL 是 momentum,对吧?那么对比之前的这些方法,本文提出的方法是非常简单的,但是呢,很神奇的是它依然能够 work。那么为了进一步确认哪一部分的设计在本文的这个框架中是至关重要的,作者进行了一堆实验。首先呢,它这里。",
+    "测试了是否有这个 stop gradient 也就是是否停止一侧鸟网络传递这个 loss 那么很显然如果使这个 T2 进行传递我们现在起来的 loss 是非常小的因为两只网络的它们的参数都是接近一模一样的但是呢它的这个最后的性能的表现是非常差的因为它们很容易就达到两个网络参数一样最后模型坍塌就实际上并不能学到什么有效的特征那么作者呢还测试了这里",
+    "用不同的 predictor 甚至没有 predictor 那么从结果来看如果没有 predictor 如果甚至是只用一个随机的值随机的固定的值来作为 predictor 那么基本上也是学不到什么东西的所以说 predictor 呢也是非常重要的",
+    "此外呢作者还测试了 BatchSize 和 BatchNormalization 那么从结果来看呢 BatchSize 的影响并不是很大而 BatchNormalization 呢在 Projection 里面所有的 HiddenLayers 和这个 Output 都需要加而在 Predictor 里面呢只加了 HiddenLayers 这样是最好的",
+    "那么作者这里还汇报了其他的项目,包括最后使用的 loss function,也就是两个向量的 similarity,两个向量的相似程度的 function,那么原始的是 MSE,也就是两个向量的夹角 cosine,然后它还换成了 cross entropy,某种程度上也是 work 的。",
+    "那么他还测试了说这两个网络的对称如果说把这两个网络改的不对称了另一种不对称的结构会怎么样呢在一定程度上也是 work 这一部分也相当于佐证了 BYOL 的实验结果",
+    "那么作为最终结果的呈现呢，作者测试了 ImageNet 训练好这个 representation，然后使用一层 linear layer 来做这个分类。这里测试了 ResNet50 这个 encoder 得到的结果来看，那么本文提出的方法呢，跟前面的工作呢性能是非常接近的。那么同时呢，作者还测试了一些迁移学习的这些东西，这是得到汇报的数据，可以看到呢性能表现也是非常接近甚至优于一些前人的工作",
+    "那么为什么这样那种简单的网络能够 work 呢？啊，作者提出了一种猜想，他认为说呢，SimSiam 是一个 expectationmaximization 的，也就是呢是一种最大期望算法。那么我们最熟悉的最大期望算法的例子呢就是 kmeans。那么具体来看这里呢，我们的 x 是输入图像，t 是图像的一个种增强，fc 它呢是我们的 encoder我们把这幅图像经过增强之后送到 encoder 里面，减去这个 eta x 这个 eta x 呢不一定局限为图像的 representation。总之呢，当我们训练这个网络时，我们是希望找到一个 theta，找到一个 eta，使得这个 loss 的期望是最小的。那么实际上当我们训练的时候呢，是分步进行训练的，比如在每一步里面我们首先会确定一个 theta，使得这个 loss 最小",
+    "这个时候呢，我们是使用一个固定的 eta 的。那么这样呢，我们就得到一个θt，然后使这个θt 所死我们再寻找一个 eta，使这个 eta 呢能够达到我们的这个机制。然后呢，反复进行这两步，最终呢训练得到一个满意的结果。那么当我们训练 eta 的时候呢，我们把θ作为一个常数代入到上面的式子，那么就可以得到这样的一个式子，这就是我们如何得到一个新的 eta那么我们把这个式子带回到上面的式子，同时因为我们使用的是 Siamese network，所以它的左右的两个 encoder 的参数都是一样的。那么最终我们就得到了这样一个式子来更新θ。这里 fθ就是我们左边带 predictor 的部分，这里的这个 fθt 就是我们右边没有 predictor 的部分。然后这个 t'是因为它是在上一个训练周期中我们使用的图像自相策略，所以跟这个 t 是不一样的",
+    "所以呢，这里我们加一个 prime 来以示区分。那么这样对这一个 MSE 的最终的期望，我们要使这个期望最小，也就是我们如何训练这个 theta。那么这个时候呢，有朋友注意到了在我们左边的网络中呢有一个 predictor，但是呢在这个式子中呢我们没有体现它。而且呢，对于这个式子中的两部分我们看，如果我们求期望",
+    "右边这一部分它是一个常数，它是好求的。那么左边这一部分我们是怎样求出它的期望来的呢？那么这里呢，作者呢就有一个猜测说，我们左边的 predictor 实际上拟合的呢就是这一部分的期望。因为我们是要优化一个形如这样的式子，那么我们的 predictor h 会在满足这个条件就是满足它是左边这个式子的期望的情况下",
+    "使整个的这个 loss 达到最优。所以也就是说，作者在这里猜测 predictor 为什么是必须的，因为它可以通过左侧的 prediction 求导出 prediction 的 expectation。所以可能这样就解释了为什么本文提出的网络是可以 work 的。那么总的来说，作者认为 Siamese network 是非常适合",
+    "给一些不变量来进行建模的。也就是说呢，在这个 representation learning 里面，它是非常非常有用的一个工具。而且呢，本文提出一个非常简单的这个框架，它的性能呢也不错。所以希望说大家可以继续挖掘 Siamese Network 在 representation learning 中的这个使用的潜力那么总体来看呢，这并不是一篇非常难理解的论文，但是它最后能够确切运行的原理我们还没有说一个完整的通透的解释。所以呢，也欢迎各位朋友来查看原文来感受一下作者对这一个方面的讨论。好的，那么以上就是我对这篇论文的一个简单的分析，感谢各位的收看，我们下次再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "53300ea4a658b09a8836715fda1143a51362223e390aca55e0d2b4b9af2ffbd3"
+}

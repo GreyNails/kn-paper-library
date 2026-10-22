@@ -1,0 +1,309 @@
+{
+  "video_id": "v088",
+  "title": "Masked-attention Mask Tr. for Universal Image Segmentation[2112.01527]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v088/0001.jpg",
+      "path": "assets/slides/v088/0001.jpg",
+      "sha256": "0e8feade54e7ea3316d2e870ebf5ee09c8d11aa64c8865b5436c45a09b6a1575",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v088/0002.jpg",
+      "path": "assets/slides/v088/0002.jpg",
+      "sha256": "b2e0219fdf621dafa77ed1a8033114359f0ce090ce1f0e4c5cc67f6d6bcdafad",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v088/0003.jpg",
+      "path": "assets/slides/v088/0003.jpg",
+      "sha256": "2c8f8a212035b49a9ce4b0bc3146fdac808589b4756d32122cd1828344b98db2",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v088/0004.jpg",
+      "path": "assets/slides/v088/0004.jpg",
+      "sha256": "34985a7892580a133482305fcebc11066b22f49fdcad17322c5a9bf193223c25",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v088/0005.jpg",
+      "path": "assets/slides/v088/0005.jpg",
+      "sha256": "506818db68850e66a890b111b766fefce32a1af05c5c67a91230fb815e4fdd2d",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v088/0006.jpg",
+      "path": "assets/slides/v088/0006.jpg",
+      "sha256": "5a1fc381caa3c5d47a6391ee843dcd1d396386b263914cff3b0d98727cd786ed",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v088/0007.jpg",
+      "path": "assets/slides/v088/0007.jpg",
+      "sha256": "5d4d149cb13445e5cc568b04e0d9d1ece8d47631590299693c4ac4a934597813",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v088/0008.jpg",
+      "path": "assets/slides/v088/0008.jpg",
+      "sha256": "6253f0dbac151d0b919438213de8e92c233362fd78a273d14c659ce0c76fcaab",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v088/0009.jpg",
+      "path": "assets/slides/v088/0009.jpg",
+      "sha256": "778e5e5cea32f73ae99a6b575832515f7a14557285726171bf17b157302a0419",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v088/0010.jpg",
+      "path": "assets/slides/v088/0010.jpg",
+      "sha256": "34dca93cb141fc8c2803cef700daf75ba055d4325ec5b5ee4d50dc1ad9bbbaa8",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v088/0011.jpg",
+      "path": "assets/slides/v088/0011.jpg",
+      "sha256": "ed0acb5cd6c377693dd69d2da01631662fef5a1c341c066ec0522ab59e403ee1",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v088/0012.jpg",
+      "path": "assets/slides/v088/0012.jpg",
+      "sha256": "bcd4f8264579367d0cc95520e5d40283a41cbe7a462267d0c660cf8082418888",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v088/0013.jpg",
+      "path": "assets/slides/v088/0013.jpg",
+      "sha256": "5ecab1bc1f24e4c71de1547c0a97647c61506afd022e7b528a4ead73459e70d5",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v088/0014.jpg",
+      "path": "assets/slides/v088/0014.jpg",
+      "sha256": "b219c4f1d818a4e532eade89e70c09205684e183594e5662b6ddfe2e18f775de",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v088/0015.jpg",
+      "path": "assets/slides/v088/0015.jpg",
+      "sha256": "546373e0fd9f52d8ef4e43098ee79c22d82f7c78069a6f00f2c4a9ce9ef0b7ff",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v088/0016.jpg",
+      "path": "assets/slides/v088/0016.jpg",
+      "sha256": "0eadac87d6debad6e32d45059d0baaf8e77bc6e56aad0f7cbc8ae3bf12d7f05b",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v088/0017.jpg",
+      "path": "assets/slides/v088/0017.jpg",
+      "sha256": "a00723c67b45890010ee8f8624b254ca829d7a56138e81e45fd0ca92176c376b",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v088/0018.jpg",
+      "path": "assets/slides/v088/0018.jpg",
+      "sha256": "b04059f3dd0484e7b804a55314932e22bfa56b340a33e1287a050d168ee596cd",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v088/0019.jpg",
+      "path": "assets/slides/v088/0019.jpg",
+      "sha256": "c2397a3ce30bcfa4ae68da90ec9fd291f1af39d417c21910c2659490138f799b",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v088/0020.jpg",
+      "path": "assets/slides/v088/0020.jpg",
+      "sha256": "53eda9907d7153f0f67f5b118d9ccf67f93f3d8e2d6fa406319c0f9f46cfc79a",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v088/0021.jpg",
+      "path": "assets/slides/v088/0021.jpg",
+      "sha256": "396ec4388ee78769398fee0464eaee5903e5895e7ab45064b8820e294c8d69b6",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v088/0022.jpg",
+      "path": "assets/slides/v088/0022.jpg",
+      "sha256": "8bc2a575a416a6ff7e2d66be480b60015b9edfbcc7a314d87b7b633ebcb62253",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v088/0023.jpg",
+      "path": "assets/slides/v088/0023.jpg",
+      "sha256": "34d32e6570367eb7384acfcbaba74c9f5d7cec4ff6766ce845a98a1ca7fdc533",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v088/0024.jpg",
+      "path": "assets/slides/v088/0024.jpg",
+      "sha256": "deb2ac879feea2b9751c4eb942aaa834d94453d4e9a0ef264e4e72fe5f0b56e1",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v088/0025.jpg",
+      "path": "assets/slides/v088/0025.jpg",
+      "sha256": "328f5fd9de40355e3034f59794797da3ef7fee598bf6b49b8699d8943ae8f4e9",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v088/0026.jpg",
+      "path": "assets/slides/v088/0026.jpg",
+      "sha256": "213bd9a4c2cd385da045b21ade946fc0748373df90b56aaaacae4501610b14bc",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v088/0027.jpg",
+      "path": "assets/slides/v088/0027.jpg",
+      "sha256": "233592850719b45a25058841550541992a7b706f0181bfc0f883187b970c157b",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v088/0028.jpg",
+      "path": "assets/slides/v088/0028.jpg",
+      "sha256": "10f9ce1befb9a4f539c7a071d51968d53e349a5e6c652eb87bbe0f256faa6ebd",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v088/0029.jpg",
+      "path": "assets/slides/v088/0029.jpg",
+      "sha256": "8e9fe6a7d0b5fc6d58f78b70284ceba6eb5387dd1d341d4dc75dfb04c76f6586",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v088/0030.jpg",
+      "path": "assets/slides/v088/0030.jpg",
+      "sha256": "f1492fcf1c7c2c0df762ba3800b8a3d217e17e96ab23ffe32445b73a46340175",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v088/0031.jpg",
+      "path": "assets/slides/v088/0031.jpg",
+      "sha256": "8bbd6997c080fc8bdf6e6f3f1782fe9819caa54aaa65b71618488e235cad4ce8",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v088/0032.jpg",
+      "path": "assets/slides/v088/0032.jpg",
+      "sha256": "625f3d66cbba13df8c0d445fe29a42f602fc4c6a678a8106357e284c351b221d",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v088/0033.jpg",
+      "path": "assets/slides/v088/0033.jpg",
+      "sha256": "f98881c096b1e6f91f7de5066764d81b579cf49a53d88458498312ec1f1efed3",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v088/0034.jpg",
+      "path": "assets/slides/v088/0034.jpg",
+      "sha256": "325b0048f22e7db53666983a8dd2b80f8ebf0321bdb4b8ce1c5b908f84c49300",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v088/0035.jpg",
+      "path": "assets/slides/v088/0035.jpg",
+      "sha256": "936467c1171a8efc2f1c1cd287a274a9f388b456e8891f2b8ca97c7106a8f6b2",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v088/0036.jpg",
+      "path": "assets/slides/v088/0036.jpg",
+      "sha256": "b290c8aa489c2989a51dd584e8e5c70a98c176fceb49a4196f39e0d3f3357bca",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v088/0037.jpg",
+      "path": "assets/slides/v088/0037.jpg",
+      "sha256": "bd7f3c9c3ac36386ee8549b91548501073bc5c53ba2abbe0ea7c2d1750f5abc8",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v088/0038.jpg",
+      "path": "assets/slides/v088/0038.jpg",
+      "sha256": "ea9e4f19f376c9b078059e01a5da602c77b8f6b7ea26fdd5b2d28b4b6ab51b69",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v088/0039.jpg",
+      "path": "assets/slides/v088/0039.jpg",
+      "sha256": "548f032f563e5a49afd14aed5d08423baac916ab7cb5f276d685ae04cdfab06d",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v088/0040.jpg",
+      "path": "assets/slides/v088/0040.jpg",
+      "sha256": "99998d81e98f10cef6a3a0fa48d6296e4751f9fd16fb2c231dbab1bbba03beb0",
+      "slide_index": 40
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速水一篇论文，Masked-attention Mask Transformer for Universal Image Segmentation。这篇呢是之前我们介绍的那个 MaskFormer，它的后续，那作者呢还是基本上同样一批人。那么下面呢我们就来看，在之前的这个 MaskFormer 的基础上，本文提出了哪些改进呢？那么首先一个快速的 recap、MaskFormer 它的核心的贡献呢在于，原来我们做 Segmentation 的时候呢",
+    "是根据每个 pixel 的 embedding，然后呢独立的去预测这个 pixel 它是属于哪一个类别的。那 MaskFormer 呢与之不同呢，是把我们的这个 feature 拿出来，扔到一个 transformer decoder 里面。那么这个 decoder 呢根据每一个类别产生 embedding 啊，embedding 呢我们就可以做 mask，做这个 classification。这样子呢，我们的这个 maskembedding 呢出来能够得到一个这一个类别的它的这个形状，这个 mask。那同时呢，根据这个 embedding 呢，我们可以直接把这个 classification 这个类别它属于什么类给它推测出来。那么这样子呢就告别了说，我们在每一个像素的这个 feature 上做这个 prediction，是一种更加优雅的做法。那么在这篇文章里面呢，作者主要是更新了这个 transformer decoder 的部分，我们来看本文提出的主要的改进吧",
+    "那么本文的改进呢，主要是包括这个 mask 的 attention，还有这个 high resolution features，本质上是一个金字塔。那么剩下的一些细节的关于训练上的还有这些 optimization 上面的这些改进呢，能够帮我们提高他的训练的速度。那么下面我们继续来看这个 mask 的 attention 是怎么回事",
+    "那么首先呢，我们知道 transformer decoder 里面它是有一个 mask attention，就是控制哪两个 token 它们之间能够产生 attention。在这里呢，作者呢使用了一个大胆的假设，就是说我们在做 embedding 的时候，我们只需要 foreground 这些区域它们之间相互做 attention 就可以了。也就是原来在 MaskFormer 里面，每一个像素都跟整张图像做这个 attention那么现在呢，这个像素呢只跟和自己同一个类别的都是同一个 query 的这些像素啊，他们之间相互做 attention。那么这个呢是本文相对于前作的最主要的区别，最核心的一个贡献。那么继续我们来看前作里面对吧，这个 query 和 key 进来这里的这个 key 和 value 呢都是从图像的 feature 里面来，query 呢是从我们之前这个 query feature 里面过来的，他们的这个 attention softmax 的啊这些东西那这个呢是我们前作的 MaskFormer",
+    "那我们在本作中呢，我们呢引用了这个 mask，其实这个 mask 也就是标注了我每一个 query 这里，一个 query 代表是一个类别嘛，每一个 query 它的这个对应的 mask，在这个 mask 里面的这些像素它们相互做 attention，超过了这个 query。也就是说我们认为不是这一类的这个像素呢，我们就不可能做 attention。那来到这边我们看到这个 decoder 结构啊，我们先不要在意它跟其他的 decoder 呢有一个很显著的区别，我们先不要管它我们来重点呢看到这个 mask attention 的部分，你可以看到呢这里我们有 image features，它是从这个 pixel decoder 里面过来的，我们根据它呢对于每个像素提取这个 value 和 key，然后 query 呢是我们的 query features，这个呢它的实现我们后面也会讲，它呢区别于前作原来前作是 0 嘛，现在是 learnable 的这个 vector，它们呢先做这个 mask attention，那么这个 mask 应该怎么产生呢，我们来快速回顾一下这个 MaskFormer 里面",
+    "我一看到呢这些每个 token 呢，我是要每个 query 出来之后呢，过一个 mlp 产生一个 embedding，那么根据这个 embedding 呢，我们再和这个 pixelembedding 结合就能够得到这个关于 mask 的 prediction，那么这个 mask 呢，也就是我们这里输入的 mask也就是说，对于第 0 层的这个 Decoder 来说，我们还没有经过这个 Transformer Decoder，首先呢把这些 Query 送到一个 MLP 里面，然后呢预测出这个 Mask 出来，然后呢我们再做这个 Decoder 一层一层往下做可以了，那么到这里呢，比如说过完一层我们有了新的 Query，那么同样的新的 Query 送到 MLP 里面做一个 Mask 出来，然后呢加上新的这个 Image Feature，为什么叫新的呢，我们后面马上会讲，然后呢再重复这个 Decoder 过程就可以了",
+    "那么这个呢就是核心的这个 mask 的 attention 它的这个原理，那这里呢你也理解为什么这里 query feature 不再是这些 zero 而是一个个 learnable 的 feature，因为你在过这个 transformer decoder 之前你要根据这些 feature 呢先预测出一个 mask 来，那么这个呢是一个必要的更改，那么接下来我们看到这个 high resolution features 它的本质呢就是一个图像的金字塔，这里呢作者选用了原始图像的这个长宽的三十二分之一十六分之一和八分之一的",
+    "这么三个尺度，把这三个尺度的这个图像的 feature 呢，这个 imagefeature 对吧，送到相应的 transformer decoder 里，也就是说第一层是这个三十二分之一这个尺度的啊，做完一层 decoder 得到这个 query，然后第二层呢是这个十六分之一尺度的",
+    "啊，在做同样的这么一个 decoder 做，然后呢重复这样子呢，不断的去重复这个三层的这样一个结构，重复 l 次，比如说这里做的是个 L 等于 3，所以这一共呢这个 transformer decoder 里面有九层这样的一个结构啊，这个呢就是作者设计的这个 feature pyramid，而对于这个每一个 resolution 来说呢，首先是一个正弦的这个 position 的 embedding",
+    "很常规的操作，同时呢作者还引用了一个 E 乘 C 的这个 learnable scale level 的这个 embedding，它呢用来控制每一个 channel 这个 scale",
+    "那么这个呢就是作者如何应对这个 high resolution features，就是遇事不决金字塔嘛，对不对，那么金字塔之后呢，我们再来关注一下作者在这个之前的 MaskFormer 之上做了哪些细节的调整，首先呢我们之前说过，你可以看到这个 transformer decoder 呢，它跟我们之前的研究的这个 decoder 它不太一样，那么区别在哪呢，我们今天这个 transformer decoder 呢，一上来呢先做这个 token 之间的这个 self attention",
+    "然后呢再做这个 attention 是引入了这个 encoder 过来的这些 key 和 value，那这里呢作者把这个顺序更改了一下，因为这里一上来假如说你先做这个 selfattention 对着 query 之间相互做这个 selfattention 它本来就没有任何图像的信息，这样做出来也没有什么意义所以呢，这里作者把这个顺序给它更改了一下。那么第二改动呢，之前我们也说了，这个 query feature，因为一上来我们要用这个 query feature 来预测这个 mask，所以呢，现在 query feature 呢是 learnable。那么第三个呢，是作者发现这个 dropout 会影响我们的这个模型的性能，同时让我们这个训练速度减慢，所以呢，直接把 dropout 去掉了。那么此外呢，作者为了增加这个训练时候的这个效率呢，他用这个采样点来替代整个这个 mask。",
+    "那简单来说呢，就是原来我们计算这个 loss，那都是一整张图，每一个像素它的 mask 的形状对不对，它的分类呢，这个也够对不对，对不对，这样一整张图它非常占内存，而且效率很低。那么这里呢做的就是这个随机采样几个点，用采样的方法，importance sampling 这些东西，相当于用数量更少的这个像素点来去形成这个 loss，这样子呢能够大幅节约我们训练每一张图的时候使用的内存。",
+    "那么关于这个呢，感兴趣的朋友呢可以看他的引用。好的，那么以上呢就是本文的主要的技术贡献啊，快速回顾一下，那么首先这个 MaskFormer 对吧，这个 decoder 这个结构特别的一个结构，然后呢是用这个 multi-scales 的方法，同时呢加上了我们这么多的这些改进。好的，那么下面我们来看作者汇报的一些结果，比如 COCO 上这个全景分割对吧，可以看到本文的方法的收敛原来快多了，而且呢效果非常好。",
+    "等等等等了，那么作者还汇报了更多的任务还有这个 ablation 这些东西，很详细的实验，非常推荐的你去原文查看。好的，那么以上就是我对这个论文的一个快速的一个介绍，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "95a3079247eae6b0dee64f78cedacc66735bf3636b0f1fbaab00d812e2c8e077"
+}

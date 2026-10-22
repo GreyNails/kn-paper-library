@@ -1,0 +1,198 @@
+{
+  "video_id": "v128",
+  "title": "DDPG&TD3[1509.02971][1802.09477]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v128/0001.jpg",
+      "path": "assets/slides/v128/0001.jpg",
+      "sha256": "6cedf0e33d4b42872c1a108ab45b439ba4c4d99dfa1023889512015049f615d1",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v128/0002.jpg",
+      "path": "assets/slides/v128/0002.jpg",
+      "sha256": "22e8a8737c5e0be91ac1d212e0c6cb2897979c3c02f7dc95ef5ef03ec219eeb5",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v128/0003.jpg",
+      "path": "assets/slides/v128/0003.jpg",
+      "sha256": "7b9943b60ec99161eff0bf7d75ff55ffc59a34c8ba4d0e8c0c723c66ba7912c4",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v128/0004.jpg",
+      "path": "assets/slides/v128/0004.jpg",
+      "sha256": "fe592c65bee0fcb1b098bd971dfdcdffd65d7099543942cd46b1867f6b302f2a",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v128/0005.jpg",
+      "path": "assets/slides/v128/0005.jpg",
+      "sha256": "ee8792bee455e54b59dfc0b48dee0a08b38cf1763c47b172b606394b768fa2fe",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v128/0006.jpg",
+      "path": "assets/slides/v128/0006.jpg",
+      "sha256": "cfbc0435269620bc4f94090bebd087fa3875d34a9afe025a497aa086f885e725",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v128/0007.jpg",
+      "path": "assets/slides/v128/0007.jpg",
+      "sha256": "ec593a7d43a4952d52b8cf9993483055028981b5d3941b38ae12e2265c91d072",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v128/0008.jpg",
+      "path": "assets/slides/v128/0008.jpg",
+      "sha256": "01df8c582701d41d4ce6279ee70071fa396821cb67238ff4fb8f8fc534cccf97",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v128/0009.jpg",
+      "path": "assets/slides/v128/0009.jpg",
+      "sha256": "e4e926ea8d7a571e27e7b4e6c231ab947e5fd54d5a15531789e719f63cbefb18",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v128/0010.jpg",
+      "path": "assets/slides/v128/0010.jpg",
+      "sha256": "d94dd9e0d7fce2b39fcd3c1249645e9e78f802e84a8114ab0a263a39a7a0ad3b",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v128/0011.jpg",
+      "path": "assets/slides/v128/0011.jpg",
+      "sha256": "4417d35301395bb50b3a4e33751f8680565d16e12eb4482b8e5f72c4d5a29c9d",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v128/0012.jpg",
+      "path": "assets/slides/v128/0012.jpg",
+      "sha256": "52f1d8c65eadfb996c1cc9fbe8de8ae5ecab63084da009347248ba0a33f603d5",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v128/0013.jpg",
+      "path": "assets/slides/v128/0013.jpg",
+      "sha256": "289b1e063d6e00dbac71251e1a0573c6602ba14bc5318d1b664c07fa32672b3e",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v128/0014.jpg",
+      "path": "assets/slides/v128/0014.jpg",
+      "sha256": "b20f843fb26d67688bb0b33f3c45ea352246c54e721653a5c43f505c5e84bdd9",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v128/0015.jpg",
+      "path": "assets/slides/v128/0015.jpg",
+      "sha256": "dcda9c277ddd2096cf689b225a843098ccd1610cabee62826d6d0d38a9c17995",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v128/0016.jpg",
+      "path": "assets/slides/v128/0016.jpg",
+      "sha256": "4f7589cbeebee5b033d5abc261c3dd7d72edfb120ecdac742c280109aaaa80e7",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v128/0017.jpg",
+      "path": "assets/slides/v128/0017.jpg",
+      "sha256": "120ae8887d5a6d03437702bb7b06b4f4f6b4a35736c71fedb0d387ca0f431ca9",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v128/0018.jpg",
+      "path": "assets/slides/v128/0018.jpg",
+      "sha256": "118dc571dbe0403ea465b5c47915ca402c63bf40d534060c8f76fec5a757e299",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v128/0019.jpg",
+      "path": "assets/slides/v128/0019.jpg",
+      "sha256": "4a547ec00c556aa0c108d97f67f50e3ad37c6dec1b0b4d9b07acfd979eae59e4",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v128/0020.jpg",
+      "path": "assets/slides/v128/0020.jpg",
+      "sha256": "12d8cb7d2ab84dc01a4731b7e368a2f13aefe119b58af018da484661d1dee36a",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v128/0021.jpg",
+      "path": "assets/slides/v128/0021.jpg",
+      "sha256": "cfdaaefd0d0b18625059059b5ebb85a7a15d89fc7526e4156d1e294276b33b86",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v128/0022.jpg",
+      "path": "assets/slides/v128/0022.jpg",
+      "sha256": "c2d685e3a396f06e634671592a84956d60762ab2c8af1ec34d875dca816bbc2f",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v128/0023.jpg",
+      "path": "assets/slides/v128/0023.jpg",
+      "sha256": "e27c61eec5c5589d70c92f091832daa7c146e0f3554454f2e8a93dabd36b2905",
+      "slide_index": 23
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们来填一个坑，Continuous Control with Deep Reinforcement Learning，也就是后来我们使用的 DDPGDeep Deterministic Policy Gradient。那么这个文章的动机其实非常简单，当时我们 DQN 刚提出来，用一个神经网络去描述一个巨大的状态空间，然后对于每一个离散的 action，我们给出它在当前 state 下面执行 action 所能产生的 Q value",
+    "也就是对未来 discounted reward 总和的这么一个估计。这个呢是 DQN。那这里呢这个图的作者啊在这里他为了方便我们理解啊，你也要理解对吧，这个东西呢他可以被看成是一个 actor-critic 里面的这个 critic。那当然这个说法是不严谨的啊，只是为了跟这个 actor-critic 做对比，所以他说了这么一个东西。那我们今天要介绍这个 DDPG 呢对吧，它是一个 actor-critic 的方法，同时呢它是一个 off policy 的方法",
+    "跟 DQN 呢就长得很像了。那区别是什么呢？这里我们看到 DDPG 呢是为了解决这个连续动作空间这样一个问题的。它呢就是从 DDPG 过来了。那相对于 DQN 它是执行在这个离散动作空间的。那对于 DQN 来说，你如果想做连续动作空间，你必须把这个连续动作空间离散化嘛。那现在呢 DDPG 不用了啊，大家直接吃新鲜的。我一看到它最大的不同呢相对于这个 DQN 就是我们的这个 QNetwork",
+    "这里呢我们不仅把这个当前的 state 作为输入，同时呢 action 呢也作为输入，state action 我们可以把它理解成作为一个查表的 key 对吧，进到这个我们的这个神经网络里面去查，把这个 q value 给它查出来。那么这样呢就解决了我们这个网络啊找不到 q 值的这个问题。那现在找到 q 值了，我们该执行一个 policy 的执行一个 action 对吧，我们的这个 DQN 里面你其实很简单",
+    "选一个 q 值最高的 action 执行就好了。在 xquity 里面呢我们想做同样的事情啊，获得一个大的 q 值，本质上一个大的这个 expected reward。但是呢因为我们的动作空间呢它是连续的呀，你怎么能选一个连续的值出来呢？所以呢这里呢我们用了另一个网络啊，state 输进来，然后呢让他直接输出这个 action，你可以把它理解成是一个 regression 的问题。这样他输出的 action 呢就是一个连续的动作空间连续的量那么定义完了 actor 和 critic，那下面我们就要开始关心怎么样对这两个网络进行训练了。那其实主要呢，就是我们这个 loss 怎么定。那首先看这个 critic、critic 本身就是一个 Bellman equation 来更新的，对吧？当前这个网络跟这个 y 值的这个 MSEy 是啥呢？reward 加上 discounted 这个 next state 的 q value。但是这个 next state 的这个 q value 呢，它是要 condition 这个 action 的。",
+    "对吧？所以这 action 呢就从我们这个 policy 在头这里呢，作者用的是这个 mu，从这里面输出一个最优的 action，然后查出这个下一个状态中最优的这个 q 值，然后呢做一个更新，这是一个标准的 Bellman equation。那对于这个 actor 呢，它本质上是一个 policy gradient，它的目的呢就是最大化我们能够得到 reward",
+    "那能够得到 reward 我们怎么估计呢？就是通过这个 critic 这个网络来估计的，这个当前这个 state 总得到最大的 reward。所以呢你看它写成 loss 呢其实是非常简单的对吧，把我们的这个 state 还有这个 action 扔进去，然后呢希望这个得到的 qvalue 尽可能的大就可以了。但是你说你如果稍微有点追求想了解这个 policy gradient就是它的 loss 虽然显示这个形式，但是如果我不用这些自动微分的软件，它的导数应该怎么求？那么关于这个部分，你可以去看我们的 Soft Actor-Critic，它前面的这一部分讲的是 on-policy 的 policy gradient，然后主要就是 reinforce 的方法。但是我们要把 on-policy 转到 off-policy，要利用大的 replay buffer，这个过程中我们使用了 importance sampling。",
+    "这个地方呢，我们还没有设计，所以现阶段呢，你只需要了解这个 policy gradient，从 on policy 到 off policy 中间呢，还有一个 importance sampling，而且到这里呢就可以了。那么关于这个 importance sampling 呢，后面呢我们根据需求看看是否还要再介绍一下。那这里呢，还有一些小的细节，包括首先第一个这个 exploration，我在一开始收集我们的样本的时候。",
+    "我们希望它尽可能多的探索更多的状态。这里在 DQN 里面用的是ε-greedy，就是大于一定概率之后就随机取个样本。但是这里是连续动作空间，你就不能像 DQN 里面那样做了。怎么办呢？一个最简单的方法，你就在动作空间里面均匀的采样。实在不行，这里作者还提供了一种设计这个 OU 过程，它是有一点随机，但是跟之前的状态还有点关系。",
+    "那你如果硬要踩着我胳膊问我啊，这玩意到底怎么实现的啊？这个有一个实现的这个方法，你呢如果感兴趣呢还是去读原代码。那么最后的最后呢，作者还说这个像 state，因为他当时处理的是 state vector 这种情况，所以呢这些 state 他们可能单位不一样，你最好要把它 rescale 一下，把它都 normalize 到一个尺度上。然后呢，作者还发现这个 batch normalization 可能会很有用，对吧？这都是一些小的细节了。最后一个回顾啊 DDPG 的方法。",
+    "那所以首先我们看到这个初始化的 critic networkactor network 对吧他们有他们自己的这个权重同时呢对于这个 critic network 和 actor network 他们都维护了一个 target network 给这个 critic network 做这个 target network 很常见啊但是给 actor network 做这个 target network 这个呢在后面就不是那么常见的设计了更新一下这个权重那么还有这个 replay buffer 好的污染红灯熄灭 episode 开始啊",
+    "首先我们通过一个 random process 来收集一个 state transition。完事我们就可以用 OU 过程去基于我们当前的 policy，然后在 policy 基础上加一个随机的变量来进行探索，探索得到 state action transition 得到这么一个对，就把它存在 replay buffer 里面。更新的时候取一个 batch 过来，Bellman equation 把 target network 更新好。",
+    "这里注意，既然我们是更新 targetQ ，是要从 target network 里面出，自由的 action 也是要从 target action network 里面出，是一个小的细节。反正有了 target 就可以更新 critic MSE，然后就更新 actor policy 了，还是我们之前说的这个规定，看起来很复杂但是",
+    "但是呢，PyTorch 这种自动微分的工具呢，就帮你解决这种问题了。那么更新完了 critic，更新完了 actor 啊，最后记得更新一下这个 target network，相应的各自更新完事呢就可以了。那么这个呢，就是最基础的这个 DDPG。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "9f2b0eceef112b585585d78da7f55e68788c6b6e5c4a2a6a47fb691b0a3c1167"
+}

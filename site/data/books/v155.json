@@ -1,0 +1,128 @@
+{
+  "video_id": "v155",
+  "title": "DCLGANSimDCL Dual Contrastive Learning[2104.07689]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v155/0001.jpg",
+      "path": "assets/slides/v155/0001.jpg",
+      "sha256": "74795401584da46dcdddefbd2175884146e50566a33f004348132754522eccb1",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v155/0002.jpg",
+      "path": "assets/slides/v155/0002.jpg",
+      "sha256": "fbaaebbd3142506ee4849c780e4839c2ff2b426d5609763122831090677c4807",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v155/0003.jpg",
+      "path": "assets/slides/v155/0003.jpg",
+      "sha256": "a06dbf863b2a53267f66837d54d600479edb6adfb2a22beb704c5989980c79db",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v155/0004.jpg",
+      "path": "assets/slides/v155/0004.jpg",
+      "sha256": "7687580020e08526e8441ac1d480141efd63417bc6ff83f5621b7180e3780921",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v155/0005.jpg",
+      "path": "assets/slides/v155/0005.jpg",
+      "sha256": "6c43127c0aea419761440b7531bce39b6591f4f65686041835b8de6c6149b736",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v155/0006.jpg",
+      "path": "assets/slides/v155/0006.jpg",
+      "sha256": "0ae54f3f22534e47b45f0ae0a1d4ac0f73c0193dd816ab30bc56ef11fc53728b",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v155/0007.jpg",
+      "path": "assets/slides/v155/0007.jpg",
+      "sha256": "363ca3fb51e53e73027482f52164f0751773c9f532966a3c13d2c9b13013c418",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v155/0008.jpg",
+      "path": "assets/slides/v155/0008.jpg",
+      "sha256": "f167e6ab694c966b2f225744fe7f93f4ecd586c26ef8fde4fdffe1aa6425c589",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v155/0009.jpg",
+      "path": "assets/slides/v155/0009.jpg",
+      "sha256": "0510e4fee14901a21b072a2498cd054b0372d0fbfa962ff03b17f0e57e74c92d",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v155/0010.jpg",
+      "path": "assets/slides/v155/0010.jpg",
+      "sha256": "467bc1675b3f71bcd90088f65a432bbc396f2bb9fa2cc21fe9d15d8794aeebfa",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v155/0011.jpg",
+      "path": "assets/slides/v155/0011.jpg",
+      "sha256": "0ef8061546af81767625c28d8c4b8f7a50d10634bffb6610b904d6e9f71ab0d9",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v155/0012.jpg",
+      "path": "assets/slides/v155/0012.jpg",
+      "sha256": "089a00ceafd2b62cae7c712be8d46c47ccfb92ca67e18334bd12e7196712316a",
+      "slide_index": 12
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Dual Contrastive Learning for unsupervised image-to-image translation。那么你从标题就可以看出来,这就是两个 CUT 嘛。我们直接来看,这个是 CUT,乘以 2 就是这篇论文。好,那今天的视频就到这里,大家再见。那么当然事情并没有这么简单,我们来看到作者提供的流程图。那么首先这里我们有 X domain 和 Y domain 这两个集合的图像。",
+    "那么从 x 到 y 呢，我们叫 j；从 y 到 x 呢，我们叫 f。相当于我们现在维护了两个这个 generator，用来做这个图像的 translation。那么与之相对呢，我们就要有对应的 discriminator。那这个 dy 呢，就是看 y domain 的图像是不是真的。那么 DX 呢，就是看 XDomain 的图像是不是真的。有 Generator 有 Discriminator。那么很显然，我们首先就会有这个 GAN loss，这个是最经典的 GAN 的配置。那么随后呢，我们再加入这个 InfoNCE，也就是之前 CUT 他提出的这个 Patchwise InfoNCE 的 loss。你可以看到呢，这里呢使用了相应的 Generator Encoder 加上相应的 Head，那么把里面的 Patch 呢，提出一些 Feature。",
+    "然后他们相互的做 InfoNCE。这一块，如果你不熟悉，非常推荐你去看我们之前 CUT 这篇论文的解析，这里我就不再做过多的介绍了。那么以上就是 CUT 乘以 2 对吧？那么除此之外，我们除去 discriminator 之外，还可以用另一种方式去衡量我们生成的图像和原始图像的相似程度。那么这个方式就是作者在每个 patch 他提出了 feature 之后，再加上几层 MLP，也是期望把我们的 feature 投到 latent space 里面。通过计算 real image 和 fake image 它们之间的 latent representation 之间的距离，那么得到一个 similarity。那么这个 similarity 据作者说，可以帮助我们避免 mode collapse。",
+    "好了，那么我们下面就看具体本文的作者是怎么样把自己的方法区别于这个 CUT 之前的方法的。那么首先我们看到在原来的 CUT 的基础上，你把它从左到右从右到左乘以 2 对吧？那你就得到这个 dclgan，也就是本文提出的第一种方法。同时呢，这里作者针对这个 identity loss 呢做了一点小修改。",
+    "那么在原来的这个 CUT 论文中呢，他 identity loss 呢也是一个 patchwise nce。那这里呢，本文作者说啊，不要这么复杂，简单一点，我们直接使用 L1 distance 那作为这个 identity loss 那就可以了。那么从这个 DCLGAN 呢到这个 SimDCL 呢，作者呢就是在原来的基础上加了这个橙色的这个 sim loss。也就是说呢，把我们的这个 patch embedding 通过再一个 mlp 给它投到一个 latent space 里面。",
+    "然后直接算真实图像和生成的图像它们之间 L1 distance 这个作为我们的 similarity loss。加上这个 similarity loss 就得到 SimDCL。可以看到本文的思路真的是非常的直接。那么我们直接看到结果，这里作者对比了本文的方法还有之前的各种各样的方法。可以看到在马到斑马的这一张图像上，大家依然翻车。",
+    "因为我们的这个 model 呢，不太能分清这个云彩和这个斑马或者是马它们的区别。那接下来说更多有数值上的东西呢，可以看到这里有四个数据集。这里呢做着对比的这个 FID 肯定是本文提出的方法 outperform 之前的方法，毕竟它整了这么复杂一个 model。本文运算的速度呢，也是大幅的慢于原来的这个 CUT。那么更多关于模型参数啊还有运行时间对比呢，你可以看到这个表格。",
+    "那么随后呢，就是本文我认为最有价值的部分，就是这里作者做了一个 ablation。这里呢，作者测试了五种不同的配置来帮我们确定说哪些部分是重要的。那首先第一个我觉得是最有意思的就是就是这个 not include RGB layer。那在一开始我们计算这个 patchwise NCE 的时候呢，比如在 CUT 那篇论文里面，我们是把 generator encoder 每一层包括 RGB 的图像也都拿出来做这个 patchwise contrastive loss。",
+    "但是因为在 RGB 层我选一个像素它就只代表那一个像素用它来做 contrast loss 实在是影响我们分类器的性能于是作者说我把第一层 RGB 这层去掉了可以看到相对于加上 RGB 的性能得到了很大的提升第二个是 external negatives 就是我们在计算 PatchNCE 的时候是指来源于本图片还是来源于这个 batch 里面的其他的图像那显然在这个问题上呢它的影响呢有一点反复可以看到呢从斑马变回马的时候呢这个不使用这个 external negatives 的性能呢有一定的提升其他的时候呢都相对比较接近那第三个呢是使用这个 embedding 那假如我的两个 generator 的 encoder 呢都是一样的然后呢它使用的 mlp 把这个 patch 投到 latent space 中的 mlp 也是一样的那很显然这种做法呢会损失掉我们的性能",
+    "那么第 4 个呢是这个 cycle consistent loss 什么 cycle consistent loss 呢这个来自于 CycleGAN 一个 x domain 的原始图像变到 y domain 然后呢再变回来",
+    "那这个时候呢它跟原始图像的区别这个 loss 呢我们叫 cycle consistent loss 那这里呢作者发现加上它呢对我们的性能呢并没有显著的提升那这里呢作者猜测因为说我们的 InfoNCE 已经能够把这一个 cycle consistent 这种感觉呢给它体现出来了所以呢在这里加上它这个 loss 呢就显得没有那么必要那么最后呢就是这个 dual setting 也就是作者小改一下 cut 得到的结果",
+    "那很显然呢本文提出的方法就是作者测试出了这种组合呢那 outperform 这个 CUT 的配置好了那么总的来说呢本文的实现的思路呢并不复杂在 CUT 的基础上呢做了一些小的改动刷新了一些这个数字上的性能那么以上就是我对这篇论文的简单的分析感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "d7c98c0b3c8175dccaf8969073b0472c9880150c259afa0ddf085d6b7076451d"
+}

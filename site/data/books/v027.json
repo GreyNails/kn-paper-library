@@ -1,0 +1,86 @@
+{
+  "video_id": "v027",
+  "title": "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning",
+  "frames": [
+    {
+      "src": "../../assets/slides/v027/0001.jpg",
+      "path": "assets/slides/v027/0001.jpg",
+      "sha256": "b2ed7b187dd735d649cdf5bd1bed828aff355fe697aa34fe485d7da6d88c0bf2",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v027/0002.jpg",
+      "path": "assets/slides/v027/0002.jpg",
+      "sha256": "311fe00c1a80f7b42199e91c94066c1388c5a652b714a43c9ded6222acd00900",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v027/0003.jpg",
+      "path": "assets/slides/v027/0003.jpg",
+      "sha256": "a8248b356276f2864f70399f4b885337821df48d76b43101b9e7a56054cb184e",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v027/0004.jpg",
+      "path": "assets/slides/v027/0004.jpg",
+      "sha256": "f1cd1b9a5ae6b3889736d83f0a4ff5d1c798bdd35a32fdc4444a8bce6a09db7d",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v027/0005.jpg",
+      "path": "assets/slides/v027/0005.jpg",
+      "sha256": "e7671bc1e751650ae65c1e3a5f838cb7bcd7f59023f2fd84d6e462dbe5bf8c4b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v027/0006.jpg",
+      "path": "assets/slides/v027/0006.jpg",
+      "sha256": "17e33a6dd7c7659cd61de18aaaca48c8cb19ed1126cfcad2a67d75b264f9a3c7",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v027/0007.jpg",
+      "path": "assets/slides/v027/0007.jpg",
+      "sha256": "0978bc15833943f93c7e92c28977278d6b0a6fb3e9a537e66ae28e32e5c89123",
+      "slide_index": 7
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速水两篇论文 Open Vocabulary Semantic Segmentation with Patch-aligned Contrastive Learning 这一篇就是通过对 clip 稍加调整来让 clip 模型能够做到对图片更细尺度的划分那么整个这个文章的想法非常直接熟悉文明 6 的朋友应该知道不要另起炉灶,只需稍作调整",
+    "那么这一篇的任务呢，就是他想要让我们的这个图片中一个一个的小的 patch 能够对应到一个文本的 label。我们知道 clip 这个东西，它是一整张图片，然后拿一个 classification token，就是一整张图片用一个 token 去总结，然后呢和这个 text 这个 embedding text token 来做 contrastive learning 来训练出来的。那么这样子呢，就导致了他的这个 representation 始终是一个概括性的，它概括了一整张图片。你可以看到就像这边这样的，那么当你去把这个图片里面的每一个 patch 拿出来和这个 text embedding 做这个相似度的时候，你发现它们就基本没有什么关系。这个当然是不意外的，因为你一开始就没有这么训练它。那么本文的方法就是我改进一下它，让它每一个 patch 的 embedding 和文本的 embedding 能够对上",
+    "这样子呢，我们做后面的很多事情就会方便很多。那么下面我们来看作者是具体怎么做的啊，就是他稍微修改了一下 clip 里面 contrastive loss 的计算。那具体来说呢，就是原来的标准的 clip 是只拿最后的这个 classification token。现在呢，你是把图片里面所有的 patch 的 token 都拿出来，然后呢，你这些 token 呢经过一个 projector，这个 projector 呢把你的这个 Visual token 统一到这个 text token 这个长度",
+    "你的 Visual Embedding 这里的每一个 Patch 的 Visual Embedding 和这个 Text Embedding 它们做一个相似度。得到一个相似度呢，对每张图片来说做一个 Softmax。那么这样子呢，你就拿到一个权重。这个权重呢，就表示这一个小的 Patch 和这个 Text Embedding 它们的相似程度。那么这个权重呢，这里是这个 AXYX 图像 Y 是它对应的文本嘛那么拿到这个权重之后呢，你按照这个权重把所有的 patch embedding 给它组合起来，就是一个加权的和嘛。那么这样操作下来之后呢，你又是从每张图片很多个 patch embedding 给它集合成了每张图片只有一个 visual embedding。而这个 visual embedding 呢，它是显示的结合了所有的 patch embedding。那么你有了这个新的这个 visual embedding 之后，再拿去和 text embedding 做标准的 clip 训练，就可以把这个模型给它训练出来",
+    "这个就是本文最核心的这个技术。那么具体一些实现上的细节呢，比如说你这个 Vision Embedder 它呢是非常小的，你可以看到就是两个分支，一个分支就一个 Linear Layer，另一个分支呢是两个 Linear Layer 中间加了一个 ReLU，非常轻便的一个设计",
+    "那么你现在模型训练完之后，一张图进到这个 Visual Encoder 里面，每一个 patch 都有一个 embedding。那么这个 embedding 呢，你再去和这个 text embedding 一一做对比，就能够得出说这个 image patch 它是属于哪一类了。那么当然这个是 patch level 的，你如果想要获得更加精细的分割结果那怎么办呢？这个时候呢，你就可以通过更改这个 stride 让它的这个每一个 patch 不一定是没有交叠了。现在你通过更改 stride 把这个 stride 减小之后呢，让每一个 patch 那么这样子呢，你就在没有更改训练的时候只在 inference 的时候提高了你最后生成的分割结果的分辨率。那么最后一些结果啊，你可以看到如果直接用 clip 那当然是没有布什么好的，那本文训练的结果",
+    "那么第二篇呢，那这一篇呢更简单了。你看，在我们上一篇，它是算这个 patch embedding 和 text embedding 它们的这个相似度，用这个相似度来决定每个 patch 的，然后呢做加权和嘛。那这里呢更简单了，作者发现啊，我直接把所有的这个 patch，我直接做一个 global max pooling，然后拿过来正常的去做这个 CLIP 的训练就好了。从结果上来看呢，也很不错啊，都是很直接的设计。",
+    "好的，那么以上就是我对这两篇一个非常快速的一个整理，都算不上了，就是一个高度的概括。那么有对这个 Vision Language Model 感兴趣的朋友，非常推荐你到原文去仔细读一下他们的各种设计，还有很多验证性的实验呢，我是没有提到的。好的，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2b9b48fcadc28c7f8c076cb55c65e14f328a06e7c307dc524e75b53a1a71999c"
+}

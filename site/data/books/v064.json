@@ -1,0 +1,230 @@
+{
+  "video_id": "v064",
+  "title": "MnasNet Platform-Aware Neural Architecture Search for Mobile[1807.11626]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v064/0001.jpg",
+      "path": "assets/slides/v064/0001.jpg",
+      "sha256": "b489a61d8aa9efdbc300504a0194f2bae1548a37f4e451a0d2f4225aaaa86175",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v064/0002.jpg",
+      "path": "assets/slides/v064/0002.jpg",
+      "sha256": "aaa2f49e95237f4af2fc38a317a1b261e7a165001aa5bf6b23c100b24253ad59",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v064/0003.jpg",
+      "path": "assets/slides/v064/0003.jpg",
+      "sha256": "83b3b249226d048e3fbe428a8369310631475169dde01a09af94f37287c36110",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v064/0004.jpg",
+      "path": "assets/slides/v064/0004.jpg",
+      "sha256": "9f36ebb7a82e8a2c77d11e9c4a849718046417ecaeb9156f225b48cdd224b12e",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v064/0005.jpg",
+      "path": "assets/slides/v064/0005.jpg",
+      "sha256": "05345c7f1c272446a64bf88ac1fbed00134414197c5f7fad0c36dc311bad3c73",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v064/0006.jpg",
+      "path": "assets/slides/v064/0006.jpg",
+      "sha256": "187dc416fa7addeb73d4c50ebf32a7360bcf0b1bcaa750b6140869e8d0d7a4b7",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v064/0007.jpg",
+      "path": "assets/slides/v064/0007.jpg",
+      "sha256": "5b3e1c0510dc1859f1bff6ed9fa331b9ff57b32ef11505d0cb381d030838f26d",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v064/0008.jpg",
+      "path": "assets/slides/v064/0008.jpg",
+      "sha256": "84114ff4cdb9f2bd9c693b09e2abcfde8a215266a476e6e393a07d0e59a751c3",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v064/0009.jpg",
+      "path": "assets/slides/v064/0009.jpg",
+      "sha256": "134bd407441aef6981f9fb26fd08826ee68bc7b1fe3f12ca2d57c209002c46b2",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v064/0010.jpg",
+      "path": "assets/slides/v064/0010.jpg",
+      "sha256": "ff8c5468c706e8582d2dc6ac74e9c8e7cda527a9e2b86ed4489b3d612c919b95",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v064/0011.jpg",
+      "path": "assets/slides/v064/0011.jpg",
+      "sha256": "c9187b429c41ee8461aefd147c4d3098c01dd5c2f9b99be92483d509374c3c29",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v064/0012.jpg",
+      "path": "assets/slides/v064/0012.jpg",
+      "sha256": "400772a610ad614c039de03940aea64662f836368dba259608d9424bda21c232",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v064/0013.jpg",
+      "path": "assets/slides/v064/0013.jpg",
+      "sha256": "a3b1e07f7ef12d27b470d864bfae7d4f25892805291bd5e8d10df6c1ce5f99d9",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v064/0014.jpg",
+      "path": "assets/slides/v064/0014.jpg",
+      "sha256": "8fdd24780af5346bdff89ea6304e7cd3f947586fc9ea6e4d57795a2dcab8131f",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v064/0015.jpg",
+      "path": "assets/slides/v064/0015.jpg",
+      "sha256": "2baa819d9b89423eb1dca204a4807b1d6b537b87c0db9cc1f4944efa6461c5f7",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v064/0016.jpg",
+      "path": "assets/slides/v064/0016.jpg",
+      "sha256": "22e1778353f716fc774a08d11e3f664814fc2a169a22940b136fa9ea58d67cd1",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v064/0017.jpg",
+      "path": "assets/slides/v064/0017.jpg",
+      "sha256": "64f5edb747f11456d131535dc725055a21c6391eaf6e3a19269de17b20c256fd",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v064/0018.jpg",
+      "path": "assets/slides/v064/0018.jpg",
+      "sha256": "b753da23ee1454b51cbd9cbbbb32f85556279240c66eabd80106fb35bee7c2c3",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v064/0019.jpg",
+      "path": "assets/slides/v064/0019.jpg",
+      "sha256": "d1afa088a3fcb05e82589ecac94969c40a1b2fe06347a73e5c785265c03ade39",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v064/0020.jpg",
+      "path": "assets/slides/v064/0020.jpg",
+      "sha256": "b5aefd12bc0bf413d1bb0c8d5891e8c92eefdcc638ba5599594f96110c33fc87",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v064/0021.jpg",
+      "path": "assets/slides/v064/0021.jpg",
+      "sha256": "94bcd0fe0d7a7e2e68c1a482a5794433d18acc0d3bca9a94fc642be038b917f9",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v064/0022.jpg",
+      "path": "assets/slides/v064/0022.jpg",
+      "sha256": "405ad469fb1f3442ce27a0e86977203b9b729bfeda396f9f02f88fb1ce0bed03",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v064/0023.jpg",
+      "path": "assets/slides/v064/0023.jpg",
+      "sha256": "0c6e39eb9b9ebdccf2fff83a0781c77fa48856cd656c9ccc0134b496b7ec4e3f",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v064/0024.jpg",
+      "path": "assets/slides/v064/0024.jpg",
+      "sha256": "cfd71fbbfafaee595176516364d8eba5e0807b35a958ee6424d6997b5b3d1e2d",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v064/0025.jpg",
+      "path": "assets/slides/v064/0025.jpg",
+      "sha256": "e88e33e6451402e3e6605d1b655acc0d8f42235937252295a4b1cac6d23646b8",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v064/0026.jpg",
+      "path": "assets/slides/v064/0026.jpg",
+      "sha256": "ed80aa947b248cf437969b2492d09976fc546534bfbc0f83d56f16bd4093cb66",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v064/0027.jpg",
+      "path": "assets/slides/v064/0027.jpg",
+      "sha256": "88aafebe322d2b71dc34715a3eed551446ed5ee48c65309c1d95d5eb3456500e",
+      "slide_index": 27
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来迅速说一篇论文 MnasNet Platform-Aware Neural Architecture Search for Mobile 这篇论文是 MobileNet v3 的最后一篇前置讲完它,我们就可以介绍 MobileNet 然后再可以介绍 EfficientNet 我们就终于赶上时代了本文的思想也非常简单在我们长久设计 MobileNet 的实验中我们领悟到一件事人类设计网络结构的能力是有极限的那你到底想说什么呢？我们呢，就是想找到一个网络，它能够在我们模型的预测的准确性和它预测一张图像使用的时间这两个项目之间呢，做一个好的平衡，做一个好的 tradeoff。完事呢，我们只要设计一个好的 loss function，或者我们应该叫 target function，交给机器让它去找一个好的网络结构那就可以了。那么这里呢，我们先看到作者设计的这个 target function。",
+    "ACC 表示它的预测的准确率，LAT 就表示它的 Inference Latency。那么为什么要使用 Inference Latency 呢？它跟我们传统的计算量等等都不一样。这里做的就是说，我们直接找一台手机，把这个模型放上去跑一下那就行了嘛，也不要计算说我这个模型里面到底有多少运算量，算出来又跟实际手机运行的时间又不准。那么这个就是本文的两大核心贡献之一，也就是构建了这么一个 Loss Function。",
+    "我们希望它的值最大这个 t 呢是我们目标的这个模型的延迟大概是多长时间 w 呢就是这个权重你当然可以通过 tune 不同的 alpha 和 beta 来选择这个整个函数的形状那么这边呢我们看到如果说准确率去到 50%0.5 那么 t 去到 80 我使用不同的 alpha beta 它做出来可视化的样子是什么样的那么这个呢就是本文的第一个核心贡献啊我有一个 loss function",
+    "我们让这个机器按照 loss 方式去优化我们的模型设计就可以了。那么我们要怎么样优化就模型设计呢？你想，我们一个传统 CNN 它有几十上百层，那么难道我要一层一层决定这里面每一层应该怎么设计吗？那显然不是这样的。这里作者就使用一个叫 hierarchical search space，那么具体来说就是我的一整个模型，我给它分成一个个的 block。",
+    "那么每个 block 里面它是不同的 layer 做重复。那么这些 layer 它们的尺寸是完全一致的。所以说我只要搜索每一个 block 里面它的参数就可以了。而 block 里面就是相同的 layer 重复了很多次。那么在看这个 layer 里面我们有哪些工具可以选，比如说我们要做的 convolution 它的操作，它是正常一个 convolution 还是像那个 mobile net 里面是 depthwise 的 convolution，它的 kernel size 是多大呢？",
+    "它的 SE Ratio 是多大的？SE 代表 Squeeze and Excitation。那么这篇工作其实就是 Channel-wise 的 Attention，也就是说它额外的开辟一条 Path 来计算每个 Channel 之间的 Attention。而在额外开辟的 Path 中它有一个 BottleneckBottleneck 相对于原来 Channel 的数量就是这个 Ratio。",
+    "那 0 呢表示我 bottleneck 呢只留一个数字。那么这里呢，我默认呢你已经熟悉了 SENet 的主要的思想。那么如果有很多朋友表示不熟悉，需要讲的话，我们可以后续考虑出一个视频来讲一下这个网络它的应用呢还是很广泛的。那么再下点，我们想看到这个 skip connection 它是直接的连过来还是要做一个 pool 等等。那么最后呢，包括我们的 convolution，每个 convolution 里面它有多少个 filter，还有呢我们这个 layer 里面它叠多少层？",
+    "这些都是值得我们去搜索的。那么更具体来说，我们模型是在 MobileNet v2 它作为 baseline 在上面搜索的，每次搜索的时候我们就看我们是要在模型我们是要维持 block 里面的 layer 不动吗，加一层还是减一层，每个 layer 的 filter size 我是要给它扩大 1.25 倍还是减少 25%等等等等。",
+    "这些就是它如何从 MobileNet v2 逐渐出发开始搜索这么一个过程，那么既然是一个模型的搜索，你每次提出一个新的模型结构，拿去训练它得到一个准确性，然后放到机器上直接跑一下得到它的延迟，最后我们把这个准确性和延迟加起来算我们的 target function，那么根据这个 target function，我们再对我们的模型结构进行调整，那么很显然你可以使用一个自由化的方法去做这个事情但是作者说在之前的工作 NASNet 里面，我们是使用 reinforcement learning 的方法来帮助我们去找网络的结构，那么定义 reinforcement learning 的问题就是我们一个模型产生的 reward，也就是我们之前的 target function，使这个 target function 变得最大，那么它使用的 reinforcement learning 的方法是 PPO",
+    "具体的结构呢，也可以看到这个 controller 是一个 RNN base 的这么一个网络，它呢还是产生一个模型，然后交给我们的 trainer 去训练，训练好了之后呢，评估一下它的准确性，交到我们实际的设备上呢去评估一下它的运行需要的时间，那么最后呢得到这个 reward，反过来再做我们下一步的 RL 就可以了，那么这里呢还是我们默认呢你已经了解 NASNet 它的大致的核心的思路",
+    "那如果你对这方面不熟悉，而且有很多朋友表示需要讲一下这个论文的话，我们可以考虑后面讲一下这篇论文，那么最后就看有了我们的 target function，就是这个 reward，有了我们这个搜索的方法，我们最后搜出来一个什么东西吧，那么这个呢就是本文搜索出来的 MnasNet，你可以看到它的网络结构呢是如图显示的这个样子，那里面呢像这个 separate convolution 呢，这个我们在 MobileNet v1 里面就介绍了，这个呢是 MobileNet v2",
+    "这个是 MobileNet v2 再加上我们的 Squeeze and Excitation，经过这样一种神奇的组合，它达到的效果是最好的，你说如果有人手工设计出这个东西来，那确实是有点不太可思议，那么我们来看这样的一个模型它的性能表现如何，肯定经过搜索，本文提出的方法性能表现是相当可以的，横轴是我们的延迟，纵轴是准确率，可以看到它肯定是 outperform 之前的这些方法的",
+    "那么这里所谓的讨论，如果说我把我们所有的 convolution 都换成了这样的东西，虽然它的性能能够得到小小的提升，甚至大部分情况下都是大幅的下降，但是跑这个模型的时间就变长了，那么再往下是在 ImageNet 上对比了不同深度的这么一个模型，也就是说通过加减 layer 的数量来评估这个模型的表现，可以看到本文的方法也是 outperform mobile net 的",
+    "这里对比的 input size 也就是每一层的 resolution，那么可以看到结果是相似的，这里是 coco 数据集一些美好的数字等下对比一下，这本书实验也很有意思，如果你想有一个新的条件约束比如说原来是希望在 70 毫秒内解决问题，现在需要是在 22 毫秒内解决问题，你缩放 MnasNet 固然能够得到一个好的结果，但是你如果去做一个搜索的话性能还会提升更多，相比之下直接收缩 MobileNet 效果就不是那么好了，比如说 Squeeze and Excitation 它是非常重要的，没有它性能就下降，那么还有这里对比了本文提出的两大贡献，一个就是它的 Objective Function",
+    "我们这里不仅要评估准确性，还要评估它的 inference time，那么使用这样不同的 object 会带来什么样的影响，还有是使用的推理方法 36 就是 nasnets，它是 cell-based 的方法，跟本文的 hierarchical 的方法相比，它们搜索出来的结果来对比，所以总的来说，本文是非常暴力的通过了实机的运行大量的模型的搜索，因为我们找到了一种效率很高的模型，它的结果就长了这个样子",
+    "里面也是包括了很多前人的工作，高情商的讲法是一种集大成者。如果你对这篇论文感兴趣，非常推荐你去看一下原文。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "e4c21ed13d1cb50c19910b91f5f81c2d7fe968503a38ea802c1d59e9c800c0dd"
+}

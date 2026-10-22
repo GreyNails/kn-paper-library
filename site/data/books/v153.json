@@ -1,0 +1,170 @@
+{
+  "video_id": "v153",
+  "title": "Big Self-Supervised Models are Strong Semi-Supervised Learners[2006.10029]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v153/0001.jpg",
+      "path": "assets/slides/v153/0001.jpg",
+      "sha256": "7e3ad550c502e85919c98ac00864c1a515b167d8cc32bfc4460307959adae0eb",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v153/0002.jpg",
+      "path": "assets/slides/v153/0002.jpg",
+      "sha256": "d730de2e6f1f1867d9ca36c261647b81b8a096117ef7fcf9e447f08c40dc55af",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v153/0003.jpg",
+      "path": "assets/slides/v153/0003.jpg",
+      "sha256": "5ce56b9a1a03b745f6f0f1b5e203284d729cd5b07f29a3a960db83f1c9893394",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v153/0004.jpg",
+      "path": "assets/slides/v153/0004.jpg",
+      "sha256": "1d96eb292070c3309101299a21ea232b5a4fa5fcb24cdee488ab94860008b09a",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v153/0005.jpg",
+      "path": "assets/slides/v153/0005.jpg",
+      "sha256": "6d2adfe1c58c52659ce265dfa05c80f050e72b0940710cdce43000fb1a0f99c9",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v153/0006.jpg",
+      "path": "assets/slides/v153/0006.jpg",
+      "sha256": "d68b2c56562090f518904ad170bdd9cf872d77eaabf590dfdb56a4e1678d69fb",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v153/0007.jpg",
+      "path": "assets/slides/v153/0007.jpg",
+      "sha256": "a31a171e1c7ef12df934f975ad79a99197141a1e32af9972199c7a84b588a0b9",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v153/0008.jpg",
+      "path": "assets/slides/v153/0008.jpg",
+      "sha256": "6af3e2425e0bb6b4abb7c4591b24935f6f790e4af46b63d0450418fad96a1379",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v153/0009.jpg",
+      "path": "assets/slides/v153/0009.jpg",
+      "sha256": "0492bc42fd7320861838cefc78c5f58f8cfe6bef71f34f77f67a35627921026b",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v153/0010.jpg",
+      "path": "assets/slides/v153/0010.jpg",
+      "sha256": "2ef81eb1f99ac6412a0f314ed68adee4a5cf39a7a14a1a67ddd2f38f1092750c",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v153/0011.jpg",
+      "path": "assets/slides/v153/0011.jpg",
+      "sha256": "4e76f9adbb90148b538d61710175a05bd9cd54f6930b61a56658887da4102ce3",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v153/0012.jpg",
+      "path": "assets/slides/v153/0012.jpg",
+      "sha256": "012fcb33864b9be485b20489ae0c2be844fbb6622922268251346bc0264de83e",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v153/0013.jpg",
+      "path": "assets/slides/v153/0013.jpg",
+      "sha256": "aeb4d53c26679afa0ad3ac1a59ba2668219737d9f29de41b3f7313f0f7921242",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v153/0014.jpg",
+      "path": "assets/slides/v153/0014.jpg",
+      "sha256": "4196a878213c4030de305feeed4ded5858f385f7dbcd4f035c5bceb272f021db",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v153/0015.jpg",
+      "path": "assets/slides/v153/0015.jpg",
+      "sha256": "d11bf4b7fab5233911c4126cdd6705e3c50157fa7b7c4a0988fcc634e20776ff",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v153/0016.jpg",
+      "path": "assets/slides/v153/0016.jpg",
+      "sha256": "db4fa19dcd1ea3c765233a5487ccbb22b8420a29e3bf71ab454b7c0e1da08471",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v153/0017.jpg",
+      "path": "assets/slides/v153/0017.jpg",
+      "sha256": "9d65349218dee8774e74d1def6538d7cabf759f1c9bd0e6bc6502fbcf0d2b5db",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v153/0018.jpg",
+      "path": "assets/slides/v153/0018.jpg",
+      "sha256": "4afb39c960dd0547bf249b35ccc5bcc09067baeca87f7e8a8931926e60f08a5b",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v153/0019.jpg",
+      "path": "assets/slides/v153/0019.jpg",
+      "sha256": "6aa10a341700ba6b2916bda127913fb2cc41e753ff4c819f071368a8ddf2a7c7",
+      "slide_index": 19
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来介绍 Big Self-Supervised Models are Strong Semi-Supervised Learners 这篇文章就是之前的 SimCLR 的 Version 2 简单来说就是换了更大的模型取得了更好的 performance 但是如果作者直接说我只是换了更大的模型那肯定不能再数一篇论文的那怎么办呢?就在我有一个大的模型之后再重新给它加上知识蒸馏的部分",
+    "也就是说我在这个非监督的环境下训练好一个大的很强的模型然后呢对它进行 fine-tune 按照有监督的方法进行 fine-tunefine-tune 出来之后呢我们就得到一个强的这个分类器然后呢我们用这个强的分类器作为 teacher 标一个尺寸相对小的网络这样子呢我们就能够使用低成本把大量没有标记的数据还有这个训练好的大的网络的知识给它灌到这个小的网络里面那么这个视频呢也是非常简单我们就简单回顾一下它的方法还有作者汇报的结果以及结论那么来看到这里本文提出的系统呢就分为三个步骤首先呢就是我们非常熟悉的这个 SimCLR 它作为这个 Backbone 我们把没有标记的样本给它放到这个大的这个 CNN 里面这个 CNN 呢就是做 Pretrain 它也没有说针对具体的任务做优化",
+    "然后相对于原作一个是增大的 CNN 再就是作者也加了几层 Hidden Layers 在我们的 Projection MLP 里面然后使用 ContrastiveLoss 使用的还是同样的 Loss 我们做 ContrastiveLearning 就可以得到 Unsupervised 的 Pretraining 那么得到 Pretraining 之后我们就把 Label 加进来针对我们的 Image Classification 图像识别任务来做 fine-tune这个 fine-tune 呢就是标准的有监督的学习那么 fine-tune 完了之后呢我们就得到一个很强的 classifier 也就是我们的 teacher network 然后呢我们用这个 teacher network 邀一个这个尺寸可能会稍微小一点的但是它专门是用来比如说做 classification 这样的一个网络具体来说呢就是我的 teacher network 在这些 unlabeled 的 data 上给它生成 pseudo-label",
+    "那伪标签然后我们作为 Ground Truth 就扔给我们的这个 student network 那么具体知识蒸馏这一步我们使用什么样的 loss 呢看到这里这是一个典型的 cross entropy 嘛那么里面的概率呢也是和 softmax 非常接近的这么一套配置这里呢还是有个 temperature 这个 temperature 呢作为一个 hyper parameter 来控制我们的网络的输出当然呢你不仅可以利用 teacher network 中产生的 label 你也可以呢直接把 your ground truth 搬进来",
+    "然后呢让我们的 student network 去判断那么这样子呢你把这个 distillation 的知识蒸馏的这个一部分 loss 和这个 ground truth 一部分 loss 结合起来就可以构成一个大的 loss 那么这个 alpha 呢就是控制这两个项目的 tradeoff 好了那么以上就是本文的核心的思路我们聚起来看作者的实验这里呢作者就是试了不同深度的网络然后呢不同的宽度",
+    "然后有没有这个 selective kernel 还有使用多少数量的 label 用来做 fine-tune 那么这些的结果都是看到那么毫不意外的呢我们可以知道模型越大效果越好然后呢作者为了进一步吹一下这个大的模型他发现呢说模型越大那么他的 label efficiency 也就是使用 label 的效率就越高其实就是你在这个半监督的配置下面",
+    "你发现呢随着模型尺寸的增加我使用相同的 label 呢他能获得的准确率呢是逐渐增加的而对于有监督的情况下呢他这个趋势呢就不是那么明显作者为了体现这个趋势呢在这个图里面故意的把这个 y 轴给你放大了让你看出这个趋势来在之后的一个结论呢就是使用更大的更深的 projection heads 能够改善我们的 representation learning",
+    "这点其实非常有意思就是我们在做 contrastive learning 的时候原来的 SimCLR 它是只有一层 hidden layers 那现在作者加到了两层 hidden layers 三层 hidden layers 那么来看呢发现随着这个层数的增加我们特别是在使用的 label 比较少的时候那么它的性能呢是有提升的同时呢作者还研究了说我应该从哪一层开始 fine-tune如果是直接从这个 SimCLR 它的 representation 开始 fine-tune，那效果不是那么好，而从第一层这个 hidden layer 开始 fine-tune，它的效果呢甚至比直接从 representationfine-tune 效果要好。但是呢，如果你使用的样本很多，最后呢还是发现这个从这个 SimCLR 直接 fine-tune 比较好，这个呢是一个有意思的发现。那么除去前面的 unsupervised learning 还有这个 fine-tune 的环节，我们再看这个 distillation。",
+    "那么作者认为呢，distillation 特别是使用这些没有 label 的 data，可以改善我们半监督的学习的效果。那么可以看到这里使用的不同的配置啊，如果我的 student network 只使用这个 label，那它的效果呢特别是在 label 比较少的时候肯定是非常差的，而如果呢我使用 distillation，那么性能上有一定提升。",
+    "但是因为我只局限于这个有 label 的这些数据，它的这个数据量呢还是比较小的，所以提升呢并不是特别明显。那么我如果加上剩下的这些 unlabel 的 data，那就极大的扩充了我们的数据量，所以呢我们可以看到它的追求率呢有了很大的提升，而且加上我们的 ground truth 这个 label，这整个一套组合下来它的效果呢应该是最强的。",
+    "当然你如果只使用 distillation loss 只让我们的 teacher network 去教我们的 student network 而不使用任何的 label 这个过程中我们看到它的性能的下降并不是特别的明显也就是说 distillation 还是起到最主要的作用的同时和我们非先度的结论很相似这个模型越大效果越好那么最后就是惯例的作者汇报的一些同行的工作之前的工作对比一下之前的这些方法",
+    "那本文的方法这么大的一个模型肯定是 outperform 之前的这些方法。好的，那么以上就是我对本文的简单的分析。那么这边的思路呢是非常直接，就是大量的实验堆积出来的这些数据告诉我们模型越大效果越好，还是呢，如果你对这方面感兴趣，非常推荐你去读一下本文的附录，里面有汇报了很多有意思的发现。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2e4b7e3064c59b0336b8e4954a99b6cb955503d49475a9f2b7ba418d496e8ac4"
+}

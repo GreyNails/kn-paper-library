@@ -1,0 +1,907 @@
+{
+  "video_id": "v089",
+  "title": "RetNet A Successor to Transformer for Large Language Models[2307.08621]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v089/0001.jpg",
+      "path": "assets/slides/v089/0001.jpg",
+      "sha256": "a6496ca4a21a86a070cad99bfae5a74d97ced10b98a3df2c6bd145a24d90c1b4",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v089/0002.jpg",
+      "path": "assets/slides/v089/0002.jpg",
+      "sha256": "71bac36ac97b91d38b62bdf160c5e5e1b75959d8a18110bf2ab09aab6d29a5bb",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v089/0003.jpg",
+      "path": "assets/slides/v089/0003.jpg",
+      "sha256": "f40cb84a625418afb4490a4e040ff9a5489be9bb47d7e0a0c5671da52a24f64c",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v089/0004.jpg",
+      "path": "assets/slides/v089/0004.jpg",
+      "sha256": "ddec20e324b233cde6584a20cc86a8cea8c9702db539a12949dd8eba122c492e",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v089/0005.jpg",
+      "path": "assets/slides/v089/0005.jpg",
+      "sha256": "03a12cd773c8b8d8da00ccacdaf5c1cf633934d32bb9aec0554706e4ab38241f",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v089/0006.jpg",
+      "path": "assets/slides/v089/0006.jpg",
+      "sha256": "df39c2ffdd3bcee1ac19dc4ab1dcfe1c389f62ecf0049f094ce618eca5e7075c",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v089/0007.jpg",
+      "path": "assets/slides/v089/0007.jpg",
+      "sha256": "e35376421f3e67940628265bb7ee81489c0cacbf4aaad5b73845a646b5029399",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v089/0008.jpg",
+      "path": "assets/slides/v089/0008.jpg",
+      "sha256": "5762577e50cd910ae69971c8dbcc18da47bc0f27a6b79623ada678a4702faead",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v089/0009.jpg",
+      "path": "assets/slides/v089/0009.jpg",
+      "sha256": "b5af90eced3068058133f2f7f67aeb0fc96b931b27c1c1be0e45defbacb9572c",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v089/0010.jpg",
+      "path": "assets/slides/v089/0010.jpg",
+      "sha256": "bd922fd03c845dd0dcfe2e2a053d9ba227db563f5bce9eef9a0f9e86a40304d1",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v089/0011.jpg",
+      "path": "assets/slides/v089/0011.jpg",
+      "sha256": "1923df7ba0efcd531cd5c59ba6b8d35db467b211ed1ef748dbe6744911603463",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v089/0012.jpg",
+      "path": "assets/slides/v089/0012.jpg",
+      "sha256": "77b9ea9f1055752affe5904e8918bf09479f69aedea8f2e8730e553a3bbce6e4",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v089/0013.jpg",
+      "path": "assets/slides/v089/0013.jpg",
+      "sha256": "d5543af86b3c8fe4aa1f76060d9ec157820ffc38a745b245e7d204aea8395dc0",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v089/0014.jpg",
+      "path": "assets/slides/v089/0014.jpg",
+      "sha256": "b02d06c6279ec8f1a27975ec5ebebb7c61e7e4d692fb7b97da19321e6f379110",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v089/0015.jpg",
+      "path": "assets/slides/v089/0015.jpg",
+      "sha256": "5707f79cba0ed01f49af126e69573e7d9833fca464b0b7e082dbbd3e9f76d9fc",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v089/0016.jpg",
+      "path": "assets/slides/v089/0016.jpg",
+      "sha256": "032bc53f29b29a35b9271443b3b0e36b12ab46dc660bec5899548f805a7e5255",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v089/0017.jpg",
+      "path": "assets/slides/v089/0017.jpg",
+      "sha256": "9d8599170d234cdcba1165748bd4f93c1724da8c5b2c2a335926e192a2856b77",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v089/0018.jpg",
+      "path": "assets/slides/v089/0018.jpg",
+      "sha256": "b7c63d1b2465d56c46a7d30612671eccd0a37c367502925a6ab48d9172304125",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v089/0019.jpg",
+      "path": "assets/slides/v089/0019.jpg",
+      "sha256": "a27d3c774796207037ec8bfe4d1b11dfb3cef43529f662652bca7f9bf3e3b8b1",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v089/0020.jpg",
+      "path": "assets/slides/v089/0020.jpg",
+      "sha256": "060ecefc79a5e19a44627911c9274455405d12e2442d0713ee07121aaba5c293",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v089/0021.jpg",
+      "path": "assets/slides/v089/0021.jpg",
+      "sha256": "8fae129c0c521560ed815546ec81bb525095954f3b76e8d9086632f843d7412a",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v089/0022.jpg",
+      "path": "assets/slides/v089/0022.jpg",
+      "sha256": "3625dc7039548d73ff8268cb609850853e8bf6141e9ff4c8f7e894bbe8ebe61d",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v089/0023.jpg",
+      "path": "assets/slides/v089/0023.jpg",
+      "sha256": "ec0aafa7adcbe242dcaaf3b504ea3213e70fb7515f25b1bc36444d70d3760789",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v089/0024.jpg",
+      "path": "assets/slides/v089/0024.jpg",
+      "sha256": "268c9c10fe025c39656ec7ac51952b042341730cc104fc27c78c99cdb372e9cb",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v089/0025.jpg",
+      "path": "assets/slides/v089/0025.jpg",
+      "sha256": "85e06225395d23792cb26d546a70fdbf68c9f0c1c90ae9ed5706ce67690bdfac",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v089/0026.jpg",
+      "path": "assets/slides/v089/0026.jpg",
+      "sha256": "526e8964446f9445f5624718d3076cc1965eb6f915f8eb9a0c1e42304c18abf9",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v089/0027.jpg",
+      "path": "assets/slides/v089/0027.jpg",
+      "sha256": "b36fcf136fca2d16c7b8b5c7d6f4f2e65f72105ffe3a7ad22759ec26809d3770",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v089/0028.jpg",
+      "path": "assets/slides/v089/0028.jpg",
+      "sha256": "3d61675e30f3eb8b044ba47346ac8a620234c4f8c9bd925d47ccc14cb9ac1c85",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v089/0029.jpg",
+      "path": "assets/slides/v089/0029.jpg",
+      "sha256": "cf1464422bb9454f5cce3e5d54e83e18fe92e4f12d3fb1766f6a9d497a603bf1",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v089/0030.jpg",
+      "path": "assets/slides/v089/0030.jpg",
+      "sha256": "293ae886fc17b813fea21b6c75e4cbd283d92f745ac34de57113c055ac5f2d0c",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v089/0031.jpg",
+      "path": "assets/slides/v089/0031.jpg",
+      "sha256": "d03b13683debf312df75238ea30355fe085e190c3e4626860591c77aff0d0a81",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v089/0032.jpg",
+      "path": "assets/slides/v089/0032.jpg",
+      "sha256": "5a27e51970b245c4e498495b96998868a182df4b24eef6b598c9f5a727cd756c",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v089/0033.jpg",
+      "path": "assets/slides/v089/0033.jpg",
+      "sha256": "d21171d1262aabbcec35ac3b5cf3a0864cc5b1d7a86c2c9bd8478616d4339c69",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v089/0034.jpg",
+      "path": "assets/slides/v089/0034.jpg",
+      "sha256": "87ece7863e60d7917f5fca51ed4f3b67a13f8514d599fa127ea047b5f0d3f886",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v089/0035.jpg",
+      "path": "assets/slides/v089/0035.jpg",
+      "sha256": "cca3ace83ba4d26c45f6133f88bb815c5a4f9cde845a8632c466db3ad8750299",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v089/0036.jpg",
+      "path": "assets/slides/v089/0036.jpg",
+      "sha256": "556920edb39651764a11d13f1cf362bbd58577d7dd658a3b38df97ad01da211e",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v089/0037.jpg",
+      "path": "assets/slides/v089/0037.jpg",
+      "sha256": "0e09da7bade069721530a603a9d5993cb1dad5ddcdfb8e223fc7c716b9f7acb9",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v089/0038.jpg",
+      "path": "assets/slides/v089/0038.jpg",
+      "sha256": "2867c799f92256154a4cc92d80599a0b75a14285228ca52c2847ce858676a5df",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v089/0039.jpg",
+      "path": "assets/slides/v089/0039.jpg",
+      "sha256": "8610f8ae194352eafeb73aded2f8ba946a1023c5b50efb22c48c6028705161b8",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v089/0040.jpg",
+      "path": "assets/slides/v089/0040.jpg",
+      "sha256": "330b8dc04a8c32836cea3aa162bd9b790e98b4c8754a099b7ef219f2c7ac3011",
+      "slide_index": 40
+    },
+    {
+      "src": "../../assets/slides/v089/0041.jpg",
+      "path": "assets/slides/v089/0041.jpg",
+      "sha256": "301da38c322702eb72275453901a420a082a5728248e9675a44bd61cff234321",
+      "slide_index": 41
+    },
+    {
+      "src": "../../assets/slides/v089/0042.jpg",
+      "path": "assets/slides/v089/0042.jpg",
+      "sha256": "e49082cd39f7dba8a97c6ee8910bba7083224c2fe79764febdfcd703050cc0c6",
+      "slide_index": 42
+    },
+    {
+      "src": "../../assets/slides/v089/0043.jpg",
+      "path": "assets/slides/v089/0043.jpg",
+      "sha256": "1acf011fe8458b9d786737f1042635f7662fc4fcf7a286e4d9592e5dfde7399b",
+      "slide_index": 43
+    },
+    {
+      "src": "../../assets/slides/v089/0044.jpg",
+      "path": "assets/slides/v089/0044.jpg",
+      "sha256": "e41b98f23294341231d323d287d3cb7b742f4a5aaa93134bf4a3f80b33dbfbe8",
+      "slide_index": 44
+    },
+    {
+      "src": "../../assets/slides/v089/0045.jpg",
+      "path": "assets/slides/v089/0045.jpg",
+      "sha256": "8de38bbe58bd2a8b3db3b2e2528c6f33457ca75cf5ba44aa194438c8ab0670b9",
+      "slide_index": 45
+    },
+    {
+      "src": "../../assets/slides/v089/0046.jpg",
+      "path": "assets/slides/v089/0046.jpg",
+      "sha256": "72c19c33fd3adf1bb7e33f95acaa23de72b4e823a125675ab38e458a9fe20ce4",
+      "slide_index": 46
+    },
+    {
+      "src": "../../assets/slides/v089/0047.jpg",
+      "path": "assets/slides/v089/0047.jpg",
+      "sha256": "b13c1bcafa8545168a66d40ef76632ad92817c95df1c2bdea33dc97d20760809",
+      "slide_index": 47
+    },
+    {
+      "src": "../../assets/slides/v089/0048.jpg",
+      "path": "assets/slides/v089/0048.jpg",
+      "sha256": "224d6824700915c2109c1797df28ef2645e3cc4716cfd67a80e440399ca2def4",
+      "slide_index": 48
+    },
+    {
+      "src": "../../assets/slides/v089/0049.jpg",
+      "path": "assets/slides/v089/0049.jpg",
+      "sha256": "ad393d22dc138940a612226403d860d239ebbd61b9f9a7ff35d50fb1b08659de",
+      "slide_index": 49
+    },
+    {
+      "src": "../../assets/slides/v089/0050.jpg",
+      "path": "assets/slides/v089/0050.jpg",
+      "sha256": "2b8db18a83a6ad82d05e76bb58fd5e64673db034ac572d67fa35fc956e41c242",
+      "slide_index": 50
+    },
+    {
+      "src": "../../assets/slides/v089/0051.jpg",
+      "path": "assets/slides/v089/0051.jpg",
+      "sha256": "342a217ee2e39b8bdb96e282a46e4bed8def697faba8fe604c081114d35717d5",
+      "slide_index": 51
+    },
+    {
+      "src": "../../assets/slides/v089/0052.jpg",
+      "path": "assets/slides/v089/0052.jpg",
+      "sha256": "95bdbbeaa441fbad3407a2b726659bd14bffa6202d3db6e8659c63b3435dc0d7",
+      "slide_index": 52
+    },
+    {
+      "src": "../../assets/slides/v089/0053.jpg",
+      "path": "assets/slides/v089/0053.jpg",
+      "sha256": "3c6fe0acd786929b56eab537543cbf33105bf0d228d86406c27007c496c16391",
+      "slide_index": 53
+    },
+    {
+      "src": "../../assets/slides/v089/0054.jpg",
+      "path": "assets/slides/v089/0054.jpg",
+      "sha256": "7c4f7270e5343f0ddfb1062edeee915448fc1079b9bf899d593446a6980cb3f6",
+      "slide_index": 54
+    },
+    {
+      "src": "../../assets/slides/v089/0055.jpg",
+      "path": "assets/slides/v089/0055.jpg",
+      "sha256": "e2ceaf3d034bf87343783c46e875be42eb0a8639d9448ccdd5bdc401babef645",
+      "slide_index": 55
+    },
+    {
+      "src": "../../assets/slides/v089/0056.jpg",
+      "path": "assets/slides/v089/0056.jpg",
+      "sha256": "203a9f1e06eb9407b4d7e25488fac4c190666640b84236af7755458dd94f3e28",
+      "slide_index": 56
+    },
+    {
+      "src": "../../assets/slides/v089/0057.jpg",
+      "path": "assets/slides/v089/0057.jpg",
+      "sha256": "f7f95210299a93f48c49f18a356a3da4dcc0655e4ccaa0ad3a8c9bb4144e1529",
+      "slide_index": 57
+    },
+    {
+      "src": "../../assets/slides/v089/0058.jpg",
+      "path": "assets/slides/v089/0058.jpg",
+      "sha256": "d642ab4f98c61c38ffe60f33a62ace5c62bd5cdecb7fae0be486515d9597f1a8",
+      "slide_index": 58
+    },
+    {
+      "src": "../../assets/slides/v089/0059.jpg",
+      "path": "assets/slides/v089/0059.jpg",
+      "sha256": "1a8e34a189e5af59cab7478096dab598f3372c4e17043b3e6500f6141d2cbb74",
+      "slide_index": 59
+    },
+    {
+      "src": "../../assets/slides/v089/0060.jpg",
+      "path": "assets/slides/v089/0060.jpg",
+      "sha256": "8379def6687964b68aac38f692340c8b9bf53a99d7a3548a560e4418d3ba20bb",
+      "slide_index": 60
+    },
+    {
+      "src": "../../assets/slides/v089/0061.jpg",
+      "path": "assets/slides/v089/0061.jpg",
+      "sha256": "63db6bb4ee59d9c5e7c4eadbce1d0716aa1f520a09779767a60d05f790565c6b",
+      "slide_index": 61
+    },
+    {
+      "src": "../../assets/slides/v089/0062.jpg",
+      "path": "assets/slides/v089/0062.jpg",
+      "sha256": "9d2a892672b5f54134ffa63a6a161bf36c362174f9638c2484ead76d6e882604",
+      "slide_index": 62
+    },
+    {
+      "src": "../../assets/slides/v089/0063.jpg",
+      "path": "assets/slides/v089/0063.jpg",
+      "sha256": "1dfb541210a3d647a7306f24cd86fe3e68465f12b4e615b4ff0bd6db53175d77",
+      "slide_index": 63
+    },
+    {
+      "src": "../../assets/slides/v089/0064.jpg",
+      "path": "assets/slides/v089/0064.jpg",
+      "sha256": "25d5d12e6972c5a7700fcc1d2344d7493b18552816397321a42cd6dd2994e370",
+      "slide_index": 64
+    },
+    {
+      "src": "../../assets/slides/v089/0065.jpg",
+      "path": "assets/slides/v089/0065.jpg",
+      "sha256": "a2a8d23d8519e45266f370e52c29d954fd4bdb55fb7e632ad052d847fa093425",
+      "slide_index": 65
+    },
+    {
+      "src": "../../assets/slides/v089/0066.jpg",
+      "path": "assets/slides/v089/0066.jpg",
+      "sha256": "80f7abf82094de93ff40ea15170fb5b1613df07f7bb3651626ea9b19c71dd131",
+      "slide_index": 66
+    },
+    {
+      "src": "../../assets/slides/v089/0067.jpg",
+      "path": "assets/slides/v089/0067.jpg",
+      "sha256": "c279993828996cce0878e549f61ffcd1e199d2618ace626cbac46baf2ad4f176",
+      "slide_index": 67
+    },
+    {
+      "src": "../../assets/slides/v089/0068.jpg",
+      "path": "assets/slides/v089/0068.jpg",
+      "sha256": "dcf75abc3dea46a15642250b2f92c0a6065d67d4458ec9b811b20568e01a5034",
+      "slide_index": 68
+    },
+    {
+      "src": "../../assets/slides/v089/0069.jpg",
+      "path": "assets/slides/v089/0069.jpg",
+      "sha256": "30c03293adf67ca56cf72800555f3dfca88c7afc774e4e6593c793fd40adaacc",
+      "slide_index": 69
+    },
+    {
+      "src": "../../assets/slides/v089/0070.jpg",
+      "path": "assets/slides/v089/0070.jpg",
+      "sha256": "e5f04f3a24fc48055f91fcc678d7db89267cc5e20d31a1d52b5ba62e94aa4260",
+      "slide_index": 70
+    },
+    {
+      "src": "../../assets/slides/v089/0071.jpg",
+      "path": "assets/slides/v089/0071.jpg",
+      "sha256": "b21c9f40621143baf7c63158bcba24dc154053c131a2f7ec73824692993ab271",
+      "slide_index": 71
+    },
+    {
+      "src": "../../assets/slides/v089/0072.jpg",
+      "path": "assets/slides/v089/0072.jpg",
+      "sha256": "f455e752265a1a0939119b1cd985e4dc5b3ec70ca380ca48459d102b3ad10a03",
+      "slide_index": 72
+    },
+    {
+      "src": "../../assets/slides/v089/0073.jpg",
+      "path": "assets/slides/v089/0073.jpg",
+      "sha256": "55142823d26ad0e35dc9bdda03774a02c8e32e316ef76185e69872bcfbb2caba",
+      "slide_index": 73
+    },
+    {
+      "src": "../../assets/slides/v089/0074.jpg",
+      "path": "assets/slides/v089/0074.jpg",
+      "sha256": "20fa2b036a61e82b743b87fc5c13054936b3df1f502596712d69a783efc9eb71",
+      "slide_index": 74
+    },
+    {
+      "src": "../../assets/slides/v089/0075.jpg",
+      "path": "assets/slides/v089/0075.jpg",
+      "sha256": "43de661c5dfc18ffd6b2d4a1c7265172aa60b70b5688301faa42b3f0654a17e8",
+      "slide_index": 75
+    },
+    {
+      "src": "../../assets/slides/v089/0076.jpg",
+      "path": "assets/slides/v089/0076.jpg",
+      "sha256": "bf66dd44250edb6be2b8499923650699bc63a2a3c8d326bf8ae1dbd9893e049c",
+      "slide_index": 76
+    },
+    {
+      "src": "../../assets/slides/v089/0077.jpg",
+      "path": "assets/slides/v089/0077.jpg",
+      "sha256": "74b0990e1e3a105261d6484296f604f3088267ff82e4068d4fed7bcfe107d12b",
+      "slide_index": 77
+    },
+    {
+      "src": "../../assets/slides/v089/0078.jpg",
+      "path": "assets/slides/v089/0078.jpg",
+      "sha256": "15f171d57d7174dc62944e1d11942b77a3764bbce8687e4949a2cb408c51d6e5",
+      "slide_index": 78
+    },
+    {
+      "src": "../../assets/slides/v089/0079.jpg",
+      "path": "assets/slides/v089/0079.jpg",
+      "sha256": "8075670fcdaf6c9c43bace002031036c78e02eefdadc9d53766f4506f045b636",
+      "slide_index": 79
+    },
+    {
+      "src": "../../assets/slides/v089/0080.jpg",
+      "path": "assets/slides/v089/0080.jpg",
+      "sha256": "f4cb8f9c53168dbf22e82cb673d708209507fefb04b1ee424b772d8f155e1003",
+      "slide_index": 80
+    },
+    {
+      "src": "../../assets/slides/v089/0081.jpg",
+      "path": "assets/slides/v089/0081.jpg",
+      "sha256": "1ec4f217bd4483dc0ffe5d95b3ba12f84413960d56e8565da9174cc47ed5744a",
+      "slide_index": 81
+    },
+    {
+      "src": "../../assets/slides/v089/0082.jpg",
+      "path": "assets/slides/v089/0082.jpg",
+      "sha256": "ab2b0cb49671b44a30c30268eceb78102bd5b07d886fd9165f8c4901b9e428f1",
+      "slide_index": 82
+    },
+    {
+      "src": "../../assets/slides/v089/0083.jpg",
+      "path": "assets/slides/v089/0083.jpg",
+      "sha256": "901159fd93302d5070e109733953ae15cd06e48d2e9e51234a29b0b3af22211c",
+      "slide_index": 83
+    },
+    {
+      "src": "../../assets/slides/v089/0084.jpg",
+      "path": "assets/slides/v089/0084.jpg",
+      "sha256": "5aacaa8f602a7307a624d4273acf882381249bffb840d81ee8e341880e37cbfb",
+      "slide_index": 84
+    },
+    {
+      "src": "../../assets/slides/v089/0085.jpg",
+      "path": "assets/slides/v089/0085.jpg",
+      "sha256": "bfadb7ac632935b688c006281754af081f7671f4372887d0258610849908b3cb",
+      "slide_index": 85
+    },
+    {
+      "src": "../../assets/slides/v089/0086.jpg",
+      "path": "assets/slides/v089/0086.jpg",
+      "sha256": "fe45b93681da9b35422d52ffbf88b46e6df56d5949c0e1cea062c5cff5fef114",
+      "slide_index": 86
+    },
+    {
+      "src": "../../assets/slides/v089/0087.jpg",
+      "path": "assets/slides/v089/0087.jpg",
+      "sha256": "f04c7c18cfd48172b5aa1982c9ecb652f76c3da5a3611fde5d9c67ed4e8cdc02",
+      "slide_index": 87
+    },
+    {
+      "src": "../../assets/slides/v089/0088.jpg",
+      "path": "assets/slides/v089/0088.jpg",
+      "sha256": "2c288e20014693cfab7ccfadcab21f0a030ae0e4f467d0e161e3d285aa2ffe35",
+      "slide_index": 88
+    },
+    {
+      "src": "../../assets/slides/v089/0089.jpg",
+      "path": "assets/slides/v089/0089.jpg",
+      "sha256": "634913bac81298373ab2559ba6147c4c07ad03ea484d67b2cc1ee7f9f120d37c",
+      "slide_index": 89
+    },
+    {
+      "src": "../../assets/slides/v089/0090.jpg",
+      "path": "assets/slides/v089/0090.jpg",
+      "sha256": "391a49a911676be6899a36773481e221446df4f2651e09ac9f6d648fa2d3fe87",
+      "slide_index": 90
+    },
+    {
+      "src": "../../assets/slides/v089/0091.jpg",
+      "path": "assets/slides/v089/0091.jpg",
+      "sha256": "073154974f327b602b2172ab847db5e5c8f9dfe8f22f111ffa616d22c8494dd5",
+      "slide_index": 91
+    },
+    {
+      "src": "../../assets/slides/v089/0092.jpg",
+      "path": "assets/slides/v089/0092.jpg",
+      "sha256": "682b904d7954669ab5f44e0002e0cd66f8b1b67310bcab09fa170988c25b24ad",
+      "slide_index": 92
+    },
+    {
+      "src": "../../assets/slides/v089/0093.jpg",
+      "path": "assets/slides/v089/0093.jpg",
+      "sha256": "3654469a5e4b4d08c49c78e6f31ac34af87228c694164e96b1b7ec82198f2874",
+      "slide_index": 93
+    },
+    {
+      "src": "../../assets/slides/v089/0094.jpg",
+      "path": "assets/slides/v089/0094.jpg",
+      "sha256": "b3daced5fa74444d3e8c532f354191d406c0ba7fdf23117b004ab6e4428eb808",
+      "slide_index": 94
+    },
+    {
+      "src": "../../assets/slides/v089/0095.jpg",
+      "path": "assets/slides/v089/0095.jpg",
+      "sha256": "109a7a5c7c3559a555af2e2d465bf624760b228675a0d3fefb91c92dc6393a11",
+      "slide_index": 95
+    },
+    {
+      "src": "../../assets/slides/v089/0096.jpg",
+      "path": "assets/slides/v089/0096.jpg",
+      "sha256": "ac50f685a460844ba86b0cf34f086858a3a8df81693cf91e1cc9f658e2ddb358",
+      "slide_index": 96
+    },
+    {
+      "src": "../../assets/slides/v089/0097.jpg",
+      "path": "assets/slides/v089/0097.jpg",
+      "sha256": "61018ab12227705a6f412f265404b5cce4031a7c8aa2df9324498954d983f803",
+      "slide_index": 97
+    },
+    {
+      "src": "../../assets/slides/v089/0098.jpg",
+      "path": "assets/slides/v089/0098.jpg",
+      "sha256": "5c053874806bcc4619fe58dd51d079024f2bd3965b64ab3f8d16d87ef1fa80c7",
+      "slide_index": 98
+    },
+    {
+      "src": "../../assets/slides/v089/0099.jpg",
+      "path": "assets/slides/v089/0099.jpg",
+      "sha256": "d72d6dcc94d4c732fb07b197ef09275d72516bb4a6817f3fc322231d9e6e2fb7",
+      "slide_index": 99
+    },
+    {
+      "src": "../../assets/slides/v089/0100.jpg",
+      "path": "assets/slides/v089/0100.jpg",
+      "sha256": "8709eb3a48ff82da63976982bf24c3835f18ead6991520fecc4836c467a9b3ef",
+      "slide_index": 100
+    },
+    {
+      "src": "../../assets/slides/v089/0101.jpg",
+      "path": "assets/slides/v089/0101.jpg",
+      "sha256": "ec6c32db7041aa825634d55d6063b2ffcf57287e5d8ed17f3a83edd7a62f9d52",
+      "slide_index": 101
+    },
+    {
+      "src": "../../assets/slides/v089/0102.jpg",
+      "path": "assets/slides/v089/0102.jpg",
+      "sha256": "51f91ad0c9ce3fb94072a95a55ce1292bef352e9fff840d4a21f4779b62ce105",
+      "slide_index": 102
+    },
+    {
+      "src": "../../assets/slides/v089/0103.jpg",
+      "path": "assets/slides/v089/0103.jpg",
+      "sha256": "41d82f0aa1563e5f76fbe097d89f6e776bafafa891af57c099996f3894d726e9",
+      "slide_index": 103
+    },
+    {
+      "src": "../../assets/slides/v089/0104.jpg",
+      "path": "assets/slides/v089/0104.jpg",
+      "sha256": "aca72cc42485177aeba0a5774f56ba9e2ff021225749cda327de39da5ad25a2d",
+      "slide_index": 104
+    },
+    {
+      "src": "../../assets/slides/v089/0105.jpg",
+      "path": "assets/slides/v089/0105.jpg",
+      "sha256": "db91794eba3891d774d2c70c9d2374218c1e0d3283d4448d5a625ca12c342d45",
+      "slide_index": 105
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Retentive Network, a successor to Transformer for Large Language Models 这一篇就是 RedNet 致力于更改 Transformer 里面的 self-attention 来达到节约资源来处理更长的序列的这么一个目的那么在继续之前呢，还是要先声明，本人没有任何 NLP 相关的背景知识。第二呢，就是这个视频呢，会尽量按照作者呈现的这个思路，把里面一些没有必要的细节也梳理清楚。所以，如果你只是需要想要把这个模型跑起来，想要知道大概的流程，网上有很多更精简的视频。好的，那么我们开始。",
+    "那么 Transformer 是用来处理一个序列的，那么这个序列呢，一般是一个 Vector 的序列。那么一个 Vector 呢，我们叫它 Token。那么 Token 的数量它这么表示，每一个 Token 它的尺寸，也就是这个 Vector 的长度就是 Dmodal。对于每一个 Transformer Encoder 来说，它包含两个部分，一个是这个 Multi-Head Self-Attention，另一个呢是这个 Feed-Forward Network，本质上是一个 MLP。",
+    "那么当然，它的瓶颈就是在于 attention 嘛。所以本文致力于用这个 multi-scale，确切的说是 gated multi-scale retention 来替换原有的 attention，来达到一个节约资源处理长序列的目的。那么当然呢，transformer 原来也是一层叠一层的，你的序列过了 transformer 之后它的尺寸是不变的。那么你现在在 retinite 里面换了 attention。",
+    "但是它的网络的结构依然不变。那么你还是什么样的尺寸的序列进来，什么样的尺寸的序列就出去了。那么这个呢，是本文和 transformer 的联系。那么很明显的就是，我们要来看它的这个 retention 到底是怎么设计的。那么 retention 既然是为了替换 attention，那它这里肯定也是处理一个序列的这个 token。那么这里呢，字母的上标是 encoder 的层数，那么字母的下标呢是这个 token 它的这个 index。",
+    "那么这里 retention 的目的和 attention 一样，都是想把一系列的这个 token 变换到另一个系列。但是你做 attention 的时候，它是所有的 token 都参与运算，随着你的序列的增长，你的运算量也不断的增加。但是呢，我们在真正做模型语言生成的时候，它其实是一个 token 一个 token 来生成的，它是一个 autoregressive 的方法。",
+    "所以本文的核心就围绕着我如何设计一种让它非常契合 autoregressive 的方法，也就是当我想生成一个新的 token 的时候，我不用费力的把之前的所有的 token 都召唤出来再重新做一遍计算。这是它的核心的思想。本人这样的思想，我们来看这里作者维护了一个内部的状态叫做 S，它的下标就是这个 token 的 index。那么我希望这个 S 当一个 state 也好，你当它一个 memory 也好。",
+    "它会随着你每新加入的一个 token 而更新，而你生成新的 token 的过程又依赖于这个状态。那么这样一种设计，作者写成了这两个式子的形式。我们来看，那么首先对于一个你输入的 token 来说，先做一个投影。attention 里面的 query key value 里面的 value 做一个投影，投出来这个 n 呢就是代表这个 token 的 index。那么每当有新的 token 到来的时候，作者想首先更新一下我当前的状态。怎么更新呢，你的原来的状态乘以一个矩阵 a，加上你的新的这个 token 乘上一个矩阵 k。那么更新完它之后呢，你再用当前的这个状态乘上一个矩阵 q 来得到你输出的这个 token。",
+    "它就是从一个你当前 token 这个 XN 投影到这个 VN 一直到它的输出 ON 这样一个映射。这是一个很直接的设计，这是一个很直接的设计。那么在这个设计的基础上你就不断的迭代。那么 ON 和 SN 也就是 VN 的关系是这样的，跟之前的一个 token 是什么样子呢，再往前倒又是什么样子呢，对吧？你把这个式子打开就写成这个样子，你继续打开就继续写。",
+    "一直写写写写到最后就可以写成这个形式，注意这里作者并没有提，但是实际上你需要写它来使得它更严谨。就是最一开始那个 S0，它其实是取值取了 0，也就是说最一开始第一个 token 进来的时候你是没有这一项的。这个呢，就是作者一个最开始的思路，借鉴了这个 recurrent neural network，那么当然你按照 self-attention 的说法",
+    "你这个 Q 矩阵，这个 K 矩阵，它都应该是跟你输入的这个 token 从你这个输入的 token 中变换得来的，就是这个样子。那么这个呢，是一个最基础的概念。那么怎么样在这个基础上把我们的运算进一步化解呢？我们来看，你可以看到这里，因为我们的 A 矩阵是取了一个 N-M 四方，很自然的我们就想到这个特征值分解，那么把 A 矩阵拆成这样的一个特征值的形式，那中间是它的特征值矩阵",
+    "那么写成这样的形式之后呢，两两相乘它的特征矩阵就约掉了嘛，那么你最终形成的就是这个样子，头上有一个尾巴上有一个，中间呢是它的特征值的矩阵的一个 n-m 次方",
+    "那么正好这里我们 A 这个矩阵呢，它的前后都有一个矩阵，那我们很自然的就想啊，我这个反正你前后两个矩阵都是学出来的嘛，我就把这个特征值矩阵也都塞回到周围的前后的两个矩阵里面，这样子我的这个公式写出来就相对简单一点嘛。所以经过这样一通操作之后，这个公式呢就写成了这个样子，那么这里矩阵的密进一步拆分，各回各家各找各妈，然后呢 N 找到 N ，M 找到 M，就写成了这个样子",
+    "其中这两项它的灵感来自于 XPOS 我们来仔细来看包括其实一开始有朋友就应该有疑惑为什么我们一个特征值矩认写成了这个样子这里我们是考虑最一般的情况下那么这个特征值它有可能是一个复数为了优雅的表达这个复数我们写成了这个形式这个 I 是那个虚数单位你就把它理解成复平面上的一个极坐标",
+    "这是极坐标的长度这是极坐标的朝向同时因为我们有很多个特征值这里的θ和γ都是 vector 这个时候这个数其实就是表达了一个在复平面上任意的一个数然后它其实是填充在矩阵的对角线上的这个都是线性代数的基础对于每一个特征值来说我现在假设它的γ都是同样的一个定值那么在这个假设下，你所有的特征值都会落到一个圆上对吧，因为你想它们的长度都是固定的，唯一区别的就是一个角度了，那么标量这个东西处理起来就很方便了，你把它全部都拿出来拿到最开始，那么然后我们来看这个角度怎么样优雅的把这个负号拿出来",
+    "就是转制变成了共恶转制，因为共恶转制本质就是转制加共恶，那共恶的本质是什么，就是时步不变虚步的这个符号给它取反，那么把这个定义掌握好，你这个表达式就能够写得非常优雅，虽然到后面你实际写代码的时候根本用不到这样优雅的表达式，那么现在呢我们说回到这个复数，我们引入了复数，难道这意味着我们需要在我们的矩阵中真的是维持一个复数的矩阵吗当然并不是这样的因为我们在日常生活中常常是用一个 2 乘 2 的这样的一个旋转矩阵来去表达这个复数那因为你可以去试一下你对两个复数做各种操作本质上呢跟对这种矩阵做各种操作是没有区别的哎这是一个非常好的性质这就让我们的实际的矩阵中全都是实数但是呢它依然保留了这个复数的含义那么下面我们就来看具体的这个 expose",
+    "它的实现就是，你看这个是我们想要表达的一个值，我现在把它写成了这样一个二乘二的旋转矩阵的形式，那么对于一个在序列中位置为 n 的 token，我们假设这是最简单的情况，我们假设它有两个 channel，那么你的这个表达式写出来是什么样子呢，对吧，写出来最后是这个样子，那注意这里我把这个行矩阵写成了这个列的形式，这样子排版比较方便",
+    "那么当然在实际操作中，你只有这样一个频率，这样一个角度是不行的，因为这样你的网络就没有办法区分一个周期和两个周期这样的距离的区别，所以呢在实际使用中呢，往往都是我们通过增加这个 channel 的数量，那么前两个 channel 对应的是一个频率，那么后面再两个 channel 对应一个相对更高的频率，那再往后更高的频率，这样子，那这样子通过一系列组合很多个频率不同的 cos3 的组合，就把这个位置的编码真正的给它编出来了那么我们来看到这个 XPOS 里面的这个算法注意这个是我直接从 XPOS 里面的那个文章中截出来的所以它的这个符号系统呢跟我们的这个本文是不太一样的首先我们要说实话这个角度然后我们刚刚说了我们希望有不同的频率嘛来分层注意这里这个 i 呢它就不是复数单位了它是它是这个角速度的下标啊你可以看到它实际的实现你可以看到它实际的实现呢是这个样子那么然后你就构建你的 cos 和 sin 这样的一个矩阵",
+    "你在第 M 个 token 第 N 个这个角速度上它的这个 cos 长这个样子它的 sin 长这个样子那注意这里为什么我说是 n 的角速度而不是说 n 个 channel 呢因为角速度的数量是 channel 的一半你在实际使用的时候它的这个矩阵的排列是比如说这个是θ1 它是一个 cosθ1 cosθ1 然后 cosθ2 cosθ2 这样的排列你通过这样的一个复制的形式把你的这个 channel 的数量从 2 分之 d 变成了 d 那么然后你看它怎么做这个矩阵的操作",
+    "那这一行呢我对这个 q 来做对吧那么这个 q 乘以这个 cos 加上这个 rotate 这个 q 乘以这个 sin 那么这个 rotate 是什么样的函数呢你可以看到它是这个样子的它在 channel 这个层面上把你的 channel 的顺序调换一下那么为什么要做这样的调换它实际表达的意义是什么呢我们来看到这边对吧这个蓝色的框里面你一开始跟 cos 做计算的时候就是第一个对第一个但是你这里和 sign 做计算的时候你考虑到矩阵在 channel 上的变换那么它实际写出来是这个样子我这里还是只写了一个频率一个速度的情况下那么你发现把这两个加起来按照这样的方法加起来是不是就是它了呢其实不是为什么不是呢因为这两个 channel 的顺序是交换掉的你看在下面是这个 channel 靠前这个 channel 靠后一点但是这也不影响它本质上都是一样的",
+    "那么这个呢就是 XPOS 它最底层的实现那么然后呢我们就来拿它写真正的 retention 那之前我们这个式子展示过了它呢只是一个针对特定的这个 DN 个 token 的情况下我现在把这个情况幻化到整个序列就是我有一个序列那这个 token 的序列呢 X 它先做投影得到的是这个里面的 Q 这个 K 也是投影 V 也是投影那么然后呢要乘上这个我们刚刚说的这个 XPOS 这个编码是这个样子",
+    "那我们定义这样的一个矩阵叫做这个 Q 那同样的这个但是注意这里我们乘的是共恶也就是负θ那么这个是 K 矩阵那么然后呢你按照每一个 token 的位置把这个 Q 还有 K 的转制给它乘起来就好了嘛那么剩下我们还有谁没处理呢这个 V 它是好说的对吧我们直接一个投影也是把它变成矩阵的形式就可以了那么最棘手的呢就是这个γ你可以看到在我们这个情况下 m 是应该始终小于 n 的所以它变成矩阵之后它应该是一个三角阵你看到长这个样子这个 n 和 m 是两个 token 的 index 当 n 大于 m 的时候它就是我们正常的这个值当 n 小于 m 的时候它呢取到 0 因为我们就根本没有算这样的一项",
+    "那么这样子这个式子的 retention 写出来就是这个形式那么我们应该如何理解这个东西它就是你 self-attention 里面的那个 causal mask 就是你当前的 token 在计算的时候它不可能考虑未来的 token 是什么但是它是要考虑过去的 token 是什么那么同时蓝色的线标记的 exponential decay along relative distance 就是这样的体现",
+    "那么这个就是本文最基本的 retention 的写法那么还是类比 attention 你在训练的时候只是走一遍 forward 就是把一串 token 投影到另一串 token 然后做 cross entropy 这种 loss 所以这个也是一样的把一串 token 变换到另一串 token 注意记得这里变换完之后加一个 groupnum 所以这里叫做 parallel representation 这个是只在训练中发生的我们训练的时候跟 attention 就是一模一样了",
+    "那么当然在此基础上作者还对这里面的内容做了很多的 Normalization，那比如说最经典的像这个 Attention 里面也有的，那么这个 D 矩阵它也不是直接用的，它也要做 Normalization。那这个 Retention Score 就是这个 QK 转制乘起来，然后再乘上这个 D 这个东西，这个 Retention Score 它呢也是做了一个 Normalization。那么这些 Normalization 的具体的实现，我们等到后面说到代码部分的时候，我们来仔细来看。",
+    "那么总之现在的情况就是，我们的 retention 可以和 attention 一样在训练的时候处理很多个 token，但是在实际推断的时候我们也是要像 attention 一样把所有的过去的 token 都找出来翻一翻晒一晒洗一洗，是要这样吗？那当然不能这样，这样和 attention 还有什么区别呢？和过去的这些同质一样的 token 在一起，怎么能当好一个 language model 呢？",
+    "所以针对 influence 的时候，本文的 retention 它有一个非常好的构型，就是我们一开始说到你是维护了一个 state，一个新的 token 进来更新这个 state，然后你生成的 token 是根据新的 state 来生成的这样一个 token，我们有这么一个好的性质。所以这也就意味着你的 retention 的生成的过程其实只依赖于上一个 recurrent state。",
+    "相当于你把过去所有的这些 token 的精华都浓缩到这个 state 里面，然后每次进来一个新的 token 更新一下这个 state，然后再基于这个 state 去生成你的输出就好了。那么这个就是最经典的 recurrent neural network RNN 这种东西的这种构型，当然你记得这里输出的时候也是要加上 group normalization。",
+    "你这样操作的时候，你 influence 的时候也就是你 autoregressively 生成的时候，它的速度就是非常快的一个 token 一个的 10 分甚至 9 分快速。那么这种形式作者叫它 recurrent representation of retention。所以你看它既保留了像 transformer 一样的一次前向传播就能够把所有的 token 都训练出来，你训练一个 sequence 之后只需要做一次前向传播，同时它也有 recurrent 这样的性质，指的是你在推断的过程中只依赖于过去的一个状态，而不是把过去的所有的整个轨迹都找出来，这个是本文最核心的地方。那么以上这两个就是 retention 的基本的构型。",
+    "但是呢，我们实际在训练的时候可能这个文本非常长，这个序列真的很长，还是有可能出现塞不下的情况，那怎么办呢？这里呢作者说啊，我们为什么不把这个 recurrent 和这个 parallel 结合在一起呢？那这个呢就是 chunkwise 的 recurrent，它的意思就是说我把这个长序列分成一个一个的 chunk，就相当于 local attention 的样子，那就像这个样子，每一个 chunk 它的尺寸是比一个 token。",
+    "你原来的这些 qkv 都给它结成一块一块的，那么对于每一块的输出来说肯定有这个 chunk 以内的 retention 作为打底，同时它是在这个基础上加上了一个 cross chunk 也就是这个 recurrent representation，只不过这个 recurrent representation 现在不是 token 的尺度了，它是一个 chunk 的尺度，这个时候它的式子写成了这个样子，我们来看它多了很多个这种不同的 decay factor，我们具体来看它们都是些什么东西。",
+    "首先就像我们刚刚说的，对于每一个 chunk 里面，你就做标准的 parallel representation 就好了，这个就先放到一边。那么这个是我们刚刚介绍的 recurrent representation，对于每一个一个一个的 token 来讲的，recurrenttokenwise recurrent。那么我们现在不妨把这个 recurrent 给它打开，不断的写下去，比如说写了一步就是这个样子。",
+    "那么根据我们 chunk 和 chunk 之间的跳跃，它们之间就隔了 big tokens，所以你把这个数带成 b 这一项对应的。就是这个位置，那么这个呢对应呢就是 Zeta 这个矩阵，你可以看到呢，Zeta 它的尺寸应该是一个 B 乘以这个 D 这样的一个尺寸。那这里我们 Q 和 K 的下标表示这个 Query 和 Key 它们两个的这个尺寸，因为它有可能和 Value 的这个尺寸是不一样的，所以我这里稍微做一个区分。你看到它这个矩阵的取值只跟它所在的行有关，它所在的行对应的就是这个 Token 在这个 Chunk 中的位置嘛。",
+    "所以你看它写出来是这个样子，本质上就是上面这个东西，只不过我这里这个 i 和它这个 i 对吧，正好是顺序是反着的，你自己调换一下就好了。那么这个是这一项，那么然后我们再看这一项，就是从上一个 state 去到这个 state，还是既然我们跨越了是一整个 chunk，一个 chunk 里面有 b 个 token，这是跨越了两个对吧，这是 2。所以呢这里跨越了 b 个就是 b。",
+    "这个呢是如何把这个 tokenwise 的这个 recurrent 变成了这个 chunkwise 的 recurrent。然后你这里算出来的一个最后的这个类似于 sn 这样的东西，这里叫做 ri，它呢跟这个 trunk 所在的这个 query 也是乘一下。那么和它类似的这里还有一个 c，你看到这个 c 呢，它的尺寸是这个样子的，也是它只在这个行也就是在 tokenindex 上来更改这个 gamma，为什么要有它。",
+    "因为你跳到 RI-1 的时候，其实它代表的是你这个 chunk 最开始的那个 token 它的这个坐标也好，这个 positional encoding 也好，你现在要把整个 chunk 里面的内容都推断出来。那么对于这个第一个 token 之后的这些 token，它同样的也要施加这个 decay 这个 gamma。所以你看到在一个 chunk 之内，它也要加这样的调整。",
+    "那么最终呢，你的 retention 就是就是 chunk 里面呢加上过去的 chunk 跳过来的。那么这个呢就是本文最复杂的 chunk-wise recurrent representation，它是只用在训练当中用来处理长序列的。那么最后的最后一点细节就是 getted multiscale retention，那它分两部分，一个是 getted，一个是 multiscale。我们先看 multiscale，就是你像 multi-head self-retention 一样，它每个 head 我们希望它处理不同的信息。那这里呢同样也是把你的 tensor 分成各个 head。",
+    "只不过这里它使用不同的 Gamma。不同的 Decay它其实控制的就是。你的一个 Token 和另一个 Token。随着它们距离的增加。它们的影响相互的影响的衰减。你在不同的 Head 里面使用不同的 Gamma那么它就希望不同的 Head。能捕捉到不同的信息。那么最终它的 Gamma 的取值。是长这个样子的这是一个跟 Head 一样长的。",
+    "这么一个序列你就做 Retention然后每一个 Head做自己的 Group Normalization然后再看 Gated 的部分就是我维护两个这样的矩阵。原始的输入乘上这个矩阵。过一个 Swish 这个激活函数。调制一下你的 Retention 的输出。最后再做一个投影。那么这个就是最终的。Gated Multiscale Retention",
+    "它才是真正为用来替代。",
+    "Self-Retention 的部分你来到整个 Retinent 的结构。",
+    "有 Retention有 Layer Normalization有 Skip Connection这些东西都还是在的。",
+    "就是 Transformer 里面",
+    "换成了这个 Gated Multiscale就有 Retention",
+    "那么作为今年中秋节的福利。我们难得一次把这个伪代码和代码都端上来。让大家看一看比如说这里是 Parallel Retention和 Recurrent Retention这个 Decay Mask就是我们之前讲的这个矩阵。然后你 parallel 的公式就是 q 乘以 k 的转质然后再乘上 decay mask 就是这个样子然后你再最后乘上 v 做 group normalization 输出就好了那么 recurrent 它是 decay 就是 gamma 乘上 path kv 就是我们说的 state 类比于这里但是它实际并不是这个是一个 chunk 的计算",
+    "这个是对每一个 token 的计算这个是不一样的然后呢这里加上 k 的转制乘以这个 v 本来这里应该是转制的对吧但是实际上因为我们这里只有一个 token 它很巧妙的使用了在不同的位置插入一个新维度的方法那么对于这个 k 来说它在最后增加一个新的 dimension 而对于这个 v 来说它在倒数第二个这个位置加了一个新的 dimension 就是这个位置那这样子就自动实现了 k 和 v 它们有一个转制的效果那么这个呢是 recurrent 的部分那这里更新了 state 之后你基于当前的 state 那再乘上我们当前的这个 q 矩阵就能够得到我们想要的输出那这个是 recurrent",
+    "那么然后呢我们发动一个超级融合把这个 parallel 和 recurrence 结合在一起生成一个这个 chunkwise retention 但是我们注意啊这个 chunkwise retention 它是指的是我之前已经推断好了一堆 chunk 我有保存好之前的那个 state 然后我再推断下一个 chunk 的时候也就是说这个也就是说这个函数它只产生一个 chunk",
+    "那至于你训练的时候实际上是把一个长的序列分成很多个 chunk 然后一起的去生成一起的去做需要有那个 recurrence 的环节那这个代码里面是不包括的所以这里我们基本上看到就是这个 inner retention 加上这个 cross retention 就是这两个",
+    "然后 inner 好做嘛 cross 这里呢我就是直接写的这个式子就是上一个状态的这个 path kv 就是这个 ra-1 乘上这个 q 然后呢再乘上这个 inner decay 好的那么我们现在来看到它原始的代码如何去生成很多个 chunk 同时呢我们之前说到这些 normalization 它们是怎么体现的那我们先看 normalization 这个比较简单那这个 qkv 这个 normalization",
+    "这个就是除以一个常数嘛它你把它乘在 Q 上也好乘在 K 上也好带进来再做计算就好了这个是容易的那么然后呢是这个 D 的 Normalization 那么这个你也是除以一遍就好了所以呢它并不在你的这个 genual forward 这个代码里面你看到这个代码是它在做这个 Normalization 那么这里做了每一个 chunk 里面 token 的 index 那么先生成一个三角针这个三角针它是一个",
+    "然后呢算这个 dk 就是γ的 m-n 此方这里先把 m-n 写出来然后呢这个 m-n 出来送到我们的 dk 的头上最后呢再加这个 normalizationnormalization 你看到它是在它是把每行求和然后开根号来这样子除的那这个呢是对 d 的 normalization 那么最后呢就是这个 retention score 它的 normalization 那它呢其实来源于两部分一部分是我们 inner chunk 里面前面这三个它得到一个 retention score",
+    "同时我们的 cross chunk 就是每一个 chunk 结束的这个 memory 这个 R 它也要做这么一个 normalization 那么我们先来看到 inner chunk 的部分这个好做这个就是那么我们先来看到 inner chunk 的部分这个都是好做的在这里因为你的一个长序列分成很多个 chunk 之后这些 chunk 它们相互之间是可以变形计算的所以在这一步到这里为止是把所有的 inner chunk 都已经算好了然后呢我们再算这个 cross chunk 也就是这个 recurrent 的这个",
+    "那这个部分它是没办法并发的，必须迭代着来。所以呢，一开始我们看到先一开始初始化这个 kv state，也就是这个 r0，一开始的记忆它是 0。然后呢，它的 normalization 它这个 scale 是 1，这么做好初始化。然后呢，对于每一个 chunk 来说，这是那个 ri-1 嘛，cross decay 就是这个γ的彼此方加上你这个特定 chunk 的这个 kv 值。注意这个 kv 值在前面已经把这个",
+    "Decay 给它加上去了，加在这里了。那这里你只要选对应的 Chunk 就可以了。那么它算出来就是这个新的 RA 的尺寸。然后呢，你再根据这个式子把它 Normalization 那个 Scale 这个 KV Scale 给它算出来。然后呢，你就这样不断的去循环。那么最后呢，把这些 Normalization 做得好，因为你这些 Scale 都统计出来了嘛，你按照它的这个实现把 Inner 和 Cross 加起来就好了。那么这个呢就是本文最核心的 Multi Scale Retention",
+    "你到时候外面再加 Gate，再加 Layer Normalization，再加 Skip Connection，就把 Transformer 给它替换出来了。那么总的来说呢，就像我们视频中已经说到，这样本文的这个方法结合了 transformer 那种一次处理一个序列训练的时候那种全家桶的快感。同时呢，在做推理的时候它也有那种 auto-regressive 的这样的方法，能够帮助我们减少推理的时间。是在之前的那个 XPOS 上一个很有意思的工作的延伸。那么还是我要声明，我本身不是从事 NLP 这相关的东西的，肯定中间有理解不到位的地方。",
+    "不过不负责任的说，这也不是什么问题，因为我未来大概率可能也是用不到这篇文章。但是你如果把这个视频看到这里，说明这个视频可能对你还是有用的。那么还是跟我们之前所有的在节假日发布的视频一样，那么如果你有节可过，我祝你中秋愉快，阖家欢乐。那么如果你像我一样在一个不过中秋节的地方，那这个视频就是录给你的。好的，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "26a1b87142b7855ffa815dacbb1925465298af690748c23434e6344403804e0c"
+}

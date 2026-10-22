@@ -1,0 +1,179 @@
+{
+  "video_id": "v178",
+  "title": "Rethinking Pre-training and Self-training[2006.06882]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v178/0001.jpg",
+      "path": "assets/slides/v178/0001.jpg",
+      "sha256": "b0bd5463cf19271ba10a2d19a80e565cd97b985b46857b5bee3a2d9add5da13e",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v178/0002.jpg",
+      "path": "assets/slides/v178/0002.jpg",
+      "sha256": "f5b6e6ecead96c77ee83bdd4ff7dd1beda14babd38343926f484f29e072c07ea",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v178/0003.jpg",
+      "path": "assets/slides/v178/0003.jpg",
+      "sha256": "fb5d58807f36d00263268a158859d5cf404f8b2bb8e8581fb1344b5e1bf930b7",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v178/0004.jpg",
+      "path": "assets/slides/v178/0004.jpg",
+      "sha256": "15cf8f0bfa1c5d4f360de93f208c35533360eb98986b8a64f3063d820ce39b8e",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v178/0005.jpg",
+      "path": "assets/slides/v178/0005.jpg",
+      "sha256": "505ed29770a40097b751223792b07a5fbe0d8a1fb8c0eddf3a1fbffa73598804",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v178/0006.jpg",
+      "path": "assets/slides/v178/0006.jpg",
+      "sha256": "5ada18cf888572cec226fcb1c6e03864703f8d5b4596b7963d424cbe0ecb6e61",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v178/0007.jpg",
+      "path": "assets/slides/v178/0007.jpg",
+      "sha256": "ec7a613e4a5c62fb79080c2c6159ec6c2020567fff54d02ae1aff187d8eafd9a",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v178/0008.jpg",
+      "path": "assets/slides/v178/0008.jpg",
+      "sha256": "e41a192b4cf5662e5a4b10e57d3380e9c79e4f8e744473d14ec2e8967a1cdcbe",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v178/0009.jpg",
+      "path": "assets/slides/v178/0009.jpg",
+      "sha256": "d19c9c81db063ab654b8ff5723479ace400659054ef5341a32c996133c81c81d",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v178/0010.jpg",
+      "path": "assets/slides/v178/0010.jpg",
+      "sha256": "a69ab7eefb06b39e2c60c95581229c11ca4f69562dd42e2e2aabd6f76d5f5662",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v178/0011.jpg",
+      "path": "assets/slides/v178/0011.jpg",
+      "sha256": "4dd983d9d35eae78bc9878a82eed392848deead3b2e745d20cbd9141390d7905",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v178/0012.jpg",
+      "path": "assets/slides/v178/0012.jpg",
+      "sha256": "d6c6d111e6ce4cc19231b6abd793de5722ec5660789839c9cd265a3372a39003",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v178/0013.jpg",
+      "path": "assets/slides/v178/0013.jpg",
+      "sha256": "15f8eac1572041ca381a1e848074b159bdff3813cb5598e6c3d3c6c3597a7a01",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v178/0014.jpg",
+      "path": "assets/slides/v178/0014.jpg",
+      "sha256": "8d53b1254244f5983826fae43e5496e49712deafd41f422e14a4f057741cc838",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v178/0015.jpg",
+      "path": "assets/slides/v178/0015.jpg",
+      "sha256": "3f3097e844bcbecf92668eedb85c216101b24d6cbded8faec3aaec9cd3472ef3",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v178/0016.jpg",
+      "path": "assets/slides/v178/0016.jpg",
+      "sha256": "843a4a6afbdb9b147b6f72e493f794fa6c5981f234cd4d5e584054e1a5855a95",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v178/0017.jpg",
+      "path": "assets/slides/v178/0017.jpg",
+      "sha256": "984571d712f7f7eaf6d0df2127479582e89f49f96a9e3f57e99487ad3b940925",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v178/0018.jpg",
+      "path": "assets/slides/v178/0018.jpg",
+      "sha256": "85aee1ad9d4753ad810f8ba7f4e19abccc9c7295d8b2c38000152166326796cc",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v178/0019.jpg",
+      "path": "assets/slides/v178/0019.jpg",
+      "sha256": "e34fcbc396400398f367c51ca90c0f88760f8e7d65ecf54323023f49ecc2b806",
+      "slide_index": 19
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来迅速说一篇论文 Rethinking Pre-training and Self-training，这篇论文主要研究了在更强的数据增强的这些情况下，我们的 Pre-training 和 Self-training 它们的表现。那么作者通过实验发现在我们使用更强的数据增强策略之后，甚至说使用了更多有标记过的样本之后，结果我们的 Pre-training 它的优势反而就没有那么明显了，甚至会影响最后模型的表现而和 pre-training 不一样呢，self-training 也就是说我用另一个训练好的网络，它生成一些伪的标记结果呢，在使用更强的数据增强的方法下，它依然能够帮助我们的模型性能提升。那么除此之外呢，在 pre-training 能够改善我们的模型性能的时候，self-training 呢也可以改善模型性能好的。那么以上就是本文得到的主要结论，那感谢您的收看，再见",
+    "那么在这个视频里面呢，我们就是主要介绍一下作者通过怎么样的实验方法来得到了之前上述的一些逻辑，然后呢展示一下作者的实验结果。作者也汇报了很多实验的细节，如果你对这个方向感兴趣，那非常推荐你去到原文中查看。首先是 pre-training 这里呢，我们的所有实验都是用了这个 EfficientNet B7 这个作为我们的 base line。那么 pre-training 的 checkpoint 呢，作者呢这里使用了两个模型，一个是",
+    "一个是被称为 ImageNet 这个是使用 AutoAugment 加上我们上面的模型在 Top1 能达到 84.5%的准确率那么另一个是 ImageNet++使用的是 NoisyStudent 这个方法那么也是上面的网络那么在 Top1 能达到 86.9%的准确率那么与之相对的就是 Random Initialization 然后就是作者研究的我是使用更强的图像的增广的策略那么这里的 s1 就是最简单的翻转还有切块等等那么 s2 就是增加了 AutoAugment 那么 s3 是在 s2 的基础上把我原来的 scale 缩放的这些东西来变得尺度更大了比如说原来是从 0.8 到 1.2 倍的缩放我现在变到了 0.5 到 2.0 倍的缩放那么最强的 s4 是使用了 RandAugment",
+    "好的，那么介绍 augmentation 和这个 pre-training 的配置，我们来看 self-trainingself-training 的思想呢就是我先训练一个 teacher modelteacher model 呢它在我们的样本上产生一些 pseudo-labels，也就是伪的标签。我们就把这些标签呢作为 ground truth，然后呢我们的这个 student model 同时学习人类的这个给的标记还有这些 pseudo-labels，他们是一同来进行学习的",
+    "那么在构建 loss 的时候呢，作者发现我原来如果使用这种直接的把两个 loss 加起来这个 lh 表示 human 的人类标记的产生的 losslp 呢表示表示呢是 teacher network 给的这个 pseudo-labels 它的标记呢产生的 loss。那么这 alpha 呢就是 hyper parameter 来控制它们两个的 trade off 嘛。那么作者发现呢我如果单纯使用这种简单的这种 loss 它是在后面很容易就爆炸了，不是那么的稳定那么于是呢，作者提出来是这个 loss normalization，就是他新构建的 loss 呢是这个样子的。这里呢这个 LH 拔和这个 LP 拔就是这个 LH 和 LP 他们使用指数倍的这个平滑之后得到的这个结果。所谓的指数的平滑呢就是像 momentum 一样，我每次更新它的时候呢是有一定比例的新 loss 加上一定比例的旧 loss 这样做的一个平滑",
+    "那么这里作者也尝试了不同的α值对模型性能的影响，这个在附录里面大家可以去查看。好的，那么我们直接看到作者的主要的结果。首先作者探讨了使用不同的 Data Augmentation 还有标记的样本的数量会对我们的 Pre-training 产生什么样的影响。那么得到的结论是我们如果使用了很强的 Data Augmentation，那么我们的 Pre-training 实际上会使我们的表现下降",
+    "同时我如果使用更多的有标记的样本，那么 Pretraining 的效果也会下降。看到左边这里 S1 到 S4 我们使用的数据增强策略是逐渐变强的。可以看到一开始 Pretraining 的模型还是比 Random Initialization 要好的，但是随着我们图像增强的越来越强，抖动越来越大，结果它的结果就不如 Random Initialization 了",
+    "那么右边这里我们看到是使用 coco data set，它的样本的比例 20%的时候，这些 pre-training 还是比 random initialization 要好的，但是随着使用标记样本越来越增加，最后 random initialization 结果比这些 pre-training 要好很多。那么随后作者就开始研究 data augmentation 还有 label data set size 对于 self-training 它的影响。",
+    "作者发现呢 self training 可以帮助我们在使用更强的 data augmentation 的时候获得一个好的结果甚至是在 pre training 它影响性能的时候那么我们可以看到这一组表格使用 self training 呢它是始终会比 random initialization 要强的同时呢对于加大有 label 的这个数据集 self training 呢不仅比原来的 random initialization 要好甚至呢也可以改变从 pre training 产生的这个 model 它们的结果",
+    "那么之后呢，作者还讨论了说，我原来的 pre-training 是有 label 的是 supervised 的方法，我如果使用 self-supervised 的 pre-training 呢，那么一样的结果呢，发现即便我使用 self-supervised 的 pre-training 不给它 label，那么当我们使用更强的图像增强数据增强的策略的时候呢，一样也是会影响我们的性能，但是呢，self-training 就不会。那么以上呢就是支撑本文主要结论的数据来源。",
+    "那么此外呢，作者还探讨了这个 joint training。那么作者认为呢，为什么 self training 这么强，是因为呢，他把这个 supervised 的 label 和这个 teacher model 给的我们的 pseudo-label 一起联合起来训练。这样子呢，我们的 student model 呢能够意识到这两个 label 他们之间的区别，能够更好的学习。那么这里呢，作者就想了，我能不能把 coco 和 ImageNet。",
+    "一起来训练，然后希望这个模型能够学到他们之间的这个差异呢。这里呢，实验我们看到这个使用这个 Joint Training 之后呢，性能有提升，而且呢，我们使用 Joint Training 加 Self Training 呢可以做得更好。那么此外呢，作者还研究了 Task Alignment 它的这个重要性，像这组实验呢是在 Pascal VOC 的这个 Training 这个 Data Set 上。",
+    "那么这一组呢是 training 加这个 aug，那么这个 aug 呢，它的标记呢可能会比这个 training 有更多的错误在里面。结果呢发现，当我们使用这个很强的 augmentation 的时候，我使用更多的这个有标记的样本呢，training 的性能呢反而变差了。这个呢我们在之前的实验中已经观察过这个现象。这个时候呢，作者试了 training 呢，我使用 supervised 的方法，这个 aug 这个数据集呢，我使用这个 self training 的方法。",
+    "来去克服人标记样本的这些错误。那么这样呢，无论在哪一种 data augmentation 的情况下，我们的性能呢都得到了提升。那么这里呢，也有另外的汇报说，在 open images 上面做 pretraining 会影响在 coco 上面的性能，哪怕这两个数据集他们的标记的方式是一样的。所以说呢，这里作者认为我们如果真的想要 pretraining 能够 work 的话，我们不仅需要两个数据集它的任务。",
+    "是一致的同时呢，他们的标记方法也要一致。好的，那么以上就是这篇文章的主要的实验内容了。那么这篇文章的核心呢，就是作者使用了很多算力帮我们刷新了对 self training 和 pre training 他们的认识。那么更多有趣的实验呢，欢迎大家去查看论文原文还有他的附录里面提供的这些材料。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "eaeba367e398984690ace7d9c5269e3b8ca9e6c59f79e64cdc76efdaade9cb80"
+}

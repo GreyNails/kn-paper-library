@@ -1,0 +1,195 @@
+{
+  "video_id": "v021",
+  "title": "End-to-End Learning of Visual Representations from Uncurated Instructional Videos",
+  "frames": [
+    {
+      "src": "../../assets/slides/v021/0001.jpg",
+      "path": "assets/slides/v021/0001.jpg",
+      "sha256": "2926cac1af9ff657587fc49724bc040a76a2b96030e7cb28cd6bd239de7016aa",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v021/0002.jpg",
+      "path": "assets/slides/v021/0002.jpg",
+      "sha256": "55a59b7ebee188cfc5e339837d7c380ee8655ad993ab6f805bf3cdafc9a3308a",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v021/0003.jpg",
+      "path": "assets/slides/v021/0003.jpg",
+      "sha256": "7656ae1b4f389baa81c1b09a5f143688f9976ec02b9f89366de1df9bedbcf15c",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v021/0004.jpg",
+      "path": "assets/slides/v021/0004.jpg",
+      "sha256": "bdb1a3ddde08fa1ea178cdc7ff6eda7b7bb8eea90e19e7e65c70c54e1d2f4baf",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v021/0005.jpg",
+      "path": "assets/slides/v021/0005.jpg",
+      "sha256": "67099d126d5e4d0809ea386c03232afb8fe34fbf2144f345483519a5f3384f3c",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v021/0006.jpg",
+      "path": "assets/slides/v021/0006.jpg",
+      "sha256": "542724182d5dc274e67ce7a5c0afe31b16fc03a5e98ef371ba957dbad69f19d3",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v021/0007.jpg",
+      "path": "assets/slides/v021/0007.jpg",
+      "sha256": "5a861afe08bd013f4d539b1c4e1665964a22ba26931d78cf40213e4f216f580e",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v021/0008.jpg",
+      "path": "assets/slides/v021/0008.jpg",
+      "sha256": "7a2aa68ae255ca899974f00c5e72fd72a381cd138a00ae6653ad6ebeff08af2d",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v021/0009.jpg",
+      "path": "assets/slides/v021/0009.jpg",
+      "sha256": "9f7f78855c4bbb41b397bdb48d184a7f60d36ccae438455a8ae017d4ffad5372",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v021/0010.jpg",
+      "path": "assets/slides/v021/0010.jpg",
+      "sha256": "6f7059a3a5a2327bfff5f2b2936bc7eb7b3f002a56fdcf94a4a44f576fe0318f",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v021/0011.jpg",
+      "path": "assets/slides/v021/0011.jpg",
+      "sha256": "a3601883be23a4f169a4d758c7c5e100d0472eb71a83fd83bdcdd8054838164d",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v021/0012.jpg",
+      "path": "assets/slides/v021/0012.jpg",
+      "sha256": "ccca5e8e606ddd59300aedfcc39a4722f0a9db54cba44391c5d415cae6f8c319",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v021/0013.jpg",
+      "path": "assets/slides/v021/0013.jpg",
+      "sha256": "e9102251909d5f0d13c918efec7696dfdc9034381256aaa42d3b3be4e1958f33",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v021/0014.jpg",
+      "path": "assets/slides/v021/0014.jpg",
+      "sha256": "09479d73bfb2bef43daa4403c4c767e9714b811e21564e62ee33cb3547199730",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v021/0015.jpg",
+      "path": "assets/slides/v021/0015.jpg",
+      "sha256": "1399862a8df7bfea79bc93dc96a438401f4498f4812a07726915345877a74c47",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v021/0016.jpg",
+      "path": "assets/slides/v021/0016.jpg",
+      "sha256": "989d607baba6c9beca6dd47f36f9d2c94dd5d53384fdbd180adbb69d54039584",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v021/0017.jpg",
+      "path": "assets/slides/v021/0017.jpg",
+      "sha256": "04c24135c97dfe409de5a9233620a265414c74d3a1ee76a95aec9182d5fa6712",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v021/0018.jpg",
+      "path": "assets/slides/v021/0018.jpg",
+      "sha256": "4141f3918a6efd7c95e77aa893b1cb9e6dfdf8bf80c701ec78e90a590be81983",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v021/0019.jpg",
+      "path": "assets/slides/v021/0019.jpg",
+      "sha256": "d10d575173e3f9127caaf3b6446fdcb1c938305480a073ad40ef6720e31d195f",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v021/0020.jpg",
+      "path": "assets/slides/v021/0020.jpg",
+      "sha256": "3e12b9d494402893ed119b383dfb5398cb5032422b7946f4a5d9c0060ce3db6c",
+      "slide_index": 20
+    }
+  ],
+  "paragraphs": [
+    "大家好啊 ，今天我们来快速说一篇论文 End-to-End Learning of Visual Representations from Uncurated Instructional Videos。这篇论文呢 ，是一个很经典的把这个 video 和它对应的文本相结合，然后呢 ，学一个好的共同的这个 representation 这么一个文章。但是呢 ，这篇文章重点关注的是这个 uncurated，也就是说我们的数据的质量并不高，很多的时候 video 和这个文本并不对应。",
+    "那我们来看作者的一个处理，那么首先我们想要学的就是一个 joint text video embedding。那在这个 embedding 或者叫一个 latent space 里面呢，假如说一个视频和一段话它们的内容是相对应的，那么我们希望它们在这个 latent space 里面这个距离够近，或者说叫相似度很高。",
+    "在这个文章里面作者用了 3.2 秒的 video clips 也就是 32 帧的一个 video clips 和它对应的一小串描述的话不会超过 16 个词希望通过这样的样本来进行训练但是正如这个例子所展示的一样这些文本和视频它们并不是准确的对应的比如说这里我说轻轻的按压这个木头啊可以没问题，那同时呢，他说我在切这个木头对吧？啊，那这个呢是对到这一幕了，跟这一幕并不对应。那这是一个对应的问题对吧？还有这种啊，总之就是你在视频里面看到的东西和你说话并不是总是百分百对应的。那这就导致你不能直接的拿来这个样本他这个对应就拿来用对吧？这样是不可以的。",
+    "但是呢，我们在这里呢可以先抛开这个问题不谈，我们来先看看假设说这个 video 和这个 text 他们是好好对应的，那我们怎么做处理呢？那这里呢，作者使用的是这个 nce 啊，他的原理很简单，就是你可以看到我的输入包括 x 这个是 video clipy 呢就是对应的这个文本啊，然后呢，f 和 g 就是他的这个 embedding 吧，把他们 embedding 提出来。那这个时候呢，我把这个两个 embedding 直接乘起来。",
+    "就是得到一个相似度，然后呢放到指数上。那这里这个求和的符号呢我们先不管它，我们只需要知道它的分子上是这个 positive sample，也就是也就是这个 xy 这个视频和文本是对应的，它的分母上是这个 positive sample 视频和文本对应加上 negative sample 不对应的情况下这个相似度。那么这个东西套上 log。",
+    "然后我们要使它最大化，也就使得我们对应的样本 positive sample 它的这个相似度得到提高，那这些 negative sample 这些不匹配的这些样本它的相似度降低。那么这个是一个经典的 NCE 的构型啊，就是 noise contrastive estimation，因为我们不只希望我们的 positive sample 它的这个信号它的 similarity 足够强，同时呢它要比一些随机挑选出来这个 negative sample 它的相似度要高。",
+    "这个是 NCE，那还是正如我们之前所说的这个样本呢，它是噪声是很大的，我们有大约 50%的样本它的这个文本和视频并没有一一的对应。那这里的作者解决思路呢就是我不止有一个这个 video 和这个 text。这样一个 pair，我可以用很多个，只要我觉得它们可能相似，那我都给它用起来。所以呢，这时候我们回到之前忽略的这个求和上，也就是说我们这个分子的位置上不止只有一个这个 xy 这个 pair，我其实有很多个这个 xy 这个 pair，然后把它们加起来，它们都是 positive sample。那同样的这个分子要复制到这个分母栏啊。",
+    "但是它核心的思想就是我有很多个 positive sample，因此你可以看到这一张的标题其实叫做 MIL-NCE，也就是 Multiple Instance Learning Noise Contrastive Estimation。那么这个是本文使用的 MIL-NCE。那么下面的问题就是我知道这个 video 和这个 text 它的严格对应的 positive 是谁，但是我们如何获得更多的 positive 呢？这里做着使用的方法非常简单。",
+    "就是我们来看到这个视频比如说它是在这个 7 分 34 秒到 7 分 37 秒之间的 OK，我们 7 分 34 秒这个字幕肯定是严格对应的，但是呢，在它的上下文离这个视频位置不远的地方，作者认为这些字幕都可以被认为是 positive sample。那所以呢，实际在计算 loss 的时候，这个 multi instance 在哪里呢？第一个 instance 肯定是 x 和这个 y 嘛，它对应嘛。那其他的 instance 包括 x 和 y1x 和 y2 这样子的对应关系，它们都算是 positive sample。那么这个呢，就是 multiple instance learning。那么这边一个图更直观一点对吧？我们的 video 的 representation 在这里，我们剩下的这些位置都是这个 text embedding。那么你可以看到这里有四个 text 都被",
+    "标上了这个 positive。那说明他们和这个 video 在时序上是很接近的。那在这个 MIL-NCE 里面，他们都是 positive。那么这个是本文提出的方法。那这里呢，作者对比了标准的 MIL，这个比如说 MIL-SVM。这里呢，只选择了一个这个 positive sample，剩下的这些 positive sample 就都被丢掉。那么下面呢，我们来看作者的一些实验",
+    "首先是作者使用的模型，在这个视频的这个 embedding 上面用的是这个 I3D 或者是 S3D 都有。然后这个文本的处理呢，就是这个 word2vec。然后最终他们都被投影成这个 512 长度这个 representation。这个是他的这个模型的结构。那么我们首先来看一下 ablations。那使用的任务呢，都是 action recognition。那首先来看不同的这个 loss",
+    "NCE 其实作为一种 contrastive loss，当然我们也有很多其他的选择。比如说用一个 classifier 来判断两个是 positive sample 还是 negative sample。比如说用 max margin，也就是我希望我的 positive 比 negative 多出这么一个阈值，否则就要开始算 loss。可以看到 NCE 的效果是很好的。注意这些，它们都是只用了一个 positive sample，因为这些东西它们只兼容一个 positive sample",
+    "那很直接的，我们就来到这个 C 组这个实验。这里对比的就是我们选多少个 positive sample 合适。那比如说这个一个的，它就落回这个 NCE 了嘛，就是这一组数据。然后呢，增加这个 positive 的数量，然后在不同的数据集上有不同的实践。那除了 positive sample 当然对吧，我们 negative sample 也是很重要的一般的一个趋势来讲，是这个 negative sample 越多效果越好，这个都没问题。那么再往下比较有意思的就是 MIL 的这个策略",
+    "那这个标准 MIL 就是每一组这个 positive sample 算出来，然后大家直接求和吗？就结束了。那当然比如说这个 concatenation 这个 cat 这个东西，他就是把所有文字 representation 串接起来，然后和我们的这个 video 的 representation 啊做一个 similarity。所以 cat 加 nce 它只有一个 positive sample",
+    "那类似呢，这个 max 就是做了 max pooling。就是我现在有很多个 pair 嘛，对吧？我一个视频跟很多个文字都算这个 similarity，我选择 similarity 最大的一个组合作为我们实际使用的这个组合。所以它也是只有一个 positive sample。那么这个 attention 加 nce 稍微复杂了一点，它就是算了一个我们的 video representation 和 text representation 之间的一个 cross attention。那么当然它本质就是一个加权和嘛",
+    "感兴趣的朋友呢，可以在附录查看它具体的实现。那么这边呢，就是一个对称和非对称的这个 negative 的问题。比如说这个地方是 given y，也就是我固定了一个 text，然后我去抓不同的这个 video，那这样他们来构成 negative sample。那这边同理就是我固定这个 video x，我去抓不同的这个 text 啊，他们去形成这个 negative sample，那这边呢就是这个 MIL-NCE 用的这个大家都随便抓就这样子，那么这边呢作者还试了很多种这个 language model，那感兴趣的朋友呢可以看一下，那么这个是主要的 ablation，那么当然为了评估这个方法呢作者选取了这么多任务，比如说这里呢是 action recognition 的结果啊，然后后面呢是各种",
+    "比如说 action segmentationaction localization，还有 video retrieval 等等，等等，感兴趣的朋友可以仔细到原文查看，总的来说这篇的实现并不复杂，就是利用时间上的相关性，就是一个 text 和 video，他们只要靠的比较近，我们都认为它是一个 positive sample，然后把它应用到了 nce 上变成了 MILMultiple Instance Learning，也就是我们有很多个 positive sample 的这么一个 NCE，然后来做的这么一个设计，我们介绍这篇论文呢还是为了布局后面的一篇，那么以上就是我对这个论文的一个快速的整理，那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "1d33115ae68ae933dad125238de4cab3b5fe6970f32d9de015b8eb4a72afc027"
+}

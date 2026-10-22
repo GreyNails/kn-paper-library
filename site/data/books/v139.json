@@ -1,0 +1,111 @@
+{
+  "video_id": "v139",
+  "title": "Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation",
+  "frames": [
+    {
+      "src": "../../assets/slides/v139/0001.jpg",
+      "path": "assets/slides/v139/0001.jpg",
+      "sha256": "82922f3558eeaabaf41a25e12705adccaa418af64b60b243eef4b0b8c28ea0ff",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v139/0002.jpg",
+      "path": "assets/slides/v139/0002.jpg",
+      "sha256": "e6d71c42eca2ee251970ee9815bb232d8d21851aee370022e525d25fcbde2f6a",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v139/0003.jpg",
+      "path": "assets/slides/v139/0003.jpg",
+      "sha256": "c20fda2ecba3f7488892f1ee7c8f17c2c42e26f5770df1b7d3375a4ae6ee5ba6",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v139/0004.jpg",
+      "path": "assets/slides/v139/0004.jpg",
+      "sha256": "83c3a7d8c37fd06039e4ecf9455292e61d761b7cf8033bf4e806a33dd86d405d",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v139/0005.jpg",
+      "path": "assets/slides/v139/0005.jpg",
+      "sha256": "110a0d450fd1478c55b9fa110802fa68a141c3798425a5ddc2dee69cca7ca066",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v139/0006.jpg",
+      "path": "assets/slides/v139/0006.jpg",
+      "sha256": "24bed04cff1e0f3bd19459fcab33b2b5aa766cdceaffbf5e6ce656f209e47fe7",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v139/0007.jpg",
+      "path": "assets/slides/v139/0007.jpg",
+      "sha256": "dcf48bcffe11872e6dbd9e31eeaf44a1ac9d2e122a09e9310008e44da21e642d",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v139/0008.jpg",
+      "path": "assets/slides/v139/0008.jpg",
+      "sha256": "72d5ad37eb13217e6af4cc0881a495592a4d8498e74167b36a2077696a41e921",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v139/0009.jpg",
+      "path": "assets/slides/v139/0009.jpg",
+      "sha256": "bd9d91427237756975e33aa4cc5b2cd7ce70be78620046df7ba36ecdbb655159",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v139/0010.jpg",
+      "path": "assets/slides/v139/0010.jpg",
+      "sha256": "b7b9c09574f1ef8d951e3eed7789f588979d5b00f4be3d69fa5d3c98f3274cd2",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v139/0011.jpg",
+      "path": "assets/slides/v139/0011.jpg",
+      "sha256": "f2e1dc9f604b95db721cd7056315d8989143ff3defff05541943b76eca0dae3d",
+      "slide_index": 11
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来迅速介绍一篇工作，Stabilizing Deep Q-Learning with Convolutional Neural Networks and Vision Transformers and Data Augmentation。那这篇论文呢，主要就是研究了我们这些 Q-Learning Based 这些 Reinforcement Learning 的方法，它在加上这个 Data Augmentation 之后为什么不稳定啊？我们去怎么样克服它这个不稳定的这个问题？那么首先来看为什么它们会不那么稳定呢？",
+    "作者认为，那这里主要有两个原因。首先第一个，data augmentation 实在是太过于这个随机了，它极大的增加了我们在这个 q value 的 estimation 过程中的这个 variance。它就相当于我们在计算这个 target 的时候呢，它就是不那么稳定的嘛。那么其次呢，就是这个 over augmentation 的这个问题。这里呢，作者认为说我们这个 augmented 这个 state 它呢距离我们原本的 state 实在距离太过遥远了，甚至有很多时候它比我们不同的 state 之间它距离还要远。这就导致一个问题，我们在计算 gradient 的时候，它的 gradient 里面的大部分都是这种很难以调和的这种 data augmentation 之间所带来的差异。",
+    "所以说，它并不能够帮助我们很好的去学到一个 Q-value。那么基于以上的两点原因，Data Augmentation 和 Q-value based reinforcement learning 的方法结合并不是说特别的顺利，主要是不太稳定，一个是从 target 方向，另一个是从训练过程 gradient 产生的方向来得出的这两个原因。那么怎么克服的这个问题？作者这里有非常直接的方法就是",
+    "既然 Data Augmentation 它做出来有这么大的缺陷，那就不做了。首先我们看到这里作者提供的一个非常简单的结构。",
+    "我们有 target network，我们有 online network。对于 target network 来说，我们只向他输入原始的未做 augmentation 的图像，可以看到是这样子，然后他给我们一个 q target value。而对于我们的 online network，我们还是想要摊一点 augmentation，但又不能摊全。所以可以看到他这里一部分是把我们的原始的 state 和增广过 state 一起结合起来送到我们这个 online 这个 network 里面，然后呢再进行训练。那具体到 loss ，我们看到这一部分蓝色的 alpha 前面是个系数啊。那这一部分呢，是有原始的 state 对比原始的 target 那产生的。那这一部分紫色的部分呢，是由这个 augmented state 然后呢还有我们这个 target 他们结合产生的，他前面这个系数呢是 beta。",
+    "那么通过调控 alpha 和 beta 的比例呢，我们就克服了这个这个 augmented 这个 state 它 dominate 这个 gradient 在 gradient 中占大部分的这么一个问题。同时呢，我们因为是把未增广的这个 state 送到这个 target network 里面，所以呢，我们的 target 应该是相对稳定的。那么这样一通操作呢，就规避了作者提出的前面两个这个原因。",
+    "当然这个改动也是一个非常简单的改动，理论上你可以把它放到任何 q value base 的 reinforcement learning 这些方法当中。那么当然我们的 encoder 不仅可以是 cnn ，还可以是 vision transformer，怎么说呢，这算是增加了一点工作量吧。那么在最后的结果的部分，作者汇报了像 DeepMind Control 还有 robotic manipulation",
+    "对比一看，可能确实是增加了一部分稳定性，但是作者使这个 trick 实在是太过简单了，你也不能指望说它有巨大的性能的提升。作者在原文中还汇报了很多的结果，包括附录中也有很多的实验，非常推荐到原文查看。那么这篇文章总体来说，提供了一个能够自圆其说的这么一套逻辑，首先是这两个原因。",
+    "对应地给出了相应的解法，虽然是一个非常简单的解法。那么总的来说呢，这篇文章呢还是挺有意思的一个小文章。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "ebfa8a12f7745a33728c6f003db915b4b349a7b0af05c1c53470e5779a98f0d6"
+}

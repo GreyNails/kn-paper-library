@@ -1,0 +1,171 @@
+{
+  "video_id": "v038",
+  "title": "CRG Improving Grounding in VLM wo training[2403.02325]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v038/0001.jpg",
+      "path": "assets/slides/v038/0001.jpg",
+      "sha256": "00bc5653514abff8162bb9e2f4dd10c70adb43ea435f6c9de80901311dba48bf",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v038/0002.jpg",
+      "path": "assets/slides/v038/0002.jpg",
+      "sha256": "ccd10212d1d0725b94266a2cecd60fba700fdb6483977c140ff5224b0f8bb8b3",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v038/0003.jpg",
+      "path": "assets/slides/v038/0003.jpg",
+      "sha256": "1b054779dc3221198506eed790279ba3a9309cb83cbd88aa5169e9ac2dcadbda",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v038/0004.jpg",
+      "path": "assets/slides/v038/0004.jpg",
+      "sha256": "212ab314670649d6747e2e27dc26fd6019bf9994ea07fbe93d8766307bc191e1",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v038/0005.jpg",
+      "path": "assets/slides/v038/0005.jpg",
+      "sha256": "57a531065048491fbf3eaff6c117225c644c4979d674e65960745ed12d7c11fa",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v038/0006.jpg",
+      "path": "assets/slides/v038/0006.jpg",
+      "sha256": "2b3b759467eeea51ccbaf2a264f102d7b0cc20a44a505e884daacf5aad902849",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v038/0007.jpg",
+      "path": "assets/slides/v038/0007.jpg",
+      "sha256": "943406ad27114086f766d817b46128306cb7537cab82a71f6a37141bb71774bc",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v038/0008.jpg",
+      "path": "assets/slides/v038/0008.jpg",
+      "sha256": "e9c3eca616665f248c694b4062fc64037e15393966b912b0f3d89aa719d3a05a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v038/0009.jpg",
+      "path": "assets/slides/v038/0009.jpg",
+      "sha256": "a1787de5ade0d86d7675643d6904d7d9ade7298dd780329e0b26317b6d35f8e9",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v038/0010.jpg",
+      "path": "assets/slides/v038/0010.jpg",
+      "sha256": "44bf324e40d35d1534d4d6c5282d55886a5a40e95d9b0ce4282543ea58374f07",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v038/0011.jpg",
+      "path": "assets/slides/v038/0011.jpg",
+      "sha256": "4ad81b744c5453dc5f1d31870f11e018209dc8f6fe1e09efab7727cf42bd6b99",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v038/0012.jpg",
+      "path": "assets/slides/v038/0012.jpg",
+      "sha256": "ad9c8a9ae99a34076d6d2d58e136b2ed29d2860c786f10ba1919ccbb8f608e88",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v038/0013.jpg",
+      "path": "assets/slides/v038/0013.jpg",
+      "sha256": "1a324ba33ab52f1f6bc79a688a022186a62fcbb5414a1e764cf37af95dc95ecd",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v038/0014.jpg",
+      "path": "assets/slides/v038/0014.jpg",
+      "sha256": "2d23af7fedcb4fca1971f17fe4772258605425502da0d59fa7e8ad99980b2e47",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v038/0015.jpg",
+      "path": "assets/slides/v038/0015.jpg",
+      "sha256": "01f487e92417c12e2b309df88b414f1c07d6d187c4a6fbda98f226825e71d25b",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v038/0016.jpg",
+      "path": "assets/slides/v038/0016.jpg",
+      "sha256": "4df8923df8b81ef89d9749faac833b99b8956c9a46fbb80a41bda10e14324e92",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v038/0017.jpg",
+      "path": "assets/slides/v038/0017.jpg",
+      "sha256": "712462e2b28226c0cfa52714e820e481ba908e18f272459eb245886da2b542c1",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v038/0018.jpg",
+      "path": "assets/slides/v038/0018.jpg",
+      "sha256": "6904d73b196838474b48a4abbf30ac124c7c78a1b34bfc040221840111baca04",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v038/0019.jpg",
+      "path": "assets/slides/v038/0019.jpg",
+      "sha256": "8182e55e0dde4e40b74fc65f8361c09f3ee327618112e8aac6731021bda8f940",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v038/0020.jpg",
+      "path": "assets/slides/v038/0020.jpg",
+      "sha256": "7aefe63cfe82918a7fef3f7acc849e6e856379250c4db6a50f9cfd1b0231efec",
+      "slide_index": 20
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速水一篇论文 Contrastive Region GuidanceImproving Grounding in Vision Language Models Without Training。那这一篇呢,它的方法非常直接，就是用这个 Diffusion Model 里面的这个 Classifier Free Guidance，用它呢,来放到我们的这个 Vision Language Model 里面，帮助我们的这个 VLM 去更好地完成 grounding 的任务。那比如说，就是识别一下各个物体之间的相互关系啊，等等，确定一个物体在哪儿这样的任务。这个呢,是本文的核心的思想。",
+    "那我们来看到这个例子对吧？比如说这里他想知道这个碗在什么位置，那后续的答案包括在 armchair 这个不同的位置。你如果是原本图像直接扔进去，可能这个 Vision Language Model 它对这个空间的信息不是那么敏感，哪怕你给了这个 Visual Prompt 标上框对吧，它也不一定能够做得很好。那这个时候呢，必须是加上这个 fine-tuning，可能它才能够达到一个比较好的效果。",
+    "那么在本文这个例子中，就是用了 classifier free guidance，用了这个思想。这个东西就是我去做两次推理，第一次推理是所有的条件都给全，所有的图像的信息都给全，我推理得出一个 distribution。那么第二次推理我故意把这些关键的信息隐去，把这些信息给它去掉，去掉之后用这样的图再去做一次推理。这一次推理其实相当于我们可以。",
+    "用一个不严格的话来讲，就是相当于把这个 Vision Language Model 里面对这张图的一个基底的一个噪声、一个印象给它解出来。这样子呢，你只需要衡量这两次推理之间相差的那一部分。那理论上来说，这个相差的部分就包含了我们这个被 masked out 的区域里面的信息，而且就只包含这个信息，不会受其他的背景啊什么这些东西的干扰。这个呢，是本文最核心的思想，也是这个 classifier-free guidance 它的一个核心的思想。",
+    "那其实到这里就结束了，下面我们继续来看作者的这个实现对吧？这里也是一些定义 auto regressive 的 Vision Language Model，就是根据图像和文本，包括你之前生成的答案，因为它是一个 auto regressive 的嘛，然后来生成下一个 token。这是它的一个 Vision Language Model 一个标准的定义。那你加上这个 classifier free guidance，你就相当于做两次 inference。第一次呢，是你正常的原始的图像，正常的做 inference。",
+    "你有一个 logits 然后呢，第二次呢，你把这个 mask 加到你的图像上，把这些关键的信息给他去掉，给他变黑啊这样的 mask out 这个图片之后呢，再送到这个 vision-language model 里面再去预测下一个 token logits。那两个 logits。根据这个权重来给它组合，你看到这是 1 加α减去α倍的这个东西。那这里呢，它根据之前的文章的经验，那这些都是把这个 classifier free guidance 用到这个 language model 里面的这些方法。那么根据这些文章的经验，α设成 1 就可以了。那这个式子呢，就是你两个 logits 一减对吧，然后过 softmax，最后出来的结果呢就是我们真正想要的结果。那当然因为是 softmax 减嘛，所以呢，你可以把它写成这样的形式。",
+    "对吧？那么这个呢，就是本文的最直接的方法。那么下面呢，一个很直接的问题就是我们具体应该怎么样产生这个 mask 啊，怎么样去把这个条件移除是效果是最好的。那这里呢，做着标准的解法就是假如说我这个数据集里面有这个 prompt region 啊，就是有一个框，想要问这个什么里面的信息，我们就直接用啊。如果说没有呢，我们去看这个问题里面有哪些名词，根据这些名词呢。",
+    "有这么多好的 open vocabulary 这样的这个 object detector 去把我们的各种物体的 bounding box 给它解出来，简单的 filter 一下就好了。那么当然了，作者也有 ablation 去讲了，我是拿了 bounding box 去 mask 还是用我们的这个语义的一个精确的这样一个 mask 去 mask out，而且还对比的是直接 blackout 直接 mask out 还是加 overlay 这样的效果。",
+    "那么这些详细的实验呢，感兴趣的朋友呢，非常推荐你到原文中查看。当然作者在那个数据集上测下来效果最好的就是根据 bounding box 把我们这个 object 给它 blackout 掉。那这样子呢，就是本文默认的配置。那么下面一个快速的结果啊，这个 ViP-Bench 上面啊，不同的种类的任务啊，他们的性能。看到作者呢，对比的是自己的方法还有这个 som 啊，什么迷之声啊，不是迷之声啊，是这个 Set-of-Mark。本质上呢，他就是用了 sam",
+    "把这些东西分割出来，然后在上面叠上数字的标签，扔给 GPT 这样的方法，这样的 Vision Language Model 去做，效果还是不错的。当然呢，你要严格说这个 CRG 跟这个 SOM 它也不是能够直接对比的，因为你 CRG 是需要取到模型的这个 logits，它是需要拿到你模型原始的这个 decode 输出的，而这个 SOM 呢就不需要。所以呢，SOM 能用 GPT 这样的这个闭源模型，而 CRG 呢只能用这些开源模型",
+    "好的，那么总来说呢，这一篇就是用了一个 classifier free guidance，把它原来用在 diffusion model 上的，用在 language model 上面的，现在给它弄到 vision language model 上。重点呢，就是在于编辑这个 image blackout 这个 image 来产生 condition 和 uncondition 这两种情况，然后做个差，是一个非常直接的方法。你也不需要去动 Vision Language Model 的参数。好的，那么以上就是我对这篇论文的一个非常快速的整理。那么感谢您的收看，请多多指点"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "288fcb34f362e1220859463018650ee0d0307cbf7bd28423973882dfb4618bf2"
+}

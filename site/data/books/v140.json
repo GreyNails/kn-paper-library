@@ -1,0 +1,76 @@
+{
+  "video_id": "v140",
+  "title": "Synthetic Experience Replay[2303.06614]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v140/0001.jpg",
+      "path": "assets/slides/v140/0001.jpg",
+      "sha256": "bd331bc730380df6f3650a6edd67ccebc477d8d0700ebf66599f2e17237ee6b2",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v140/0002.jpg",
+      "path": "assets/slides/v140/0002.jpg",
+      "sha256": "bf6e41bdc828c558a2dbb9edbc009dc6bdf7a019fb098bb556deb52fa206a658",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v140/0003.jpg",
+      "path": "assets/slides/v140/0003.jpg",
+      "sha256": "7cc901322e295762de359c9390b8f0668ec9b6be4ca506b0334aa334ad2dfad6",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v140/0004.jpg",
+      "path": "assets/slides/v140/0004.jpg",
+      "sha256": "acb78a6c0ba718dfa165a2fa97ac2946aa7ffdcfb42b558ac324930bfd880e7e",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v140/0005.jpg",
+      "path": "assets/slides/v140/0005.jpg",
+      "sha256": "cb1adbe61fbbd5a79bae9d1e6822c505cb721186ed5c4141fab08ec2a9dc16e2",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v140/0006.jpg",
+      "path": "assets/slides/v140/0006.jpg",
+      "sha256": "d917810d96f56ed459610131a35f44e4b7c044f839db4b8e94ac162a730ad35b",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v140/0007.jpg",
+      "path": "assets/slides/v140/0007.jpg",
+      "sha256": "8dc0861c4f70ffcda7a5243d4c5204d7139597280a2fda43db98cb69bb6319e8",
+      "slide_index": 7
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速说一篇论文，Synthetic Experience Replay。那么这篇文章呢，是一个非常简单直接的工作，就是用 Diffusion Model 去生成样本，供我们的 Reinforcement Learning 这些东西去学习，就结束了。这里我们看到一个这个插图。",
+    "首先他们做的不是视觉啊，是他们直接能够拿到那个系统的数值的那种状态的那种样的这个 reinforcement learning。那熟悉 diffusion 的朋友对吧，这个是反向的这个 denoising 的过程，这是前向的这个加 noise 的过程。你可以看到，如果这个 state 是完全的这个 gaussian noise 对吧，这里用这个 tsne 给它画出来，就是完全的这种 gaussian noise。你可以看到这个状态乱七八糟的，那随着这个 denoising 的过程进行呢对吧，我们的样本逐渐变得更加真实，然后呢你可以看到。",
+    "然后你可以看到这个数据 distribution 在不断的变化。作者说这种生成样本，第一质量高，第二它有 diversity。那么当然这个方法实现起来也是非常简单的。你如果是做 offline 的情况下，你就直接用你已经有的数据集去学就好了。如果你是 online 的方法，随着收集样本随着去学习，你设置一个比例。",
+    "就是我用多大的比例去使用真实的数据，我用多大的比例去使用我们生成的数据对吧。一样的你在线把你的这个生成器这个 diffusion model 给它训练好，然后呢用生成的样本和实际的样本一起来给它做训练就好了。那么还是因为在这里做着直接操作的是这个数值的这个空间，所以用一个带残差的这个 MLP 就可以了。那么很简单的一个思路你甚至可以说它是介于 model free 和 model-based reinforcement learning 之间的这么一个东西它虽然没法像一个正经的 model 一样在 condition 的情况下给你处理各种东西但是它是 uncondition 的直接生成一堆样本来你觉得还是这么一回事那么本文主要的 argument 两点第一个就是对吧我生成的样本首先质量高比用 VAE 用 GAN 这些东西生成的样本质量高能够改善我们后面的 policy learning 这些性能",
+    "包括这里也是你的 policy learning 这一块，你不用改，你就直接用 diffusion 多生成点样本加进去就好了。这也是作者的 argument。同时作者还说，我用这种模型生成出来的样本比你直接单纯的暴力的去加这个 augmentation，它是跟我们真实的样本分布更像的。那么感兴趣的朋友可以去看他具体的实验配置好的。那么以上就是我对这个论文的一个快速的，甚至都不能叫整理了，就是告诉你有这么一个事情，非常直白的一篇工作。",
+    "那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "43e63d002b39f6b26ae1eeaf60719e0e43804718bfdc1388cd37ead611c6442d"
+}

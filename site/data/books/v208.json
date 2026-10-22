@@ -1,0 +1,208 @@
+{
+  "video_id": "v208",
+  "title": "iBOT Image BERT Pre-Training with Online Tokenizer[2111.07832]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v208/0001.jpg",
+      "path": "assets/slides/v208/0001.jpg",
+      "sha256": "d24eb51b798302f0376af94c48395706c93b079749871cb4314d0e78f800309c",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v208/0002.jpg",
+      "path": "assets/slides/v208/0002.jpg",
+      "sha256": "aea1a68b53d19897f4ddf1991adb9a6523afa00244088e22a39b837f5197263b",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v208/0003.jpg",
+      "path": "assets/slides/v208/0003.jpg",
+      "sha256": "ff1ca288794b7360738c06fe8320654fc616ec34ea46813454ce484ed96b85ff",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v208/0004.jpg",
+      "path": "assets/slides/v208/0004.jpg",
+      "sha256": "83280440c9cc2755ec82d494ee617d472d754398ef927560f9ea017cb8b49872",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v208/0005.jpg",
+      "path": "assets/slides/v208/0005.jpg",
+      "sha256": "c7dae5886ebb75ba9b4c923c46644fefe742690fc1121e419e34da6d46fba2d3",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v208/0006.jpg",
+      "path": "assets/slides/v208/0006.jpg",
+      "sha256": "188951603434fce2c742d2b62b5b62ae795cf45ce0752dfa8c6566ea2ec5440f",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v208/0007.jpg",
+      "path": "assets/slides/v208/0007.jpg",
+      "sha256": "4b4a6ac85563b7f115f3335bde3913a0d2f19e880763e09323b508452c886370",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v208/0008.jpg",
+      "path": "assets/slides/v208/0008.jpg",
+      "sha256": "3dc8bf91103df115360bb89ab47b67d2a20398b1179f5a668abe7a69408c0bc0",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v208/0009.jpg",
+      "path": "assets/slides/v208/0009.jpg",
+      "sha256": "bf1737a8aac26fbf17048e96f2c42c92c14954a9ee6b95a1bcbc31c7f6f7e3ea",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v208/0010.jpg",
+      "path": "assets/slides/v208/0010.jpg",
+      "sha256": "87df45d099a331b3119685aa39abc1cd3e3ef461ebe5ba1554fc39c9d1e6c92f",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v208/0011.jpg",
+      "path": "assets/slides/v208/0011.jpg",
+      "sha256": "6f9b606059c403ec368afdce3a19462249ceb988a4543dc787ae768b2ea9df16",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v208/0012.jpg",
+      "path": "assets/slides/v208/0012.jpg",
+      "sha256": "8c247805652ce34edabe94f3422cc49cd41241c00e90176619d4a1ef70378542",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v208/0013.jpg",
+      "path": "assets/slides/v208/0013.jpg",
+      "sha256": "96b7747a5e3cd3fa1838c42e0c21b249959f83e66431a735ebf61d4837abfbbd",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v208/0014.jpg",
+      "path": "assets/slides/v208/0014.jpg",
+      "sha256": "9bd2096cee0f320fc9905eea6dcace594bb4137eac98ec153ec3b8796153ffcf",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v208/0015.jpg",
+      "path": "assets/slides/v208/0015.jpg",
+      "sha256": "095790677ee7e6bfc6c24025efd089db5e1dbbf52b699cd84d0485ca8598420b",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v208/0016.jpg",
+      "path": "assets/slides/v208/0016.jpg",
+      "sha256": "c0bd503a4b277fd199de1b6602deaf465ceaaa8097c16c902d5c2b6dd56c2e34",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v208/0017.jpg",
+      "path": "assets/slides/v208/0017.jpg",
+      "sha256": "2c178a1fd26c3ef307f01ec62a6af65343226260d22ef07d3dbc91be2d6c2d04",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v208/0018.jpg",
+      "path": "assets/slides/v208/0018.jpg",
+      "sha256": "cded39a19b1abf13f727776a03e0a6277824d6841ad1b757f79e5cafa3bafd0b",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v208/0019.jpg",
+      "path": "assets/slides/v208/0019.jpg",
+      "sha256": "eb0d6e4da36c4b274c1ed532a5209a474f6891909be256d44e6815ce0e56cf4b",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v208/0020.jpg",
+      "path": "assets/slides/v208/0020.jpg",
+      "sha256": "ab55a809539152182feb7a51af63e1695c647d3c28ef064df2d2e558258eba7e",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v208/0021.jpg",
+      "path": "assets/slides/v208/0021.jpg",
+      "sha256": "4a0a4e1a441a1e5611698c689afbb58ffeed5efc8553786ec9354c8ca4df6c30",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v208/0022.jpg",
+      "path": "assets/slides/v208/0022.jpg",
+      "sha256": "86630d3fa66d386458f0cf0dffeccdc2c7bf8b337b8c17580983afc18dd03aae",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v208/0023.jpg",
+      "path": "assets/slides/v208/0023.jpg",
+      "sha256": "c1ba6d88da0e7bf49c92c970627742f67e2c776fa087bbeb16019bde1b5cda69",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v208/0024.jpg",
+      "path": "assets/slides/v208/0024.jpg",
+      "sha256": "79739ff69b6f2f6d55a5eb1392688bb276ab27ce04f07baeb25b735b3a393965",
+      "slide_index": 24
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速出一篇论文 iBOT, Image BERT Pre-training with Online Tokenizer 这一篇也是一个经典 Self-Supervised Learning 的文章了我们在开始这篇之前,首先快速的回顾一下 DINO、DINO 这个东西它就有 Contrastive Learning, Self-Distillation 这些一脉相承的东西发展下来的快速的总结来说,就是你有一张图像 X 你把它加不同的 Data Augmentation",
+    "那同样一张图像加不同的 data augmentation 你就得到这个两个 views 啊叫这个 v 和 u 啊因为这个 v 和 u 他们是从同一张图像里面增强得来的所以呢他们的语义信息就应该是相似的啊那基于这个呢我们就可以构建这个监督信号那这里呢 dino 的设计呢就是我维持一个 teacher network 维持一个 student network 那这两个 network 呢它的这个结构是一样的那这里呢比如说我把这个 v 送到 teacher networku 送到 student network 那么这两个这个 representation 出来它们应该是相似的那具体来说呢它出来的 representation 我们把它视作成一个 data distribution 那它用一个 cross entropy 来衡量这两个 data distribution 它们的相似程度这个呢就是这个 dino 它的一个 loss",
+    "那当然你看这个 cross entropy 还是一个不对称的 loss 所以呢你还需要交换这个 uv 的位置你把 u 送到 teacher v 送到 student 里面也有一个相似的这样一个 loss 然后呢这样两个 cross entropy 去平均就是最终的这个 loss 那当然你更新完这个 student network 之后对吧是通过这个 exponential moving average ema 这个方法把这个 teacher 的权重也随着更新啊这个就是一个 dino 的一个基本逻辑啊",
+    "那么在这里呢本文这个 ibot 它呢不仅有这个 self-distillation 这些东西同时呢它把这个 bert 这个东西引入进来了那本质上呢就是说我的这个图像进来对吧我拿掉一部分的 token 拿掉一部分的 patch 那它呢还是应该跟原始的图像相似的那么你这个相似的元素呢你同样拿 cross entropy 来做就是本文的这个 ibot 那么下面我们具体来看啊那首先啊这个结构图我们还是跟那个 dino 一样对吧有一个 student network",
+    "有一个 teacher network 那同时呢后面有这个 projection head 就是把我们的 representation 我从 transformer 里面出来的 representation 给他投到一个 latent space 里面那这里呢你可以看到他分了两只啊一个是投这个 classification token 另一只呢就是投这个 patch 的这个 token 那本质上都是 mlp 那其实我们重点要关注的是他们怎么操作的我们来看啊一张图 x 从这个 dataset 里面取出来",
+    "还是做两个不同的 augmentation 得到 u 和 v 两个 view 那这个 u 和 v 得到之后呢我们送到 transformer 里面对吧肯定是把它化成一个 patch 对吧然后每个 patch 都变成一个 augmentation 然后再送进去嘛但是这里呢作者引入了这个 BERT 里面这个 masking 这个概念这是一串 token 嘛比如说这里是九个 token 我随机的 mask 掉了其中一些就相当于我随机取一些 token 把它替换成这个 mask token 一样这样子呢这个 u 和 v 具有了相应的他们的 mask view 这个 u head 和这个 v head",
+    "然后呢作者把这个 u head 和 v head 送到这个 online 这个 student network 里面啊他就那种强硬的这个 representation 对吧你看到这边是 vs head 啊这边是 us head 对吧然后呢把这个没有 mask 的这个东西啊这个 u 和 v 送到我们的 teacher network 里面啊就得到这个 vt 和 ut那么当然因为这些 UV 啊 Uhead Vhead 它们都是来自于这一个同样的图像对吧所以呢它们表达语意信息就应该相同的我们就开始加这个 similarity 了那具体来看呢因为我们用了 transformer 嘛所以最后它每一个 patch 出来呢都会有这么一个 representation 那这里呢作者关注的是我这个 student network 出来预测出来的这个 patch 它",
+    "虽然输入的是这个 mask 的这个 patch 就是我不知道原图里面是什么但是我希望经过这个 transformer 根据其他的这些已知的这些 token 这些有颜色的这些 token 我能够预测出来这些被 mask 掉的这个 token 里面的内容是什么最终反映到这些 token 的位置上这个 representation 上那么我怎么样去监督这样一个预测的过程呢就是根据已经有了这些 token 去预测这个 mask 的 token 呢我们找到这个 teacher network 因为这个 teacher network 它是能看到所有整个没有 mask 的整个这张图像的那我们继续查这个被 mask 掉这个 token 对吧它我们预测出来的这个 representation 跟我们实际这个 teacher network 它看到这个整个图像之后得到这个被 mask 掉的位置的这个 representation",
+    "他们两个的相似程度是怎么样的呢对吧那么为了描述这样的一个相似程度还是跟 Dino 一样对吧我们用一个 cross entropy loss 这边你可以看到这是 mask 的图像送到我们的",
+    "这个 student network 里面然后呢取到一个被 mask 的这个 patch 然后呢它的这个相似程度跟我们的这个整张图像送到 teacher network 里面取到这个 mask 的位置的 representation 那这两个 representation 应该相似嘛对吧这个 m 呢就是一个 mask 就是我们在算这个 loss 的时候我们只选择这个被 mask 的区域的这些 loss 像这个有颜色的没有被 mask 的区域呢我们就不计算它的这个 loss",
+    "这里呢作者叫它这个 MaskImageModelingMIM 这样一个 loss 那你对这个 U 可以做这样一个 loss 同样的对应的对吧你可以对这个 V 也做一样的这个 loss 那本质上呢它就是跟 BERT、Masked Autoencoder 这些东西一样就是通过已知的这些 token 来预测未知的这些 token 只不过这个预测的这个结果呢你是从这个 TeacherNetwork 里面来的那当然这个 TeacherNetwork 你就不能用这个梯度来更新了",
+    "你要用这个 EMA 从 student network 里面逐渐的更新过来那么这个呢就 iBOT 相当于 DINO 这个东西它新加的这么一个玩意儿就是本文的核心的技术共享同样的呢我们已经有了这个 DINO 这个东西我们为什么要删去它的呢对吧一样留着那这里呢被 masked 的这个 classification token 这个是 VSHat 应该跟另一个 Vue 的没被 masked 的这个 classification token 这个 UT 它们两个是相似的",
+    "这个就是跟 dino 一样的设计了对吧两个不同的 view 它的 representation 应该是相似的那同样的呢对吧这边 vt 和这个 us head 啊他们两个也是相似的那同样的用什么来衡量这个相似度呢这个 cross entropy loss 那么最后呢作者还发现啊我这里不是有两个 mlp 分别把这个 classification token 还有这个 image 这些 token 投到他这个 latent space 里面呢那实际上作者发现呢如果让这两个 network",
+    "他们的参数一样才能够取得更好的效果这个是一点观察那么快速的到一个结果的部分对吧？相对于之前的当时的这些方法啊，还是很有竞争力的。那本文的重点呢，就在于他结合了这个 mask 还有呢，这 contrastive learning，相对把两个世界给他都结合起来了啊，取得了一个相对满意的结果。那还是如果你对这个方面感兴趣呢，非常推荐你到原文查看。好的，那么以上就是我对这个论文的一个快速的整理啊，非常快速的一个整理。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "7bb749bb782c9d2ae82d39a939aca961941394b1b85cace54ed6d9656d0b6fe9"
+}

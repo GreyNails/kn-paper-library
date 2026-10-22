@@ -1,0 +1,145 @@
+{
+  "video_id": "v135",
+  "title": "Mask-based Latent Reconstruction for Reinforcement Learning[2201.12096]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v135/0001.jpg",
+      "path": "assets/slides/v135/0001.jpg",
+      "sha256": "565e0197cc9976b3f3ba3c972d157cc65b1de18551ccfe677b48387be664c009",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v135/0002.jpg",
+      "path": "assets/slides/v135/0002.jpg",
+      "sha256": "6a0228d852b090c6353491d7d5eb4e80b9c905a3deb9260449a9c655344bee05",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v135/0003.jpg",
+      "path": "assets/slides/v135/0003.jpg",
+      "sha256": "516529db5e997b03416a72be98b107bec65203f28d3fadeb44c87f917bf2e85a",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v135/0004.jpg",
+      "path": "assets/slides/v135/0004.jpg",
+      "sha256": "1edfc36b786fa8df95d34a298c147b9d9a95a03f3f309869874737d3b7580073",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v135/0005.jpg",
+      "path": "assets/slides/v135/0005.jpg",
+      "sha256": "8a6df153665803b9bb192d7aafa0b9d72a4b8c1784516e8b23d799b9d102623f",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v135/0006.jpg",
+      "path": "assets/slides/v135/0006.jpg",
+      "sha256": "50a71c5c8a17f6a29f2ab16d87e1f2b83c982dbda39856fbf848f3ea7109e640",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v135/0007.jpg",
+      "path": "assets/slides/v135/0007.jpg",
+      "sha256": "675d707b710eb5284aedc83cf5ae7b2634c383496591b710ea06b4a9dd01c50f",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v135/0008.jpg",
+      "path": "assets/slides/v135/0008.jpg",
+      "sha256": "ea500721eccada622804c03d97c1353a90b35296c621f0364fff11352a34f3fc",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v135/0009.jpg",
+      "path": "assets/slides/v135/0009.jpg",
+      "sha256": "395f2074521db0fff94ec9c7808e209bb73b98603b40c7022f7c5c35293d3feb",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v135/0010.jpg",
+      "path": "assets/slides/v135/0010.jpg",
+      "sha256": "f00a5a09ddb5de6ea93f2f8f1f3ddb8320d242d08bcc2a3b72735f17db944485",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v135/0011.jpg",
+      "path": "assets/slides/v135/0011.jpg",
+      "sha256": "e5d3dbce36357e32bdd44693a48dc19d020412a853cc50c959400c424cb881e6",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v135/0012.jpg",
+      "path": "assets/slides/v135/0012.jpg",
+      "sha256": "abe1d907ee2f9a1389affd2f8d5bded930bfe8e5182696f65dbf58eec5172fdb",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v135/0013.jpg",
+      "path": "assets/slides/v135/0013.jpg",
+      "sha256": "1a7ab6207a23660f16afe716335e914493acf3ecd5ef93dad30cbe3f7f8b0f7d",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v135/0014.jpg",
+      "path": "assets/slides/v135/0014.jpg",
+      "sha256": "59a0e7b721c33abcba15c26b3125fb9154ecb99dbdd0351a8455669b509542f0",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v135/0015.jpg",
+      "path": "assets/slides/v135/0015.jpg",
+      "sha256": "09d73d98a6ff4301dac5acda1aacc1c09fa04f2f3de0e940955212b3a1a9ff59",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v135/0016.jpg",
+      "path": "assets/slides/v135/0016.jpg",
+      "sha256": "26127659f71b14e235972b13cdd3e0ba5b5dd47dabcd17e8a76c10e2f816be40",
+      "slide_index": 16
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Mask-based latent reconstruction for reinforcement learning那这篇呢实际上是通过结合多种 self-supervised learning 的技巧，包括你从标题里面看到的这个 mask 还有这个 BYOL 这种 contrastive learning 的这些技巧。那通过这多种技巧呢来共同实现一个提高 online reinforcement learning 的这么一个性能的这么一个方法。那下面我们直接来看，那本文的核心的思想呢也很直接啊，一个图其实就完全可以概括了，这是它的这个 pipeline。那在进行这篇文章之前呢，我默认你已经熟悉 CURL",
+    "就是那个 contrastive learning 加 reinforcement learning 这个方法。然后呢 RAD DRQ 这些东西可了解可不了解的，那么重要的是 CURL 那篇呢，虽然这个想法很美好，实际效果呢也不怎么样，出来的争议呢也很大，但是呢它能够很好的帮助我们理解这一篇那么一个快速的回顾，CURL 这个东西呢，一个 batch 里面先做 reinforcement learning，再做这个 contrastive learning，结束了。那么在本文的方法中呢，reinforcement learning 照做对吧，在 contrastive learning 的环节呢，不要单纯的做原来的那种 contrastive learning 那种方法太简单了，来看到我们右边的这个 framework，这个呢就是本文作者提出的就是在一个 batch 里面，我做完 reinforcement learning 之后的 self-supervised learning 的任务是什么，也就是或者说它的辅助的任务是什么",
+    "那么它的任务流程是这个样子，但是区别于 CURL 这些东西，它做 contrast learning 的时候，它是只是针对一个状态的一个时刻的状态，而本文这个方法中，你可以看到它的输入，它的输入确切来说是对 self-supervised learning 这一块的输入，它是一个 sequence，也就是很多个时序的 observation 在一起，这个是区别于之前的方法，很明显的一个不同",
+    "然后呢，你可以看到这是一个原始的输入的序列啊，mask 之后过这个 augmentation，这个都是一样的，encoder 呢也是 cnn 的 encoder，得到这些每一个这个状态的这个 embedding 啊，这些都跟原来一样的，那包括像 mask 这一步呢，也是整个一个大的这个 tensor 对吧，化成一个个没有重叠的这个 tube 啊就可以了，那么这个呢是到了这个位置",
+    "那么再往下呢，就是本文的一个很特殊的设计，那就是作者这里称为 decoding 的环节，我们知道这个在 MAE 里面呢，我们接了 decoder 之后对吧，它的目的是为了重建出一个完整的图像，因此呢，我们要把这些空的这些 mask 的这个 token 加进来，然后重建出一个完整的图像，那确切的说呢是去预测这些被 mask 的这个 patch。那么在本文中呢，作者重点强调是这个 latent decoder，因为我们之前通过这个 CNN 这个 encoder 把我们的",
+    "这个图像变成了一个小的非常小的，也就是一个长度 50 的这么一个 state 这么一个 vector 啊，那么你再通过它去重建原始的像素啊，这个任务显然是比较困难的，而且呢我们真的有必要重建这个原始像素吗，似乎也没有那么必要。那于是呢，这里呢作者的设计呢，你可以看到首先是我们 cnn 出来这些 embedding 这些 token 那在这里，然后呢作者把我们之前的这个 sequence 中使用了这个 action它放到这个 linear layer 里面，这是一个 linear layer，然后呢也变成了一个 token。那么这些 token 呢，跟这个 state 这个 token 一起，然后加上 position 的 embedding，对吧？送到这个 transformer encoder 里面去做这个 decoding 的这么一个过程。那么 decoding 出来的这些结果呢，我只保留这个每个 state 对应的这个 token 它出来的这个 embedding。这个呢是区别于这个 mask autoencoder 的地方。那么拿到这个 state 之后呢，继续往下做，这里呢",
+    "作者管它叫做这个 reconstruction，其实呢，它就是这个套着 BYOL 的这个 framework、BYOL 是什么，两个 representation 拿到之后对吧，你做一个 online 的 projection，把它这个 representation 投到一个 latent space 里面，然后呢，从一个支去预测另一个支的 representation 对吧，有一个 prediction，那预测出来的这个结果对吧，它们两个要相似，相似的这个 loss 呢就是长这个样子，这个是 BYOL 的东西",
+    "那么最终形成的这个 loss 呢，就是本文的这个监督信号，对吧？它的辅助的 loss 就是这个东西。你和这个 reinforcement learning 的 loss 加在一起，对吧？这个呢就是本文的这个整体的设计。所以你看到这篇文章呢，它运用了很多的技巧，这个 masking 这个 transformer 这个最后 BYOL 这个 framework，他们这些东西一起把整个流程创下来了。",
+    "最终实现了一个好的结果。这个是 DeepMind Control Suite，然后后面还有 Atari 这些结果等等。感兴趣的朋友非常推荐你到原文查看，包括作者原文中也有很多的 ablation，你的 mask ratio 是多少，每一个部分的设计的取舍是怎么样的。那总的来说呢，这一篇文章啪啪啪的把前面一篇这个 that self-supervised learning really improve reinforcement learning 那一篇啪啪啪打了一通。那本文的证明，经过使用这个 masking 加上 BYOL 这些东西弄上几个 transformer 的 layer，它的性能呢其实也是可以得到改进的。然后我这次去开会的时候呢，也非常荣幸的见到第一位作者，人很好的一位大佬。那大家记得玩了命的引用好吧。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "32cfa332538c5076188f2189c4d070ec5083d5ad8ccf08288377e07261cfadb5"
+}

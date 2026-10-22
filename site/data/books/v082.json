@@ -1,0 +1,129 @@
+{
+  "video_id": "v082",
+  "title": "X3D Expanding Architectures for Efficient Video Recognition[2004.04730]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v082/0001.jpg",
+      "path": "assets/slides/v082/0001.jpg",
+      "sha256": "e6e81fde21b227c9025f0a5e8b84ca16a71eb1d3cfaf074e8fb27589a43fb8f6",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v082/0002.jpg",
+      "path": "assets/slides/v082/0002.jpg",
+      "sha256": "6f90127b4c40a11db36a1aae5a0c3b72c583b60d7f6988d6b65bd73e97fa13f5",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v082/0003.jpg",
+      "path": "assets/slides/v082/0003.jpg",
+      "sha256": "17af8e6c6bc74a21e821081741d6c9f957fcd91ee668d97fbdfd1ff90652fde3",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v082/0004.jpg",
+      "path": "assets/slides/v082/0004.jpg",
+      "sha256": "81d58dda529a4fd1ee777d055fbe9d8a61c96f05b40697f3e13bbcb960d137cf",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v082/0005.jpg",
+      "path": "assets/slides/v082/0005.jpg",
+      "sha256": "2ce9681ff72f6126777e948321507d43623f8a9c426328a47620daeab18ab43e",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v082/0006.jpg",
+      "path": "assets/slides/v082/0006.jpg",
+      "sha256": "2684540e512a48c3bea373695f7868b81d04c5f163191de670442d4559fa4d0a",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v082/0007.jpg",
+      "path": "assets/slides/v082/0007.jpg",
+      "sha256": "e134719c601976759aa73a32c3b760f71ce46ddaccbc196b167985a79900ec72",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v082/0008.jpg",
+      "path": "assets/slides/v082/0008.jpg",
+      "sha256": "8367f5c6e67de4d58fcf42c0b261fa87c0eb7543f844e24d718b87c5280cbc5a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v082/0009.jpg",
+      "path": "assets/slides/v082/0009.jpg",
+      "sha256": "e529955f70cf023d49dfcb46edb9aa4c54187b3c52350543ebd0cc587fa6bd31",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v082/0010.jpg",
+      "path": "assets/slides/v082/0010.jpg",
+      "sha256": "374ff7bce333b4318fb1391499ee67bc25be43afbac894b89ae0a2ad5fad77e2",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v082/0011.jpg",
+      "path": "assets/slides/v082/0011.jpg",
+      "sha256": "43a9077970c533e44ef941e2da72d18391f85c7489a05c1ba609840bbe26b1b4",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v082/0012.jpg",
+      "path": "assets/slides/v082/0012.jpg",
+      "sha256": "b6363f1e96041c0cf41d789a326607b6386f838521a6138681104285cae25404",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v082/0013.jpg",
+      "path": "assets/slides/v082/0013.jpg",
+      "sha256": "caf784413a0e0d84e63c5c5c2ad01e5473ce69da2b1d20256d0b7d388a70788b",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v082/0014.jpg",
+      "path": "assets/slides/v082/0014.jpg",
+      "sha256": "89de9fbb7a55711f53c39db9e138c44c08806a8495d84b1efe54d69c3054adbf",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v082/0015.jpg",
+      "path": "assets/slides/v082/0015.jpg",
+      "sha256": "92222a5ca252cd78e0105c7cdf4fa6d39c21e5579a3db50f7748f2b3ae241fdb",
+      "slide_index": 15
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们来快速水平论文 X3Dexpanding Architectures for Efficient Video Recognition。这篇论文的核心思想呢，就是从一个小的 2D 的这个 image classifier 开始呢，一步一步的把这个模型扩大，最后呢，让它变成一个很高效的视频理解啊，还有动作识别这样的一个网络结构。那么可以看到呢，假如你拿了一个这个 2D 的 image classifier",
+    "然后呢，你现在呢要让它处理视频，你就需要对它在各个维度上进行扩充。这里呢，作者为我们选择了六个维度。首先第一个，因为你处理的是视频嘛，所以你原来处理一帧肯定不行了，你要处理很多帧。那么其次呢，随着你的网络能同时处理的帧数增加了，你考虑一下这个帧率是不是也该增加点，这样我们能更密集的从视频中采样。那么当然了，这个 spatial resolution 处理更高清的视频width 呢，就是我们的 channel 的数量，而这个 bottleneck width 呢，是我们的 residual block 里面它的 channel 的数量。那么最后呢，这个 depth 呢，就是网络的深度了。那么这样看其实视频理解非常简单对吧，你有一个 2D 的 image classifier，把它按照这个六个轴给它扩充一下，最后增加一点细节啊，那你就能得到一个好的结果了。那么随后我们来看作者是具体怎么样实现这样一个扩增的吧。那么首先呢，这是我们一开始说到的，我们要有一个 2D 的 image classifier",
+    "它在这里被作者称为 X2D，它的结构大概是长这个样子，这里面所有的这些扩大的参数全部都是 1。你可以看到它的结构其实很像 slow fast 里面的 fast network，但是与 fast network 相区别的是，我们这个网络它一次只处理一张图像，而不是像 fast network 一样它处理很多张。然后我们进行扩展，我们可购上的项目，我们刚刚已经介绍过了有这六个项目那最后呢，就是我们怎么样扩展这个网络的问题了。这里呢，作者说我们每次扩展呢，使我们的这个模型的复杂度呢，扩展两倍。从我们最开始的模型出发呢，因为我们有六个轴，所以呢，我们单独在每个轴方向上按照我们相应的计算的需求，也就是扩大两倍计算的需求，只对这一个轴进行扩展。那么这样子呢，我们从一个模型里面就得到了六个模型。那么具体每个轴的扩展倍率呢，作者这里给了我们一个大致的参考",
+    "那么现在呢，你从原来的点出来，你有 6 个这样的模型了。那你对它们训练好的进行评价，选一个最好的，然后呢，再做下一步迭代就可以了。那么这里呢，注意有两个小细节，第一个就是呢，那么这里呢，我们有两个小细节，第一个就是呢，你沿着某一个轴按照一定参数去扩大我们的模型，它未必能够准确的达到我们的计算量，有可能没达到两倍计算量的要求，或者有可能超了一点。这个时候呢，你要做细微的调整，很可能呢，需要稍微的收缩一下我们的这个模型",
+    "那么其次就是，随着我们模型的增大，我们需要增加的 Regularization 也要逐渐的变强。这里当你观察到你的 Validation 和 Test Results 相差的比较大，这个时候你就要开始对 Regularization 来进行调整了，甚至 Batch Size 都要调整。那么右边你可以看到，这是作者扩展出来的一堆模型，它们的计算复杂度是两倍两倍的增加的，当然准确率也是逐渐的提升的",
+    "那么最后呢，我们快速的过一下本文的结果，主要就是这个视频识别还有后面的动作识别的，作者也汇报了一些实验结果，这里呢就不放了。那么这里呢，作者对标的是我们的 EfficientNet3DEfficientNet 的系列呢，我们都很熟悉了。这里呢，是作者汇报了一些数字，右边呢，是当时一些主流的视频理解的方法，甚至包括 Pretrain 的方法。那么你可以看到呢，随着模型数量的扩大呢，本文的方法 outperform 我们之前的这些方法。总的来说呢，老子曾经讲过",
+    "合抱之木，生于毫末；九层之台，起于累土。这篇论文呢就是一个很有意思的例子。那么以上呢就是我对这篇论文非常快速的简单的分析。如果你对这篇论文的感兴趣，包括想了解它的代码实现细节，欢迎去查看它的原文。它的代码呢跟 SlowFast 也是放在一个仓库里面。那么感谢你的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2e43df33081b4cf790b9721fa9eb4f1faec720473bd2635f6c331b7b0bda6786"
+}

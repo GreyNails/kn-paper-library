@@ -1,0 +1,129 @@
+{
+  "video_id": "v087",
+  "title": "EViT Expediting Vision Transformers via Token Reorganizations[2202.07800]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v087/0001.jpg",
+      "path": "assets/slides/v087/0001.jpg",
+      "sha256": "902ee649c8ebcd9925efcb1654e06dd7c01d67f5791d296318e213595b9e4a41",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v087/0002.jpg",
+      "path": "assets/slides/v087/0002.jpg",
+      "sha256": "629472f7e9ed514148f1dcf3403f2b2ede358b071f4970fd94b6900a1608a0ab",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v087/0003.jpg",
+      "path": "assets/slides/v087/0003.jpg",
+      "sha256": "c75b876f8e557cd56e3b85bc16889aad90cbe2fb9377c3f4629f66016d9c9d30",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v087/0004.jpg",
+      "path": "assets/slides/v087/0004.jpg",
+      "sha256": "deef5b72290bab47cada6488af182ee02d613716b9394e75bc3c7b31d007b8e3",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v087/0005.jpg",
+      "path": "assets/slides/v087/0005.jpg",
+      "sha256": "6a8d3171c4950dda22358f29bb4adf98ada2d2b09ebe1caa1bcb59340bce050d",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v087/0006.jpg",
+      "path": "assets/slides/v087/0006.jpg",
+      "sha256": "66fab5a57eedb4f6bdd7dfc89d48b96eb64fd3d629fa5659c1736a13d21ab88e",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v087/0007.jpg",
+      "path": "assets/slides/v087/0007.jpg",
+      "sha256": "3579be0f1b9d0c9a8d00663d123da2e73b2416e6e242a02d2e3f68dddd078dd3",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v087/0008.jpg",
+      "path": "assets/slides/v087/0008.jpg",
+      "sha256": "ac00cb3f6ae0d700433a401fb4cbe5627464acf9c0fb69d2d25c1d0d5c8f75c5",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v087/0009.jpg",
+      "path": "assets/slides/v087/0009.jpg",
+      "sha256": "ac504b7c72e06ea614f1fb86b86c9b7a256dc2c69ebcadb10528fea4d3a01ca4",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v087/0010.jpg",
+      "path": "assets/slides/v087/0010.jpg",
+      "sha256": "ea51f6ca78e46577aeabbfc9405b9814ed282bc4551452b08ac50818a089a390",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v087/0011.jpg",
+      "path": "assets/slides/v087/0011.jpg",
+      "sha256": "d54b5a53c33d89b57f5ed23663fce8d41e23b96ba49389d58bb7bd973b98efa3",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v087/0012.jpg",
+      "path": "assets/slides/v087/0012.jpg",
+      "sha256": "796f46e2aeeaacdba67d76951b4f4dff8cb3f268bf7ff0f9114793e80cb4dad2",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v087/0013.jpg",
+      "path": "assets/slides/v087/0013.jpg",
+      "sha256": "438bbdfe37bbf78c194dc2d54091fe04e46c4de52a7a759e2ba32edd884caf25",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v087/0014.jpg",
+      "path": "assets/slides/v087/0014.jpg",
+      "sha256": "9bb3f8323ffab3957b3a0f10a6ddbd881528a602e119142012067829bbbc529e",
+      "slide_index": 14
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Not all patches are what you needExpediting vision transformers via token reorganizations 这篇论文跟我们之前介绍的 Token Learner 它的核心的思想是非常像的，就是我在处理视频大的图像的时候我会有很多个 TokenToken 数量一多 Transformer 的 attention 里面占用的内存就大了，就容易造成各种的困扰",
+    "那怎么办呢，在 TokenLearner 里面它是通过在 spatial 这个 domain 空间尺度上这么一个 pooling，相当于把我们的整个这个 tensor 它的尺度给它压缩，强行的让它通过这么一个 bottleneck 也不能叫 bottleneck，就像过一个漏斗一样这样子呢，让我们的这个 token 的这个数量减少",
+    "那在本文中呢，作者的方法就更直接了啊，你不是嫌 token 多是吗？啊，我直接砍去一些啊不就好了吗？啊，这个呢，作者叫这个 token reorganization，我们其实看到他的核心呢，就这张图啊，虽然这个图的配色啊，我实在是觉得啊，啊，这个那我们来看一个 transformer encoder，他输入这个 image token 和这个 classification token 啊，输进来我留谁扔谁，这这不能随便来对吧",
+    "这里呢，作者的一切判断呢，即一个假设就是说，因为我这个 classification token 里面的 feature 是后面用来做下游任务的，那么和他相关的这个 attention 强的这些 patch 那看来是很重要的，对下游任务有帮助的，那和他的这个 attention 不那么强的这些 patch 可能就没那么重要对吧，我们就可以把它们扔掉或者说是或者说是打包压缩，压缩减少他们的这个 token 数量那按照这个设计速度就很直接，你在这个 transformer encoder 里面过完这个 multi-head self-attention 那你可以计算出这个 classification token 相对于每一个 image token 他们之间的这个 attention 的这个强度嘛对吧，你的 attention matrix 有了，然后呢你就根据它的这个强度来排序，前面这些 attention 高的这些这个 token 啊就按原样保留送到后面 MLP 里面就可以了，那对于这些 attention 不高的这些 token 啊来都来了也别浪费对吧",
+    "这里呢，作者说求个平均，把这几个 token 捏到一起变成一个 token 送到后面里面，那这样子呢，就人工的减少了这 token 的数量，而且你想减多少就减多少嘛对吧",
+    "同时呢，这个结构呢啊，就是一个 transformer 通通的结构里面加了这么一层这个操作，所以呢理论上你可以把它来替换任何已有的这个 transformer 的 encoder，那当然这有一个小的设计细节需要注意的就是，因为我们这里计算是 multi-head self-attention 也就是说会我们会有很多个这个 head，每个 head 都有一个 attention matrix，就有很多个这个 attention matrix，那么我们应该用哪一个为准来确定这个 image token 和这个 classification token 之间的关系呢",
+    "不用纠结哪一个了，直接加起来求和求个平均啊就结束了对吧，非常直接的一个设计，那我们直接来看作者汇报的结果吧，这里呢，作者改了这个 DeiT 分了两种情况，一种是啊，我这些没用的这个 token 我就直接扔掉了啊，另一种呢就是我把这些没用的 token 捏成一个这个 token，就是用我们刚刚说的这个求均值的方法对吧，可以看到可以看到性能的轻微提升啊，处理的速度呢增加",
+    "随着你抛弃的 token 的数量增加，性能虽然有下降，但是你处理的速度大幅增加，对吧？参数量大幅减少，这个就是作者的主要一个观察。那么这里呢，作者还做了 visualization，就是比如说一个 12 层的网络，它只在第四、第七和第十层，这是它默认的配置，在这些层去扔掉一些 token，其他层呢就是正常的这个 transformer 这个结构。你可以看到呢，它扔掉的这些呢都是一些背景的，跟我们识别没有关系的这么一些",
+    "token 这些 patch，那保留的呢都是我们跟我们下个任务相关的这么一些东西。那可以说呢，本文作者设计的这个机制呢是有效的。那么作者在后面的这个附录里面呢，讨论了大量的这个不同配置的实验，包括我这个 organization 这些东西在哪一层发生，对吧？都有讨论。那感兴趣的朋友呢，非常推荐你去查看原文那总的来说呢，这篇文章的出现呢并不意外啊，我们总要想办法去减少 token 的数量，然后呢，他的做法呢也是非常直接。我们期待对这种这个扔掉 token 的这个方式更多的测试吧。好的，以上就是我对这个论文的一个快速的一个介绍，感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "e9f1bf5cba1ea0cbc3510954bd3b87b740cc6d2320dbdcff7d556793f4a9411f"
+}

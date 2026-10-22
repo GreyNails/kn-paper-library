@@ -1,0 +1,127 @@
+{
+  "video_id": "v163",
+  "title": "Extreme Masking for Learning Instance and Distributed Visual Representations",
+  "frames": [
+    {
+      "src": "../../assets/slides/v163/0001.jpg",
+      "path": "assets/slides/v163/0001.jpg",
+      "sha256": "3ed63c90ed5b8e5fdeb6e27a569160f91af1041eb985faa9308ff410a7a662b1",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v163/0002.jpg",
+      "path": "assets/slides/v163/0002.jpg",
+      "sha256": "604cfa6eb629baa1b499d7da6906813d22ee00c0e0ccf50ccc71cc4df93c602f",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v163/0003.jpg",
+      "path": "assets/slides/v163/0003.jpg",
+      "sha256": "52074c0be8865bb06aea7fb240d0379653601d5553349183778bd0ba6263c221",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v163/0004.jpg",
+      "path": "assets/slides/v163/0004.jpg",
+      "sha256": "e8747887673c36803556f74643d99e8319fe9019f3718add55048a55e9bf17fe",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v163/0005.jpg",
+      "path": "assets/slides/v163/0005.jpg",
+      "sha256": "abf06ab75497c2d8e3bf2b10f2c802705c7ba7eb21e77529e6e1f60efc89386b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v163/0006.jpg",
+      "path": "assets/slides/v163/0006.jpg",
+      "sha256": "80180b2d1976e5e83bdca563406a4c527bba38f6ffac936f2330502946ea4413",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v163/0007.jpg",
+      "path": "assets/slides/v163/0007.jpg",
+      "sha256": "51280001f303f566b07dd8a21520c899dcd3e57d33a1f2e596bde89fbd5b38dc",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v163/0008.jpg",
+      "path": "assets/slides/v163/0008.jpg",
+      "sha256": "40edccd9ef3e70a3fe8c0a33f18086e54e8c3cb9cb219c5372fbb96ee8926585",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v163/0009.jpg",
+      "path": "assets/slides/v163/0009.jpg",
+      "sha256": "3ae8a0de4c74298eaf99a510226d5bd797f456b55cc29c4fcca2df29888e837f",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v163/0010.jpg",
+      "path": "assets/slides/v163/0010.jpg",
+      "sha256": "3058fe2c964af12781422051eeef31c6e4f6334f786dfee9673819d587494397",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v163/0011.jpg",
+      "path": "assets/slides/v163/0011.jpg",
+      "sha256": "b2133cba3bc64c32c2ab836ead809f62939ad301ac0062677614d7272e2a38d2",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v163/0012.jpg",
+      "path": "assets/slides/v163/0012.jpg",
+      "sha256": "f11afd9f00e1a777356f78e4e5cff1fe5cd27c63cbe085b26f764f31f7052f3d",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v163/0013.jpg",
+      "path": "assets/slides/v163/0013.jpg",
+      "sha256": "a5875c0dd776bde99eada2f0918f5a81fc9dbcaa7ddc66cf58d4609b914ae6a9",
+      "slide_index": 13
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Extreme Masking for Learning Instances and Distributed Visual Representations",
+    "这篇呢就是把 Masking BERT MAE 这些东西和这个 Contrastive Learning 对比学习这些东西结合起来做了一个工作首先这个结构是一个 BYOL 的结构这个我们之前介绍过了无非就是经过不同的 Data Augmentation 之后要相似嘛对吧然后做一个对比学习那这里呢本文的改进主要就是 OK 我原始的图像拿进来",
+    "我做的不再是这些传统的 data augmentation 了，我是像这个 MAE BERT 一样啊，我把先把这个图片画成一个个 patch，然后呢这些 patch 呢我 mask 掉大部分啊，这些大部分去掉了，这里呢大概比例是 75%到 90%这样一个比例，然后呢我只把剩下的这些 token 啊放到我们的 Visual transformer 里面那这个呢是我们 BYOL 里面的 online encoder，这个呢是 BYOL 里面 target encoder，然后就继续做嘛对吧，然后这个 instance token 对吧拿出来，大家就开始相互比较。那这样做的好处呢很显然就是，首先首先我 online encoder 它处理的这个 patch 的数量大幅的减少了，同时因为我们只在 online encoder 计算梯度嘛，所以相应的这个梯度的计算量呢也减少了，所以它这个方法是很快的",
+    "同时这种 random masking 可以被视为一种好的 data augmentation，它帮我们提供了相互独立但是互补的一个小的 patch，这里坐着管它叫 views。那么很显然从 patch 这个层次它就可以把这几个 patch 聚合在一起，因为它们都来自同一张图像，所以你也可以说它是一个比 instance level 更加细一层的 patch level 的这样一种 contrastive learning，它其实有那么一点意思那其实你现在在想，我们之前在介绍 AugMix 的时候也说到对吧，Data Augmentation 和这个 Self-Supervised Learning 这两个东西是分不太开的。那么再回到我们框架的本身，BYOL 本质是要把我们的这个 Online Network 的 Representation 向我们 Target Network Representation 来靠拢的。那所以呢，它的这个 Loss 是一个非对称的 Loss，因为我们的梯度只在这一边传递嘛，但是在作者这种构型下，我们的 Online 的 Network 呢它只有这个小量的 Patch",
+    "而 target network 它有全部的 patch 的集合，所以某种程度上我们可以认为它在 loss 会要求我们的 online network 去根据已经有的这些 patch 来去插补去预测周围的这些被 mask 掉的 patch。同时因为梯度只在 online 这边传递，相当于把这些小的 patch 拉向我们这一群 patch 这样一个集合，它有这么一个聚类的作用",
+    "所以你也可以说它隐式的做了这种 Masked Autoencoder 的工作，当然它没有重建这种拉扯，更多的是在 Representation 这个聚类的角度来理解的。既然说到聚类，作者也给我们展示了确实它能够帮助我们得到一个好的聚类的效果，你可以看到这个是我们 Instance Token 它查出来的 Attention，可以看到它重点关注的电车的区域没什么毛病，但是如果我们看到每一个 Patch 比如说这个 Patch 它就关心这边这个草地这个车上的这个 patch 关心这个车对吧，其他地方的 patch 就关心其他地方的背景，这是一个很有意思的演示的实例。那么下面我们直接来看到作者汇报的结果，首先是一些 ablation，我们确定一些超参数对吧，比如说我应该 mask 多少，这里是选了 80%的比例。然后既然我们 online 这一部分这个 student network 这个 online network 它很轻量对吧，那我不如多搞几个吗",
+    "就是我每次用不同的 masking 去多做几次这个图像那可以看到作者做了一些尝试等等包括他这个模型的这个收敛的情况可以看到我们多做几次 masking 能够帮助我们改善他的这个训练的速度还有结果这个是作者做了一些超参数的选择那么当然还有其他更详细的实验呢感兴趣的朋友呢去看原文那么最后呢一个主要的结果在这个 ImageNet 做这个 classification",
+    "然后训练速度的提升对吧？Semantic segmentation 这种下游任务对吧？还有这种，还有这种半监督的只用一部分 label 去做训练等等等等这些的结果，还是感兴趣的朋友到原文查看，总的来说呢，这篇是一个很直接的工作，把 MAE 和这个 BYOL 结合起来了，它的结合方法也没有显得说特别刻意，效果也是不错的",
+    "那当然他最后还有一点天头，包括用这个 representation 去做这个 image 的 query，就是他这里我就用这一小块啊做这个 query，我去在这个目标这个 image 里面我去查他，你看这里提了很多 proposal 吗对吧？我去查哪个 proposal 和这个 query 最相近啊？查出来的这个结果啊这边是一样的，当然这只是几个个例啊啊，就拿出来看个热闹啊这样子那么还有这个 generative properties，就是他用了这个 deep image prior 这篇文章去根据这个 representation 还把我们的这个图像给它构建出来，可以看到本文的这个方法很接近这个原始的这个图像了，和 MAE 比起来细节好很多，当然还是这些只是看个乐，只是定性的去说明这个 representation 的结果，那么以上就是我对这个论文的一个快速的梳理，那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "63b5816b3a66b1046cd9f7b78deec2ddd03592307012a8c4316900ae5d7a3243"
+}

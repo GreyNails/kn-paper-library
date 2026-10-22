@@ -1,0 +1,111 @@
+{
+  "video_id": "v159",
+  "title": "DropPos Pre-Training ViTs by Reconstructing Dropped Positions[2309.03576]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v159/0001.jpg",
+      "path": "assets/slides/v159/0001.jpg",
+      "sha256": "fbdbdd1eba89b1495801e161cd86a50dad8dcf9bf7b7172b013b98a9efc1139c",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v159/0002.jpg",
+      "path": "assets/slides/v159/0002.jpg",
+      "sha256": "79e32e3933ef9c22a576ef6c99f5dd6755a153cc8e49d9c6734c1c8ff725d75b",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v159/0003.jpg",
+      "path": "assets/slides/v159/0003.jpg",
+      "sha256": "6c50fdab1128badccee3f39d9659614348e1ebe10bdb0d97ef31687621bee5d3",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v159/0004.jpg",
+      "path": "assets/slides/v159/0004.jpg",
+      "sha256": "8f3ba89eef1ff4b6f9fab9056dbe51364632705009a2eb7be94cf859b206ecda",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v159/0005.jpg",
+      "path": "assets/slides/v159/0005.jpg",
+      "sha256": "4a7fd150e7f386afdcb7266d626d78e7904685a4d347747b614b189a4f0cc6ff",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v159/0006.jpg",
+      "path": "assets/slides/v159/0006.jpg",
+      "sha256": "997806967eb8052d59fbb8b33a844f247c55a0b35ad32342126e41a0708c05f0",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v159/0007.jpg",
+      "path": "assets/slides/v159/0007.jpg",
+      "sha256": "f3b168ac9a304dd8f6c53cb96b46d87da0a1790b7f25e0ec9f2b4b1caaf69f85",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v159/0008.jpg",
+      "path": "assets/slides/v159/0008.jpg",
+      "sha256": "6387d585c9ad33301ec3d595338e16abfb97fad11a25ad33f4275cce804ad70d",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v159/0009.jpg",
+      "path": "assets/slides/v159/0009.jpg",
+      "sha256": "6e1c275180b38af48e8f7e70be773c5bfbdd7febf9a091584b31101bd3044036",
+      "slide_index": 9
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 DropPos: Pretraining Vision Transformers by Reconstructing Dropped Positions 这篇就是在原来的 MAE 的基础上把原来重建图像像素的这个任务换成了去预测这个 patch 在图像中具体的位置这么一个任务然后经过一些设计然后经过一些设计取得了不错的效果那么我们仔细来看",
+    "首先一个快速的回顾对吧，自监督这一块我们有各种各样的任务，比如说 contrastive learning，同一张图像经过不同的增强之后但是他们的语义信息应该是一致的对吧，这个是 contrastive 这条线，然后呢 MIM 就是 mask 一部分然后去重建被 mask 的部分本文在 MIM 的基础上发展起来，但是它要做的任务并不是重建像素本身，而是去预测每一个 Patch 它具体的位置，而被预测的这些 Patch 它一开始的 Positional Embedding 是被丢掉的，这个是本文的思路，那么首先跟 MAE 一样，你要用一个很高的比例去去掉大部分的 Patch，你看到从这里到这里，那么在本文的设计里面，我们的 Classification Token 是一直保留的",
+    "因为它在后面我们要用到，那么然后你正常做 MAE 的时候，你就要给现在剩下的所有的 patch 根据它们对应的位置去给它加 positional embedding 了，那么这里就是本文的核心，我用另一个比例去 drop 掉这些 positional embedding，那我虽然把它 drop 掉了，但是我并不是直接什么都不加，而是我去用一个 learnable 的一个 mask，这个 mask token 就是替代这个被 drop 掉的 positional embedding，它的作用",
+    "然后呢把这些带这个 mask 的 positional embedding 加到这些 token 上送到你的 transformer 里面做训练，那做出来的 feature 过一个非常简单的 projector 你就去预测这些失去 positional embedding 的 patch 它在图像中的位置，那这就是一个多分类的问题嘛，那么既然做到多分类 loss 呢就是 cross entropy，那么这里作者的实践跟 MAE 也是一样的，就是我们只是去预测这些 positional embedding 被 mask 掉的这些 token",
+    "那么这个就是本文的核心的技术流程，但是你在真正实现它的时候还是有很多细节值得你去把握的，首先第一点就是比如说我预测一个 patch，我大概知道它在这一个位置，哪怕我没有准确的预测出它的位置，但是我预测的位置差不多这个时候给的惩罚应该比我完全给出一个比如说离着很远的这么一个 patch 这样的预测，那么这两个情况下给出的 loss 应该是不一样的，所以有这个 positional smoothing你可以看到我们原来的 label 从这个 cross entropy 的 one-hot encoding 那变成了这样一个 smooth 的 labelsmooth 的 distribution，那么这个平滑的过程呢跟你的 ground truth 到你预测值的这个距离有关，你可以看到它做了这样一个平滑，那就相当于你预测的结果跟 ground truth 大差不差的时候我的这个 loss 也是相对比较低的",
+    "同时呢这个 Sigma 呢也不是一个定值，它是随着你训练的进行来不断调整的，那么在一开始的时候 Sigma 很高，就是你对这个距离的宽容度很大，一开始嘛模型也没有训练预测的结果差一点也没有什么，那么在随着训练的进行呢你这个 Sigma 不断减少，这也就意味着你对它预测位置的这个要求是越来越高的，那么此外呢还有朋友肯定会说你像比如说这个图里面你说我单纯的给你一块这个天给你一块这个背景那么在另一个位置不也有可能有一个长得跟它很像的这么一个 patch 吗那这个时候你让你的模型去预测以一个这个意义不明的 patch 它所在的位置是不是有些强人所难呢所以针对这种情况作者做了一个额外的设计叫做这个 attentive reconstruction",
+    "本质上就是它用这么一个权重去调节我对每一个 patch 预测结果的精度的期望它用这个矩阵来表示我希望哪个 patch 它的预测的精度高我希望哪个 patch 它预测的精度低这样子我就容忍了一些 patch 它的预测的结果可能不是很好哲学三信里面讲到的容许之心对不对这是值得赞赏的那么我们应该用什么样的标准来决定这些 patch 呢这里作者衡量的是这一个 patch 和 classification token它们两个 token 你经过这个 transformer 出来之后它们的相似程度相似程度越高你对这个 patch 的期望也就越大你就越希望能够准确预测这个 patch 的位置或者换句话来说那些可能出现在图像不同位置中你换个位置也无所谓的这些 token 它本来就跟图像本身的语义关系不大因为你想你放在哪里都可以吗它就很有可能是背景的部分所以通过这样一种设计它就自然形成了一个权重",
+    "告诉我们哪些 patch 是重要的哪些 patch 是不重要的那么这个呢就是本文的主要的技术细节下面呢我们来看作者汇报一些结果首先是这个 ablation 那包括了那包括一开始像 MAE 一样的 Mask token 有多少",
+    "然后呢对于这些已经存留下来的这些可见的 token 那么我要 drop 掉多少它的 positional encoding 那结果呢发现两个都是 0.75 取到效果最好然后呢就是这个 sigma 做 label smoothing 还有这个套就是控制你算这个 classification 那个 similarity 它那个 temperature 那么这两个参数呢也是经过 ablation 来决定出来的那么当然肯定相对于过去的结果一些漂亮的数字都在这里",
+    "我们关注两个比较有意思的小的实验啊一个是来验证对于 patch 位置预测这个任务本身它确实是有用的你看到对吧在这个实验里面把这些方法它的这个 backbone 都定住用一个 linear layer 去看它的对于这个位置预测的准确性然后呢 fine-tune 这个 linear layer 再得到一些结果那当然这里的 fine-tuning 是用标准的这个 cross entropy 做的你看到不同的方法它对位置预测的一个结果很巧的是这些结果跟 ImageNet 它的这个性能是有一定的相关关系的至少趋势上是匹配的这是一个有意思的发现",
+    "那么这里还有一个实验就是我们用什么样的方法去初始化这个 position encoding 是一个固定好的 sin cosine 还是一个可学习的无论你是从 sin cosine 开始初始化还是 random 开始初始化那么你发现不动这个 position encoding 是最好的那么当然作者在附录里面还有更多详细的 ablation 感兴趣的朋友非常推荐你到原文查看好的那么以上就是我对这个文章的一个快速的整理那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "5c93566ab0cb30b0b49678a08b19cdb1efc107c5044690c62dbdf62b7d3c4e54"
+}

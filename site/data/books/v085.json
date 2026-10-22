@@ -1,0 +1,85 @@
+{
+  "video_id": "v085",
+  "title": "Bottleneck Transformers for Visual Recognition[2101.11605]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v085/0001.jpg",
+      "path": "assets/slides/v085/0001.jpg",
+      "sha256": "c63ab906ce35633a0bcac78016eafd99b64125ca6d316de29b4a4c3288774855",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v085/0002.jpg",
+      "path": "assets/slides/v085/0002.jpg",
+      "sha256": "3603d3ebe424add265f22601d88f7379b9afb66db3e93a4cfa588014aab3b59c",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v085/0003.jpg",
+      "path": "assets/slides/v085/0003.jpg",
+      "sha256": "ba54e0c3edc506f53ea3003542bb2404fdc8a26588f95b8c57dd3c9462bf6e32",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v085/0004.jpg",
+      "path": "assets/slides/v085/0004.jpg",
+      "sha256": "6cd084d01604d9da3279b1328c6a05152c0f1d953c67e19fdf30806c45607481",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v085/0005.jpg",
+      "path": "assets/slides/v085/0005.jpg",
+      "sha256": "507464f81ab8beeda2f8472726b950055c4df5fa8b0a1f6519bbccb201477353",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v085/0006.jpg",
+      "path": "assets/slides/v085/0006.jpg",
+      "sha256": "e05e6814c5cc47d101fc4ec32bd3fea761cffce209e19931ee47574d487e94b0",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v085/0007.jpg",
+      "path": "assets/slides/v085/0007.jpg",
+      "sha256": "2aa72fbded4c302b2ba8f3dfd524c82560fe933ee2c76b69c2a8ad0105a24c75",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v085/0008.jpg",
+      "path": "assets/slides/v085/0008.jpg",
+      "sha256": "baa6f44c6c0381e0176a1633e7b7f9958bdd7de82a99c03eb3200682c98f07ee",
+      "slide_index": 8
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们来快速说明一下，bottleneck transformers for visual recognition 这篇论文最核心的工作，就是原来 resnet 里面的 bottleneck blocks 给它换成了带 self-attention 的 bottlenecks，然后取得了一个性能的提升。",
+    "那么为什么要提这篇文章呢？因为在一开始呢，他做一个关于这个 self attention 在这个视觉识别里面的这样一个整理，那么你可以看到他根据不同的标准呢，把这些方法呢都一一进行了分类，那么本文的方法呢，因为只是把这个 resnet 的结构呢，给他替换，他的主体结构呢还是 resnet，所以呢，他是归在了这个类下面，那么如果你感兴趣了，你当然可以去看一下他们这些其他的方法。",
+    "那么说到本文的核心的贡献我们来看到这里那这个呢是我们一个经典的这个 resnet bottleneck 它先是通过 1x1 的 convolution 呢把这个 248 个 channel 呢换成 512 个 channel 然后呢用 33 的 convolution 呢做一个变换到最后呢再给它从 512 扩回到 248 这个呢是在 resnet 的最后几个 block 里面会出现的这么一个 bottleneck 那本文呢其实就是把这个 33 的 convolution 呢给它替换成这个 multi-head self-attention",
+    "那么它的结构呢，其实就是我们 VisionTransformer 里面的一样，可以看到呢，一个值进来，这里的这个 query key 还有 value 对吧，然后呢，加上这个 positional encoding 啊，把他们这个 attention 算出来，softmax 一加，然后和 value 一结合啊，最后就出来这么一个东西，那么看到实际的网络呢，就是在这个 c5 这个阶段对吧，把原来三个这个 resnet bottleneck 的对吧，给它替换成了这个 bottleneck transformer。",
+    "那么具体的实验结果呢，因为有很多，这里就不再放了，非常推荐你去原文来查看，那么当然作者也做了一些非常有意思的尝试，比如说这个 Skip Connection 能不能像 SENet 一样，这里再加一些 Bottleneck 对吧，那么还是这个系列的视频呢，主要是帮助你知道有这么一篇论文，然后如果你对它具体的实验结果它做了哪些实验感兴趣，还有包括这些讨论非常感兴趣，那么你就可以在这些原文中找到答案，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "audio_notes": [
+    {
+      "start": 50.37,
+      "end": 62.87,
+      "note": "此处通道数语音转写为248，画面0004标注为2048；原音另附供核对。",
+      "audio_path": "audio_notes/v085_00m50s_channels.wav",
+      "independent_audit_path": "qa/manual-window-independent-large/v085_channels_53.json"
+    }
+  ],
+  "source_transcript_sha256": "f9352838a20109ee671062cf8c0307d97267404d69a7b61351203937b7aec5e8"
+}

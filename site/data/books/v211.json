@@ -1,0 +1,440 @@
+{
+  "video_id": "v211",
+  "title": "AI视频生成即将革命！斯坦福用AI杂交暴砍98%算力成本！",
+  "frames": [
+    {
+      "src": "../../assets/slides/v211/0001.jpg",
+      "path": "assets/slides/v211/0001.jpg",
+      "sha256": "94a4a046f8dec7ad96545bdb3184f2de5afa77f6c1cc65908936226fb4854aa4",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v211/0002.jpg",
+      "path": "assets/slides/v211/0002.jpg",
+      "sha256": "656d4ab987636a210599fb13033dc1d1a0772a00769c173e35203c630fd7b811",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v211/0003.jpg",
+      "path": "assets/slides/v211/0003.jpg",
+      "sha256": "4bab5d7964cd141d82053b10d2da8a06b8b3dfdae52de21ec6f171f6602255be",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v211/0004.jpg",
+      "path": "assets/slides/v211/0004.jpg",
+      "sha256": "7b2e9d262614201a7979822b61f4530379b8634345541773f9751d7db5659927",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v211/0005.jpg",
+      "path": "assets/slides/v211/0005.jpg",
+      "sha256": "b7c6523440102d7421a637af91cc6b9dd9dc2c6779f79a40e69a48755fab2143",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v211/0006.jpg",
+      "path": "assets/slides/v211/0006.jpg",
+      "sha256": "ec5a0f5b82ffeaa31d25941c8b6c339ffe05860b6144840936ddffdf879490b3",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v211/0007.jpg",
+      "path": "assets/slides/v211/0007.jpg",
+      "sha256": "7bee6b2645e20d5db6ea5aca00c59505628b07672fbda76381a10df5e0494dc3",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v211/0008.jpg",
+      "path": "assets/slides/v211/0008.jpg",
+      "sha256": "08042326676c3248c2fb05c4eed89d513cc8406674675c046c4fdfe0cf94e82a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v211/0009.jpg",
+      "path": "assets/slides/v211/0009.jpg",
+      "sha256": "f34794734c907544207f99b492546a6b77b327751bbc73331169df7e71f8b7aa",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v211/0010.jpg",
+      "path": "assets/slides/v211/0010.jpg",
+      "sha256": "83da66f28ece2681a6996929fb3470689de49144cdcd3591a3cec41951c30fbe",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v211/0011.jpg",
+      "path": "assets/slides/v211/0011.jpg",
+      "sha256": "c9537c0c9e5bb1f0911653fb4dfdf4cfe039924211a5a27dbc1bc13bf15f09ff",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v211/0012.jpg",
+      "path": "assets/slides/v211/0012.jpg",
+      "sha256": "8eb663736cdf967fcf6fb4a2768a1d3fce0564134be7fd580a5b1ece976d9e19",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v211/0013.jpg",
+      "path": "assets/slides/v211/0013.jpg",
+      "sha256": "4d480edc5f023766387f1172f1df3856d138ca445b5019dc05006a33d92292b8",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v211/0014.jpg",
+      "path": "assets/slides/v211/0014.jpg",
+      "sha256": "ef0c340590302c79f090a9651854ade53d99c0f61f7d137e74c8ceb9e71fd755",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v211/0015.jpg",
+      "path": "assets/slides/v211/0015.jpg",
+      "sha256": "81398103117cd3b77f97467f40c742783e6876454385084df9828efd66068174",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v211/0016.jpg",
+      "path": "assets/slides/v211/0016.jpg",
+      "sha256": "07ec523619dc26748d8b9d31d4c18c4c2d22bcbe13993635e83dbc002ab4b683",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v211/0017.jpg",
+      "path": "assets/slides/v211/0017.jpg",
+      "sha256": "746ad6f5454cd027e15d192681178bbf43373b07f831d37d04b623a6956172b0",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v211/0018.jpg",
+      "path": "assets/slides/v211/0018.jpg",
+      "sha256": "36e494c44ba08cbc2433ca40af8aa6ddbd32581463737568d6787a1710b19ea5",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v211/0019.jpg",
+      "path": "assets/slides/v211/0019.jpg",
+      "sha256": "a023e26b766c434f246d17deb39ef3043bfbc3f4d118a186d9a76c27a339523a",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v211/0020.jpg",
+      "path": "assets/slides/v211/0020.jpg",
+      "sha256": "a34efd53a1581e9440a28e76ab7766e59b57975b0c4404641eaf4104eb07a4b2",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v211/0021.jpg",
+      "path": "assets/slides/v211/0021.jpg",
+      "sha256": "4c61c2d22bc93f3703395a2bbf13273ad1ea3ab8d71931a9067fb743c68be9a0",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v211/0022.jpg",
+      "path": "assets/slides/v211/0022.jpg",
+      "sha256": "9cbfc19d819f4dd458f1c0ea1cc9203647c82ca832459b5b8f3ab91303f2b34b",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v211/0023.jpg",
+      "path": "assets/slides/v211/0023.jpg",
+      "sha256": "5a37df9f90610cd1df2d105b6b54673b08ac9b87d29bcb4aca9b0020d90a7cd4",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v211/0024.jpg",
+      "path": "assets/slides/v211/0024.jpg",
+      "sha256": "ff653d91ff9a43a6d9ea095035fff8a3c06159d980ae50569f2e4921c9073dda",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v211/0025.jpg",
+      "path": "assets/slides/v211/0025.jpg",
+      "sha256": "e224efb8646205771c1d539545a6c03b7db2f17994ddf921b242f0a36cb2a14f",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v211/0026.jpg",
+      "path": "assets/slides/v211/0026.jpg",
+      "sha256": "35fec1d7e0f1d6f9293751639f2b99f14c54b2e7b2285b38d429dcfaf8b7febe",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v211/0027.jpg",
+      "path": "assets/slides/v211/0027.jpg",
+      "sha256": "5f678b133f3f7f3fdf1acffa9ec6f5883504940327686ed6e96bf2e700d407c0",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v211/0028.jpg",
+      "path": "assets/slides/v211/0028.jpg",
+      "sha256": "995029c840eae7ba8684e1fc4dda9091d6940c60861d548bda6470fe1ca896b5",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v211/0029.jpg",
+      "path": "assets/slides/v211/0029.jpg",
+      "sha256": "e05c0c76677dc92d42afb454b007ce60adee4aa4fe16cc76c0914fa5385666aa",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v211/0030.jpg",
+      "path": "assets/slides/v211/0030.jpg",
+      "sha256": "8c3674c5b719e3bd34cf66a07763b1649b1f579484bbd55eb150a06a8f51300b",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v211/0031.jpg",
+      "path": "assets/slides/v211/0031.jpg",
+      "sha256": "a75ab3103735058a75144912ad7cbf806f2796f29e645b84902e8ea62743879e",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v211/0032.jpg",
+      "path": "assets/slides/v211/0032.jpg",
+      "sha256": "e1698319360630f23ae539aa1ec4b52c09fcd6f74c3aadd1a2d2c7ed21707a75",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v211/0033.jpg",
+      "path": "assets/slides/v211/0033.jpg",
+      "sha256": "d532422a5ecd86395548abbe9c5e9db4aef40d1150b65c0cc24bae036ec38420",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v211/0034.jpg",
+      "path": "assets/slides/v211/0034.jpg",
+      "sha256": "291f195ecb33c09b5b1f8f4bd52f5df23d6087b0b30574241a61056a853c324e",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v211/0035.jpg",
+      "path": "assets/slides/v211/0035.jpg",
+      "sha256": "0ee9a3a9c09df1acd2e27b2e48c249a3da0bdbb97292e5365c6347b4b89ebda8",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v211/0036.jpg",
+      "path": "assets/slides/v211/0036.jpg",
+      "sha256": "180116c3af8b9831666d2b0cf4110878eb56baf214608b66dce93b35e72693e7",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v211/0037.jpg",
+      "path": "assets/slides/v211/0037.jpg",
+      "sha256": "499850a0ed0ae61c1cc61197ddbf689ede1747f04747629f0f071f3930a41deb",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v211/0038.jpg",
+      "path": "assets/slides/v211/0038.jpg",
+      "sha256": "eec0d684f23ab81debb8c17de4033fd0eccfff407feb56de068fc1fe7a37e0ce",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v211/0039.jpg",
+      "path": "assets/slides/v211/0039.jpg",
+      "sha256": "951b6a41229d7b92afecbabb7b61405860ed5ea664073f8b3d332a07c6182a65",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v211/0040.jpg",
+      "path": "assets/slides/v211/0040.jpg",
+      "sha256": "f168a41dd6a5c3adb8ccb88f1bf50fa7b051bef2f0c4826deb322b4aa7dcba8e",
+      "slide_index": 40
+    },
+    {
+      "src": "../../assets/slides/v211/0041.jpg",
+      "path": "assets/slides/v211/0041.jpg",
+      "sha256": "5107bb93679ddb207cbb9be508dd8d9cf394b58d916c7dc92769d404cdb1b925",
+      "slide_index": 41
+    },
+    {
+      "src": "../../assets/slides/v211/0042.jpg",
+      "path": "assets/slides/v211/0042.jpg",
+      "sha256": "9a5d4b5f74aa21a4fa0a06ee32baf33542e5ba76093dcf6c5f82b8a38bce89de",
+      "slide_index": 42
+    },
+    {
+      "src": "../../assets/slides/v211/0043.jpg",
+      "path": "assets/slides/v211/0043.jpg",
+      "sha256": "e39d99fe4e0ea01da9a797e3db8108c4442ceb608d7bd1bfd7a365ef9554499e",
+      "slide_index": 43
+    },
+    {
+      "src": "../../assets/slides/v211/0044.jpg",
+      "path": "assets/slides/v211/0044.jpg",
+      "sha256": "059945f63d3f34cb048cebd3bc2a05b49c9e63dd9bd821bbe863b333ffe00e8e",
+      "slide_index": 44
+    },
+    {
+      "src": "../../assets/slides/v211/0045.jpg",
+      "path": "assets/slides/v211/0045.jpg",
+      "sha256": "ec0ff45d8090d6532bedaa806a64a0e26b92607eee324a082013225d26cde887",
+      "slide_index": 45
+    },
+    {
+      "src": "../../assets/slides/v211/0046.jpg",
+      "path": "assets/slides/v211/0046.jpg",
+      "sha256": "0ab86798c511eb4d7e1adb94d7d7d836b9905a86361e619e359b360c13977e49",
+      "slide_index": 46
+    },
+    {
+      "src": "../../assets/slides/v211/0047.jpg",
+      "path": "assets/slides/v211/0047.jpg",
+      "sha256": "c280ef6e1f4ff0d81cffebba13f8632f109ce3bc31bc1e4e2279f5c99657b775",
+      "slide_index": 47
+    },
+    {
+      "src": "../../assets/slides/v211/0048.jpg",
+      "path": "assets/slides/v211/0048.jpg",
+      "sha256": "96b679d55e62cbd65b26063a825749d3f40dd87558792695b4d4125efc567a6f",
+      "slide_index": 48
+    },
+    {
+      "src": "../../assets/slides/v211/0049.jpg",
+      "path": "assets/slides/v211/0049.jpg",
+      "sha256": "e5a3a16d255261586675897f97668e7f9b6573d93e465d2b9b011843803b5938",
+      "slide_index": 49
+    },
+    {
+      "src": "../../assets/slides/v211/0050.jpg",
+      "path": "assets/slides/v211/0050.jpg",
+      "sha256": "94072d74aaba19f17fb1259274abf4c3e54763b75cd05db95a6bb7b301b89a8b",
+      "slide_index": 50
+    },
+    {
+      "src": "../../assets/slides/v211/0051.jpg",
+      "path": "assets/slides/v211/0051.jpg",
+      "sha256": "aa193a24b53043a34e97a8dff18d73b0c7d4b0186f887cdbe33176298ec945d9",
+      "slide_index": 51
+    },
+    {
+      "src": "../../assets/slides/v211/0052.jpg",
+      "path": "assets/slides/v211/0052.jpg",
+      "sha256": "70859072af6b81119bae352ef5f96a836c4ebef9e6d606874f57150c5c25edb2",
+      "slide_index": 52
+    },
+    {
+      "src": "../../assets/slides/v211/0053.jpg",
+      "path": "assets/slides/v211/0053.jpg",
+      "sha256": "a5cd0e66da9788e48b26423041e610ec8078bbf1eb47505bc6a72eed163bd02b",
+      "slide_index": 53
+    },
+    {
+      "src": "../../assets/slides/v211/0054.jpg",
+      "path": "assets/slides/v211/0054.jpg",
+      "sha256": "7816c16b392ac5b2cbcf73698a16a70741686db7da2b417805cc100d2b6939a3",
+      "slide_index": 54
+    },
+    {
+      "src": "../../assets/slides/v211/0055.jpg",
+      "path": "assets/slides/v211/0055.jpg",
+      "sha256": "c4dd5d5653c0eb62912e26b064521c4ebe6879910bb811bd7e1082573ab66212",
+      "slide_index": 55
+    },
+    {
+      "src": "../../assets/slides/v211/0056.jpg",
+      "path": "assets/slides/v211/0056.jpg",
+      "sha256": "246edf378d131b20f0a3cce772dc10c0e349fc30bcb3470181b72d7e89dfdc2d",
+      "slide_index": 56
+    },
+    {
+      "src": "../../assets/slides/v211/0057.jpg",
+      "path": "assets/slides/v211/0057.jpg",
+      "sha256": "c52ca2b1fea88c446bd8d0585bced9d282935f243c8a064dbf55bbdbf062df2c",
+      "slide_index": 57
+    },
+    {
+      "src": "../../assets/slides/v211/0058.jpg",
+      "path": "assets/slides/v211/0058.jpg",
+      "sha256": "5bd4a317d25da8b6987774668908729bbff04cca2d19fb3af7e98ca5ceab01a6",
+      "slide_index": 58
+    },
+    {
+      "src": "../../assets/slides/v211/0059.jpg",
+      "path": "assets/slides/v211/0059.jpg",
+      "sha256": "efaf0a30c355815a4cd40a03951ec90a8cf1f6ab26188645f61f57405d0bd025",
+      "slide_index": 59
+    },
+    {
+      "src": "../../assets/slides/v211/0060.jpg",
+      "path": "assets/slides/v211/0060.jpg",
+      "sha256": "76c1a80fe8b1c71ae7952d9380c9e89721ced0b87d7dc3a4f720e78a4465239d",
+      "slide_index": 60
+    },
+    {
+      "src": "../../assets/slides/v211/0061.jpg",
+      "path": "assets/slides/v211/0061.jpg",
+      "sha256": "e35fd4ed02293edc66bc18181a306130e970bfdd6da30acd43add6012c394ab2",
+      "slide_index": 61
+    },
+    {
+      "src": "../../assets/slides/v211/0062.jpg",
+      "path": "assets/slides/v211/0062.jpg",
+      "sha256": "def3814353feebe897b006eadf00bef0bdb9059be5478f7ceb4aad0b7478a9d6",
+      "slide_index": 62
+    }
+  ],
+  "paragraphs": [
+    "当 Sora 用 DIT 架构颠覆视频生成当 Pika 让普通人玩转 AI 创作资团和团队确认重新训练一个 DIT 要烧掉百万算力值吗?今天我们精读这篇由李飞飞 Ermon 等 AI 巨头署名的神作 Grafting 看他们如何用嫁接术改造预训练模型用 2%算力生成 2K 高清图用 1.43 倍加速文生图",
+    "学会这招，你也能在现有的模型上魔改创新。欢迎来到 Lau 博士的云组会，我们每周都将至少有一篇高质量的论文精读发布出来。相信在一系列的论文学习以后，你就能成为人工智能领域的专家。我们来快速的了解嫁接到底是什么。现在无论是学术界还是工业界，基本都有一个共识，那就是大模型的架构设计是大公司的事。",
+    "因为创意成本实在是太高了，普通的团队只能改改模型的小组件，做点模型的微调。比如说我现在要训练一个全新的架构，以前的做法就是随机初始化参数，然后从头开始预训练。这就像我要改造汽车，却要把汽车的设计流程从头到尾都走一遍，成本非常的高。而现在李飞飞的团队开发的 AI 嫁接术，",
+    "能够基于任何一个开源模型做架构创新，而且无需预训练，大幅降低了模型架构设计的成本，让小团队也能进行自主架构的设计。有同学可能会问，这个和之前的 Adapter 又有什么样的区别？Adapter 通常是在预训练模型的每一层或是特定层之间插入轻量级的适配器模块，通常是全连接层或是卷积层。",
+    "那这些适配器的模块的参数会比较少，用于调整模型的输出来适应新的任务，主体的架构是不会做改变的。在训练的范围上面，Adapter 主要训练的是适配器的模块的参数，而预训练的模型的主体的参数通常是保持固定的。对 Grafting 也就是嫁接，它是直接替换预训练模型当中的某些操作符。",
+    "比如像多头注意力机制 MHA 或者是多层感知机 MLP 用新的操作符比如像局部卷积或是线性注意力或是本轮提出的 Hyena-X 和 Hyena-Y 来直接代替它的训练分为两个阶段第一个阶段叫做激活蒸馏激活蒸馏通过少量的数据对引入的替换架构进行训练第二个阶段叫轻量级微调使用有限的数据对整个模型进行微调来恢复到模型的性能",
+    "刚刚我们提到了 Hyena-X 和 Hyena-Y，它们具体都是什么呢？我们来看这幅图，Hyena 都包括以下的三种结构，分别是短显式卷积、密集连接以及它的门控。Hyena-X 和 Hyena-Y 它们注重的地方是不一样的。",
+    "Hyena-X 是在保持局部性的同时通过密集、连接以及门控机制增强了在特征表达的能力以及灵活性也就表明它更注重的是性能方面的表现而 Hyena-Y 相比 Hyena-X 做了进一步的结构上的简化它主要依赖短显式卷积以及门控来实现高效的特征提取显扬了",
+    "Hyena-Y 更注重计算上的效率，来降低计算的成本，同时又保持局部性以及灵活性。从最近几期的论文解读可以发现，AI 领域越来越多的大佬已经将研究方向从拼算力比模型大小转向更务实的降本增效上。正好高考结束，马上就要钱爆资源了，那人工智能相关专业都是这几年的爆款。",
+    "有自学习 AI 的同学不妨多关注这一趋势，结合数学、工程与行业痛点，用技术创造真实的价值。未来属于能让 AI 落地的人，也欢迎关注我们，随时了解 AI 最前沿。那回到论文中来，当 Sora 用一分钟的视频震惊世界的时候，很少有人知道训练这样的模型需要扫掉多少 GPU。论文的第一页又明确指出，当前的架构障碍最大的就是天文数字榜的训练成本。",
+    "文章的 Table 2 也告诉我们嫁接技术能把训练样本压缩到惊人的 0.63%到 10%为什么架构的创新这么难呢？因为传统的方法要求每次都要重头训练，这就像每次想改装汽车都必须要重新发明的样子。这篇论文的图一就展示了革命性的思路，对预训练的模型进行编辑，直接改造现有的结构。",
+    "Figure 2 就表明超过一半的注意力层其实只需要处理临近的 token。这意味着不少的模型一直都在为没有必要的全局计算买单。Table 4 也证明了用 Hyena-X 替换 50%的注意力层，FID 仅从 2.27 升到了 2.74，却能省下 49.9%的计算量。接下来我将从技术原理、实验验证局限性分析以及未来工作进行展开。",
+    "自然界的嫁接技术给了研究者惊人的启发。预训练模型就像是果树的砧木，提供了稳定的养分输送，而新加入的 Hyena 算子就是优质的接穗。通过图一所示的激活蒸馏，形成了新的连接层。最神奇的是植物的嫁接还有 50%的失败概率，而模型嫁接的 FID 波动可以控制在 0.37 以内。",
+    "两阶段的嫁接就是论文的核心。第一阶段用 8K 的样本就能让新算子克拢旧算子的行为，相比 Random Init 有了大幅的提升。第二阶段更加的惊人，仅用 10%的数据对模型进行微调，就能达到相当甚至是超越 Baseline 的性能。Hyena-Y 以 FID2.72 取得 Hyena 系列嫁接的最佳性能，而 Hyena-X 则拿下了 FLOPs -49.9%的成绩。但并不是所有的层都适合替换。",
+    "要优先选择局部性强的层而且 50%的交错替换会比全替换更加的稳妥在文生图的实验当中给 PixArt-Σ嫁接上 Hyena-X 以后推理的速度直接 1.43 倍起飞虽然 GenEval 的分数降了 2 分但成本可想而知仅用 12K 的合成数据和 Lora 的技术就达到了这个效果",
+    "在深度压缩方面，把 28 层压缩成 14 层以后，FID 竟然还能达到 2.77，连压了这张 table 里面其他的 14 层的模型。更奇妙的是这种宽扁的结构特别适合 GPU 的并行计算，实际的推理速度还能更快。三种方案的对比，嫁接不仅以 FID 2.77 打败了剪枝方案 2.86，更关键的是剪枝只能做减法，而嫁接能重组架构。想想成本的差距，嫁接仅用 10%的数据。",
+    "230K 步，而剪枝需要完整的训练数据 500K 步。嫁接技术是有边界的，论文指出它目前只能改造注意力机制 MHA 以及 MLP，而且需要预训练的模型。Figure D.4 更显示低质量的合成数据会带来问题。但是未来以来自动化嫁接和跨模态的移植可能就是下一代的架构探索的方向。",
+    "今天的云组会我们就开到这里。如果对你有所启发，感谢三连加关注。如果你有什么想法，欢迎留言。我们下一期不见不散。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "633e23251310a59e313fbf480d9ea8e3d616942de404ad50fdb1d448ef31fd8b"
+}

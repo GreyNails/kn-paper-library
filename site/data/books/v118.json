@@ -1,0 +1,167 @@
+{
+  "video_id": "v118",
+  "title": "SPR Data-Efficient RL with Self-Predictive Representations[2007.05929]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v118/0001.jpg",
+      "path": "assets/slides/v118/0001.jpg",
+      "sha256": "93f92e99c3ec8342877be377bd255d45ce68714237eb3ea859f112e77567d8b9",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v118/0002.jpg",
+      "path": "assets/slides/v118/0002.jpg",
+      "sha256": "e6e5eca339af0f807d818db9a20d6de4d4ee1b4781f2e6c0453eee52b0d60186",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v118/0003.jpg",
+      "path": "assets/slides/v118/0003.jpg",
+      "sha256": "a7016e17689eb2cdd93dc80379d69dd6d37a5a95b7638d8f037f95d5c473d2c6",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v118/0004.jpg",
+      "path": "assets/slides/v118/0004.jpg",
+      "sha256": "6dadd3b190bb4d6caac71b973a1bf420140b8234d12552ea6192074269ce2ab1",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v118/0005.jpg",
+      "path": "assets/slides/v118/0005.jpg",
+      "sha256": "636e885beac1acf31e6fdae94ad946d33537e302bd0ae7bdd2db781e44896520",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v118/0006.jpg",
+      "path": "assets/slides/v118/0006.jpg",
+      "sha256": "87732f9b68e9e021d299e8a45767e0978802d7c69c83aa02c11ebb8c33f4575e",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v118/0007.jpg",
+      "path": "assets/slides/v118/0007.jpg",
+      "sha256": "277e1f6b481a800de4b5f9981fda6bad38a1d1617d93965bf0ba2a066e97d407",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v118/0008.jpg",
+      "path": "assets/slides/v118/0008.jpg",
+      "sha256": "196b9935d6a48228ad3d6fe78202a2eb8e0bd7c8fe0b27e56cf6296ca626c9bb",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v118/0009.jpg",
+      "path": "assets/slides/v118/0009.jpg",
+      "sha256": "e554431e39c3413e022bd6991381cc596f4a987ff1793eb0d7c1d4e1859f71b7",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v118/0010.jpg",
+      "path": "assets/slides/v118/0010.jpg",
+      "sha256": "fa032cd8dc86bb874b53a69c78c54a1d24b7fb4aa06fe224d440540962da3d41",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v118/0011.jpg",
+      "path": "assets/slides/v118/0011.jpg",
+      "sha256": "aab18d8863b3fe13f296e5980544864e0fba99290927b955cd2bc1ecf5b2e2af",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v118/0012.jpg",
+      "path": "assets/slides/v118/0012.jpg",
+      "sha256": "3fac0353ae678410ae5fe12c3f2ea3eda88e7435ccbfa0128322be6d601a6fd3",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v118/0013.jpg",
+      "path": "assets/slides/v118/0013.jpg",
+      "sha256": "b64cf00772e0676dd971c9b346d0c53de32488985316fab95dd620d009e98e0a",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v118/0014.jpg",
+      "path": "assets/slides/v118/0014.jpg",
+      "sha256": "ec5d0038ee04c7b78b5ed828da5c0c47df5b4c6ea4b6a32f13bd2062476cbc5d",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v118/0015.jpg",
+      "path": "assets/slides/v118/0015.jpg",
+      "sha256": "2338e807268c333182a6292eb46df8ad161157c9a989f74b9024558b102fcf49",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v118/0016.jpg",
+      "path": "assets/slides/v118/0016.jpg",
+      "sha256": "79a3e2e9d09b0db1823d633e7abf25eb5c02fb18feb46159befc91e597903f35",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v118/0017.jpg",
+      "path": "assets/slides/v118/0017.jpg",
+      "sha256": "6451d02bf04d6337145ed75c717b7458bdbdd0af91f11033fe71d3d75b63429c",
+      "slide_index": 17
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来迅速说一篇论文 Data-efficient reinforcement learning with self-predictive representations。那么本文的核心思想呢，就是在我们训练 reinforcement learning 的同时，增加这个 self-supervised 的任务，联合地训练这两个任务。在这个过程中呢，我们希望学到一个好的 representation。这个好的 representation 呢，用来可以改善我们 reinforcement learning 它的性能。",
+    "那么这个思路呢，跟我们之前介绍的 CURL 是一致的。然后它具体的网络的实现呢，跟我们之前介绍的 BYOL 又是非常相似的。所以呢，我们这次就快速的介绍这篇论文。如果对以上这两篇论文你不是特别清楚的话，欢迎查看我们之前相关的解释视频。那么这个视频的内容呢，也是非常简单，先是介绍本文提出的方法它的具体实现，然后呢是作者汇报的一些结果。",
+    "首先呢，我们输入的是一个 state action 的一个序列。这里呢，假定它的长度为 k。我们把第一个时刻的图像 t 来对它进行图像增强，放到我们的 online encoder 里面，然后得到一个 latent representation zt。这个 zt 呢，就是我们想要学习的 latent representation。那么对于 reinforcement learning 来说，我们加上 qlearning 的这个 head，得到 qlearning 的 loss。",
+    "那么这一路呢，就是 reinforcement learning。但是同时呢，我们要拿这个 latent representation 来做这个预测。也就是说，我们想从 dt 时刻的 latent representation 通过我们的输入这些 action 然后经过几层 mlp，我们想要预测在 t 加 k 时刻这个时候的 latent representation 是什么样子。那么这只呢，到这里我们先暂时放一下，再看下面这个是 t 加 k 时刻时候的。",
+    "state 我们对它使用 data augmentation，然后呢送到我们的 target encoder 里面。这个时候呢，就得到它的 latent representation。那么下面要做的部分呢，就跟 byol 完全一致了，就是我们把两个 latent representation 全部放到那个 projector 里面做两个 projection。在投到一个更高位的 latent space 之后呢，我们的上面的这一只 latent representation 呢，在经过一个 predictor。",
+    "来尽量逼近在 latent space 中下面的这个 latent representation。那么同样的，它衡量这两个向量的相似程度的用的呢，跟 BYOL 也是一样是 cosine similarity。那么这里呢，我补充一下作者没有在这个图中体现的细节，就是在我们训练这个 loss 的时候，这里是需要把这个 loss 停住的是需要把这个 gradient 停住的。而我们的 target encoder 呢，也是通过。",
+    "使用 momentum 动量的方式来更新这个 target encoder 的里面的参数。所以说，如果单看下面这一只，除去输入的图像它们是来自不同时刻这个因素之外，其他的配置呢，跟 BYOL 是一模一样的。而上面这部分呢，比 BYOL 它多了一个这个 convolution transition model，也就是预测未来几帧的这个任务。",
+    "那么关于预测未来这个任务呢，我们在之前这个 Evolving Losses 那篇论文的时候已经讲过了，它是一种常见的来帮助 Self-supervised system 学习 Latent Representation 的方法。所以我们可以不严谨的认为，这篇文章呢，是在 CURL 的基础之上把 BYOL 融进去，把这个 Self-supervised 这个 PredictivePredictive Future 预测未来这些任务融进去，得到了这么一篇。",
+    "reinforcement learning 的这个文章那么对比作者提供的算法我们来具体来看它的实现细节首先我们使用 policy 来去放到 replay buffer 中然后在 replay buffer 中采集出样本来而这个样本呢是一串 state-action 它的序列我们对这个 input state 做 data augmentation 把每一时刻的 state 送到我们的 encoder 里面这里呢就是 online encoder 那么在得到 latent representation z0 之后呢我们循环 k 次",
+    "那么使用这个 H,也就是这个 Transition Model,让它把现在的 Latent Representation 拿上,把我们的 Action 拿上,来预测出下一帧的这个 Latent Representation。那么每当预测出一帧来的时候呢,我们就取这一帧的图像的 Ground Truth,来放到这个 Momentum Target Encoder 里面,得到一个 Latent Representation。然后呢,像 BYOL 一样,它们各自的过自己的 Projection。",
+    "然后呢这个上面这一只呢我们预测的结果呢还要过一个 predictor 那么最后呢得到两个向量我们计算他们的这个他们的 similarity 作为我们的 loss 可以看到呢这里作者是对未来的每一帧都进行了这种类似于 BYOL 来构造 loss 的过程那么结束之后呢我们就得到这边 self-supervised 或者说是关于 representation 的 loss那么再加上这边我们有一个 reinforcement learning 它的 loss 然后呢使用这个 lambda 作为一个 hyper parameter 来控制这两个 loss 的权重嘛然后呢去优化我们的 online encoder 在我们得到新的 online encoder 之后呢再使用 momentum 的方法或者叫 exponential moving 的方法我们来更新这个 target encoder 那总的来说还是如果你已经熟悉了 curl",
+    "BYOL 这些东西那么这些文章来讲是非常好理解的那么来看到最后的结果作者呢这里只汇报了 Atari 环境可以看到虽然在每个游戏中呢本文提出的这个方法它的得分不一定说每个游戏都是最优的但是呢如果考察所有游戏的综合表现是 outperform 之前这些方法的那么这个箱线图更加直观地反映了本文提出的方法在 Atari 环境中的表现",
+    "那么这个虚线呢就是一般人类玩家的水准那么除去以上汇报的结果呢作者呢还重点测试了我们如果选择不同的 Loss 会产生什么样的结果其实呢主要也就是研究了如果我把下面的 BYOL 换成原始的 CURL 它里面的那个 contrastive loss 比如说像这个配置 No Temporal Contrastive Loss 这就是跟原始的 CURL 一样的",
+    "它的上下两支的输入都是同一帧的图像还有 one step 和 five step 这个就是我在中间 prediction 的环节对未来做一步或者是对未来做五步的预测然后最后结尾也使用 contrastive loss 来做对比这个 uniformity loss 是在原来的这个 SPR loss 的基础上我再增加一个类似于 entropy 的 loss那么这个 entropy 呢会把我们的样本尽量均匀的散布在这个 latent space 里面会让我们这个样本呢各自远离彼此但是从实验结果来看呢可能他选的这个并不是非常适合这个网络结构或者说他的训练方法那么除去这个之外呢作者还验证了这个 data augmentation 和 stop gradient 因为 BYOL 里面我们 stop gradient 嘛这是非常重要的那么这些都是我们已经知道了他们确实非常重要",
+    "那么总的来说这篇论文呢通过结合我们之前提到了几篇论文的这个科技来拼凑出了一篇性能表现还可以的解决方案那比较遗憾的是呢他只测试了 Atari 环境然后他选择的控制时间等等并不是那么的丰富唯一有亮点的地方呢就是他把我们的 future prediction这个常见呢在在 self-supervised 视频的时候常用的一个方法来代入到了这个 reinforcement learning 当中同时呢它是和 reinforcement learning 是一起来训练这两个 loss 的这可以对我们未来的工作呢提供一个参考好的以上就是我对这篇论文的一个快速的分析那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "0ef38a5dfc92de35ab24139ade00511071791fba2dee297268e08853a082e832"
+}

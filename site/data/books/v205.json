@@ -1,0 +1,156 @@
+{
+  "video_id": "v205",
+  "title": "Solving Inefficiency of Self-supervised Representation Learning[2104.0876]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v205/0001.jpg",
+      "path": "assets/slides/v205/0001.jpg",
+      "sha256": "5dabc4d8a25a26842420cd5af33d1c3e1a0dc411f6aec53dcc2c46078e149139",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v205/0002.jpg",
+      "path": "assets/slides/v205/0002.jpg",
+      "sha256": "a2f147ba8dbc2d76eec404e57f4a554e252374ebd88396e5a5dec5997ab8587b",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v205/0003.jpg",
+      "path": "assets/slides/v205/0003.jpg",
+      "sha256": "18795b3ca98081ea0e60252a75a1242cab1bff8b9aee3ec1bb2ccbc1586064e2",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v205/0004.jpg",
+      "path": "assets/slides/v205/0004.jpg",
+      "sha256": "dc5df9f3b771059b34de960b672b38def83f3f6e671dd31832a12fba059d4fbe",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v205/0005.jpg",
+      "path": "assets/slides/v205/0005.jpg",
+      "sha256": "b18697630a7cd2862d98de9e115f399bdd2b98104b722ae351f2005c0265e300",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v205/0006.jpg",
+      "path": "assets/slides/v205/0006.jpg",
+      "sha256": "e9064ba819944838e1a4c5de74cad05db375c36b19482dbe959f52fb38c2951a",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v205/0007.jpg",
+      "path": "assets/slides/v205/0007.jpg",
+      "sha256": "3a969946aa0b1783125a0d1a00a0c4ac8aeb3155344af112f81c39357f0eff30",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v205/0008.jpg",
+      "path": "assets/slides/v205/0008.jpg",
+      "sha256": "562fc8fe753fcc9966d4afa2e2acfc00b1b8890433435730eb35006378d8002a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v205/0009.jpg",
+      "path": "assets/slides/v205/0009.jpg",
+      "sha256": "aeab008a9001cc578dc22a24b353fb4722eea70a865bb6f5cea394852cee4edc",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v205/0010.jpg",
+      "path": "assets/slides/v205/0010.jpg",
+      "sha256": "154caaee4f1cb63b1d6d7c42b25fb7f76cd7fe5c783cc0fa83678b2fc5766671",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v205/0011.jpg",
+      "path": "assets/slides/v205/0011.jpg",
+      "sha256": "7648d1733697261e3f4cd4078a21f5061927287e8aeecd94b37dd3bd0ab3023d",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v205/0012.jpg",
+      "path": "assets/slides/v205/0012.jpg",
+      "sha256": "8fea90ec6b5002f82c46d02ad5c2e6c89fbaa3337c7abf9eb587f5994509b51e",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v205/0013.jpg",
+      "path": "assets/slides/v205/0013.jpg",
+      "sha256": "73e451e451dd69a43f7ee17c4fd3eb3bfa57bd0ce545d774d53aa3924361e928",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v205/0014.jpg",
+      "path": "assets/slides/v205/0014.jpg",
+      "sha256": "6b4230e40e49d00f75401bd5eb23f6ab3335858a5c290e642870877af96e6db0",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v205/0015.jpg",
+      "path": "assets/slides/v205/0015.jpg",
+      "sha256": "8fe2c0fc7cf43db4a504d7d98f9b9f5f3ed2ab55f69b23ca7937f8d94ffcc5d4",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v205/0016.jpg",
+      "path": "assets/slides/v205/0016.jpg",
+      "sha256": "8b43d05d5bf85f95ef551074b3e0de9c49b130d03ec5ed941cffda4a548a5299",
+      "slide_index": 16
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Solving Inefficiency of Self-Supervised Representation Learning，它是认为说我们现在的 Self-Supervised Learning 不够有效率，怎么样提高它的学习的效率呢？这里作者首先给我们讲了一个故事。那么故事的开头，作者先给我们说我们做这个 Representation Learning 的时候可能会遇到以下一种情况，像中间这种是我们期望的，比如说同一种图像。",
+    "它们分在了就靠的比较近，同一个种类的图像靠的比较近，不同种类的图像靠的比较远，这是我们期望的结果。但是实际上在 self-supervised learning 的过程中，我们有可能会出现这种情况，比如说不同种的图像都靠到一起了，都是一个大堆，这是另一个大堆，这个叫做 under-clustering。还有或者是这种情况就是。",
+    "即便是他们是同一种图像，但是因为他们之间有区别，所以他们还是被聚到不同的中心啊，这个叫做这个 overcluster。你看这个猫，这个猫对吧，这个狗，这个狗对吧，这个他这个举这个意思。那作者说呢，像我们常用的像 InfoNCE 这种 loss 呢，本质上是希望我们的 positive sample 的距离尽量的近，这个 negative sample 的距离尽量远。",
+    "但实际上我们提供的 positive sample 和 negative sample 它们的数量是非常不平衡的，而且我们的 positive sample 数量比较少，negative sample 的数量比较多。那么作者认为我们很有可能会导致这种 overclustering 的现象，也就是说大家各成一派，因为只对自己的 different view 它是作为 positive sample。",
+    "那对于同一类的图像，虽然他们也应该让这个 feature 变得近一些，但实际上呢，在我们 train 这个 ifose 的时候，我们还是把它标出了 negative sample，那很容易呢就产生了这种 over-clustering 的这种效果。那为了避免这种情况呢，作者这里提出了说啊，我们来重新看回到我们原来的这个 triplet loss 啊，这个是一个很有意思的事情。我们看到 triplet loss 它的这个核心呢就是这个式子，就是我们 input 的一个 anchor 或者叫 query。",
+    "那它呢有 positive sample，它有 negative sample，那么我们希望我们的 anchor 呢到这个 positive sample 的距离大于这个 anchor 到 negative sample 的距离，而且这个距离的差呢要大于一个阈值，这个地方我们是 C 嘛。然后这样子呢我们构成一个 loss，这个呢是我们最经典的这个 triplet loss 哎 ，作者把它搬出来了。那为什么要搬出它来呢？作者的这个故事要从这开始讲了。",
+    "因为呢我们在过去使用这个 triplet loss 呢，经常使用这个 hardest triplet loss，也就是说呢，我在这个计算这个 negative sample 的距离的时候呢，我不是说随便拿个 negative sample 就完了，我呢是要拿这个 hardest negative sample。那具体来说呢，就是离我们这个 query 最近的这个 negative sample。因为你想，假如说他能把最近的这个 negative 都能给它区分开，用它来把我们这个 decision boundary 给它撑开，那对于这些更加简单的距离本来已经就很远的这个 samples 那这自然就更不是个问题了，对不对？所以呢，这个是我们的这个 hardest triplet 这个 loss 的设计的思想。那当然这个设计的出发点是好的，但是实际上呢，我们如果把它放在这个 self-supervised learning 里面呢，哎我们",
+    "其实不那么确定说我们的这个靠的最近的这个 sample 它就是一个 negative sample。那比如说你看到这里本来这个狗呢它跟自己的另外一半部分它离得很近没问题，这是 positive sample。那离它最近的呢其实是另一条狗，这个按理说呢它们是处于同一类的，它们也应该靠近一点。但是如果但是呢，如果我们直接用这个 hardest 那就存在问题了，它会也把它",
+    "这个狗也变成 negative sample。那这个呢就是作者认为说原来的这个 hardest triplet 不适合直接放到我们 self-supervised learning 里面这样一个原因。那么当然作者不会在这里停下，为了克服这种困难，那这里呢作者就提出这个 truncated triplet loss。他的思想呢非常简单，就是说那我既然这个 hardest 这个 sample 它可能还是友军，我们不要痛击它",
+    "但是我往后再看几位就是距离跟我们当前这个 query 足够远的这些 sample，那它铁定应该就是 negative sample 了。所以你可以看到这里呢，相对于原始的这个 triplet loss，本文提出的这个 truncated triplet loss 呢做了一点改动。第一个这是一个 gamma，其实就是一个 2，这是一个小的细节，并不是重要。最重点呢是这个 deputy，这个 deputy 的 sample 到底是谁呢？它并不是我们的 hardest，也就是距离我们最近的 negative sample",
+    "而是这里作者设计了两条路径，第一种方法就是 rank k，也就是说我们把所有的 sample 跟我们的 query 计算出一个 similarity 或者说一个距离我并不是说选它最近的,而是选它第 k 近的这个 sample,作为我们的这个真正用来计算的这个 deputy sample,也就是这个 negative sample。还是因为如果这两个 representation 靠得很近,那它们有可能真的还就是一个类的,我们还不希望它们分开。所以我们把这个样本按距离排序,选择稍微靠后几位的,那这些样本是铁定的就是 negative sample。",
+    "当然在此基础上我们还可以 smooth rank k 对吧？我们不要最近你们后面离着距离比较远的几位大家凑合起来平均对吧？这个就是我们的 loss。很显然这种设计使用了更多的负样本",
+    "作者实验表明它的 smooth 的效果也比原来的要好一些。但是总的来说，本文的核心思想就是我把 triplet 带回来了，但是我们不要用 hardest triplet，而是用一些距离稍微远一点的 negative sample，我们确定它真的是 negative sample。这么一个设计非常简单的一个设计。那么最后来看到一些结果大体的一些数字，我们来看到",
+    "效果呢还是不错的，还是非常推荐你去查看他的原文，他的实验设计然后附录中汇报一些内容。好的，那么以上就是我对这个论文的一个快速的一个介绍啊。那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "08cfe1b4c7102804a84092d046c2c5c0a41dd57571d0115244024a21d3c4a903"
+}

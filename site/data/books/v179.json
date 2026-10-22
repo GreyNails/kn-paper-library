@@ -1,0 +1,93 @@
+{
+  "video_id": "v179",
+  "title": "SimCLR A simple framework for contrastive learning[2002.05709]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v179/0001.jpg",
+      "path": "assets/slides/v179/0001.jpg",
+      "sha256": "8315ca3545d73955acc4cebb503d87006e8ae38ad75fd7d13b0c4ad3834b19c9",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v179/0002.jpg",
+      "path": "assets/slides/v179/0002.jpg",
+      "sha256": "ff51cb4a4f2163428957b62f5e3e131fdb6582cbf3b14ea329a8a33e1e223b78",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v179/0003.jpg",
+      "path": "assets/slides/v179/0003.jpg",
+      "sha256": "4ccdc8bb4c0feed7446355de831a63f5c695e1a4e6782748e236620223c21b95",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v179/0004.jpg",
+      "path": "assets/slides/v179/0004.jpg",
+      "sha256": "a3fa6ec5a7e03dcac5dda489e46b0a3f48a07758a6d08e3b2ba7be9f453d51a3",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v179/0005.jpg",
+      "path": "assets/slides/v179/0005.jpg",
+      "sha256": "399efe079abbfc536bb4ca3473f2a1052734ed71c141b577d8600d35d9184315",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v179/0006.jpg",
+      "path": "assets/slides/v179/0006.jpg",
+      "sha256": "7fd53aa0d203064f7d5ddc8294b699607d7699e28955c96478d19dfead2e96e3",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v179/0007.jpg",
+      "path": "assets/slides/v179/0007.jpg",
+      "sha256": "203ee6676e66c3d87d01cbce3fad4160bb46573b96806a1f40f4f570319be2ee",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v179/0008.jpg",
+      "path": "assets/slides/v179/0008.jpg",
+      "sha256": "4b86bc56b551b5e6190b9da0393b32294370e23cdb351417753a762b072f3c8a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v179/0009.jpg",
+      "path": "assets/slides/v179/0009.jpg",
+      "sha256": "d623cff881f62acb1d5c950ee698597281abd7f6c9726b5a354608f204e10512",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v179/0010.jpg",
+      "path": "assets/slides/v179/0010.jpg",
+      "sha256": "302ef83d7572a8d8e72886ae2f14b6bd6594827219cd623c85609b2360c501d8",
+      "slide_index": 10
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们迅速出一篇论文,这个 SimCLR,它是非常典型的使用 Contrastive Learning 来进行这个 Self-Supervised Learning 的一种方法。那么今天的视频呢,我们就直接讲本文的具体实践,还有作者汇报的一些结果。那么如果你已经熟悉 BYOL、SimSiam,你会发现它们都非常亲切的,都是一个图像进来,采用不同的图像增强策略来产生两种样本。",
+    "然后呢送到我们的 encoder 里面再送到 projector 里面 projector 进入 latent space 之后得到这个 vector z 我们呢来做这个 loss 那对于同一张图像产生的这个 z 呢我们把它靠近不同图像产生的 z 呢我们让它远离那么在这里呢本文使用的 loss function 呢是一个形如这样的一个 loss function 这里的 sim 呢就是两个样本之间的夹角分子的部分呢是两个向量的夹角分母部分呢是左边这个向量跟其他所有的样本它们的相似程度那么对于同一图图像的两个样本呢我们当然是希望它们在 latent space 里面非常靠近而对于不同的样本呢我们就希望它们在 latent space 里面的尽量远离那么快速过一遍本文的算法就是这里我有 n 个样本我通过两路这个 Encoder 和这个 Projection",
+    "这样子一共得到这个 2N 个样本比如左边这路是奇数位的右边这路是偶数位的然后我们对着 2N 个样本两两之间构建 loss 就是形容这样的一个 loss 把它们求一下平均然后更新一下这个 encoder 和这个 projection 就可以了那么同样的我们会保留我们的 encoder 对于这 projection network 我们就丢弃了那么看到结果",
+    "本文在提出的时候呢相对于前面这些 unsupervised 方法那么效果呢还是很不错的这里呢作者也汇报了使用少量 label 来做 training 的时候效果是怎么样的可以看到本文提出的方法呢肯定是 outperform 之前的所有的方法那么其他的呢像不同的这个 loss function 还有不同的这个 temperature 这里呢作者都有实验",
+    "如果你感兴趣的话呢可以去读一下原文那么还有一件我们都知道的事情就是 SIMCLR 它对这个 batch size 是非常敏感的也就是说如果你的 batch size 太小那么每次训练的时候呢就没有足够的样本他们进行相互的对比进行学习所以增加这个 batch size 对模型性能的提升呢是很有帮助的好的那么以上就是我对这篇论文的简单的分析因为我们之前已经介绍了 SimSiam、BYOL 这种东西所以呢我们就不再对这篇论文做详细的介绍了还是如果你感兴趣的话呢非常推荐你去看论文的原文还有很多的实验呢我们在这里没有提及但也都是很扎实的工作好的那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "0df311cccefd17af4bc8a7d67f199e409b92bbdf99a13190db083a764c365804"
+}

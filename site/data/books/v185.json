@@ -1,0 +1,235 @@
+{
+  "video_id": "v185",
+  "title": "Unsupervised Learning of Object Keypoints for Perception and Control",
+  "frames": [
+    {
+      "src": "../../assets/slides/v185/0001.jpg",
+      "path": "assets/slides/v185/0001.jpg",
+      "sha256": "d3446c2fda4af8356a510039c3ba5094564d3bdae65c6f0917767d8e0f176c73",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v185/0002.jpg",
+      "path": "assets/slides/v185/0002.jpg",
+      "sha256": "03259cd30988b61d3f57bf72ed9c7f7b8945581c9c3614052ce0e32f44162287",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v185/0003.jpg",
+      "path": "assets/slides/v185/0003.jpg",
+      "sha256": "4ce9787895dfee3fc9bdc5e73b5430e75d7d2984de8d99332d59bb661dfd2aa0",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v185/0004.jpg",
+      "path": "assets/slides/v185/0004.jpg",
+      "sha256": "1174bb29a2ad71a0f6f731d2b0f4f3b319aeeed6cddfdde1e596f829856c7ca1",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v185/0005.jpg",
+      "path": "assets/slides/v185/0005.jpg",
+      "sha256": "49dc22a9dfbff7543e95daead0d54803f1efe3b507f1a2276f14c2052ab5c60b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v185/0006.jpg",
+      "path": "assets/slides/v185/0006.jpg",
+      "sha256": "26a88b9bf1fefaa8ef72d65fab80e6cb20995b88f4ae4be5c7d560712115f666",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v185/0007.jpg",
+      "path": "assets/slides/v185/0007.jpg",
+      "sha256": "28d33f4faea965b0f829f4676aff15c458abb6c7656d7dc0333e322c8f17174f",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v185/0008.jpg",
+      "path": "assets/slides/v185/0008.jpg",
+      "sha256": "9a245dd35f0e37ac290df4fde4a0800d084a54ff4332e5262aaecc3078a5b504",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v185/0009.jpg",
+      "path": "assets/slides/v185/0009.jpg",
+      "sha256": "49b44bb92d963dc7557321fe9e0765c249c480a384ce1fcc2c5f322b768d2a1a",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v185/0010.jpg",
+      "path": "assets/slides/v185/0010.jpg",
+      "sha256": "def05eb0171598ecc5f1aed69d778d56550b918d8bdce93d0c0f467268014326",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v185/0011.jpg",
+      "path": "assets/slides/v185/0011.jpg",
+      "sha256": "848606d22692cf87b7bb1cef6ac49f70e19375b28e84c76bea70dea1e86bb17a",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v185/0012.jpg",
+      "path": "assets/slides/v185/0012.jpg",
+      "sha256": "00f41d4e794ba47154bdebefdb0880209cc08f660a3c2852ae076b3a7c16d090",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v185/0013.jpg",
+      "path": "assets/slides/v185/0013.jpg",
+      "sha256": "7206943b6d1913932d1130df939d5244fc6d5576357c0057cca50c9c93b3b05e",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v185/0014.jpg",
+      "path": "assets/slides/v185/0014.jpg",
+      "sha256": "688b4115359bbbba64ea7935ee8c07772b6c90a3f2bff095f200d7b9037bbabc",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v185/0015.jpg",
+      "path": "assets/slides/v185/0015.jpg",
+      "sha256": "9103f190f649498a633cd8504edd5321718bbfd138142b81c543aa158dbe1cb4",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v185/0016.jpg",
+      "path": "assets/slides/v185/0016.jpg",
+      "sha256": "7feb7a3667a54428e756c0cc4f3c8403105720d56e8949114eb03bd8e4e9aad7",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v185/0017.jpg",
+      "path": "assets/slides/v185/0017.jpg",
+      "sha256": "fdb390b4b674a46c25dd4f229072fd731c3302de90c5d76161875af4a734b5ad",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v185/0018.jpg",
+      "path": "assets/slides/v185/0018.jpg",
+      "sha256": "d92d7bd948f61753f61528de2c72ae3ebe2e910f6df8dd4a14fa5ecabf62ce24",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v185/0019.jpg",
+      "path": "assets/slides/v185/0019.jpg",
+      "sha256": "5fc55121f8c9fe2f6318fe835e84cd1846d44dbc84bee6382726713685014085",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v185/0020.jpg",
+      "path": "assets/slides/v185/0020.jpg",
+      "sha256": "74f4c6377d2cc749a5966afba390d8f4eee111e60daa37aef54c9143087e0f0d",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v185/0021.jpg",
+      "path": "assets/slides/v185/0021.jpg",
+      "sha256": "c2d23b1ce05a8123856dd7cb5020941e67caafc770f9972c49161b7e808462df",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v185/0022.jpg",
+      "path": "assets/slides/v185/0022.jpg",
+      "sha256": "1746b64468d6a0579b4cbb3ddf44f8d87fb1a6b38f1f9adc34c0268d86b4799d",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v185/0023.jpg",
+      "path": "assets/slides/v185/0023.jpg",
+      "sha256": "2eb70a50b9244c9814d7e8de55a430cd12a315201ddc8e3db6b9280625b70339",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v185/0024.jpg",
+      "path": "assets/slides/v185/0024.jpg",
+      "sha256": "577e6b5518551568f14370352fdc2705a6bd612902a9e0c4ced4c01aea9bc991",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v185/0025.jpg",
+      "path": "assets/slides/v185/0025.jpg",
+      "sha256": "944ef8fe32588e31e29c47d536cda1f5085b9d2f90cf33927e2291554ecf5e67",
+      "slide_index": 25
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Unsupervised Learning of Object Keypoints for Perception and Control 那么这篇论文是通过有一个专门的网络帮我们提这个 keypoints 的方式来辅助我们的 reinforcement learning 让一切变得更加有效率,同时更加有鲁棒性那么在今天的视频中我们会首先介绍一下本文的 intuition 然后是本文核心的贡献,这个 feature transport",
+    "那么再之后呢是根据这个 key points 我们如何做这个 reinforcement learning 还有这个 exploration 最后呢就是作者汇报的一些结果那么首先来看为什么我们要在这个 reinforcement learning 的任务中提这个 key points 那么你比如说以这个 Pong 这个场合为例那么我们非常关注这个小子子弹从一边到另一边它的运动轨迹",
+    "所以如果我们能够让我们的网络显示的去跟踪它的位置那么它对我们后续的控制任务肯定是大有帮助的那么同样像我们的 Stack 这个任务我们要把小的一个箱子给它挪起来那么也是如果我们能够知道每个箱子它的具体的位置还有我们的机械手它各个关节的位置那么这样子对我们的控制肯定更有帮助与此同时我们注意到我们的 Policy Network它呢一般都是三五层这个 convolution 然后加上 mlp 它不会很深那么假如说你把这个地方的背景换一换可能我们的这个网络呢就有点迷糊了对吧它从来也没见过这个但是呢如果我们设计了专门的网络用来稳定的提取这些关键的这些 key points 那么这样子呢它就有一定的无妄性来应对我们的环境的这个改变那么下面我们就来看作者是怎么样稳定的提出这些 key points 吧",
+    "这里我们看到作者设计的这样一个网络的结构它主要包含三个部分第一个是这个 feature encoder 就是这个图像进来提成一个 feature 一个 tensor 这个没什么好说的那么第二个是这个 keynet 它的作用就是把我们的这个图像中的这些关键的点给它提出来那么这里是一个可视化的形式其实它的这个 keynet 它的输出是这个所有的特征点的这个二维的坐标那么第三个呢是这个 RefineNet 我们这里有一个 decoder 还为什么要设计它呢我们接下来马上就要看到那么有了这样一个网络的结构之后呢我们这里要做什么任务呢这里作者说呢我们呢做一个缝合做一个重建这样任务然后呢通过这个重建的这个 loss 呢来训练我们的以上的三个网络",
+    "那具体来说这是怎么回事呢我们看到我们在每次训练的时候呢取这个 source image 还有这个 target image 这样一对这个图像它们呢是在一个相同的背景下但是呢控制的状态是不一样的你可以看到它们两个的这个机械臂的位置也不一样这个箱子的这个位置呢也不一样那么这里呢作者的想法是呢就是我如果在这个 source image 上我能够把它的背景给它提出来而在 target image 上我把它的前景提出来这里背景前景就是我们的机械臂箱子还有区别于它的背景蓝色的背景那么在提出来之后我把这两项相结合那么经过一个 refine 对吧它显然应该是长得像我们 target image 因为我们所有的关键跟控制重要的信息全部是 target image 在提供的那么这样子我们对比一下两个图像 mse",
+    "就可以一下子把我们整个网络给它训练起来了那么你如果想要得到好的这个 reconstruction 的这个结果就是让我们的 reconstruction 的结果更加像我们的这个 target image 那么我们的这个前景的背景的这个区分呢就必须非常精确那么这个时候有朋友就说了你的这个前景它提出来不是应该是一串串的这个 key points 一块儿这个特征点的这样的形式吗它怎么就能够帮我们重建出一个好的图像来呢那么下面呢我们继续来讲一下这个问题",
+    "那么首先我们来看到 KeyNetKeyNet 这个概念其实是在这一篇论文里面那么它就是一个网络把我们的图像进来然后输出我们这些所有的 Key Points 它的二维的坐标假如说这里我们设置有 5 Key Points 那么首先前面先是一群 convolutional layer 跟我们上面 Feature Encoder 一样对吧最后得到的结果是一个 tensor",
+    "然后我们再做一个 1x1 的 convolution 其实就相当于我们的 feature map 上的每一个位置上的像素过一个 linear layer 最后比如说我们要解 5 个 keypoints 那么我们这个 mlp 就输出 5 个 channel 那么下面我们就在每一个 channel 里面把它的关键的点给它找出来就可以了具体怎么找呢最简单的一个方法就是我直接在整个图像里面选一个最大的值就可以了但是这种方法并不是非常的稳定。这里作者提出的是首先我要两个轴，比如说横轴和纵轴，我们要分开选它的坐标。你可以看到这里首先我们确定一下我们选哪个轴，然后存一下另一个轴，存完之后沿着另一个轴给它求和。也就是比如说我要看横坐标，我要选一个横坐标，那么首先这一列一列的我要求和，求完和之后得到一个 vector，我们做 softmax。",
+    "那么这个时候有朋友说到这一步你求一个最大值可以吗？也是可以的。但是为了更加稳定的选择的效果，这里我们把 softmax 之后的输出作为概率，然后我们试这个点的坐标为一个随机变量。假如说它图像的最左边它的坐标是-1。出现在图像的最右边呢，它的这个值呢取到 1。那么这样子呢，每一个可能的坐标值呢都跟我们一个可能的概率给它对应上。那现在呢我们取它的期望就可以得到一个相对稳定的结果。所以呢你可以看到这里它的实现首先呢是-1 到 1 的这个坐标，然后呢这里我们的概率乘上它的这个坐标的这个值，那么最后求和这样子呢就得到了这个期望。然后呢用这个期望作为我们在这个轴上。",
+    "提出来的这个关键点的坐标。那么同理呢，我们在另一个轴上呢也可以用这种方法提出这个坐标来。那最后呢我们呢就得到了一串就是比如说这里是五个这个 S1 和 Y1 的这种点的这个组合。那么当然拿到点这个组合之后我们应该怎么样把它变成我们图像这个融合的时候能用的这个前景和背景呢？这里呢作者说直接上一个这个 Gaussian。对吧？我在这个特征点的这个坐标上我和一个高顺 kernel 进行卷积。这个 kernel 的大小呢还有这个它的 sigma 的值呢是我们固定好的。那么经过这样一个操作之后呢我们就能得到一个这样的 mask。但是注意啊，这里的它是为了这个视觉上的区分呢，它把这个不同的点做了不同的颜色。实际上它就是一个二维的 mask，它是一个灰度的图像。那么有了这个 mask 之后呢我们就可以对我们的前景背景做一个分割了。",
+    "那么应该怎么样构建我们的合成图像呢？这里呢我们来看到这个公式，也就是这个黄色的框里面作者描述的这么一个过程。那首先呢我们的 mask 呢是这个东西，一个是 source image 的 mask，一个是这个 target image 的 mask。这里呢是只有在两个 mask 都认为它是背景的像素和我们的这个 source image 的这个 feature map 它相称。那么这样子呢就保证这一块呢它只是背景。",
+    "那么另一方面是 target image 的 mask 它和 target image 相成就只拿到 target image 的前景那么把背景和前景加起来就可以得到一个合成的 target image 那么然后送到 RefineNet 里面来给它填一填空白修一修毛刺加一个 MSE 就可以把我们整个网络三个部分给它训练出来了",
+    "那么以上呢就是本文提出的这个 feature transport 如何呢用这个 keynet 还有其他的这种 reconstruction 的手段来学一个好的这个 object keypoints 这个 extractor。那么当我们完成这个训练之后呢我们其实只需要保留我们的这个 feature encoder 还有这个 keynet encoder。它们产出的结果呢一个是我们的 feature map，另一个呢就是所有的这个关键点的这个位置。那么把这些信息呢我们就可以拿到我们后面的这个网络里面。",
+    "做我们的这个各种的 reinforcement learning 的任务这样子呢我们的 policy learning 呢能省很多事而且呢前面呢当我们训练好这个 object keypoints 的时候呢就把前面的两个 encoder 呢给它锁住了就不用再训练了",
+    "那么当然除了这个 reinforcement learning 的问题啊这里呢作者还帮我们讨论了说如何利用这些 key points 来做这个 exploration 也就是探索我们的状态空间因为标记这个 reward 总是麻烦的嘛如果他能够自己去探索自己去发现不同的这个技能的话那也是很好的一个事情啊在这里呢我们来看作者是怎么样设计的假如说呢他有这个 key 这个 key points 那么呢我们就设计这个 key 乘以 4 这样的一个 intrinsic rewards那么他的定义呢就是我的一个 key points 那他向上向下向左向右向这四个方向分别移动了多少距离那么他作为这个四个 reward 那么既然有了这个 key 乘四个这样的 reward 呢那显然我们就会有 key 乘四个这个 q function 这当然也是很合理的设计对吧那么在我们训练的时候呢注意呢这里就是为了训练他自己探索一些技能啊而不是说真正的 reinforcement learning 的训练啊我们呢每次呢采样一个这个 q function",
+    "然后用它对应的 reward 去练 7 个步骤，而且采集到的这些 state transition 全部都塞到一个共用的 replay buffer 里面，那么这样我们就可以快速的完成探索任务，那么在评估的环节，我们可以找一个最容易控制的点，那么怎么定义最容易控制的点，你可以看到这里其实它的意思就是说我去找一个在 state transition 过程中它的移动幅度最大的这样一个点",
+    "它的移动幅度大说明我们最好控制它这样子就能够帮助我们更有效的去探索整个状态空间是一个非常有意思的设计那么以上就是本文的主要的贡献下面我们来看作者设计的实验以及它汇报的结果首先是长期的 Keypoint Prediction 也就是它随着时间的进行每次解出来的结果是不是稳定那么它解出来的精度是怎么样的这里我们可以看到绿色的是本文的方法",
+    "他的召回要害精度在大部分的情况下呢都是非常高的，也就是说，在 key point 这一块呢，我们是可以依赖他的。那么然后呢，是这个雅达利的这个 reinforcement learning 这个环境嘛，你可以看到这里呢，就是我们之前说的啊，把这个 observation state 对吧，提出这个 feature 来，然后提出这个 key points 来，然后呢，分别送到我们后续的这个 policy network 里面，这里呢，当然还有一个 lstm 呢，那么最后呢，出这个 action",
+    "可以看到呢，本文的方法呢，比其他的方法呢都要好一些，那么此外呢，作者还汇报了一些在没有轮播的时候的这个探索问题，那感谢你的朋友呢可以在原文还有他的附录中查看，以上就是我对这篇论文的一个简单的分析，感谢你的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "a5a14cd43e9c450f83ebab75d4dc5f463041c9e98f6989701a4258990105022f"
+}

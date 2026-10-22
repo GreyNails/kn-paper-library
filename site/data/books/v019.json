@@ -1,0 +1,216 @@
+{
+  "video_id": "v019",
+  "title": "Taming Transformers for High-Resolution Image Synthesis[2012.09841]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v019/0001.jpg",
+      "path": "assets/slides/v019/0001.jpg",
+      "sha256": "b342860a875dd1dbdf9559b3f42c02f9edaeca3395c686b33e2dc735913e6f0f",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v019/0002.jpg",
+      "path": "assets/slides/v019/0002.jpg",
+      "sha256": "4def610e1ce9f788596d6178921bfba727fd3538706ee5b8dfce70395de09a60",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v019/0003.jpg",
+      "path": "assets/slides/v019/0003.jpg",
+      "sha256": "ba2f1228cc9c35f879323c625d9ec04feac6495c730d8d6c85cf6cc99a805fe3",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v019/0004.jpg",
+      "path": "assets/slides/v019/0004.jpg",
+      "sha256": "15ca170eb1abb03d1afbd6efc86eceea95e603d2c404e07cfdec1b16035bd1f4",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v019/0005.jpg",
+      "path": "assets/slides/v019/0005.jpg",
+      "sha256": "90c61afac983a695c8e6c9ac3fbf59651d1f773a21a78134490adaab9f898f22",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v019/0006.jpg",
+      "path": "assets/slides/v019/0006.jpg",
+      "sha256": "4ad9a378d1c1cf694af2f5721a4cc5f72e5672d3c3f71bef95b7e7fc35ae4808",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v019/0007.jpg",
+      "path": "assets/slides/v019/0007.jpg",
+      "sha256": "0769030eac1c4f9df8772ff12045039650cefde5a1fa6f84ccebbcff154fe067",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v019/0008.jpg",
+      "path": "assets/slides/v019/0008.jpg",
+      "sha256": "743ef809f15730f330f1b9eadfd3388ebb4b6786fd71ab2a98fe24ddd40c6841",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v019/0009.jpg",
+      "path": "assets/slides/v019/0009.jpg",
+      "sha256": "5fa1575b690bec9470f1254b99306e008ed15142768022fe8700d2fd804b3233",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v019/0010.jpg",
+      "path": "assets/slides/v019/0010.jpg",
+      "sha256": "fb3d44200294c1410fb4eea31528a633b65fadcb576c16b6033eeb30387e7826",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v019/0011.jpg",
+      "path": "assets/slides/v019/0011.jpg",
+      "sha256": "ab0be910aa4ac916f297678eb353fa6a4fe7d6451d7c704a1aa5104508266787",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v019/0012.jpg",
+      "path": "assets/slides/v019/0012.jpg",
+      "sha256": "f8c5bfdc7dd89a347cbcdf4efd16dca8ce804caa2aab7fac4942771a6150c89d",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v019/0013.jpg",
+      "path": "assets/slides/v019/0013.jpg",
+      "sha256": "9a73c526a3747a41a8dc20cea913b060e932e227de40df487f8b4ed7369caf44",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v019/0014.jpg",
+      "path": "assets/slides/v019/0014.jpg",
+      "sha256": "539b9f6445287b3e48a9b037cd236e702dc42408ff5215159759ac34e043211e",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v019/0015.jpg",
+      "path": "assets/slides/v019/0015.jpg",
+      "sha256": "644d69c547e354f1995617fe5b811d6d73ce14de10272e6e28f33aa0df6da08e",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v019/0016.jpg",
+      "path": "assets/slides/v019/0016.jpg",
+      "sha256": "6f2903e1d3f38aff15da4176f4b0744936eda26b7263db18490cf68a9a403119",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v019/0017.jpg",
+      "path": "assets/slides/v019/0017.jpg",
+      "sha256": "7ec339d302b6a0d1f19b54f2afebb0be89af6c804ba8fa849ebb3fd16c482a8e",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v019/0018.jpg",
+      "path": "assets/slides/v019/0018.jpg",
+      "sha256": "528f8b7552b2faffc54265b7268db3c9df760b8f18ee4f78f0bfe87b61835edd",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v019/0019.jpg",
+      "path": "assets/slides/v019/0019.jpg",
+      "sha256": "ea7c8090e92ee415b1e49066cad999895492939317efab93f75405cfeb06a5d1",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v019/0020.jpg",
+      "path": "assets/slides/v019/0020.jpg",
+      "sha256": "b05208cf177e15e7a271db6ff4762789a5d815af2d6257547065f9edb7d12163",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v019/0021.jpg",
+      "path": "assets/slides/v019/0021.jpg",
+      "sha256": "88d33b342dfe05674378c7f2b7680a24bf74f2a7c11e6508c7765633324f32c4",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v019/0022.jpg",
+      "path": "assets/slides/v019/0022.jpg",
+      "sha256": "3425466617d705a2ee24e8f2e95feb42f5a5a536515a091b95a5119bc2d2ceb7",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v019/0023.jpg",
+      "path": "assets/slides/v019/0023.jpg",
+      "sha256": "31657296010013876edd3f482d0effd7a6f0d73d9e877084eadad141d99c69a6",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v019/0024.jpg",
+      "path": "assets/slides/v019/0024.jpg",
+      "sha256": "f66c540bd93c6257ac576d64a654324a10bca606d9f6b048110934e374ac5f8d",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v019/0025.jpg",
+      "path": "assets/slides/v019/0025.jpg",
+      "sha256": "8c578311a42426dcda3430ade44e32a1ad1be4810d9a925ef363a184e9ead88c",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v019/0026.jpg",
+      "path": "assets/slides/v019/0026.jpg",
+      "sha256": "da0e50fd5dd6a2510a1ff119bcafdcfd4e1e738f45b7ffa97d08bc6f8fe1271f",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v019/0027.jpg",
+      "path": "assets/slides/v019/0027.jpg",
+      "sha256": "e4cf4f70505f9d6f81119f31d22dddf9934ec19c8a19994a4f055b0b850aec9d",
+      "slide_index": 27
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Taming Transformers for High-Resolution Image Synthesis 这篇论文是很经典的 VQGAN 在介绍这篇论文之前,首先我们对 VQ-VAE 做一个快速的回顾这个我们之前有视频专门介绍过,感兴趣的朋友可以先去看一下",
+    "那么 VQ-VAE 的核心呢就是它的这个 latent space 不再是连续的这个 Gaussian distribution 而是呢这个一个离散的这个 codebook 那这样子你的这个 encoder 出来找出了一个这个 representation 之后呢去在这个 codebook 也就是这个 embedding space 中找到离我们的这个 representation 最近的这么一个词条就是这样一个 e 它呢作为我们 decoder 输入这样子的一个过程",
+    "所以你看到它跟这个 vae 一样虽然都是有这个 elbo 但是因为它中间不是这个 gaussian distribution 所以它使用这个 loss 更新的机制呢就相应的有变化那么当然本质上呢我们都是要训练这个 encoder 还有 decoder 那对于这个 VQ-VAE 来讲它有一个特殊的地方呢就是它这个 embedding space 它这个 codebook 就是这个东西它呢是要与时俱进跟着这个 encoder 来一起走的所以呢随着训练的继续呢这个东西呢也要跟着更新",
+    "那这个呢就是对这个 codebook 它这个更新也就是这个 commitment loss 然后呢我们就可以来到本文的方法了本文的方法呢是一个经典的这个两步的方法那首先呢用一个 vae 去学一个好的这个码表 codebook 然后呢我们在这个 codebook 在这个 latent space 在这个 embedding space 里面开始做文章那这里呢做的一个贡献呢就是用这个 transformer 去生成一串这个 latent code 那具体来看在第一阶段呢先用了一个 vqvae",
+    "做这个 encode 还有 decode 当然这不算完作者在后面呢还加了一个这个 patch based 这个 discriminator 为什么叫 patch based 呢就是因为我们的这个图像它可能很大嘛所以呢每次呢我只检查一个 patch 就是看这个 patch 它的质量怎么样这个 discriminator 所以呢在第一个阶段呢作者叫他这个 vqgan 因为多加一个这个 discriminator 嘛那么这样子呢就是让我们能够学到一个好的这个 codebook 然后这个 encoder 和这个 decoder",
+    "都可以得到一个训练那这个呢是第一个过程那继续来看呢这个 reconstruction loss 对吧跟这个之前的这个 VQ-VAE 是一样的一个是训练这个码表一个是训练这个 encoder 啊这三个部分这个 loss 然后呢在 VQ-VAE 基础上增加了这个 discriminator 这个 patch base 的 discriminator 组成了这么一个 GAN 那么他呢就是对吧这个 VQ-VAE 这是一个 generator loss",
+    "然后呢 gan 的 loss 那么这里呢还有一个有意思的地方就是看这里作者用了这个 lambda 去平衡 generator loss 和 discriminator loss 这个符号呢就是这个 discriminator 最后一层的这个 gradient 它的这个平均值这个呢是简单的一个防除 0 嘛那么这个呢就是这个 VQGAN 的这个设计那通过 VQGAN 呢我们就能够学到一个好的这个码表那么有了这个好的码表之后呢我们第二步呢就开始去造吧造我们想要的这个图像嘛",
+    "那这个 latent code 呢你想他就是一串序列吗这个序列呢记录了这个每个 patch 啊这个位置上他应该是使用哪一个码对吧然后呢放 decoder 里面去解码实际上因为我们这个码表是离散的就可以直接用这个 index 啊去做这个标记然后呢因为我们整个这个生成的问题是一个 auto regressive 也就是先有了第一个码然后根据第一个码生成第二个码再根据前两个码生成第三个码这样子不断的去生成这个 auto regressive 这样一个方法所以呢，你会一次一次的把我们这个前面的码送到我们 transformer 里面，你可以把它们理解成一种 condition，然后呢根据前面这 condition 啊，我们来预测说下一个码应该是哪一个码，相当于让我们的这个 transformer 去做一个这个多分类的，任何一个问题，那当然你说我如果想生成高清的图像对吧，应该怎么办呢",
+    "那高清的图像，我们这个 patch size 不变的情况下，我们就让这个码表这个序列让它变长一点就好了嘛，但是呢这个序列长呢就会带来另一个问题，就是 transformer 对吧，它是一个全局的这么一个 attention，你序列长的时候计算代价非常大，那怎么办呢，对于这个大型的这个图像高清的图像，作者呢把这个 attention 限制在一个窗口里面，然后呢去滑动这个窗口，这样子呢你 transformer 它的这个 sequence 它的长度呢就给限制住了同时呢他也能够保证一定的这个全局的信息在局部中的这么一个全局的信息，那么当然既然是基于这个 auto regressive 基于前置的这些 index 去预测下一个 index，我们完全可以在这个前置中增加更多的信息，人为的给他增加一些更多的 condition，让我们的网络呢做一个 condition 的输出，也就是给他一定的条件来去输出就是这个 condition synthesis",
+    "那当然你这 condition 也很自由了对吧，你可以是一个 label，比如说告诉他生成个猫生成个狗，还是说呢你是一整张图像，一张图像呢你就可以做这个 translation 啊，就是画风的迁移这些东西，那这个时候呢你就要更新你的码表或者说重新训练一个 VQGAN，那比如说这里你可以看到这个例子里面，我 latent code 只给到这啊，我先写到这，剩下的你们自己发挥吧对吧，啊自己发挥的各种各样的结果都有，那还有这个 image translation",
+    "啊这些东西等等等等，这样子呢让我们这个模型呢就变得非常自由了，那么当然这种设计呢也不是作者独创的，在之前呢我们有这个 PixelSNAIL 用这个 causal convolution 还有这个 self-attention 一起做的这么一个 auto regressive 的方法，那在本文呢就直接替换成 transformer，作者呢这里有一个简单的对比，这个是不同的数据集啊，不同的任务，具体的这个你可以看到这边的描述啊，那可以看到在这个相同的这个 train step",
+    "或者说是相同的这个时间，因为我们 transformer 比这个 PixelSNAIL 要慢很多，那本文的方法呢都取得了这个更好的结果，那么后面的作者有大量的这个实验的结果，它的补充材料里面有更多的样例，那非常推荐感兴趣的朋友呢去查看原文，好的，以上就是我对这篇文章一个快速的介绍，那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "5f264c3bbf139f392b86ddc8a19ff5b6b5fb47ebab0585afebff9106e71081ad"
+}

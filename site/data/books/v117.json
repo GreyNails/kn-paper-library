@@ -1,0 +1,142 @@
+{
+  "video_id": "v117",
+  "title": "SEER Stored Embeddings for Efficient RL[2103.02886]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v117/0001.jpg",
+      "path": "assets/slides/v117/0001.jpg",
+      "sha256": "03c40f2bc414b7550601c085ef9d2fa83868c3ea10c0ec7f40d89e68b182e760",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v117/0002.jpg",
+      "path": "assets/slides/v117/0002.jpg",
+      "sha256": "23d2276fbf180f2fdc69a413b447112747703cf8794a9733e009b4f0ac67565b",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v117/0003.jpg",
+      "path": "assets/slides/v117/0003.jpg",
+      "sha256": "de9b8023e6ef69b9dc913d8b42b4ffb38db5ff6ca2d1380fed1384f94fefaff5",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v117/0004.jpg",
+      "path": "assets/slides/v117/0004.jpg",
+      "sha256": "2b40530e325b187343b7472a12bed29cd20aafce77a6edba6327aee2267e5f39",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v117/0005.jpg",
+      "path": "assets/slides/v117/0005.jpg",
+      "sha256": "a1939ddf05aa917b5294eaf52289b7610145d4389b6ae225a62385f6cee7e4d9",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v117/0006.jpg",
+      "path": "assets/slides/v117/0006.jpg",
+      "sha256": "b5cca1e2cae11d05ff0f50a3ac093e336c6d73cc332f56ff43d6c6dc3b21b2a2",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v117/0007.jpg",
+      "path": "assets/slides/v117/0007.jpg",
+      "sha256": "502f47d46db1df4ba0d0830ceac51c1447a56b21ebb2b2f8c26cb27c00e3b4d2",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v117/0008.jpg",
+      "path": "assets/slides/v117/0008.jpg",
+      "sha256": "1ac88b07aa95a05564e7395f1534c4142b73983e0284eda1c98d98fc0633e523",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v117/0009.jpg",
+      "path": "assets/slides/v117/0009.jpg",
+      "sha256": "69bb016e03c825e6623f0b5e4134fc90627c428bbb2dec76d07cc2707f20e1ba",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v117/0010.jpg",
+      "path": "assets/slides/v117/0010.jpg",
+      "sha256": "bab8045b6cac3f65991c6763d2b2520f2ba320a0b24406292b6313662299dd8e",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v117/0011.jpg",
+      "path": "assets/slides/v117/0011.jpg",
+      "sha256": "b3c7d211cf5fb83a37c1deedadd17abb18dd5d0b5078dce3e5e1d7c214a43377",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v117/0012.jpg",
+      "path": "assets/slides/v117/0012.jpg",
+      "sha256": "a8c324b82deee6aa7b7bd3687d188ffd824087091b3f69d4773e6895f3a5c1a7",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v117/0013.jpg",
+      "path": "assets/slides/v117/0013.jpg",
+      "sha256": "51d9c7363b14e2fa6a32d0c7cf0f5dd5b807128ffc30bfa5efdd44680e4671d4",
+      "slide_index": 13
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们迅速写一篇论文，叫做 Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings。那么这篇论文的出发点其实非常简单，就是我们在训练一个 CNN based 的这个 policy 的时候，那么前面的几层 CNN encoder 它是会提前就 converge 的。也就是说，后面虽然我们在学习不同的 policy 学得很辛苦，但是前面的 encoder 基本是不会怎么变化的。",
+    "那么如果我的 encoder 不需要怎么变呢？那我干脆就在训练好了之后把前面的 encoder 锁死。这样子呢，它对应的 latent representation 也就锁死了。最后呢，我们只要从 latent representation 直接学一个好的 policy 就可以。那么这篇文章作者的方法叫做 Stored Embeddings for Efficient Reinforcement Learning，简称 SEER。那么它跟之前的那个 Facebook 提出的 self-supervised 大规模的那个 SEER 它不是一个东西，大家记得做好区分。那么在今天的视频中呢，我们首先快速的梳理一下作者 intuition，其实也就是我们刚刚说的作者为什么他会提出这样一个方法。然后呢，会介绍一下本文提出方法的具体细节，以及最后作者汇报的实验内容。",
+    "那么正如我们开头所说的一个 policy 它经常就是前面几层 CNN convolutional layers 然后加后面几层 MLP 来组成一个 policy 最后来比如说到 qlearning 或者是 actor-critic 这样的 reinforcement learning 的算法那么作者在实践的过程中发现前面的几层 CNN encoders 它是可能很早就收敛了虽然我们在不断训练后面的 policy 那么既然前面的 encoder 已经收敛了我们就不用再训练它了吗",
+    "那么于是呢，我们就把前面的 encoders 给它冻住。冻住这个 encoders 之后呢，我们的每一张对应的图像输入进来，它就可以固定的对应到 latent space 中的一个 representation。所以说，我们对应的 latent representation 呢也就锁定住了。那么这样子，我们只需要训练从 latent representation 到最后的 policy 到最后的 qvalue 这中间的这个网络那就可以了。",
+    "这样带来一个好处就是，我的 replay buffer 中再也不用塞原来的那些原始图像了。我只要把这个 latent representation 塞进去就好了。那么 latent representation 相对于原始图像，它占的内存是非常少的。那这也就意味着，我们在相同的内存中塞一个更大的 replay buffer。那么作者的实验也证明，我们把这个 encoder 冻住之后可以使用更大的 replay buffer。这样子呢，这样性能的表现会有所提升，或者我们限制 replay buffer 的大小。",
+    "但是 replay buffer 所占的内存会大大的降低。那么具体来看，本人提出的方法其实也没有什么特别复杂的技术细节，就是一开始的时候我们就正常训练，比如这里是用了一个 encoder 把图像变成 latent representation，然后送到 actor-critic 里面来训练一个 policy。那么训练了一段时间之后，我们发现前面的 encoder 它已经基本收敛了。好，那么这个时候我就把 encoder 冻住，我就不再更新 encoder 了。",
+    "那么唯一再训练的部分就是从 Latent RepresentationLatent Vector 到 Actor Critic 这个过程。那么我们的 Replay Buffer 里面也可以全部都替换成 Latent Vector。因为这个 Latent Vector 比如说这里是一个长度为 50 的 Latent Vector。它比原来 84x84 甚至 100x100 的这个图像它占的内存要小很多。所以我们的 Replay Buffer 里面可以塞更多的样本那么除去这些核心的实现之后呢，作者还提出了说 data augmentation 数据增强对我们后面的 policy learning 是有帮助的。那么原来我们对 playbuffer 里面存的是原始图像的时候，我们可以对这个一个 if 图像来使用不同的图像增强的策略来训练整个 network。那现在我们的 encoder 固定了 if 图像增强之后呢，又会得到很多个 latent vector",
+    "那么作者的思路就是把这些 latent vector 也都存到 replay buffer 里面，然后标记好它们是来自同一个样本的。那么即便如此，这样存下来的 latent vector 所占的内存还是要比整个存一张原始的大图要占的小很多。同时你也可以享受到跟原来一样的 data augmentation 带来的好处",
+    "好了，我们看到结果这里作者进行了充分的实验，分别在连续控制空间和离散控制空间。连续控制空间就是 DeepMind 的 DMC，就是 DeepMind Control DMC。那么离散控制空间就是我们熟悉的雅达利环境。可以看到作者使用了 CURL baseline，我们之前也有一个视频专门介绍 CURL 这个方法，有不熟悉的朋友可以去翻看前面的视频。那么作者发现在 baseline 上加上我们本文提出的 SEER 这个方法在相同计算量的时候性能是有所提升的，至少说它是不下降的。那么同样在离散的控制空间，作者使用的 Rainbow 作为 Baseline。那么 Rainbow 加上本文提出的方法也是在相同计算量的时候性能有提升，至少是不下降的。那么所以说本文提出的方法在连续控制空间和离散的控制空间上都可以 work",
+    "然后再看 sample efficiency 和 memory efficiency 的事情。那么这里作者汇报了这个是在相同计算量的条件下，使用了 SEER 得到的分数比 baseline 都要高一些。那么在使用了相同的 environment steps，这也就是衡量 data efficiency 的情况下，那么使用了 SEER 在绝大多数情况下都比原来的 baseline 要高那么一些。那么此外这里作者还测试了我限制 memory 的大小",
+    "那么显然在相同的内存条件下，我们提出的方法是能够改善或者至少说不下降 Baseline 的性能的。那么最后作者还测试了 Transfer Learning，我前面既然已经学到一个好的 Encoder 了，我比如说我是针对一个任务来学的 Encoder，那我能不能把这个任务把这个 Encoder 应用到其他的任务上去呢？那答案是肯定了。这里作者使用了 CURL对吧，使用 Walker-stand 这个 Walker-stand 这个任务呢做这个 pretraining，然后呢把训练好的这个 encoder 送到这两个新环境中。那么显然在相同的计算量的情况下，因为有了 pretraining，那么本文提出的方法效果是非常好的。那么最后呢作者说，那么最后呢作者为了验证本文的这个假设，也就是说 encoder 先训练好，后面的 policy 包括 qqvalue 是后训练好的，那么作者呢在这里做了 similarity 的这个",
+    "对比。那么第一行呢是 t 等于 0 的时刻，也就是随着 t 的增加，每一个 layer 它相对于 t 等于 0 的时候它的 similarity。可以看到呢这边没过多少步，这个前面的 CNN encoder 就基本就确定了。等到 t 等于 100k 的时候呢",
+    "基本上前面的 encoder 就不会有特别大的更新了，而我们的后面的 policy 或者是 qnetwork 他们会在持续的进行更新，所以说本文提出的假设说 CNN encoder 会提前收敛，实验结果也是能够支持作者的假设。那么总的来说，这篇文章的思想非常简单，里面用到的内容真的不复杂，从结果上来看效果是非常明显的。",
+    "那么可能在未来，这就是 image-based reinforcement learning 它一个常规的操作。好的，以上就是我对这篇论文的简单的分析，这也是一篇非常简单的论文，但是它效果真的非常好。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "905e40cf515bc9028339c699be790d04fcaaa0ca9941241a25b6a3396eceac8d"
+}

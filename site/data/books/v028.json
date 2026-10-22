@@ -1,0 +1,258 @@
+{
+  "video_id": "v028",
+  "title": "Region-Aware Pretraining for Open-Vocab. Object Det. w ViT[2305.07011]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v028/0001.jpg",
+      "path": "assets/slides/v028/0001.jpg",
+      "sha256": "ab93581827efebe0f343b78e67f997ac772fc357e3979c768eed742f2259d567",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v028/0002.jpg",
+      "path": "assets/slides/v028/0002.jpg",
+      "sha256": "4491059b2f9eee45620fd14ef11789c5cc924a01305f79f83de4c002e00c00d7",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v028/0003.jpg",
+      "path": "assets/slides/v028/0003.jpg",
+      "sha256": "5f4ab64d6851de418f4e0317ffbb96be15d9f045b3fe8bc0db9eff739b3dfa9f",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v028/0004.jpg",
+      "path": "assets/slides/v028/0004.jpg",
+      "sha256": "cebe924246ab01271018d9b9941ddf6401bd60670d950d95c7a144fd663ab7d6",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v028/0005.jpg",
+      "path": "assets/slides/v028/0005.jpg",
+      "sha256": "89a4e8a52f61bd5e7e6b7ceba912234cde62a1e333eed70b9b0c589065a822ec",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v028/0006.jpg",
+      "path": "assets/slides/v028/0006.jpg",
+      "sha256": "9eca08eb81a53be0529e6fc574da201b2480d190eec5a658a0ccf69b446ee50d",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v028/0007.jpg",
+      "path": "assets/slides/v028/0007.jpg",
+      "sha256": "bc7539a58268729cc11e10a345a68a6fc0857cae4a8c10c6fdc56d973fe65e39",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v028/0008.jpg",
+      "path": "assets/slides/v028/0008.jpg",
+      "sha256": "ce7585f1a0e85878b8156fe6912d63ad8918c5d9c1be250999d3b184abfb734c",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v028/0009.jpg",
+      "path": "assets/slides/v028/0009.jpg",
+      "sha256": "7890f498b978ddd30416660e0c86fffe55e7c0d53caf8328dd98da3ceeff738b",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v028/0010.jpg",
+      "path": "assets/slides/v028/0010.jpg",
+      "sha256": "ff338b266760b7e1720453ec437df9b6f6a9c9130cfe53b2939e547e6f3d178a",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v028/0011.jpg",
+      "path": "assets/slides/v028/0011.jpg",
+      "sha256": "19fa83fa9d160268629848d3e5d16c9d1a21b322d928c8c898ad99426b9355f8",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v028/0012.jpg",
+      "path": "assets/slides/v028/0012.jpg",
+      "sha256": "4a8cd6cdcf532a46a1e773d6fcf2d2eb6832b7a4a84978f15fcf6687c64df2d4",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v028/0013.jpg",
+      "path": "assets/slides/v028/0013.jpg",
+      "sha256": "cd3ba1033380136a0e1c52f9fd644fa70af60256549765aac6bcffda7ad53b81",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v028/0014.jpg",
+      "path": "assets/slides/v028/0014.jpg",
+      "sha256": "f920337b21b4eccdfef50e4c15738fa909a7d4c54acbf1ef8e466eb24e9fe451",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v028/0015.jpg",
+      "path": "assets/slides/v028/0015.jpg",
+      "sha256": "6788ff1fa40c8883703d438eac50b593536563dcf7ae80a182e91223e2c232ee",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v028/0016.jpg",
+      "path": "assets/slides/v028/0016.jpg",
+      "sha256": "96e1cb23d450df21f02c6059bc7aeec5f1835f7011d895c0762e42da420440fd",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v028/0017.jpg",
+      "path": "assets/slides/v028/0017.jpg",
+      "sha256": "f8b618eae9f884e2f1969ce5521520f2c520aa54829fc728eb73882e1f903ead",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v028/0018.jpg",
+      "path": "assets/slides/v028/0018.jpg",
+      "sha256": "dd55c2e357f040e2e8915bed44e2626aedf18bdd22b7f10fa2c806ebb87a53bd",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v028/0019.jpg",
+      "path": "assets/slides/v028/0019.jpg",
+      "sha256": "93b7fc569efb3237fb9d2989bc1bbd4356e45cc713c3310517b9ae9d41bc860f",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v028/0020.jpg",
+      "path": "assets/slides/v028/0020.jpg",
+      "sha256": "f76016893fc396cea7d033208439f3969fc285f8d0e1572fcc6a377bbe5527a9",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v028/0021.jpg",
+      "path": "assets/slides/v028/0021.jpg",
+      "sha256": "d26a50d624b352a20d4f58f746cc1f0b3e2f81e56e03234b5f22a36dabfb558c",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v028/0022.jpg",
+      "path": "assets/slides/v028/0022.jpg",
+      "sha256": "e2666a1dbf0b50b768228112aee7654adf2792577e341b72152e0223b28bdf47",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v028/0023.jpg",
+      "path": "assets/slides/v028/0023.jpg",
+      "sha256": "084c850b3c37be1d23a452ad1daeaf73582d8f95d98d99702e7cff88534fa10b",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v028/0024.jpg",
+      "path": "assets/slides/v028/0024.jpg",
+      "sha256": "25c4cb55815f29f65657d5d266cd4476bc25f9ab1c870c70f6303e5c77cfb15b",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v028/0025.jpg",
+      "path": "assets/slides/v028/0025.jpg",
+      "sha256": "535785465c793397295336112e08333e9ccb9b3c976624712bb130242c43fcf3",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v028/0026.jpg",
+      "path": "assets/slides/v028/0026.jpg",
+      "sha256": "f45ab8bdfb34a9e874ae252c61a6199b8d50e9544b21cf694d0f1c153b618441",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v028/0027.jpg",
+      "path": "assets/slides/v028/0027.jpg",
+      "sha256": "d529ec8b39aa2142cc61bd0155f17b1e0c56f8ab5789010cc268731e75a3eef9",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v028/0028.jpg",
+      "path": "assets/slides/v028/0028.jpg",
+      "sha256": "823165a84cf120a43b3988189ad5772d21c6c5ac88e82ddde5a065ff5a099345",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v028/0029.jpg",
+      "path": "assets/slides/v028/0029.jpg",
+      "sha256": "e4e11365663963a455d9318a3782cc8a8742536bff0e36cf2af06b2b9b8fe048",
+      "slide_index": 29
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Region-Aware Pretraining for Open Vocabulary Object Detection with Vision Transformers这一篇呢是一个力大砖飞的，教我们从头开始设计一个 open vocabulary 的 object detector。那么它的所在的背景呢，当然还是我们在 CLIP 为代表这个 vision language model，他们还是处在一整张图像只提一个 embedding 和它对应的文本的 embedding 做匹配的这么一个阶段，这么一个背景。那么我们如何在这种设计的基础上去让我们的模型能够做更细层次的 region level 的",
+    "这样的一个 object detection 呢？那么本文提供的思路呢，就是还是两步走。第一步呢，就是我们先自己训练一个 vision language model。训练的时候呢，我们希望这个网络更加注重图像中的区域。那么第二步呢，就是在这个 pretrain 好的 model 上面我们做 fine-tuning 来得到一个最终的 detector。我们直接来看",
+    "这个是本文的架构，我们看到两部分从这里分开，左边一块讲的是 Pretraining，右边一块讲的是 Fine-tuning。我们直接先来看 Pretraining 这一块",
+    "pretraining 这块其实主要有两个大的技术的要点，一个是 cropped positional embedding CPE，再一个它用的是 focal loss。我们主要看它这个 CPE 的使用。我们因为知道下游任务是做 object detection，所以我们就希望我们的模型去注重图像中的某一个局部的区域。在这个区域里面提一个 feature，这是一个符合直觉的设计但是我们如何在 pretrain 的这个阶段让模型去注意到一个小的区域呢？那你直接去想肯定就是我一张图里面我随机的切出一块来，然后作为我的训练样本，怎么样怎么样怎么样。但是呢，它就存在一个问题，如果这个物体它非常小，你本来图的分辨率就不大，你切出来一块你再缩放或者怎么样",
+    "它就不那么合适也不太优雅那么本文的一个思路呢就所谓大山不向穆罕默德走来穆罕默德便向大山走去它不是通过更改图像本身而是它默认说我所有的输入的图像我训练集中的图像都是存在一个虚拟的一个大的图像中的一个 patch 然后呢每次我训练的时候呢我先生成一个 positional embedding 那么这个 positional embedding 呢",
+    "对是一个比我们输入图像大得多的一个不存在的虚拟的图像。而我们假设我们输入的训练的图像就是虚拟的图像中任意一个位置中的一个小块。这样子我们就避免了对原始的图像进行裁切，而更好地利用我们已经有的数据那我现在已经初始化了一个大的 positional embedding。我现在呢，只需要随机在里面画出一个框来，我就说我的这个训练的这张图片就是在这个大的图像中的这个框里面这个位置。那么换成你模型能懂的语言呢，就是你只取这个框里面的 positional embedding 加到你的这个已经有的这个输入的图像上",
+    "就是在我加 positional embedding 的时候，不是加一个全局的 positional embedding，而是告诉我的模型说我的这张图像其实是来自一个广大的图像里面的一小部分。这样子呢，你就很自然的覆盖了不同的图像的尺度，图像中不同的位置。那么加上这个 positional embedding 对吧？你看到这里，然后过这个 encoder，然后 global average pooling 这边跟这个",
+    "text encoder 做相似度，然后两个 embedding 算相似度和 clip 一样做 contrastive loss。但是这里具体用到的 loss 是 focal loss。它具体是什么，我们来看到这边是长这个样子",
+    "可以看到这个里面 sigmoid 里面是相似度这个套就是那个 temperature 嘛你可以调整的那么这个呢是本文在 pre-training 的时候做的两个调整也就是本文最核心的技术贡献那么你拿上这个 loss 拿上你的文本图像的配对然后你就去训练就好了那么训练结束之后呢就得到一个 text encoder 还有一个 vision encoder 我们呢就可以做下一步的这个 fine-tuning 那么具体来说呢既然我们这次的目标是建一个 open vocabulary detector",
+    "那么在训练的流程上其实跟之前的方法也都是一样我们的数据集它始终是有限的我们会在这个数据集上训练然后在测试的时候我们不仅会测试 base 这个数据集里面的所有的 label 我们还去测试一些新的 label 就是这两个数据集的并",
+    "同时呢我们还会加上一个新的类叫做 background 有了它呢我们能把这些误报的这些 proposal 给它关掉那么为什么会有误报的 proposal 呢因为这里的 detector 呢沿用的是这个 Mask R-CNN 它的构架那么这个东西呢它是一个两阶段的对吧你熟悉 fastrcnfastrcn 这些东西它第一个阶段会有一个 proposal network告诉你这个图像里面哪些区域可能是我们想要的物体然后呢你在这些 proposal 上做 classification 也好做它具体的这个 bounding box 具体的 mask 的分割也好",
+    "那么这个呢是 Mask R-CNN 那么本文呢沿用了这个构架所以呢这里需要一个新的这个 background 类那么在这个基础上呢本文有两个小的改进当然这个改进也不是新的也不是说本文的贡献那么第一个呢就是这个你在算这个 proposal 的时候原来呢我们都是用一个这个二分类的一个分类器来看啊你觉得这个区域的 feature 它像不像一个物体",
+    "那么这种方法呢对不是 open vocabulary 的情况你知道所有的 label 的情况下它是可用的那你现在这个情况你不知道你可能会分出什么 label 出来那么在这里呢作者把它替换成了一个 localization quality 就是沿用了这个 object localization network 这个里面的设计那就是说我来看一看这个区域里面的东西我也不管它是什么东西了我就看它成不成型那么这个呢是作者的第一个改动",
+    "那么第二个改动呢就是把所有的 classifier 还有这个 mask output 这一块呢全部换成这种 layer normalization 的这个 linear layerw 是这一层的权重 b 是它的 bias 嘛那么 x 是这一层的输入也是一个很直接的设计那么在做了这些改动之后呢你就正常的去训练它就好了那你可以看到呢这边我们的这个 visual encoder 后面首先额外加这个 detector heads 就是那个 proposal network",
+    "那么提出来的区域你再去做分类再去做 mask 的 prediction 就好了那么最终我们希望要给我们的输出的每一个物体我们有一个 confidence 我们有一个 score 就是我们有多确信这个结果这个 score 从哪里来本文里面分了三个部分一个就是你的 Vision Language Model 这个 patch 和你的 text embedding 它们的 similarity是怎么样的这个 score 这个是 z 在这里然后呢一个是你的 detector head 你在这里它会随着预测出一个分数来",
+    "那么这两个分数呢是按照这个式子结合在一起的这里的这个α呢是一个超参数给这些见过的类使用β呢是另一个超参数给这些没见过的类使用但是它们的公式呢是一样的然后呢你得到这个小的分数那这个分数呢作者还在前面成了一个 proposal network 它给出的确信的程度就是我们之前说到这个 localization quality 这个分数那么把它成在前面得到这个分数呢就是你最终的给每一个 object 的分数",
+    "好的，那么以上就是本文主要的技术路线了。我们来看作者汇报的一些结果，首先是这个 open vocabulary object detection 一些好的数字。你看到他测了这个 LVIS 还有这个 COCO 这两个数据集。然后呢，我们再来看到他做了这个 image text retrieval，那就是来衡量我们 pre-training 的质量嘛，对吧？这是一些好的结果。",
+    "然后呢是 transfer learning，在迁移到其他数据集上可以用。然后这边呢就是一些 ablation，比如说一开始我们看到这个 pretrain",
+    "我们的 focal loss 的使用，CPE 的使用，他们做 retrieval 的这个效果在这里。那么这里呢有更多的 ablation，感兴趣的朋友呢非常推荐你到原文去看它的具体的设计。那么总的来说呢，本文就是核心的两个设计，一个是 CPE 的使用，这个可能是本文的最大的贡献了。然后呢使用的是 focal loss 而不是 softmax cross entropy 那些东西。那么这个呢就是本文的核心了，作者呢也只提供了这两个部分的代码。",
+    "总的来说呢，还是这篇文章是一个力大砖飞的工作。那么以上就是我对这个文章的一个快速的整理。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "741f45b063a29c5b6330d8f268e7d7c6270882f423758155ee8bfb654ee9632e"
+}

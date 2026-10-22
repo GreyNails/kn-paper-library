@@ -1,0 +1,167 @@
+{
+  "video_id": "v051",
+  "title": "BiFormer Vision Transformer with Bi-Level Routing Attention[2303.08810]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v051/0001.jpg",
+      "path": "assets/slides/v051/0001.jpg",
+      "sha256": "81577877d1b31dc19f2c1f1e980751b1698c180b2989802803981fddab2cf449",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v051/0002.jpg",
+      "path": "assets/slides/v051/0002.jpg",
+      "sha256": "354d219eba7fb208a6c480b21677ea5ff5b5622225e79b358efdae9809892904",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v051/0003.jpg",
+      "path": "assets/slides/v051/0003.jpg",
+      "sha256": "1838d21dbe5872f511b3420b6aad8d300c6da554a307e7c1b959bdb5fa90a31b",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v051/0004.jpg",
+      "path": "assets/slides/v051/0004.jpg",
+      "sha256": "1803d24bd028fe23e023019683a4bf2e640437a3af007d8fa80e5a13edcc8d77",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v051/0005.jpg",
+      "path": "assets/slides/v051/0005.jpg",
+      "sha256": "f3569f18976fcd5fb16af6ed3fb58f391ba992c2bc3cfde9555168a662d2bbd9",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v051/0006.jpg",
+      "path": "assets/slides/v051/0006.jpg",
+      "sha256": "2db7c8ecef261b45be6697efb2541eef2eeb3371743ffd9e416c0c3df4880b8d",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v051/0007.jpg",
+      "path": "assets/slides/v051/0007.jpg",
+      "sha256": "85a3e05b3db3255ebc18c9d9291f6dcc63e88162c84ce2f1fd67fb9b2b216b2b",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v051/0008.jpg",
+      "path": "assets/slides/v051/0008.jpg",
+      "sha256": "e54962bf8d0705e333bd4f738c404bd0ff96e35991071f00c827da539393684e",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v051/0009.jpg",
+      "path": "assets/slides/v051/0009.jpg",
+      "sha256": "44241c0e26e99d91a52238ec16f5ca2c3b3774ca0aa411af3a0c1296d5375f7c",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v051/0010.jpg",
+      "path": "assets/slides/v051/0010.jpg",
+      "sha256": "53dad03aa6eaf3032880b35324f2349dab954eebdec0a7e71baf49275ad7f62e",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v051/0011.jpg",
+      "path": "assets/slides/v051/0011.jpg",
+      "sha256": "5b46c9af6f382a4a7cf2f4de4f9d70be13c5c864d1cbd9405bfdd43a8d4ae293",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v051/0012.jpg",
+      "path": "assets/slides/v051/0012.jpg",
+      "sha256": "4936a1fd286f28c1680a56d2484630bf588464927dd78de8a17bf47d6e611a81",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v051/0013.jpg",
+      "path": "assets/slides/v051/0013.jpg",
+      "sha256": "5b60fc1e30800d7f11c120a4bb2e1847eb59edbda995c7f3fcc7e89ef8633090",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v051/0014.jpg",
+      "path": "assets/slides/v051/0014.jpg",
+      "sha256": "692c4fe38a04ce1bce411ac353e5f8036406dc9a57d05b5342b0775fbb2e0b11",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v051/0015.jpg",
+      "path": "assets/slides/v051/0015.jpg",
+      "sha256": "dc35e57069204d672109c861b270995515aa66f2bf117a4afd8c684603cff5bd",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v051/0016.jpg",
+      "path": "assets/slides/v051/0016.jpg",
+      "sha256": "742760666e9954f82256931e2db76d37068793fb8868adbe2672f717bbe5dfc7",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v051/0017.jpg",
+      "path": "assets/slides/v051/0017.jpg",
+      "sha256": "89d8ca4925b9ef853d25e2c07603ad4bd5cab1735daa4065db35a49da4d16d3f",
+      "slide_index": 17
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速介绍一篇论文 Bi-former, Vision Transformer with Bi-level Routing Attention这篇论文很早就出现在我们的文档里面了，是我们的一位热心的朋友他编辑进来的。但是说起来非常惭愧，在这个文档里面的很多文章真的是各路神仙，我实在是对他们的背景不是特别的了解，因此很多我都没有办法真正的出一个视频去介绍。那么借这个机会，非常诚挚的邀请各位作者，那么如果你想在这个频道介绍你的工作",
+    "那么麻烦你准备好你的 presentation，我们可以约一个时间，然后我来给你录制剪辑，然后上传到我们这个频道上。那么如果你有任何的提议建议，也非常感谢你能告诉我好的，那么回到我们这篇文章啊，这篇文章研究的就是 transformer 里面这个 attention。我们吐槽了很多年了，你一个 token 跟所有的 token 都去做 attention。对图片来说呢，这其实不是一个太明智的设计。那么在之前的工作里面有 localattention，就 Swin Transformer 那一套的有这个 axialattention，有这个 dilatedattention，还有这个 deformableattention，这个好像我们之前也说过",
+    "那么这些工作呢，都是通过减少 query 和它匹配的这个 key 的数量来减少这个内存的消耗也好，来减少你的运算也好。那么本篇文章呢，同样的思路，这个 bi-level routing attention 它呢，跟这个 local attention 很像，也是我们的 query 只是跟一个一个的 local patch 来做，不是说跟所有的 token 去做这个 attention。但是呢，你在这个 local attention 里面，你的 query 和这个 key 对应的范围是根据你的空间位置来决定的",
+    "那么在本文里面，它是一种更灵活的 query 和 key，就是你虽然适合一小个区域去做 attention，但是这个小的区域可能是在图片中的任何地方，这是一个非常灵活的设计。那么这个实现本质上就是先从一个宏观的尺度，我这里把这张图像分成一个个大的 window，就是大的 local patch，然后我先去看哪些 local patch 它们之间是有关系的",
+    "那么确定了这些之后呢，我再进到这个 local patch 里面，每一个小的这个 token，每一个小的 patch，然后他们在这个相互之间做 attention。你也可以把它理解成为是一种 hierarchical 的使用 attention，先是粗糙的做一遍 attention，确定一下谁值得做，然后呢再去细致的做 attention。那我们直接看到代码啊，那么进来的图像呢，你把它分成这种小的 patch 还有这个大的 patch 的组合。那么这里这个大的这个 local window 就是这个二乘二的",
+    "这么一个 block 啊，他叫这个 region 吗？然后呢，你每一个 region 里面就有这么多的小的 patch。那这里一个 region 里面有 4 个小的 patch。然后呢，你就做标准的这个 linear projectionquery key value，针对每一个小的这个 token，小的 patch 去做一下。那么再往下一步呢，这里作者使用了每一个 region 里面的所有的小的 patch 的 query 和 key 他们的均值来代表说这个 region 整个这一个 region 他自己的 query 和 key",
+    "就是你一个二乘二里面四个 patch 对吧，你四个 patch 的 query 平均一下就是这个大的 region 的它的 query。然后呢，就是每一个区域的 query 和其他所有的区域的 key 做一个这个乘法，你就得到一个这类似于 attention 的这么一个矩阵。那么这里重点来了，就是我不希望我的 local region 和所有的 region 都做 attention。我这里呢，就针对每一个 region 选 k 一个和它呈出来的这个值最大的就是关系最近的这几个 region。就在这一步我确定了说就是这些 local region 之间他们呢做 attention，其他的 region 呢就不考虑了。就相当于把大的这个区域给它划分好了",
+    "那么把这个区域划分好了，你就根据这个区域把真正的这个区域里面的每一个小的 patch 的 query 和 key 都提出来。提出来之后呢，你再去做标准的 attention 算出来这个 attention 矩阵，然后呢和 value 搭在一起就好了。那注意呢，这里有一个细节，就是当你这个 attention 矩阵乘上这个 value 之后呢，还加了一个 depthwise convolution 处理过的这个 value。那这个东西是什么呢？这个东西呢，它来自于这篇文章，它本质上的意思呢，就是一个 local enhancement。",
+    "就是用一个 depth wise convolution 把你这个区域里面的 value 再做一次投影，再做一次处理。那么最直白的理解呢，就是你把这一串 value token 给它还原成图像的原来这个图像的样子，然后呢，在这个 value 上面做一个 depth wise 的 convolution。做完之后呢，再对应的加回到这个 attention 里面。那么加上这个之后呢，本文提出的这个 bi-level routing attention 这个模块呢，它就是一个完整的模块了。",
+    "然后呢，我们来看到当你把这个 attention 替换到 transformer 里面传统的 attention 之后，你就开始组建你的网络吧。那么这个呢，就是作者应用产生的这个 BiFormer。你可以看到呢，它还是沿用了这种 hierarchical 的不断减小 token 不断加深长度的这么一个结构。那至于里面每一个 BiFormer 的 block 呢，它区别于经典的 transformer，它还加了一个 3x3 的 depthwise convolution 在最前面，那还是来强化我们局部的信息交换。",
+    "那么这些呢，也都是之前论文里面提到的。感兴趣的朋友呢，你进到原文里面看他引用的那些文章。那么当然这里有三个不同大小的这个网络嘛，你可以选。但这个 patch merging、downsample 这个东西没有什么好讲的。但是一开始做这个 patch embedding 的时候呢，你可以看到呢，他还是通过两层的卷积来先把这个图像减小到一定尺寸，然后呢再往后继续做的。那么直接来看结果啊，经典的这个 classification 的任务还有 segmentation 的任务。",
+    "然后呢，还有这个 object detection、instance segmentation 等等啊，感兴趣的朋友呢，你去看一下他的论文，他的具体的实验配置就好了。然后呢，还有一些 ablation，比如说这个地方我用什么样的 attention 去做效果最好，这个是很有价值的。然后呢，这个是我们怎么样从 swin 的结构变到这个 biformer 的结构",
+    "它的一些设计的叠加还有就是我这些超参数选多少对吧？我一个 region，我一个大的 local window，我选择多少其他的 window 去做 attention。那么这些都有作者还提供了一些 visualization，就是我的 query 在这里的时候，我都跟哪些的区域做了 attention，然后具体里面的 attention 的值是多少。",
+    "那么总的来说呢，本文是通过一个层次化的方法，先从一个大的 region 来决定谁去做 attention，然后再细化去做具体的每一个 attention，来达到一个节约资源的目的。方法呢，也是非常的直接。那么以上呢，就是我对这个论文的一个快速的整理。第一还是感兴趣的朋友呢，非常推荐你去阅读原文。那么第二就是如果你有任何想。",
+    "分享了自己的工作，请准备好你的 presentation，我可以帮你录制剪辑，然后呢上传到我们这个频道里。好的，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "35d9fd347ee7c4b9e929f83d8a51574d598aa0cf90c40c73174b10b45c91a30f"
+}

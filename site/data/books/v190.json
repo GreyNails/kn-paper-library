@@ -1,0 +1,144 @@
+{
+  "video_id": "v190",
+  "title": "Improving Transferability of Representations via Augmentation-Aware Self-Supervision",
+  "frames": [
+    {
+      "src": "../../assets/slides/v190/0001.jpg",
+      "path": "assets/slides/v190/0001.jpg",
+      "sha256": "ea1d20ccf1f44db4e9eae15636b87e13c25002aed7c987ef1ad3bccede53a4f1",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v190/0002.jpg",
+      "path": "assets/slides/v190/0002.jpg",
+      "sha256": "3325317c7948034cdc915e843ae047362ae9a7ee45e19b416774494abf85eb18",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v190/0003.jpg",
+      "path": "assets/slides/v190/0003.jpg",
+      "sha256": "c9f529e5f39a8eb2868b17e0b5a9823518d26126986bac0804457951a05bc0ee",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v190/0004.jpg",
+      "path": "assets/slides/v190/0004.jpg",
+      "sha256": "c4d1d51688d4f027d079b5b90af72507ccb042dd927bbb81c1d5e9d736a35e95",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v190/0005.jpg",
+      "path": "assets/slides/v190/0005.jpg",
+      "sha256": "5e34829053f0f8f65beda5b0a8ca0941dd6b01da5d9f948bac4d321372364bcc",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v190/0006.jpg",
+      "path": "assets/slides/v190/0006.jpg",
+      "sha256": "39ca658f77cbbde21219469af627c4d16d5e2f6c412e279a6b9bb68d40b6cf42",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v190/0007.jpg",
+      "path": "assets/slides/v190/0007.jpg",
+      "sha256": "280df773f031dcee87f6294ca444714a751001731ed18160985d6200dc5574e3",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v190/0008.jpg",
+      "path": "assets/slides/v190/0008.jpg",
+      "sha256": "7c36760b8786059aa4fb4ce1f277c6a5fb01aae741e321dd0c1a89e820482eb1",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v190/0009.jpg",
+      "path": "assets/slides/v190/0009.jpg",
+      "sha256": "73425a1a7225e23b1febc1db471f5240066f6ecbd5dc89fc0d476ac71e565aa4",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v190/0010.jpg",
+      "path": "assets/slides/v190/0010.jpg",
+      "sha256": "4575f08fe93e014f635a9d266899329ec690f7f9d02cc8338bc3acea5ef6fd1e",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v190/0011.jpg",
+      "path": "assets/slides/v190/0011.jpg",
+      "sha256": "b63b00eafa42aa3606604089bb6f32644035befece36b71c315f4a855b7742c2",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v190/0012.jpg",
+      "path": "assets/slides/v190/0012.jpg",
+      "sha256": "4d67dbf5d3cca98a87c50f3ff3ed70f27d0c2de7baacfdc1d1ccb7bbc8ac6c83",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v190/0013.jpg",
+      "path": "assets/slides/v190/0013.jpg",
+      "sha256": "f4205833bc22b9799b845d5f2ae57ff882a2bbf424cf1bda7d99503e506d07eb",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v190/0014.jpg",
+      "path": "assets/slides/v190/0014.jpg",
+      "sha256": "994a1d2210c5444f3a5c686abf5632456cd0cf638a38c089f7fcc6e2430bd736",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v190/0015.jpg",
+      "path": "assets/slides/v190/0015.jpg",
+      "sha256": "75aa8671ddfe9d165415d964cd08dde479c88556586017cf0a33c4890a0d0352",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v190/0016.jpg",
+      "path": "assets/slides/v190/0016.jpg",
+      "sha256": "01635591ded238ad157bd0898290f4e2c8fdfa23e3598516eefc50158a95d159",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v190/0017.jpg",
+      "path": "assets/slides/v190/0017.jpg",
+      "sha256": "be7288c6a9a1cd05e636aa8018bc8aaf54945aa73f6eae5ea3fffddc3d577486",
+      "slide_index": 17
+    }
+  ],
+  "paragraphs": [
+    "大家好今天我们来快速说一篇论文 Improving transferability of representations via augmentation-aware self-supervision 你可以从标题来看到 Transfer learning, representation learning 怎么弄呢我们要知道 augmentation 做了什么继续来看本文的实践这个是经典 self-supervised learning 的这么一个对称的学习的框架通用的一个框架对吧这边你可以看到",
+    "你可以有监督这些方法对吧我们都聊过了那么本文想强调的点呢就是我这个图像进来做了两个不同的这个 data augmentation 他们之间存在的相互的关系是什么如果说我们的 representation 能够保留这种关系那是不是就能够改善我们学到这 representation 的质量你这么想也是啊就是你不仅理解说这个题怎么解你还要理解他出题的这个思路是什么就是为什么我们会产生这个不同的 representation 在我们的 latent space 里面这些不同的 augmentation 之后的这个图像产生的 representation 之间相互有什么关系如果我们能够通过一个方式去学到他的话那也是极好的那这里呢苏尔就使用一个非常简单的方法在训练这个",
+    "普通的这些 contrastive learning self-supervised learning 这些东西的时候呢我们呢加上一个 augmentation-aware learning 就是他们提的那干什么呢就是我有一个三层的 MLP 啊把这个 representation 拿进来把这个 representation 拿进来然后呢预测这两个这个 view 他们使用的这个 data augmentation 他们的这个具体的参数他们的差值就是这么简单的思路那么继续我们来看它预测了哪些 Data Augmentation 主要的就是这四种 Random Cropping 对吧一张图你切那它的这个切的中心位置两个自由度切的尺寸两个自由度所以一共是四个自由度你把 View1 和 View2 的这两个参数拿出来做差对吧这个差在跟我们的预测结果做 L2 Distance 这个就是 Random Cropping",
+    "那同理这个 color jittering 和这个 gaussian blurring 这个亮度对比度饱和度和这个色相对吧这个是四个自由度的这个呢是只有一个就是这个 standard deviation 或者说我们的这个 kernel 它的这个大小对吧这些呢都用 L2 distance 因为这个差呢本身就是一个连续的向量啊那么我们预测出来一个连续的值直接做 L2 就可以了那么还有一个呢就是这个水平的翻转",
+    "我们的翻转它无非就是翻了或者没翻所以这里我们就用了一个 classifier 去预测说这两个图像是不是都经历了翻转这成了一个分类问题了所以这里就是用了 BCE 那么这个就是关于 Data Augmentation 的 AuxiliaryTask 就是这里这个地方的这个东西结束了我们来看作者汇报的一些结果比如说这里我们看到它对比了说我们加上这个",
+    "augmentation awareness 之后呢我们的这个 representation 跟这个 color jittering 他们的这个 informatione 你可以理解为它是这个 mutual information 的这个 lower bound 它呢是能够提高的说明我们的这个 representation 确实掌握了一些跟这个 color jittering 就是跟我们的 data augmentation 相关的这么一些信息确实学到了然后这里呢因为本文研究的是这个 transferability 嘛",
+    "对吧？所以呢，我们就是看 transfer learning 在这里 pretrain 好了，然后再到不同 dataset 去做这个 linear evaluation。那可以看到了，本文方法加上之后呢，提升呢是显著的。那么更多的结果呢，包括这个 few-shot classification 还有更多的这个 linear evaluation，就是 transfer 的这些过程，本文呢在这个结果中呢都有汇报。总的来说呢，是一个角度比较清奇的这么一个文章。",
+    "还是非常推荐感兴趣的朋友呢去原文查看它更多的实现的细节，汇报的更多的这个结果结论。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "1fcd9d61ac43f692bfdde8c34edf150cb1f36190770a67ab91c382cbd4c2b10f"
+}

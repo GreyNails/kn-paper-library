@@ -1,0 +1,1534 @@
+{
+  "video_id": "v133",
+  "title": "LLaRA Supercharging Robot Learning Data for VLM Policy[2406.20095]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v133/0001.jpg",
+      "path": "assets/slides/v133/0001.jpg",
+      "sha256": "c373ad445f18f751ff3402b2d8d0e9a7db083cff8427e47c2ee668feb2f664a6",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v133/0002.jpg",
+      "path": "assets/slides/v133/0002.jpg",
+      "sha256": "8e93f75ea9045a65d50022d8625c4ec3d1fbfa7c8a9802a7876cdad1d75c16f3",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v133/0003.jpg",
+      "path": "assets/slides/v133/0003.jpg",
+      "sha256": "3839842edd6a9e885ca9d3b24b46680ba0307376bd90f1bbd30a9f344ecfda20",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v133/0004.jpg",
+      "path": "assets/slides/v133/0004.jpg",
+      "sha256": "4ea5350a5122de8aadde73e8d803b360d16ef1e03f8c8ae18b3e7cc251ef53ae",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v133/0005.jpg",
+      "path": "assets/slides/v133/0005.jpg",
+      "sha256": "1970e8784f05abc393d052406430ce44561e53ce81703f2effb44c395f8d2824",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v133/0006.jpg",
+      "path": "assets/slides/v133/0006.jpg",
+      "sha256": "a3d05e44d935bea5a872f35c5c4081ec5bc604284306afbdf5b6b89016501eeb",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v133/0007.jpg",
+      "path": "assets/slides/v133/0007.jpg",
+      "sha256": "6310c4612027563949903ec76f71d7236e7e2ce5917e333fc51821bf4cce9072",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v133/0008.jpg",
+      "path": "assets/slides/v133/0008.jpg",
+      "sha256": "9593cd137bf6d65cd38d5e1273c16a7d7b4a5c2718713439edb7e3f9a82bba21",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v133/0009.jpg",
+      "path": "assets/slides/v133/0009.jpg",
+      "sha256": "05852e667663ac00ed3653c6c9e525f6ce024e88169e218b20b36410dd725bb1",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v133/0010.jpg",
+      "path": "assets/slides/v133/0010.jpg",
+      "sha256": "3d7799b834917f1de4866eabba6082deb52fb5298b1e5750543b2ff1de841776",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v133/0011.jpg",
+      "path": "assets/slides/v133/0011.jpg",
+      "sha256": "77edd295551e5cc7ad09d4a55864b659717d52753198da2ade2dff127e458461",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v133/0012.jpg",
+      "path": "assets/slides/v133/0012.jpg",
+      "sha256": "5777036cbebcbe3f04a890cdffd9078588395efa9af7071be4057828b5df61f3",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v133/0013.jpg",
+      "path": "assets/slides/v133/0013.jpg",
+      "sha256": "055fdae5fcddb89654459a5319528390f0757a35a9d36ccc20c6e68f984af994",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v133/0014.jpg",
+      "path": "assets/slides/v133/0014.jpg",
+      "sha256": "45631d1b4b9b94f1a10c4b11e5adb85c0ec620a7917a1f4ae8eaaecbc2526946",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v133/0015.jpg",
+      "path": "assets/slides/v133/0015.jpg",
+      "sha256": "822aea60a1c0c1d091c614f5a8eca10aba08b6fd404d68002b8984bf23cd3da9",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v133/0016.jpg",
+      "path": "assets/slides/v133/0016.jpg",
+      "sha256": "74209ad951a824a496197af529d7e8fb19a50fb99b6295900944762d20c8e927",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v133/0017.jpg",
+      "path": "assets/slides/v133/0017.jpg",
+      "sha256": "2bfd2cab63e62ea45094742254accbae9e66567b27dc05421085f3d20eaabadf",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v133/0018.jpg",
+      "path": "assets/slides/v133/0018.jpg",
+      "sha256": "171574415692c7499663ba1a13816ab4f9d6e29dfee53f9dc89aed22d0c3900f",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v133/0019.jpg",
+      "path": "assets/slides/v133/0019.jpg",
+      "sha256": "f8bbf21d3600a1edae9be76b43d3c14027d06e7d712997b7845337fb5b1a974a",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v133/0020.jpg",
+      "path": "assets/slides/v133/0020.jpg",
+      "sha256": "5fbb46d6d94809c5786925a59cdea8a41eeefc429c34b87fd24872fed378f0e7",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v133/0021.jpg",
+      "path": "assets/slides/v133/0021.jpg",
+      "sha256": "bc26ab6e27c5cb3d1cba25f1d293ce69a7a3a32fff92b2f718ddbfe57b2b44a7",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v133/0022.jpg",
+      "path": "assets/slides/v133/0022.jpg",
+      "sha256": "ffdee4342b5ce8e68f3e21254e5fc18644238c39e25dd74361939288c88b4dce",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v133/0023.jpg",
+      "path": "assets/slides/v133/0023.jpg",
+      "sha256": "4cd93c32b68e6babdbebd5705ad77272c9bd9824201df03eeb0ecc0d23b956b4",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v133/0024.jpg",
+      "path": "assets/slides/v133/0024.jpg",
+      "sha256": "58d1ed8898c5e65c5c7677c9c5cef634a5bf3d42fa38494bcb015783dbbf0dbd",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v133/0025.jpg",
+      "path": "assets/slides/v133/0025.jpg",
+      "sha256": "23b411a32799754fb6586e64337823dd73f3d03a216c48872709b40c967e328a",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v133/0026.jpg",
+      "path": "assets/slides/v133/0026.jpg",
+      "sha256": "b0cffd15116717c8da3404162e0f7ab6bca0a35081cbcbc1f61f3013e31cef19",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v133/0027.jpg",
+      "path": "assets/slides/v133/0027.jpg",
+      "sha256": "655b400aeee4423060adb3014615ea52bfbf18e55644340e5613cef4677d4428",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v133/0028.jpg",
+      "path": "assets/slides/v133/0028.jpg",
+      "sha256": "7332cee927d7dd3457183915c6725b829698055e7901f72d8bb7de8f5fb2c087",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v133/0029.jpg",
+      "path": "assets/slides/v133/0029.jpg",
+      "sha256": "7804d3a944c876b71f39ca647c30ac4c3f15cb205664e9211d578ae5f5d85901",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v133/0030.jpg",
+      "path": "assets/slides/v133/0030.jpg",
+      "sha256": "fce6c33627281eff45a61248c82914b3983154aabfb646630acd6526eeae13bf",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v133/0031.jpg",
+      "path": "assets/slides/v133/0031.jpg",
+      "sha256": "9fa390215b44f6247b8fa8ea6e885343934b31b798e9f82406bcfa106aa3404e",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v133/0032.jpg",
+      "path": "assets/slides/v133/0032.jpg",
+      "sha256": "8be824064bc778f3e20ff08938d4ceeca538dc5145474d22e783567d1793e3ad",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v133/0033.jpg",
+      "path": "assets/slides/v133/0033.jpg",
+      "sha256": "fcedab30eba5fcb1cb0de3fe7a38f18093e333cb6a9ccd9a7a8ee3ab35546ef6",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v133/0034.jpg",
+      "path": "assets/slides/v133/0034.jpg",
+      "sha256": "1646be26a30b9b160b3e5eaaefbe6b4358e49d20845d470b76cca2875302458a",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v133/0035.jpg",
+      "path": "assets/slides/v133/0035.jpg",
+      "sha256": "2b9c96b2e657dac0f7986bbbdb59985f8a40f859ff0c5bfd47b966c49f15cffa",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v133/0036.jpg",
+      "path": "assets/slides/v133/0036.jpg",
+      "sha256": "00da6042dc10e6b22d3d9c2faac21585e3369bf3c6d0fb23154a4c8c9b42272a",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v133/0037.jpg",
+      "path": "assets/slides/v133/0037.jpg",
+      "sha256": "b509b3b62e20d15bc72950fffc8a8e3080917fc075f85a816d74a2fa312104ac",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v133/0038.jpg",
+      "path": "assets/slides/v133/0038.jpg",
+      "sha256": "45f70e72f359798418506c81f025bbb9eb13ab1625bbe1685b6932837119dd45",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v133/0039.jpg",
+      "path": "assets/slides/v133/0039.jpg",
+      "sha256": "a24499a6f1e9ac4c6afad70645c100c85007711d432ddf6690f678f59e90d15c",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v133/0040.jpg",
+      "path": "assets/slides/v133/0040.jpg",
+      "sha256": "8b1c0edb56cb5fc017735e9f185978897fd63b86ff61db35f7db7249d9291af7",
+      "slide_index": 40
+    },
+    {
+      "src": "../../assets/slides/v133/0041.jpg",
+      "path": "assets/slides/v133/0041.jpg",
+      "sha256": "53f1ff09a4f6d42048c6d874db78cb6d159f140755217354712f6ba627ced723",
+      "slide_index": 41
+    },
+    {
+      "src": "../../assets/slides/v133/0042.jpg",
+      "path": "assets/slides/v133/0042.jpg",
+      "sha256": "134a1fddd9c558f28ac2f72b15db170a1877f29deeee462d8a5443bb9201e6cb",
+      "slide_index": 42
+    },
+    {
+      "src": "../../assets/slides/v133/0043.jpg",
+      "path": "assets/slides/v133/0043.jpg",
+      "sha256": "c1540ef20d4abd1b816db5d1416afcb8a045fbb7105c3138959e6d9c0c31b55b",
+      "slide_index": 43
+    },
+    {
+      "src": "../../assets/slides/v133/0044.jpg",
+      "path": "assets/slides/v133/0044.jpg",
+      "sha256": "5314c63fceb4293437be98c0b67407ec75bdcd4176b6526e3dd978dd3bc4760c",
+      "slide_index": 44
+    },
+    {
+      "src": "../../assets/slides/v133/0045.jpg",
+      "path": "assets/slides/v133/0045.jpg",
+      "sha256": "491a64045622d2708f61b53f7089ac63784f9cd2d52f88f35a5a6cee226c0f6a",
+      "slide_index": 45
+    },
+    {
+      "src": "../../assets/slides/v133/0046.jpg",
+      "path": "assets/slides/v133/0046.jpg",
+      "sha256": "86ff44cf79323f31530f00b751986eb4c20179fa1921721b29c821a9256f2a1c",
+      "slide_index": 46
+    },
+    {
+      "src": "../../assets/slides/v133/0047.jpg",
+      "path": "assets/slides/v133/0047.jpg",
+      "sha256": "43279dc70a7e832f404dd7d524088c07ffd743c5b6fe8df7132d3cdf740148c4",
+      "slide_index": 47
+    },
+    {
+      "src": "../../assets/slides/v133/0048.jpg",
+      "path": "assets/slides/v133/0048.jpg",
+      "sha256": "573170f36cbc93ab54e9dbdc26c3e2a5bc81211c50379c5d917506411268c648",
+      "slide_index": 48
+    },
+    {
+      "src": "../../assets/slides/v133/0049.jpg",
+      "path": "assets/slides/v133/0049.jpg",
+      "sha256": "73273bf269c4feedfc1f77d89e7f4c38c136ad0a6723197122bc44be1615209a",
+      "slide_index": 49
+    },
+    {
+      "src": "../../assets/slides/v133/0050.jpg",
+      "path": "assets/slides/v133/0050.jpg",
+      "sha256": "e179aa40c5b48c1137f301b1aec0e393bd43815b9b337185f2ee7b2da740e42f",
+      "slide_index": 50
+    },
+    {
+      "src": "../../assets/slides/v133/0051.jpg",
+      "path": "assets/slides/v133/0051.jpg",
+      "sha256": "aa3249b8050fcefad773f50f84b07dd8d432784e319752f43be0214951ef31d5",
+      "slide_index": 51
+    },
+    {
+      "src": "../../assets/slides/v133/0052.jpg",
+      "path": "assets/slides/v133/0052.jpg",
+      "sha256": "0b13330401ca43c98fb0031f948e2fa3c678b792c8c0787c883c30a85cab31d7",
+      "slide_index": 52
+    },
+    {
+      "src": "../../assets/slides/v133/0053.jpg",
+      "path": "assets/slides/v133/0053.jpg",
+      "sha256": "d4738ec9dd69cebbd1233500d42f0134fcc64a52a23dd0cb74f952190ef53a9d",
+      "slide_index": 53
+    },
+    {
+      "src": "../../assets/slides/v133/0054.jpg",
+      "path": "assets/slides/v133/0054.jpg",
+      "sha256": "07c7b4247245b3dc08b10dca2077caa530567e963be2d234deb2cae767c53c54",
+      "slide_index": 54
+    },
+    {
+      "src": "../../assets/slides/v133/0055.jpg",
+      "path": "assets/slides/v133/0055.jpg",
+      "sha256": "841fa0b557af76a48f09de83c2824324affb70a1636d4f05bcf383861d762e84",
+      "slide_index": 55
+    },
+    {
+      "src": "../../assets/slides/v133/0056.jpg",
+      "path": "assets/slides/v133/0056.jpg",
+      "sha256": "0d00874e6cae9d42a20dc6a04a95f5c99916be8979834397a5f3af4b4f7d32fe",
+      "slide_index": 56
+    },
+    {
+      "src": "../../assets/slides/v133/0057.jpg",
+      "path": "assets/slides/v133/0057.jpg",
+      "sha256": "e67782932cf79cc0bb75a332a3f7a7d225fbc028f177073ab8853edc3692655e",
+      "slide_index": 57
+    },
+    {
+      "src": "../../assets/slides/v133/0058.jpg",
+      "path": "assets/slides/v133/0058.jpg",
+      "sha256": "1ae0333e6bbf05b5b68356176fff87dc70f620342ae1b98c5c477786c8b3cacc",
+      "slide_index": 58
+    },
+    {
+      "src": "../../assets/slides/v133/0059.jpg",
+      "path": "assets/slides/v133/0059.jpg",
+      "sha256": "8d060b5ec50f41ddce8d5b1b1b5506884af08951c0900dc858d466082bff537c",
+      "slide_index": 59
+    },
+    {
+      "src": "../../assets/slides/v133/0060.jpg",
+      "path": "assets/slides/v133/0060.jpg",
+      "sha256": "87bc597bfdaf67b859d38768403d83581d6ca8b07f413708e893ecf81eb4963b",
+      "slide_index": 60
+    },
+    {
+      "src": "../../assets/slides/v133/0061.jpg",
+      "path": "assets/slides/v133/0061.jpg",
+      "sha256": "d0928ca0f48b2bfce7e392a05dba9edb50fbf589cf7ac47cea7d0f60186cdb55",
+      "slide_index": 61
+    },
+    {
+      "src": "../../assets/slides/v133/0062.jpg",
+      "path": "assets/slides/v133/0062.jpg",
+      "sha256": "509ce9360a9744e693906f94e040af2f0d086cbebfb955e872a833ee6aabc998",
+      "slide_index": 62
+    },
+    {
+      "src": "../../assets/slides/v133/0063.jpg",
+      "path": "assets/slides/v133/0063.jpg",
+      "sha256": "b33d7c5a01f46b99f4227080eec78c49b515ee983a46002d49cdb390bc781e12",
+      "slide_index": 63
+    },
+    {
+      "src": "../../assets/slides/v133/0064.jpg",
+      "path": "assets/slides/v133/0064.jpg",
+      "sha256": "814ea43d28bb35ae31fc77d51f94d903b29a8f0398041eb6f2f20b7e6f49bc44",
+      "slide_index": 64
+    },
+    {
+      "src": "../../assets/slides/v133/0065.jpg",
+      "path": "assets/slides/v133/0065.jpg",
+      "sha256": "46e485a22986add777d2c57bf4d3f1fae23db909f60f6219bd0d978188868b37",
+      "slide_index": 65
+    },
+    {
+      "src": "../../assets/slides/v133/0066.jpg",
+      "path": "assets/slides/v133/0066.jpg",
+      "sha256": "9276239aca38ccf4de316bcb9c0f0ee3815decdc0e49b4676798a24ac47074fb",
+      "slide_index": 66
+    },
+    {
+      "src": "../../assets/slides/v133/0067.jpg",
+      "path": "assets/slides/v133/0067.jpg",
+      "sha256": "e7212c42fc99c19215d302dbc0cc8c28d1493894dcec82000eb6e73953c91de2",
+      "slide_index": 67
+    },
+    {
+      "src": "../../assets/slides/v133/0068.jpg",
+      "path": "assets/slides/v133/0068.jpg",
+      "sha256": "e423e92e475b989fd74731ce4382d3f34ff56352226344bb8dbe1a3390dd28a2",
+      "slide_index": 68
+    },
+    {
+      "src": "../../assets/slides/v133/0069.jpg",
+      "path": "assets/slides/v133/0069.jpg",
+      "sha256": "a93d60aa2b6288cb71053865714c10410a1a1101d3abc5207391cd30542f0ff4",
+      "slide_index": 69
+    },
+    {
+      "src": "../../assets/slides/v133/0070.jpg",
+      "path": "assets/slides/v133/0070.jpg",
+      "sha256": "c433f49bc02e76b00e64c8b50e1408a45fdb38450a1e796af5d52297bd1548ca",
+      "slide_index": 70
+    },
+    {
+      "src": "../../assets/slides/v133/0071.jpg",
+      "path": "assets/slides/v133/0071.jpg",
+      "sha256": "94f8425ae3b50f243ff84b8d288074ccd64f4763d0815094f77b69d90b8c76cf",
+      "slide_index": 71
+    },
+    {
+      "src": "../../assets/slides/v133/0072.jpg",
+      "path": "assets/slides/v133/0072.jpg",
+      "sha256": "1fcfb6c44c8b9f47c2f7d51b07c8a9be7760da0d2dc3a9d4c5f2da2544ade9a7",
+      "slide_index": 72
+    },
+    {
+      "src": "../../assets/slides/v133/0073.jpg",
+      "path": "assets/slides/v133/0073.jpg",
+      "sha256": "700d7259716454f492776ac7b791e1a880de3917da020bde9ec02b96be21cbf3",
+      "slide_index": 73
+    },
+    {
+      "src": "../../assets/slides/v133/0074.jpg",
+      "path": "assets/slides/v133/0074.jpg",
+      "sha256": "bce944a0437b79133ffb3a373ea320ef66343d8959d90b507fb09e7b6a4f1413",
+      "slide_index": 74
+    },
+    {
+      "src": "../../assets/slides/v133/0075.jpg",
+      "path": "assets/slides/v133/0075.jpg",
+      "sha256": "171302430e7d3bf2c2e99fd26608f93c192b9b5df556485f6a19fba17a09ac34",
+      "slide_index": 75
+    },
+    {
+      "src": "../../assets/slides/v133/0076.jpg",
+      "path": "assets/slides/v133/0076.jpg",
+      "sha256": "4613710e473a57a1dd657de9b7f543458a6b782c013a65a5852fa26aa9491587",
+      "slide_index": 76
+    },
+    {
+      "src": "../../assets/slides/v133/0077.jpg",
+      "path": "assets/slides/v133/0077.jpg",
+      "sha256": "d61d72b5a4742106507747b52ef72a628084fee75cef4dc56562333470c8bc82",
+      "slide_index": 77
+    },
+    {
+      "src": "../../assets/slides/v133/0078.jpg",
+      "path": "assets/slides/v133/0078.jpg",
+      "sha256": "d22dbfd4f0dbd92acd4babe1bb649e130aab1e627dfc313f74213ceacdd3fe00",
+      "slide_index": 78
+    },
+    {
+      "src": "../../assets/slides/v133/0079.jpg",
+      "path": "assets/slides/v133/0079.jpg",
+      "sha256": "4159fdb80779118ed522b62b50d2bbcaee306bf986c7c40daa3b0969bf5e7e74",
+      "slide_index": 79
+    },
+    {
+      "src": "../../assets/slides/v133/0080.jpg",
+      "path": "assets/slides/v133/0080.jpg",
+      "sha256": "9e928d19a7eb92c568683518fe24ca7e13841b614b77cea1e40c73edc4eb0c2a",
+      "slide_index": 80
+    },
+    {
+      "src": "../../assets/slides/v133/0081.jpg",
+      "path": "assets/slides/v133/0081.jpg",
+      "sha256": "23986103a6a93c05a31e8cab5ea028f18dfc3dbb18dbdbcb8ccd984ce75a132f",
+      "slide_index": 81
+    },
+    {
+      "src": "../../assets/slides/v133/0082.jpg",
+      "path": "assets/slides/v133/0082.jpg",
+      "sha256": "eaa61e0ac842286e37eab4aecb5092d1650e2d97d6b22b274f9aa9ac2305c940",
+      "slide_index": 82
+    },
+    {
+      "src": "../../assets/slides/v133/0083.jpg",
+      "path": "assets/slides/v133/0083.jpg",
+      "sha256": "c35d4549a04ca2f8c9cce01f44bc32123e3689790a9a6900fc804c9354999a14",
+      "slide_index": 83
+    },
+    {
+      "src": "../../assets/slides/v133/0084.jpg",
+      "path": "assets/slides/v133/0084.jpg",
+      "sha256": "b7fce97f8854aaf17082a4913800ff5020b38989adb4ffc522cc886daafc43ea",
+      "slide_index": 84
+    },
+    {
+      "src": "../../assets/slides/v133/0085.jpg",
+      "path": "assets/slides/v133/0085.jpg",
+      "sha256": "7262fd23e4f1dcf21108120d875ac67527ed6ac1f1a8b6d6f5536ea03d9024eb",
+      "slide_index": 85
+    },
+    {
+      "src": "../../assets/slides/v133/0086.jpg",
+      "path": "assets/slides/v133/0086.jpg",
+      "sha256": "a49e0831b6a893706d1fdb4b630d0370fc85361afc50d804bf05654e270c3184",
+      "slide_index": 86
+    },
+    {
+      "src": "../../assets/slides/v133/0087.jpg",
+      "path": "assets/slides/v133/0087.jpg",
+      "sha256": "76a5480f9b1e7fbe9faf90a244e5475259e83a644cf1df1120d5793a04f80b4f",
+      "slide_index": 87
+    },
+    {
+      "src": "../../assets/slides/v133/0088.jpg",
+      "path": "assets/slides/v133/0088.jpg",
+      "sha256": "c0d74206b78b40433b47e7481ece861efbe91f07639a949ffa5bf0243efcd13f",
+      "slide_index": 88
+    },
+    {
+      "src": "../../assets/slides/v133/0089.jpg",
+      "path": "assets/slides/v133/0089.jpg",
+      "sha256": "ffae8f1e424d2c9104d903221cf39eec3e7451680b4310a7a1f3647f51751d62",
+      "slide_index": 89
+    },
+    {
+      "src": "../../assets/slides/v133/0090.jpg",
+      "path": "assets/slides/v133/0090.jpg",
+      "sha256": "1bf78034c80388c3629900a427d73d6dd5b181d67a2ee861a973873fbae7b8d8",
+      "slide_index": 90
+    },
+    {
+      "src": "../../assets/slides/v133/0091.jpg",
+      "path": "assets/slides/v133/0091.jpg",
+      "sha256": "3a781d3396de9976d17b136fef8851f44484eb6f46326c32783b75bd67c7ee23",
+      "slide_index": 91
+    },
+    {
+      "src": "../../assets/slides/v133/0092.jpg",
+      "path": "assets/slides/v133/0092.jpg",
+      "sha256": "ace717796158c88b2974af3fd631b777d79f7d8c3fd8c57ac48185993cf9c2b4",
+      "slide_index": 92
+    },
+    {
+      "src": "../../assets/slides/v133/0093.jpg",
+      "path": "assets/slides/v133/0093.jpg",
+      "sha256": "e23753d12a0226762354a8ee3a92844373b6c86af6074ae57d2a10a1b8164fc6",
+      "slide_index": 93
+    },
+    {
+      "src": "../../assets/slides/v133/0094.jpg",
+      "path": "assets/slides/v133/0094.jpg",
+      "sha256": "1a5e283c1c63314198ff1fd956c61ed5ed1db39c275188c4d0e005a80947243c",
+      "slide_index": 94
+    },
+    {
+      "src": "../../assets/slides/v133/0095.jpg",
+      "path": "assets/slides/v133/0095.jpg",
+      "sha256": "5687bb94aba499eaa9a774131d09dd5ad3d2ff8ed2c9959ce4945d9b01e5126c",
+      "slide_index": 95
+    },
+    {
+      "src": "../../assets/slides/v133/0096.jpg",
+      "path": "assets/slides/v133/0096.jpg",
+      "sha256": "82191bc4134a7f2a3fb68dc5ed1f73ce6af4891c882078fb0e12e498e9e6d3a4",
+      "slide_index": 96
+    },
+    {
+      "src": "../../assets/slides/v133/0097.jpg",
+      "path": "assets/slides/v133/0097.jpg",
+      "sha256": "ecdfd85f8417b3232424b4300fc825358755122927a489a4e930d2e260b34fd9",
+      "slide_index": 97
+    },
+    {
+      "src": "../../assets/slides/v133/0098.jpg",
+      "path": "assets/slides/v133/0098.jpg",
+      "sha256": "e133ca44594564a9b3af99ec7adcdca40027f1ab573658eee59945ef54058ec3",
+      "slide_index": 98
+    },
+    {
+      "src": "../../assets/slides/v133/0099.jpg",
+      "path": "assets/slides/v133/0099.jpg",
+      "sha256": "482552e3d2ac9140417089a8cc41659b184dabade376c517f5f0b93922f1c023",
+      "slide_index": 99
+    },
+    {
+      "src": "../../assets/slides/v133/0100.jpg",
+      "path": "assets/slides/v133/0100.jpg",
+      "sha256": "7d27e51e37be0e08774887df70b97d8fa701e84f7e4e60ac7c3a08e753fe137d",
+      "slide_index": 100
+    },
+    {
+      "src": "../../assets/slides/v133/0101.jpg",
+      "path": "assets/slides/v133/0101.jpg",
+      "sha256": "a862f65daa9099faad915733ecd8a6588a4199031dfaf16d8374ca1e3bc68a52",
+      "slide_index": 101
+    },
+    {
+      "src": "../../assets/slides/v133/0102.jpg",
+      "path": "assets/slides/v133/0102.jpg",
+      "sha256": "26753fd40b1aa48996ffc8dd4221ebb66b9a4b1c059d93880a8af410dfe13f3d",
+      "slide_index": 102
+    },
+    {
+      "src": "../../assets/slides/v133/0103.jpg",
+      "path": "assets/slides/v133/0103.jpg",
+      "sha256": "48513d87f225cd2c5b70a15cd3bce18f8a328d430737c174ad42d201ad07d1ba",
+      "slide_index": 103
+    },
+    {
+      "src": "../../assets/slides/v133/0104.jpg",
+      "path": "assets/slides/v133/0104.jpg",
+      "sha256": "8dcd97f18eae5ba7a67b74784bbdd5c6ad088402fbf56f9dcad0e2db2dd69327",
+      "slide_index": 104
+    },
+    {
+      "src": "../../assets/slides/v133/0105.jpg",
+      "path": "assets/slides/v133/0105.jpg",
+      "sha256": "a2b60397559c5abc7519e89d15c5cf807d287acdbbcc71bbbf61f060ac58adf5",
+      "slide_index": 105
+    },
+    {
+      "src": "../../assets/slides/v133/0106.jpg",
+      "path": "assets/slides/v133/0106.jpg",
+      "sha256": "385055aa8a33bf952fde7536a94200f6d0b92aa85eec491c084d3a94c147638c",
+      "slide_index": 106
+    },
+    {
+      "src": "../../assets/slides/v133/0107.jpg",
+      "path": "assets/slides/v133/0107.jpg",
+      "sha256": "f9a583c23acfe0fc7b97633f7a75d3014f586d2ef8d9581144698803cc5da33c",
+      "slide_index": 107
+    },
+    {
+      "src": "../../assets/slides/v133/0108.jpg",
+      "path": "assets/slides/v133/0108.jpg",
+      "sha256": "2fbe0fcf2004e5a5f1e5d9a4973105a011a53468a9c270b4acce287e919df72d",
+      "slide_index": 108
+    },
+    {
+      "src": "../../assets/slides/v133/0109.jpg",
+      "path": "assets/slides/v133/0109.jpg",
+      "sha256": "6eaca8de37a0fdd9c03e65ae1d46ad4901a492cb7528b3e86aeda7d85d2f27ff",
+      "slide_index": 109
+    },
+    {
+      "src": "../../assets/slides/v133/0110.jpg",
+      "path": "assets/slides/v133/0110.jpg",
+      "sha256": "97a92c1e86a161823602228b45a0e5cb91d021dd819e5732eee46a8e7761e871",
+      "slide_index": 110
+    },
+    {
+      "src": "../../assets/slides/v133/0111.jpg",
+      "path": "assets/slides/v133/0111.jpg",
+      "sha256": "57c0288d564d9c90ca117d0abbeada0420f071422aaa732c586a12f44bae7bb5",
+      "slide_index": 111
+    },
+    {
+      "src": "../../assets/slides/v133/0112.jpg",
+      "path": "assets/slides/v133/0112.jpg",
+      "sha256": "341456bf14299c29fa594d0855bba2d9afbbe0685b90d8547aecf3ad23d235ec",
+      "slide_index": 112
+    },
+    {
+      "src": "../../assets/slides/v133/0113.jpg",
+      "path": "assets/slides/v133/0113.jpg",
+      "sha256": "68f1cd73a4109c4a9b6d8e707d701879fe03df0ca5e6e836ba06b137ca87736b",
+      "slide_index": 113
+    },
+    {
+      "src": "../../assets/slides/v133/0114.jpg",
+      "path": "assets/slides/v133/0114.jpg",
+      "sha256": "eea5e22831e586d37cb5211f29f455985abb017be4eddc68f2d31f44443508ad",
+      "slide_index": 114
+    },
+    {
+      "src": "../../assets/slides/v133/0115.jpg",
+      "path": "assets/slides/v133/0115.jpg",
+      "sha256": "77e72417c21775b63063a7bffaeef271291682914de3719b2fa322b70128cf3c",
+      "slide_index": 115
+    },
+    {
+      "src": "../../assets/slides/v133/0116.jpg",
+      "path": "assets/slides/v133/0116.jpg",
+      "sha256": "1b551f41de1f9a5c9ee9a5dc01ffad1703dc730456838c5ecc75c40060f0ca2e",
+      "slide_index": 116
+    },
+    {
+      "src": "../../assets/slides/v133/0117.jpg",
+      "path": "assets/slides/v133/0117.jpg",
+      "sha256": "b33e558b5b1bf3681ce168255257b28e2616f648982e9f1cbf4644dac3bf29b7",
+      "slide_index": 117
+    },
+    {
+      "src": "../../assets/slides/v133/0118.jpg",
+      "path": "assets/slides/v133/0118.jpg",
+      "sha256": "0e5c72bf4a50835f0a67873e111c2b2bdbef85873de73bde960238f15c9e959d",
+      "slide_index": 118
+    },
+    {
+      "src": "../../assets/slides/v133/0119.jpg",
+      "path": "assets/slides/v133/0119.jpg",
+      "sha256": "b7046ee5cb03c426e0fe18003a46135ec545f90cd139532580d6c58e3c0bca97",
+      "slide_index": 119
+    },
+    {
+      "src": "../../assets/slides/v133/0120.jpg",
+      "path": "assets/slides/v133/0120.jpg",
+      "sha256": "1388b1abc6ff67e7004e838119959fedd24e85a694776db3111c198b1cbb11ce",
+      "slide_index": 120
+    },
+    {
+      "src": "../../assets/slides/v133/0121.jpg",
+      "path": "assets/slides/v133/0121.jpg",
+      "sha256": "fe9217fb43199a2dc8dd1ec6699f6e454a2ee48a152c8ec570942c12fc6c0571",
+      "slide_index": 121
+    },
+    {
+      "src": "../../assets/slides/v133/0122.jpg",
+      "path": "assets/slides/v133/0122.jpg",
+      "sha256": "513340e77903fc5756ca5dd9a006ae923494e8047f4457b6aea761c6f4e7457d",
+      "slide_index": 122
+    },
+    {
+      "src": "../../assets/slides/v133/0123.jpg",
+      "path": "assets/slides/v133/0123.jpg",
+      "sha256": "2b929a9a721a51c8c3932d4f9414455bb3832b6f57628eda35e6eb59cc4785da",
+      "slide_index": 123
+    },
+    {
+      "src": "../../assets/slides/v133/0124.jpg",
+      "path": "assets/slides/v133/0124.jpg",
+      "sha256": "2d7c483ccdaf275af4f0b96144b00d70988e11af589f395db740fd5dfc3592d3",
+      "slide_index": 124
+    },
+    {
+      "src": "../../assets/slides/v133/0125.jpg",
+      "path": "assets/slides/v133/0125.jpg",
+      "sha256": "fa1514cd33453906d4a79a5e11d6fa76876c59aa9462c107b449fa4f0531ccb9",
+      "slide_index": 125
+    },
+    {
+      "src": "../../assets/slides/v133/0126.jpg",
+      "path": "assets/slides/v133/0126.jpg",
+      "sha256": "bf83c81f0552fc09bbb249bd41f2d2b8148b395a8cbcd5aa79eab2b6703a347e",
+      "slide_index": 126
+    },
+    {
+      "src": "../../assets/slides/v133/0127.jpg",
+      "path": "assets/slides/v133/0127.jpg",
+      "sha256": "76f84156f1063f5eeb6c314b16f47d5ff1a9783fdb8eef2051e024676de18161",
+      "slide_index": 127
+    },
+    {
+      "src": "../../assets/slides/v133/0128.jpg",
+      "path": "assets/slides/v133/0128.jpg",
+      "sha256": "ad05983ea1dc1e5c5355b47469203f0c22d9b1d8765c551159f1b010a221ec99",
+      "slide_index": 128
+    },
+    {
+      "src": "../../assets/slides/v133/0129.jpg",
+      "path": "assets/slides/v133/0129.jpg",
+      "sha256": "70356625feb7c43c3a74fe2d69b26bc33d5a5bbe304576c1e6e9b52fe75b4470",
+      "slide_index": 129
+    },
+    {
+      "src": "../../assets/slides/v133/0130.jpg",
+      "path": "assets/slides/v133/0130.jpg",
+      "sha256": "c3f3f287071a719cc643c85c4f1bcb243543f2988dd7eb1abec82fa9507f1f65",
+      "slide_index": 130
+    },
+    {
+      "src": "../../assets/slides/v133/0131.jpg",
+      "path": "assets/slides/v133/0131.jpg",
+      "sha256": "e182356fc1d36f2370ac03408999dc0cdee8761ec65d6dcd2ae443ba05a96200",
+      "slide_index": 131
+    },
+    {
+      "src": "../../assets/slides/v133/0132.jpg",
+      "path": "assets/slides/v133/0132.jpg",
+      "sha256": "18c8d4943db3fff2a17a72fce4f2d38c8f189ded30560d0fd1b9cb3536474fe6",
+      "slide_index": 132
+    },
+    {
+      "src": "../../assets/slides/v133/0133.jpg",
+      "path": "assets/slides/v133/0133.jpg",
+      "sha256": "1075ece3fdcd2b76914c2f3d63e067dfa5b2dbb3dc267645704bcb8820eff256",
+      "slide_index": 133
+    },
+    {
+      "src": "../../assets/slides/v133/0134.jpg",
+      "path": "assets/slides/v133/0134.jpg",
+      "sha256": "4477b1dd5c4a57aa6c51f1bbde5be7868db9bf9662c883e8ffc7dc9034369563",
+      "slide_index": 134
+    },
+    {
+      "src": "../../assets/slides/v133/0135.jpg",
+      "path": "assets/slides/v133/0135.jpg",
+      "sha256": "eb6391d4a6933de3d636a501b8f0fa637adfd72ac955671dbc798a28bbd1b08e",
+      "slide_index": 135
+    },
+    {
+      "src": "../../assets/slides/v133/0136.jpg",
+      "path": "assets/slides/v133/0136.jpg",
+      "sha256": "f12a56498a58e4e3f50320fc94610d1655f6d7ea38a28624dd15f424f069012f",
+      "slide_index": 136
+    },
+    {
+      "src": "../../assets/slides/v133/0137.jpg",
+      "path": "assets/slides/v133/0137.jpg",
+      "sha256": "214cd7182d4d8d5732164b15e24ef59f002afb8fd6a90ed1aafa09f961a28224",
+      "slide_index": 137
+    },
+    {
+      "src": "../../assets/slides/v133/0138.jpg",
+      "path": "assets/slides/v133/0138.jpg",
+      "sha256": "46c4f3451f97d0189ee4817513f626fd260320cdedaf1cc2f4b0e1d06a12145b",
+      "slide_index": 138
+    },
+    {
+      "src": "../../assets/slides/v133/0139.jpg",
+      "path": "assets/slides/v133/0139.jpg",
+      "sha256": "fc467eeeaf4c7aac62cf009747a03e574f3132e7c3c2b11a7ba84b9e6851d14e",
+      "slide_index": 139
+    },
+    {
+      "src": "../../assets/slides/v133/0140.jpg",
+      "path": "assets/slides/v133/0140.jpg",
+      "sha256": "97c87381218abf2aba03c081977415caa940de82fdc849e69621208636cbb8e1",
+      "slide_index": 140
+    },
+    {
+      "src": "../../assets/slides/v133/0141.jpg",
+      "path": "assets/slides/v133/0141.jpg",
+      "sha256": "ac5d610cfad881ec57f6ff8519e3f7ec568c736c7530b1e623bd4ea89e77d68d",
+      "slide_index": 141
+    },
+    {
+      "src": "../../assets/slides/v133/0142.jpg",
+      "path": "assets/slides/v133/0142.jpg",
+      "sha256": "7a7f6fdc8dc8bc1e78b5b6eb4252775ee43ddbec28ba2fe59939f19fd56cb023",
+      "slide_index": 142
+    },
+    {
+      "src": "../../assets/slides/v133/0143.jpg",
+      "path": "assets/slides/v133/0143.jpg",
+      "sha256": "761ae7e1d418428bdb25ec7d21676d7371211eb4ed6fb26d74f96a412e5cc4f7",
+      "slide_index": 143
+    },
+    {
+      "src": "../../assets/slides/v133/0144.jpg",
+      "path": "assets/slides/v133/0144.jpg",
+      "sha256": "7cc4caa0195ce14eed6253fbf1e2902a34429f1caa5edcdc4e410e9e8d8a6be4",
+      "slide_index": 144
+    },
+    {
+      "src": "../../assets/slides/v133/0145.jpg",
+      "path": "assets/slides/v133/0145.jpg",
+      "sha256": "76a4ac3265616c3e24e05d7a525215fe1c83d23c241f8a2f45dd9bcdf976b50f",
+      "slide_index": 145
+    },
+    {
+      "src": "../../assets/slides/v133/0146.jpg",
+      "path": "assets/slides/v133/0146.jpg",
+      "sha256": "b4f11284073328c1da560c7678db784e9a7d872ce01625584c9b22708c06f16f",
+      "slide_index": 146
+    },
+    {
+      "src": "../../assets/slides/v133/0147.jpg",
+      "path": "assets/slides/v133/0147.jpg",
+      "sha256": "e73c6ea3aae9bfc0997ff3df1e9e9bf8211fd11a70ed1938743afd9ff22ccb6c",
+      "slide_index": 147
+    },
+    {
+      "src": "../../assets/slides/v133/0148.jpg",
+      "path": "assets/slides/v133/0148.jpg",
+      "sha256": "d0588356215e5bc85a8a53dba9ea72206cb678944f9b93031d26cb5cd3c2a776",
+      "slide_index": 148
+    },
+    {
+      "src": "../../assets/slides/v133/0149.jpg",
+      "path": "assets/slides/v133/0149.jpg",
+      "sha256": "5814ac5aece67e9292a3e19ae507d37a98dc68d2cd605a117cba9ebc7edc76ca",
+      "slide_index": 149
+    },
+    {
+      "src": "../../assets/slides/v133/0150.jpg",
+      "path": "assets/slides/v133/0150.jpg",
+      "sha256": "ced3ee4cc8659deb062ce36aa1b17b6f006d64a595378791f239621950278e48",
+      "slide_index": 150
+    },
+    {
+      "src": "../../assets/slides/v133/0151.jpg",
+      "path": "assets/slides/v133/0151.jpg",
+      "sha256": "5037b408b56e531ccbc1bfa510bcf2e51f1deb388ee6ac4bc27d29c8cbcab224",
+      "slide_index": 151
+    },
+    {
+      "src": "../../assets/slides/v133/0152.jpg",
+      "path": "assets/slides/v133/0152.jpg",
+      "sha256": "46e52db22454acb3db3fcd32940577a40b10e2dcff0b1e660c17fdc057c6f687",
+      "slide_index": 152
+    },
+    {
+      "src": "../../assets/slides/v133/0153.jpg",
+      "path": "assets/slides/v133/0153.jpg",
+      "sha256": "154bdf568a879c7b7921af22cd116fa71fda8a0f09c76ac6d54d370e05989626",
+      "slide_index": 153
+    },
+    {
+      "src": "../../assets/slides/v133/0154.jpg",
+      "path": "assets/slides/v133/0154.jpg",
+      "sha256": "b6bdc2a3676f82daff8e1e4cc29e6cfcc9b8dcc3f1af55a383e2ddfe3dc526d4",
+      "slide_index": 154
+    },
+    {
+      "src": "../../assets/slides/v133/0155.jpg",
+      "path": "assets/slides/v133/0155.jpg",
+      "sha256": "3a4b360eef60b7539c289d518cd432768dce1c225b6ff91a732d40fb0a2f4f57",
+      "slide_index": 155
+    },
+    {
+      "src": "../../assets/slides/v133/0156.jpg",
+      "path": "assets/slides/v133/0156.jpg",
+      "sha256": "c7587d3beed10487134929ca3ceb276df3d8bf2af863125cab08188541f3a508",
+      "slide_index": 156
+    },
+    {
+      "src": "../../assets/slides/v133/0157.jpg",
+      "path": "assets/slides/v133/0157.jpg",
+      "sha256": "d534476db11aeeda9d4af9cf2668eb9d0bbdd27d044983670c0b999c7a47c72e",
+      "slide_index": 157
+    },
+    {
+      "src": "../../assets/slides/v133/0158.jpg",
+      "path": "assets/slides/v133/0158.jpg",
+      "sha256": "ceef3faf8f7a545356b1b081f46c097349df3974a2e73eb7894b758aa7d1f6db",
+      "slide_index": 158
+    },
+    {
+      "src": "../../assets/slides/v133/0159.jpg",
+      "path": "assets/slides/v133/0159.jpg",
+      "sha256": "6eda464fbc49416248255697640373d1a1469b831d9edaaceba9873c51288c2b",
+      "slide_index": 159
+    },
+    {
+      "src": "../../assets/slides/v133/0160.jpg",
+      "path": "assets/slides/v133/0160.jpg",
+      "sha256": "78f7e04eaa91ec4c92827a59ebcbc765e44b263f04e62f3ed0c759e8e0a88555",
+      "slide_index": 160
+    },
+    {
+      "src": "../../assets/slides/v133/0161.jpg",
+      "path": "assets/slides/v133/0161.jpg",
+      "sha256": "0589d11db5dd49047f363238ea17c6bd30586e0e97abaabd383df140413df7ed",
+      "slide_index": 161
+    },
+    {
+      "src": "../../assets/slides/v133/0162.jpg",
+      "path": "assets/slides/v133/0162.jpg",
+      "sha256": "52ba587c99d69961f9b15cdadc9ca6ea7206877c3309d42e5a881ff3cf401e73",
+      "slide_index": 162
+    },
+    {
+      "src": "../../assets/slides/v133/0163.jpg",
+      "path": "assets/slides/v133/0163.jpg",
+      "sha256": "b37719f75f366e95178eebce960ea3099abb469adc83708342cd1f1e651842b1",
+      "slide_index": 163
+    },
+    {
+      "src": "../../assets/slides/v133/0164.jpg",
+      "path": "assets/slides/v133/0164.jpg",
+      "sha256": "81007480e71ef46ecd38ad3ee89cf0a9f01bc515d6d08246c8e9c3a537e6a10d",
+      "slide_index": 164
+    },
+    {
+      "src": "../../assets/slides/v133/0165.jpg",
+      "path": "assets/slides/v133/0165.jpg",
+      "sha256": "252057abae9619c0bde237ee0f6961289f47f849a512faa61e935a86c4dee2e4",
+      "slide_index": 165
+    },
+    {
+      "src": "../../assets/slides/v133/0166.jpg",
+      "path": "assets/slides/v133/0166.jpg",
+      "sha256": "9bc33055202251d871b4d1f481af1dbb0198aaf2a4c23b83fe6832f5fe2595b1",
+      "slide_index": 166
+    },
+    {
+      "src": "../../assets/slides/v133/0167.jpg",
+      "path": "assets/slides/v133/0167.jpg",
+      "sha256": "280abf653c1415683df825f5c08c49ba5405a7da5d0c13960eeded743d71685d",
+      "slide_index": 167
+    },
+    {
+      "src": "../../assets/slides/v133/0168.jpg",
+      "path": "assets/slides/v133/0168.jpg",
+      "sha256": "d89d8dac6b7fcece9cded93ad77fe363f560485ed799ea0ff2f4cc303a01efb5",
+      "slide_index": 168
+    },
+    {
+      "src": "../../assets/slides/v133/0169.jpg",
+      "path": "assets/slides/v133/0169.jpg",
+      "sha256": "a30a0f0b8c755c3e03e41c004e73a4b0fe1c6de67af84945ca598936f5a031e2",
+      "slide_index": 169
+    },
+    {
+      "src": "../../assets/slides/v133/0170.jpg",
+      "path": "assets/slides/v133/0170.jpg",
+      "sha256": "8ec7c8bca22a059abefc4a75c1ab5d9cabde0980e9a609d1ad0c9b6ccf6b5e45",
+      "slide_index": 170
+    },
+    {
+      "src": "../../assets/slides/v133/0171.jpg",
+      "path": "assets/slides/v133/0171.jpg",
+      "sha256": "913c8d47cd105dd0080e5c1a3fe6fe8091ee10c905e02932724719f4d4a26414",
+      "slide_index": 171
+    },
+    {
+      "src": "../../assets/slides/v133/0172.jpg",
+      "path": "assets/slides/v133/0172.jpg",
+      "sha256": "eb318e293033d11b6f1c0dfdd7c9c17cf2ba650eece72006bd9b02f4def9ad5a",
+      "slide_index": 172
+    },
+    {
+      "src": "../../assets/slides/v133/0173.jpg",
+      "path": "assets/slides/v133/0173.jpg",
+      "sha256": "93205e5a716485accea51b1cf1b7326418d0922f3d7250071754875dc758bf66",
+      "slide_index": 173
+    },
+    {
+      "src": "../../assets/slides/v133/0174.jpg",
+      "path": "assets/slides/v133/0174.jpg",
+      "sha256": "65ae743defa038ec6164490ec94aad317c56ac6c99aa04f51dc8977bad28620a",
+      "slide_index": 174
+    },
+    {
+      "src": "../../assets/slides/v133/0175.jpg",
+      "path": "assets/slides/v133/0175.jpg",
+      "sha256": "42f6ec1fc33da915915823f74cc625cc0a723d0c9af43b0297802a43b64a3e66",
+      "slide_index": 175
+    },
+    {
+      "src": "../../assets/slides/v133/0176.jpg",
+      "path": "assets/slides/v133/0176.jpg",
+      "sha256": "d2d2b52dcf6b98c160453ee3c85e104bda3c1c99cce4d24143059757b22771d0",
+      "slide_index": 176
+    },
+    {
+      "src": "../../assets/slides/v133/0177.jpg",
+      "path": "assets/slides/v133/0177.jpg",
+      "sha256": "56324746e6bc9267b1ce71964368aeefc15e1c4420f795f98ce769ddcace2511",
+      "slide_index": 177
+    },
+    {
+      "src": "../../assets/slides/v133/0178.jpg",
+      "path": "assets/slides/v133/0178.jpg",
+      "sha256": "da97231bc5f3b130c1ff1ba057d4202281a9d21244a0ce91b4a284f7193e30d3",
+      "slide_index": 178
+    },
+    {
+      "src": "../../assets/slides/v133/0179.jpg",
+      "path": "assets/slides/v133/0179.jpg",
+      "sha256": "957e6aec9cf49d0269b7a7318b1f420c08210b396bbeb126a20c89dbeafb316c",
+      "slide_index": 179
+    },
+    {
+      "src": "../../assets/slides/v133/0180.jpg",
+      "path": "assets/slides/v133/0180.jpg",
+      "sha256": "0df1be568e519798c0d29ea24ec55eb8eb9c932d9ae85cbf580012a9d9a3c323",
+      "slide_index": 180
+    },
+    {
+      "src": "../../assets/slides/v133/0181.jpg",
+      "path": "assets/slides/v133/0181.jpg",
+      "sha256": "62bda9a745d581c56478a7ac0d950fc62c9d6d6029b3fab0d23ea61a4adcf2ee",
+      "slide_index": 181
+    },
+    {
+      "src": "../../assets/slides/v133/0182.jpg",
+      "path": "assets/slides/v133/0182.jpg",
+      "sha256": "7ce4291b71ece05433a13c59978241c27e6aa67a81ff508f121ef7228c17161b",
+      "slide_index": 182
+    },
+    {
+      "src": "../../assets/slides/v133/0183.jpg",
+      "path": "assets/slides/v133/0183.jpg",
+      "sha256": "ef992b7890b5dacbf9dc2699fea52708911413b460491442b8c5df00c8247537",
+      "slide_index": 183
+    },
+    {
+      "src": "../../assets/slides/v133/0184.jpg",
+      "path": "assets/slides/v133/0184.jpg",
+      "sha256": "e6aacf10ac97540aa146c601a47a04cccd5302fbcbde6ec0919434a19882b3c1",
+      "slide_index": 184
+    },
+    {
+      "src": "../../assets/slides/v133/0185.jpg",
+      "path": "assets/slides/v133/0185.jpg",
+      "sha256": "af0f5ca3a21ed52f98de97f2c1452e8e69d332f6c34a95909043d2a0b4c99284",
+      "slide_index": 185
+    },
+    {
+      "src": "../../assets/slides/v133/0186.jpg",
+      "path": "assets/slides/v133/0186.jpg",
+      "sha256": "0f366f8775fd4ccd9df02dfbae28a63c7ad1e80014182a2be8f2b8285f067760",
+      "slide_index": 186
+    },
+    {
+      "src": "../../assets/slides/v133/0187.jpg",
+      "path": "assets/slides/v133/0187.jpg",
+      "sha256": "b9bf0f612f06482010ab082bba2c356618cbea494682054288968f9c8b1f3364",
+      "slide_index": 187
+    },
+    {
+      "src": "../../assets/slides/v133/0188.jpg",
+      "path": "assets/slides/v133/0188.jpg",
+      "sha256": "b29e1d63ba71534672d29765fee1dc0c4243a741cbc5933c9e222b88212ca079",
+      "slide_index": 188
+    },
+    {
+      "src": "../../assets/slides/v133/0189.jpg",
+      "path": "assets/slides/v133/0189.jpg",
+      "sha256": "dd740a0ed6328fbb3969c5b9c2b92cb549a7d9d62129dc7d9fad1d90e5d78e9d",
+      "slide_index": 189
+    },
+    {
+      "src": "../../assets/slides/v133/0190.jpg",
+      "path": "assets/slides/v133/0190.jpg",
+      "sha256": "47ccb95a5868d9ec06ccea8e09f46e6a373ba6c167561e9072319eaf6b0ec88d",
+      "slide_index": 190
+    },
+    {
+      "src": "../../assets/slides/v133/0191.jpg",
+      "path": "assets/slides/v133/0191.jpg",
+      "sha256": "99dfd18070baf46f094ef2c85a3770c4453df66e25b4c5db2f10c329514c3be7",
+      "slide_index": 191
+    },
+    {
+      "src": "../../assets/slides/v133/0192.jpg",
+      "path": "assets/slides/v133/0192.jpg",
+      "sha256": "8a6d5ad094c756c94f2c73b5d4f7c3ad7def27dc47e6af409bb89fbe31943c05",
+      "slide_index": 192
+    },
+    {
+      "src": "../../assets/slides/v133/0193.jpg",
+      "path": "assets/slides/v133/0193.jpg",
+      "sha256": "8f32105be12598f66579aaae00bf4f69f01a434494d0bb07b1c01cf88896fc1d",
+      "slide_index": 193
+    },
+    {
+      "src": "../../assets/slides/v133/0194.jpg",
+      "path": "assets/slides/v133/0194.jpg",
+      "sha256": "be4ed7f943df0d198cfeb6742628fd8f2c4927a9bc53e7ec724eed9225987476",
+      "slide_index": 194
+    },
+    {
+      "src": "../../assets/slides/v133/0195.jpg",
+      "path": "assets/slides/v133/0195.jpg",
+      "sha256": "0627cde4df145f72d8f18758ff86ba916ce7a854d845539e4faa621f85e50dcd",
+      "slide_index": 195
+    },
+    {
+      "src": "../../assets/slides/v133/0196.jpg",
+      "path": "assets/slides/v133/0196.jpg",
+      "sha256": "e7b806dc4a02e294a8bffeb2f7a478eeebeb58b8b2057bcd2d200eeaa6f46117",
+      "slide_index": 196
+    },
+    {
+      "src": "../../assets/slides/v133/0197.jpg",
+      "path": "assets/slides/v133/0197.jpg",
+      "sha256": "832e900f3b0ccafdedf4a2d32701bd8a1218a888fe9d1e8af07aff849ee771af",
+      "slide_index": 197
+    },
+    {
+      "src": "../../assets/slides/v133/0198.jpg",
+      "path": "assets/slides/v133/0198.jpg",
+      "sha256": "2ab91b3ada1ceb35a06b9789bc8e0777ed4e095316e6e016aa49711169ed64ae",
+      "slide_index": 198
+    },
+    {
+      "src": "../../assets/slides/v133/0199.jpg",
+      "path": "assets/slides/v133/0199.jpg",
+      "sha256": "a2ca027e74454e3ffd3444229b8c0f0017eb529475cf9300ba797964106f6ff8",
+      "slide_index": 199
+    },
+    {
+      "src": "../../assets/slides/v133/0200.jpg",
+      "path": "assets/slides/v133/0200.jpg",
+      "sha256": "f9c6876c0dda6f20d58f6d60138b3289c4d915c28f3a96892c10843cc6ac2398",
+      "slide_index": 200
+    },
+    {
+      "src": "../../assets/slides/v133/0201.jpg",
+      "path": "assets/slides/v133/0201.jpg",
+      "sha256": "889c4b09d7d5d01835eaae61b35368be67849969584c54cebc51175454f38624",
+      "slide_index": 201
+    },
+    {
+      "src": "../../assets/slides/v133/0202.jpg",
+      "path": "assets/slides/v133/0202.jpg",
+      "sha256": "f627828465332059b5fca833479ab8811b26f9ac8e85dfeacc00de3f1d969a63",
+      "slide_index": 202
+    },
+    {
+      "src": "../../assets/slides/v133/0203.jpg",
+      "path": "assets/slides/v133/0203.jpg",
+      "sha256": "29862ffe3eb7ed8fc65c1466705636410472996bfa1194a8c2e15ad3cca5e1f3",
+      "slide_index": 203
+    },
+    {
+      "src": "../../assets/slides/v133/0204.jpg",
+      "path": "assets/slides/v133/0204.jpg",
+      "sha256": "88c7317b30fe0f177e082acdf3453c50dfb22af33343af1942f6ad68beb78491",
+      "slide_index": 204
+    },
+    {
+      "src": "../../assets/slides/v133/0205.jpg",
+      "path": "assets/slides/v133/0205.jpg",
+      "sha256": "d96d5c90cf2e3ba665bafd2907f17b226cbf4a28b9109ec904ecfee2e558ab47",
+      "slide_index": 205
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速介绍一篇论文 LLaRA Supercharging Robot Learning Data for Vision Language Policy。那这篇论文呢，是一个利用已经训练好的 Vision Language Model，把它变成一个 Vision Language Action Model 这样的一个高效率的方法。那么这个视频呢，也是在 2025 年 4 月 17 号重制的一个版本。",
+    "那本文的核心的贡献呢，我们之前说过，就是把一个 Pretrain 好的一个 Vision Language Model 变成一个 Vision Language Action Model。那这个过程中呢，作者说，我可以通过把我的机器人的这个正确的动作对应到这个图像中的某个坐标系的方式。",
+    "然后再引入一些辅助的数据集来帮助我们去训练。",
+    "能够实现高效的在有限的训练数据的情况下。能够高效的把一个 Vision Language Model。迁移到 Vision Language Action Model这样的一个情况",
+    "下面我们就继续来看这篇文章的实现。首先一个快速的回顾。",
+    "就是传统的我们用 Vision Language Model 作为一个 Policy。这个东西它也不少见了，对吧。最早是 RT2 这样的一个东西。",
+    "它的就是你一个 Vision Language Model",
+    "比如说 LLaVA图像进到图像的 Encoder一堆 Token 出来那稳稳进入稳稳的 Encoder。",
+    "一堆 Token 出来",
+    "然后送到一个 Large Language Model 里面。Large Language Model 解码出一些 Action",
+    "这些 Token 被映射到一个特定的一个伏点数的一个值。那这些值最终可以被解码成真正的机器人的操作。",
+    "这是一个 RT2 的一个经典的格式。但是你可以想到这些 Action。对吧伏点数就是硬是把我们的一个伏点数映射到一个特别的 Token 上。",
+    "那这就当然了导致呢",
+    "你需要很多的数据去训练它。你有这样的数据那没问题对吧如果你没有这样的数据。那它的这个性能就不是很好。",
+    "那相比之下本文呢",
+    "就提出了说我把我的这个 Action映射到这个图像的坐标中前面的输入都还是一样的但你可以看到这里它的 action 表示的不再是一个特别的 token 而是全部的都在文本里面用这样的文本去表达这个图像中的一个坐标这是横坐标 0.5 纵坐标 0.617 照这样一个点这是一个 pick and place 这样一个 action space",
+    "那么这样子呢，区别于 RT2 这样的东西，它是在一个文本空间里面直接对应到图像中的这个坐标这样的一个形式。那作者说呢，这样子呢，就可以更好的让利用我们 Pretrain 的 Vision Language Model，毕竟你在你的训练 Vision Language Model 的时候，你肯定有这样的数据，比如说说这个。",
+    "物体在图像中的哪个坐标，这个物体在图像中的哪个坐标，对不对，你肯定有这样的数据，有这样的数据，你现在构造 Action 的格式跟之前是一样的，跟预训练阶段的时候是一样的，你就可以尽最大可能的去利用这方面的鲜艳的知识。",
+    "这是本文的第一个核心的贡献。那么当然，你说因为 Vision Language Model 的局限了，你有时候像对 vima 这个任务，你可以看到它有可能会有很多个 reference image 作为它的输入，作为这个 prompt 的输入对吧？我要给很多张图像给我们的 language model 让它去决定。但是在那个时候呢，",
+    "在这个文章出来的时候呢，还是只有像 LLaVA 这种，就是只能在一个对话里面处理一张图的这种情况。那这种情况怎么办呢？我原来的这个 Observation 主要的 Observation 还是正常的该进 Vision Encoder 进 Vision Encoder。",
+    "我额外的这些 reference image",
+    "就是用来提供作为 prompt 描述的这些东西。作者想到",
+    "用一个结构化的文本。",
+    "给它表达出来那你所有东西都变成文本了。对吧那还是最终的形态。",
+    "也是一个图像一个文本",
+    "他们这样一起作为 language model 的输入",
+    "然后输出同样的也是一样的 action。和图像的坐标系对齐的。这是作者处理更多的图像的。",
+    "这样一个方式那当然也有评论里面说了。这不是什么新鲜的技术。这只是一个额外的天头。来帮我们克服这个 reference model培训时候的一个局限。",
+    "那你看到至于结构化的文本。",
+    "对吧它也是表达着这个物品。在什么样坐标这也是图像坐标的这样一个形式。",
+    "这是在原来的技术上的一个拓展。",
+    "针对多图的这么一个构造。那么当然了",
+    "你未必使用结构化文本。对吧你也可以使用自然语言。去描述这样的额外的图片。对吧一样的道理这是各种的变种",
+    "那到这里最主要的核心的思想。还是把我们想要执行的这个 action。给它对齐到图像的这个坐标系里面。这是最重要的",
+    "那么然后呢作者还说了一些其他的 trick 比如说像 action history 对吧你怎么知道你给他一张图你怎么知道你之前做到什么地步对不对那么你之前做过的所有动作也是作为 action 的形式加入到了你的这个 prompt 里面这也是很直接的设计你上一步输出了啥你就直接加进去就完了那么第二步呢就是这个。",
+    "预测未来的多步你也可以往后多看几步一直把动作输出到任务的结束虽然你执行的时候还是每次只拿第一步就执行就结束了这是。",
+    "做着两个小的设计它后面当然也有实验说这两个小设计能够帮忙改善它的性能这都是后悔那么说完 X 的部分我们第二个要看的就是辅助数据集的部分这也是本文一个很重要的一个贡献就是它介绍了 6 种辅助数据集那么这些辅助数据集它也是一个 VQA 的形式它包括比如说像定位定位某个物体你看它问就是给图然后问。",
+    "某个物体在哪里对吧你就让他回答这个坐标然后呢 detection 就是相当于把这个图里面所有的这个东西都列出来对吧啊这是一点然后 action prediction future prediction 这个就更像传统 robotics 里面常见的任务对吧你拿到当前的图像然后呢你拿到未来图像啊这也是给出文本的形式吧因为你这个 language model 没法 handle 两个图像啊那么你输出什么样的 action 能够导致。",
+    "这两个图像之间的变化对吧还有 future prediction 也是你拿到当前的图像你给它一个 action 然后你问它我执行完 action 之后之后会变成什么样子也是拿文本描述一下对吧通过这样的方法你就让我们的模型对整个的空间的关系对这些数字图像坐标有更好的理解。",
+    "那么后来还有这个空间关系啊这个时间时间关系等等这些都是很直接的设计那么继续来看这个例子对吧你我像我们刚才说的啊给一张图啊问他这个东西在哪里啊这个写出来格式这样子对吧啊底胎是也是一样的就是把图像中所有的东西都列出来。",
+    "对吧？那这样的辅助数据集引入进来，而且这里为什么要说它是一个 self-supervised 呢？因为在这个过程中它没有引入更多的图像或者是 action 这样的一些信息。但是呢，你其实你可以知道它的这些啊怎么产生了对吧？还是用了这个数据集中的 Ground Truth，用了你可以说是 object detector 这样的东西，根据这些东西来构造出了这样的对话的数据集。所以说呢，它跟 LLaVA 之前的那个 LLaVA 在这个图像检测比如 cocoron 这种，",
+    "使用的数据的方法是相似的你不能说它一连外界的信息都没有介入只不过是它化用了 object detection 这样一个信息那么这边还有 action prediction 的例子还有 future prediction 的例子我们之前也说了就是让我们的模型能够去理解我做完这个操作之后对我们环境产生的影响建立一个更深刻的联系就好。",
+    "好了，那么以上就是本文主要的一个技术的贡献。那么下面我们直接来看到结果，一个是模拟器上的结果，LLaVA 1.5 7B 这个模型在这个 VIMA 数据集上，它分了三个小数据集，一个是 800 个 episodes8000 个还有 8 万个，然后还有整个的数据集。我们可以看到这是不同的 level 对吧？我们提出的方法比 RT2 base 的方法效果都要好，横轴这里是指数轴数据集的大小。",
+    "你看特别是在数据级很小的时候，比起 RT2 系列，它的性能是非常好的。但是 RT2 它也不坏，你数量给你的序列数据给够了之后，它还是能够取得一个不错的结果。但是即便如此，你可以看到 train 了 100%的数据还是不如本文技术方法的在 train 了 12%的数据上效果好。",
+    "这是一个很直接的一个例子啊，可以看到这个具体的数据里面二次度这些东西对吧？他整体的而来讲，哪怕用了百分百的数据也是不如这个本文的方法用了 12%的数据这样效果好。那么像这边这个解释一下 VIMA 这个数据集对吧？他就是有这样的任务，你得有一个文本，然后你有这样的参考的图像，然后呢你交给这个来回摸动让他去做这样的一个执行的这个任务啊。这里还有更多的例子我们就，",
+    "再详细的去看，总之你可以知道它的这个操作的空间是一个 SE2，就是 Pick and Place。它并不是那种高频的控制，是一个比较 high level 的一个东西。但是这个问题也是值得做的。那么下面进入到这个 Evolution 的环节，那首先肯定是自然要说这个辅助数据集的作用有多少对吧？那么这个表里面就显示了辅助数据集，你看到 ABCD 这是不同的辅助数据集的配置。一般来说这个。",
+    "辅助数据集给的越多，你的模型的性能会越好。上面是 inbc，下面是 D-inBC 对吧？这两个就是不同的配置，得到了结论大的趋势是差不多的。与此同时，你把辅助数据集哪怕你不给本文 LLaRA，你给 rt2 相关的这样的一个方法，它也是能够提升性能的。",
+    "说明我们的 vision language model 还是需要学习一个，特别是学习这些和 action 控制本身没有关系的这些东西，它们也是有帮助的。这是这一点。",
+    "那么当然你说因为我们辅助数据集给上去了，我的整个训练集大了，是不是因为我更新相同 epoc 的时候我更新模型的步数变多了就导致了我们这个性能变好呢？这里做着说不是的，你哪怕按着原来的数据集你一直训练，你给他加到 8 个 epoc 对吧？你就一直训他的性能也就这样了，他也不会有太好的继续的增长。这是本文的一个观察，就是说没有辅助数据集你也就到这。那么更多的比如说像我们之前说的这些 trick，比如说 action。",
+    "history 然后 multiple stepprediction 就是这种 planning 这里作者都说为什么它们有用。那么然后还有就是 natural language 有 natural language 是描述这些 reference image 而不是像我们之前个 structure language 去描述那性能会差一点，但整体来说差的也不是很大。这是这一点。那么还有研究比如说抓什么东西失败了对吧？这里假如说有 10%的概率抓东西失败了会怎么样对吧？性能掉的也不是很多。",
+    "说明程序是有一定乳房线的，他至少是在看这个图像。",
+    "那么还有我们说为什么我们要费那么大劲用文本去描述图像？假如说我直接把很多个图像一起放到对话里面会怎么样对吧？我有一个对话里面有很多个图像一起弄，我就省略文本这个步骤会怎么样？答案是性能掉的是非常大。为什么就是因为我们的用的 LLaVA 模型很老的一个模型了，它没有在多图的情况下 train 过。所以说这也是从另一个角度，说明了本文会很强的依赖于这个危险的模特的陪吹你啊，这也是一个比较重要的观察。那么后面当然还是说你个 object detector 对吧？你用了 D-inBC，你肯定要用这个 object detector 去把这个 reference image 描述出来啊，什么样的这个 object detector 会是更好的。那么那么最后还有这个 prompt 的影响啊，你加什么样的 prompt 提什么样的问题对这个模型性能的影响对吧？这里也都列出来，基本说每一个 prompt 和这个 random prompt 差别差的不是很大。",
+    "除了 D-inBC 除了这一个 case 就是没有 prompt 的时候反而比加 prompt 比较好不知道为什么后面还有比如说像已经有了当时 GPT-4O 然后 Llama3 这种 LLaVA1.5、LLaVA1.6 这种东西他们",
+    "如果直接拿来不做任何训练等等啊，其实性能是很差的。说明我们是需要用 VIMA 这样的一个斗面的这个数据来去训练，才能获得好的结果的啊。所以说 transfer 是有必要的。这些等等这些实验的感兴趣的朋友呢，非常推荐你到原文查看。好，那么然后到了这个真机实验的部分啊。真机就是那这里，作者他设置了一个非常简单的情况。",
+    "你可以看到场景非常简单，但是呢，它使得这个简单的场景变得对机器人会很困难。为什么呢？因为只用了 8000 个 episode 的 VIMA 的数据集去 fine-tune 一个 LLaVA 模型。所以说它只看到了非常有限的这个模拟环境里面的这个数据。同时呢，你还要在这个真实环境里面测对吧。这个 domain gap 你看到上面是这个模拟环境里面的图像，下面是这种真实环境的图像。那这个 domain gap 呢就很大了。",
+    "即便这种情况下，作者发现顺好的模型你不做任何的调整，只见过模拟数据的情况下不做任何的调整去执行这些任务，它的成功率还是有一些的，不是零。相比之下，RT2 这样的东西就变得很难受了，因为它的数据集太少了。这是一点，假如说你在这种现实的环境中稍微反吞一下。",
+    "用这种小的数据集，大 1000 多个图像稍微 fine-tuning 一下，你看到本文的成功率会大幅的增加。所以说再次说本文是一个非常高效的，再次体现本文对数据利用的效用是很好。那么后面还有 joint training，就是把你的模拟数据集和真实数据集一块训练，那么这一块结果肯定是不如你单独只为真实环境中 fine-tuning 的结果来好，但是也还是可以的。",
+    "那么后面作者还展示了一些其他的额外的任务，这些任务都是原始的训练集里面没有出现的。他如果能够做成这样的任务，肯定也是全靠了微神两个人模组已经有的这些知识在里面去做的。当然你看到这个结果对吧，肯定这个视频都在这里，肯定都是 cherry-picked。真实的成功率也就大概 5%-60%但是假如说你用 RT2 相关的这种方法来去做的话，他在这么小的数据的量的情况下是学不了什么东西的。",
+    "后面还有其他的视频对吧，简单的看一看就好。那么总的来说，这一篇就是研究了如何高效的把一个 Vision Language Model 变成一个 VLA。然后两点，一个是把 action 对到你的 image pixel 上，另一点就是介绍了这些辅助的数据集，这些都是有用的观察。",
+    "但是呢，很明显的一个局限就是你看到他做的是这种非常稀疏的 spark，而且这个 action space 这个 pick and place 这样的一个任务，你既然是用一个二维的图像坐标去描述你的 action，那说明你肯定也干不了三维的这种任务，这是一个比较明显的局限。那么你想肯定呢，后面他们会针对这个方向再继续改进对吧？好的，那么以上就是我对这个文章一个非常快速的整理啊。那么还是感兴趣的朋友呢，非常推荐你到原文查看，那么感谢您的收看，请多多指点。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "3ad9bfe35de5acd41ab0f8d955731d975dffef528328135c2cee3f78a0170ee5"
+}

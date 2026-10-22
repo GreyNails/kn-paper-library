@@ -1,0 +1,191 @@
+{
+  "video_id": "v074",
+  "title": "Searching for MobileNet V3[1905.02244]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v074/0001.jpg",
+      "path": "assets/slides/v074/0001.jpg",
+      "sha256": "ff03f1d5486486510f6b14f07d1297a497d9d83cebce53abaa4f2a1aecefab49",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v074/0002.jpg",
+      "path": "assets/slides/v074/0002.jpg",
+      "sha256": "e5b4ee06be13af954c965ba4ec21f6ba4b4e0166acbea3d3f383476cacf9110f",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v074/0003.jpg",
+      "path": "assets/slides/v074/0003.jpg",
+      "sha256": "a67183daec13b107348f76cc27e258c9df46667bad1e783cf896f0dea7e72b2e",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v074/0004.jpg",
+      "path": "assets/slides/v074/0004.jpg",
+      "sha256": "79c18f2323465674dce5cb8c5640bd28d8e4f090db15b6ed5ec28b3aacc72f05",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v074/0005.jpg",
+      "path": "assets/slides/v074/0005.jpg",
+      "sha256": "41031b567287688e7187522a7a7e6fc150bb7d1b4b516f3b609f3798562332c5",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v074/0006.jpg",
+      "path": "assets/slides/v074/0006.jpg",
+      "sha256": "685a9180e9c0eead51732b9db889e69ae6c982d68cd7f9ceaf30ecd31caa3f2e",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v074/0007.jpg",
+      "path": "assets/slides/v074/0007.jpg",
+      "sha256": "e5617197d5c50af8ad2a1d3f14650d56de0fc7f66f62101594abcc0962cbd8eb",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v074/0008.jpg",
+      "path": "assets/slides/v074/0008.jpg",
+      "sha256": "d39a174e6457a673a747f47e6611ea298fb0f8211d64f84d065b8793a74d4b6f",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v074/0009.jpg",
+      "path": "assets/slides/v074/0009.jpg",
+      "sha256": "312e414c20f898f5bb8c773c88ab53e53a675ae8a973858efdb7664bc65730b2",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v074/0010.jpg",
+      "path": "assets/slides/v074/0010.jpg",
+      "sha256": "1345dc787de07127dc70e89ee32e154d2088c2e5370a136b066159300c3ab481",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v074/0011.jpg",
+      "path": "assets/slides/v074/0011.jpg",
+      "sha256": "c0f56d217068206f3f3d6125f84193870ccce76e65274860572897ee588de9a5",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v074/0012.jpg",
+      "path": "assets/slides/v074/0012.jpg",
+      "sha256": "1533a16e99e1aa6ec2fb22c6e41d8ae963cbd91b824dfa142975d8f3d2db97bf",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v074/0013.jpg",
+      "path": "assets/slides/v074/0013.jpg",
+      "sha256": "0c9934d3df8a185e6a9b670b375d31695cc1dd26880414bafd056dce95ddf996",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v074/0014.jpg",
+      "path": "assets/slides/v074/0014.jpg",
+      "sha256": "b6d61b6949c96a2aba9ec3eec2d0a1113fae484b543ef513fe3feb286df7c63a",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v074/0015.jpg",
+      "path": "assets/slides/v074/0015.jpg",
+      "sha256": "6729aec51112dd37c82dc56fcbc7b7c47d493d65344d626582382c6bc9fc5521",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v074/0016.jpg",
+      "path": "assets/slides/v074/0016.jpg",
+      "sha256": "f05315437e861d7d3e038c18e95856be6a6fa0321e37b245643e7de456cd1b4c",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v074/0017.jpg",
+      "path": "assets/slides/v074/0017.jpg",
+      "sha256": "91572877c14a188e088b30704ceb91cf88df271058ebf4ac49d1b71c90b4f60e",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v074/0018.jpg",
+      "path": "assets/slides/v074/0018.jpg",
+      "sha256": "3d3edd569eb114d148f0ed64cff076fbd79120591b7ff429e77d008b7ebc23ba",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v074/0019.jpg",
+      "path": "assets/slides/v074/0019.jpg",
+      "sha256": "6aa4bb3500057eb63eb074c0de0bfd46f95f5cf60f763d88fe80ba25fe040b06",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v074/0020.jpg",
+      "path": "assets/slides/v074/0020.jpg",
+      "sha256": "b31e0b5d819f2350997ccdced54b3b150ec212a976b290c23b59117e736033ea",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v074/0021.jpg",
+      "path": "assets/slides/v074/0021.jpg",
+      "sha256": "e34f80dfa5cca6722896fc6d56af7851f9a0b798527dd87f12e8445d2068de94",
+      "slide_index": 21
+    }
+  ],
+  "paragraphs": [
+    "大家好今天我们来介绍 Searching for MobileNet v3 那么在观看这个视频之前呢如果你不熟悉 MobileNet v1、v2 还有 MnasNet 非常推荐你先看完之前的我们这些视频然后呢再来看这一篇那么这些视频的链接呢我都会放在评论区那么第三个版本的这个 mobile net 呢它继续在之前的基础上对网络的结构搜索的策略进行了不断的迭代那么在今天视频中呢我们就关注一下它的这个网络搜索的策略然后它网络组件中的改进以及它最后搜到的结构和它最终汇报的一些结果那么首先我们来看网络的搜索对于网络的搜索呢这里作者依然贯彻的是一个 Hierarchical 它是从这个 Blockwise 的 Search 到 Layerwise 的 Search 那么快速回一下我们的 Blockwise Search 呢就是我们的 MnasNet",
+    "那他的思想呢就是我先把我们的网络划分成一个 block 然后每个 block 里面呢就是相同的 layer 重复很多次然后呢我在搜索每个 block 里面这个 layer 的具体参数就可以了而经过这个 blockwise search 之后呢我们呢还想对里面的 layer 做微调嘛这里呢作者就采用了这个 netadapt 然后呢做这个 layerwise search",
+    "NetAdapt 也是另一篇论文但是因为它的主要思想在这篇论文里面已经介绍的差不多了所以我们就单独不再讲这一篇了那么我们来看一下这个 NetAdapt 的流程首先它是从我们的 MnasNet 上开始那么我们既然已经有搜好的结构了那就直接拿过来用这个就是 MnasNet 它一开始的结构然后我们就开始搜索这里 NetAdapt 的核心思想就是我维护一个表去记录每一个 layer 它对应的不同的宽度不同的尺寸的时候呢它产生了 latency 这样呢我在产生新的 proposal 的时候呢就能在我实际到设备上运行之前对我这个新的 proposal 新提出的这个网络它的一个 latency 它运行的时间有一个大概的估计随后呢对于我们新提出的这个模型呢我们先把原来的 pretrained 的模型里面大部分的参数呢都拿过来",
+    "当然如果有模型结构不太符合的地方我们就做一些随机的参数来给它盖过去那么有了这样一个 pre-trained model 之后我们只需要做一个 fine-tuning 就可以大概估计出这个模型结构能给我们带来多高的准确率这样就避免了我原来从头直接 train 一个 network 这样的大的计算量能够进一步提高我们搜索的速度那么随后有了准确率我们就可以选一些好的 proposal 了",
+    "那么这里呢这一所谓的这个评价的准则这个 metric 呢在本文中呢指的是我们的准确率的 delta 比上 latency 的 delta 同时呢我们搜索模型的整个的这个 target function 呢也做了一点改变就是这个 w 的值现在变成了负的 0.15 了随后呢我们就不断的去重复这个步骤直到我们的模型它的延迟说已经足够低了满足我们的需求了这个时候我们把这个网的结构拿出来重新 train 一下那么以上是我们如何对这个模型它的网络结构进行搜索那么下面我们看到作者除了在搜索策略上的改进之外还有就是它在模型结构本身上面的改进那么关于模型里面的改进它主要是分为三个部分第一个就是里面一些原来计算起来非常麻烦的层做了修正那么最明显的就是模型的最后的阶段",
+    "我们可以看到在原来的设计中呢这个是先做了一个 mobile net 的 block 然后呢拿到这个 bottleneck 之后呢再做 expansion 做到 1280 的这个 channel 然后呢再做 average pooling 最后呢再输出我们 1000 个结果这个是做 image net 的网络结构那这里呢作者认为我既然反正都是要在这个高的 dimension 做 pooling 那我直接把这一串都省掉了我直接那我直接在这个地方第一次做 expansion 的时候我就直接做这个 average pooling",
+    "省去中间商赚差价，这样子呢，就把这一串呢，提前过来这里呢，是在做一个 projection，那就是我们原来的这个模块，但是与之区别是呢，它取消这个 batch normalization，然后呢，换了激活函数，也是这个 h-swish。作者说，经过这样的修改之后呢，我们去掉了三个计算起来非常麻烦的层，但是准确性呢，也没有丧失，这个呢，对应的是这个 last stage。",
+    "那么此外呢，我们知道在一开始 MobileNet 它的一开始的一层是一个普通的这个卷积，它会产生 32 个 filter，这些 filter 呢，主要就是一些边缘检测中，但是通过可视化呢，作者发现这些边缘呢，很多都是有镜像啊对称的关系的，说明还是有存在一定的冗余，那么这里呢，作者通过更换这个激活函数，然后呢，进一步的把一开始的这个 filter 的数量呢，减少。",
+    "因为我们一开始的 filter 包括激活函数都是运行在一个相对较大的尺度上的，那么如果你能够减少他的运算量的话，对我们整体计算量的减少呢，是显而易见的，所以呢，作者把这里原来 32 个 filter 呢，改成了 16 个 filter，那么换了新的激活函数，减少了很多的计算量，那么随后呢，我们看一见这个 h-swish 它到底是个什么东西，就是对应的这一部分 nonlinearities，一个非线性的激活函数。",
+    "可以看到原来我们有一种这个激活函数叫做 swish，它是 x 乘上这个 sigma 的 s，那你看到 sigma 的你就知道原来的计算量它是非常恐怖的，那么现在作者说我把它换成这个 ReLU6，那么这个新的 hard-swish 它对应的表达式就是这个，那么你可以看到它的可视化跟我们 sigma 的还有跟这个 swish 它来对比差别不是很明显，但是计算它你的效率就可以非常高了。",
+    "就比这个 sigmoid 的要简单很多，我们叫做 MobileNet v3 Small，这种呢叫做 MobileNet v3 Large，啊一种小一种大吗，你可以看到呢，这是他的网络结构，这里呢，你可以看到他一开始的 filter 数量呢，变成了 16，然后呢，是 MobileNet v2 里面的这个 bottleneck 的结构，那么注意呢，有的层呢，是 SE，然后他的激活函数呢，是 ReLU，那么到后面更高级的层呢，他的侦测数量的减少呢，我们就可以换用更强的激活函数就是 h-swish。",
+    "那么再往下呢，你可以看到最后呢，是我们优化过的这个最后的阶段，那注意呢，这几个 convolution 呢，它是没有 batch normalization，那么这边呢，是我们一个更大的网络，那么最后呢，我们就可以看到作者汇报的结果了，首先呢，是图像分类，那 image net 这里的横轴呢，是 latency，横轴呢，是准确率，那可以看到一些漂亮的数字，outperform 之前 mnas 还有这个 MobileNet v2，这也很有意思，之前有朋友问这个 Pixel 1 是什么意思啊。",
+    "它并不代表一个像素，它是谷歌的那款手机，写论文给自己厂里的产品带货，很真实，再看这边，从理论上预算数量的角度对比了其他的一些网络，也是一些美好的数字，那么再往下我们看到做了一些 ablation，它主要的就是来评估 h-swish 对我们性能的影响，你可以看到在第一层只有使用 filter 的时候使用 h-swish。",
+    "它呢，就是实验出来得到一个好的结果，而且呢，经过他们的优化呢，在运行时间上呢，有一定的削减，那么这个图呢，就反映他们的 WordSwitch 是怎么样开发迭代出来的，可以看到这里从 MnasNet 出发呢，我们加上固定的 0.25 的这个 SE 呢，然后呢，再加上 h-swish 对吧，再经过优化再加上这个 NetAdapt 它的搜索呢，最后呢，稍微收缩了一下模型，那变成最终的这个样子。",
+    "那么此外呢，作者还测试了像 Object Detection 就是 COCO 数据集吧，还有 Semantic Segmentation，如果你感兴趣的话可以在论文原文中查看，那么总的来说这篇的工作呢，其实也是一个大的 engineering，就是把我们之前运到的各种 trick 呢，再进一步推向了极致，那么以上呢，就是我对这篇论文的简单的分析，感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2163ef233f1b61877e6bb6f865204a9e1af47735100dfe53ea01092a94b35181"
+}

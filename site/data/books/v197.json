@@ -1,0 +1,233 @@
+{
+  "video_id": "v197",
+  "title": "Long Short View Feature Decomposition via Contrastive Video Representation Learning",
+  "frames": [
+    {
+      "src": "../../assets/slides/v197/0001.jpg",
+      "path": "assets/slides/v197/0001.jpg",
+      "sha256": "b8348ee719933f3d7e831413afa30b51e30cc4718f59ff51392f0fb83a993f39",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v197/0002.jpg",
+      "path": "assets/slides/v197/0002.jpg",
+      "sha256": "bf5690c8fc7023e0edc0badd218aa6d759039b7e323e1f56dfad3ec30148e61d",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v197/0003.jpg",
+      "path": "assets/slides/v197/0003.jpg",
+      "sha256": "7cab03f4caec0c97904e1d6a8fb95d095b0bc1bc07a4e565194679f53777a17f",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v197/0004.jpg",
+      "path": "assets/slides/v197/0004.jpg",
+      "sha256": "257832407d69cc9642f804932136ca4bca1a5ef6e698f31a6b38c313e4aa126b",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v197/0005.jpg",
+      "path": "assets/slides/v197/0005.jpg",
+      "sha256": "78b2b9e2a4892bdb6dcb17ae9ba0ea333b3194990b302da7d753ff7431fc7e64",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v197/0006.jpg",
+      "path": "assets/slides/v197/0006.jpg",
+      "sha256": "20e6303a3588de4d39747f1bda3a780c8caf8083ecc0836f81e154c83840eeb0",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v197/0007.jpg",
+      "path": "assets/slides/v197/0007.jpg",
+      "sha256": "30c7243b4cb268bd6bed7e3eb3d07e2e60a3dd9a75fc8c035ac1cd0d40b74b3c",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v197/0008.jpg",
+      "path": "assets/slides/v197/0008.jpg",
+      "sha256": "74dc82bbd542e66e83a695ca2ac2f098e657db4ffca30f5abbe1dee95511c022",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v197/0009.jpg",
+      "path": "assets/slides/v197/0009.jpg",
+      "sha256": "b496a1902177df215962bf8248c49ea2e26946ba8b9d221c420214d6407fda7f",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v197/0010.jpg",
+      "path": "assets/slides/v197/0010.jpg",
+      "sha256": "4ecaa714490b191792c0aa6e3b18cf3b48fb420641ff73f30816b4b0f4282afb",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v197/0011.jpg",
+      "path": "assets/slides/v197/0011.jpg",
+      "sha256": "4b4e9c4e21765488d5cdb5daacb63abb51b30a31a1c116d4f38caa3d9fb0e515",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v197/0012.jpg",
+      "path": "assets/slides/v197/0012.jpg",
+      "sha256": "9859df9925f69036ff0750fd779169dcc2a382b1f3972038e3deb7af3d6ce80d",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v197/0013.jpg",
+      "path": "assets/slides/v197/0013.jpg",
+      "sha256": "8e76ebd3fc2b525f584d6eb3b42c0ea21112da6332afc47499c1173b5e420300",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v197/0014.jpg",
+      "path": "assets/slides/v197/0014.jpg",
+      "sha256": "26ad5464befec5332ea2469ec9bb1502c54428fcf456f9f4d1a0118fffdbaf88",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v197/0015.jpg",
+      "path": "assets/slides/v197/0015.jpg",
+      "sha256": "8f49452688a3d83c09e45e9afc3524e20d6e9d2c74dd8199a8dba61e089e6cbb",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v197/0016.jpg",
+      "path": "assets/slides/v197/0016.jpg",
+      "sha256": "2bffd290b51f87c97b0ace5cc29ba61e08ef109cf2044301da83ae42e6fe4076",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v197/0017.jpg",
+      "path": "assets/slides/v197/0017.jpg",
+      "sha256": "e507c166e8f2be5eede9e5dde7394d2aa537c28af7b8c50062bdcef99fb0b65e",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v197/0018.jpg",
+      "path": "assets/slides/v197/0018.jpg",
+      "sha256": "13ad705411b0462a9ca248942971230063fde685196050d91e0b5bea941023c0",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v197/0019.jpg",
+      "path": "assets/slides/v197/0019.jpg",
+      "sha256": "388f589db67a81d506d536f35dbfd608f410697289401f894b295a2943ef148b",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v197/0020.jpg",
+      "path": "assets/slides/v197/0020.jpg",
+      "sha256": "ea9609f29bec9c775e00eeff94ffb733b33dd7ce1335bfab20a66f768b01a5e8",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v197/0021.jpg",
+      "path": "assets/slides/v197/0021.jpg",
+      "sha256": "771a45967de3bda985cdea72f619c9bb484f9ff127383f1a1b1bab3d5f8163cf",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v197/0022.jpg",
+      "path": "assets/slides/v197/0022.jpg",
+      "sha256": "5ecd7db9c0ba6c166f92d18a72cefbf412f05e96b7d96d2c55b400284ddfe253",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v197/0023.jpg",
+      "path": "assets/slides/v197/0023.jpg",
+      "sha256": "19af5fcd6457a99db06c9540566c7c084495c59547d94568611cd13c0caf8957",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v197/0024.jpg",
+      "path": "assets/slides/v197/0024.jpg",
+      "sha256": "fd1771424d248194d6ac90c2eaf73f288c997c16db103597bc5aea432313e23f",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v197/0025.jpg",
+      "path": "assets/slides/v197/0025.jpg",
+      "sha256": "a84f2d11f8092381b142b894a37be298749ad9fe74abfd9e2c4fb63650bf8952",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v197/0026.jpg",
+      "path": "assets/slides/v197/0026.jpg",
+      "sha256": "63b62f9a2969eb6ebfcbd064f64e8679367e736a51a1b4a05b0f341051d77661",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v197/0027.jpg",
+      "path": "assets/slides/v197/0027.jpg",
+      "sha256": "90f93b66ac2ba5741e5659653ad7ee314147ad5771c7a49c648ecd4b74e670b7",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v197/0028.jpg",
+      "path": "assets/slides/v197/0028.jpg",
+      "sha256": "70e07fe193b06e9ebb87676f3667ab452f9e75d20fbe906a2873387b5097b620",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v197/0029.jpg",
+      "path": "assets/slides/v197/0029.jpg",
+      "sha256": "1a3b5b1d6d2a1cd3470935967eeb2789fe640c813e19436de44d1077b6b876e5",
+      "slide_index": 29
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速介绍一个工作，Long Short View Feature Decomposition via Contrastive Video Representation Learning。那这个工作呢，主要是我们在这个 Contrastive Learning 放在我们这个 Video Representation Learning 里面，看能有整出什么新花样来哎。特别是这个 Long Short View 到底是什么意思呢？那我们来看到这里，这里是作者给出了一个示意。那本文内推设呢，其实非常简单，就是首先呢，我们会把一个视频定义成这个 Long View。",
+    "然后它其中一个片段，我们把它定成 shortviews。比如说这里我们有一个视频，就是一个酒保在酒吧前面，他在调酒。那么整个这个视频一整个，我们叫它一个 long view。",
+    "那里面的每一个小片段呢，比如说啊，这里拿着这个瓶子到这个左边的瓶子到右边的瓶子对吧？这一个小片段，我们呢就可以把它分割成一个个 short views。那这一个 short views 呢，是当然实际你在划分的时候呢，不一定每个 short views 都有相应的这个 label，就是不一定每一个 short views 的片段都是有意义的，但是我们依然把它分成了这么多 short views。那为什么要这么干呢？这里又要引入作者的第二个设想。",
+    "就是它希望我们的 feature 可以做 decomposition，也就是说把我们的 feature 给它分解开来，或者叫 disentanglement。那这里呢，我们可以看到我们把一个无论是长的这个 view 或者是短的这个 view 送到相同的这个 encoder 里面，那得到一个 representation。这个 representation 呢，其实可以拆成两块，一块呢是这个静止的 representation 这个 set。",
+    "那一块呢是这个非静止的 representation 这个 fi。那还是以这个为例子，假如说我们把这个视频送到我们的 coder 里面，那么非常理想的情况下，然后这些背景因为他们一直都没动嘛，所以呢，他们就应该走到这个静止的这个 feature 里面，用它来去保留那这些运动的这个 feature 呢对吧？那么比如说这个人的这个各种动作，它呢就应该在这个 fi 里面得到保留。",
+    "同样也是我们把 short views 也放到这个 encode 里面，我们希望能得到这两种 representation。那么下面一个很显然的问题就是，我们怎么样去让我们这个模型把 stationary 和非 stationary 的 feature 给它分开，或者说我们该怎么样构建这个 loss。这里作者做了以下假设，首先对于静止不动的 feature 来说。",
+    "那无论你是长的这个 view 一整个视频还是短的就有 video clips，那都是一个视频嘛，所以静止不动的东西它就应该是静止不动的。所以可以看到呢，这里它假设我们无论是从哪一个 shortviews 出来的这个 stationary 的这个 feature 都应该跟这个 longview 的这个 stationary feature 它们应该是尽量接近的，因为我们就希望它是在整个这段过程中保持不变的 feature。而那对于这些非静止的 feature 就是其他这些 feature 呢，我们应该怎么处理呢？",
+    "这里我们想，因为我们的 shortview 都是从这个 longview 里出来的，或者说我们就是因为一个个 shortview 给它拼接起来才得到一个 longview，所以我们如果有一种方法把这个 shortview 的这些非静止的这些 feature 给它做 aggregation，那么理论上我们就应该能够构建出整个 longview 的这个 feature 的 aggregation。这是作者的一个好的构想，或者说是叫它一个 intuition。那么因此我们可以看到在这里。",
+    "看到这个 G 是一个 aggregation,它可以是求和,可以是 MLP,可以是 GRU 等等,这些作者在后面的结果中都有了讨论,我们想它就是一个把很多个这样的 feature,这个非静止的 feature 给它集合在一起,然后构成一个 feature,这个 feature 应该跟我们这个 long view 提出来的这个非静止的 feature 应该尽量的接近,那么这两个就是本文提出的最核心的构想,那么现在有了这两个构想,我们就可以做 contrastive learning 了,毕竟这个约束已经打好了,",
+    "那很自然而然的对于这个静止的 feature 呢我们有一个 loss 非静止的 feature 呢也有一个 loss 那最后呢还有一个 instance 的这个 loss 那当然就是我们每个 sample 之间它们都是各自不同的所以要有一个 contrastive loss 那具体来看我们的这个表达式那我们的静止的 loss 这个 info nce",
+    "对吧它的这个 similarity 就是这个 cosine similarity 两个 representation 那每一个 longview 的 feature 呢应该和它随便选中的一个 shortview 的这个 stationary 的 feature 它们尽量接近这个呢是 stationary 的这个部分那非静止的这部分呢我们来看到这里呢我们先把所有的 shortview 给它聚合起来得到一个 representation 那这个 representation 呢应该跟我们这个 longview 的这个 non-stationary 的这个 feature 应该是尽量接近的",
+    "同理呢这也是个 InfoNCE 的一个结构写成这样的一个形式那最后呢这个 instance 的这个 loss 那它就更直接了我们把这个 video 这个 feature 提出来那这里的正样本呢一个是我们原装的这个 video 的 feature 这个 deadhead 的这个 feature 呢是经过了一些标准的这个数据的增强就是关于 video 的这些各种 data augmentation 然后呢再过 encoder 得到 representation 那这也是一个",
+    "基础的 InfoNCE Contrastive loss 这样一个构型所以你看本文的核心思路真的不复杂",
+    "一个 stationary loss 一个 non-stationary loss 然后 instance loss 它们三个合一起来每一个都是一个单独的 InfoNCE 就是一个非常简单的处理最后来看作者汇报了一些结果 video classification 我做了一些 ablation 作者还汇报了一些 video retrieval 的这些事情包括关于这些 non-stationary feature 和 stationary feature 它们之间的一些分析欢迎各位到原文中查看",
+    "那么总的来说这篇文章呢它其实最大的意义在于说我们探讨了整个一个视频和这个视频里面每一个小片段的关系我们能不能利用这种整体和局部的关系对我们的这个后白的这个 self-supervised learning 对 contrastive learning 做出一点帮助呢沿着这个方向做下去呢应该也是一个挺有意思的事情好的那么以上就是我对这个论文的简单的一个介绍那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "0e91026ea7565f33c445a309ea5fc4da042abbd83d7fa68c3479c1c3136ea655"
+}

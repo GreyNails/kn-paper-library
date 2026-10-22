@@ -1,0 +1,3922 @@
+[
+  {
+    "video_id": "v001",
+    "title": "Contrastive Learning for Unpaired Image-to-Image Translation[2007.15651]",
+    "original_title": "[论文简析]Contrastive Learning for Unpaired Image-to-Image Translation[2007.15651]",
+    "category": "内容生成",
+    "duration_seconds": 1040.489167,
+    "slides": 32,
+    "characters": 8247,
+    "cover": "assets/slides/v001/0001.jpg",
+    "url": "reading/v001/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v001-materials.zip",
+    "papers": [
+      "arxiv_2007.15651"
+    ]
+  },
+  {
+    "video_id": "v002",
+    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+    "original_title": "[论文简析]DreamBooth Fine Tuning Text-to-Image Diffusion Models...[2208.12242]",
+    "category": "内容生成",
+    "duration_seconds": 474.112,
+    "slides": 18,
+    "characters": 3360,
+    "cover": "assets/slides/v002/0001.jpg",
+    "url": "reading/v002/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v002-materials.zip",
+    "papers": [
+      "arxiv_2208.12242"
+    ]
+  },
+  {
+    "video_id": "v003",
+    "title": "MaskGIT Masked Generative Image Transformer[2202.04200]",
+    "original_title": "[论文简析]MaskGIT Masked Generative Image Transformer[2202.04200]",
+    "category": "内容生成",
+    "duration_seconds": 538.986667,
+    "slides": 33,
+    "characters": 3864,
+    "cover": "assets/slides/v003/0001.jpg",
+    "url": "reading/v003/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v003-materials.zip",
+    "papers": [
+      "arxiv_2202.04200"
+    ]
+  },
+  {
+    "video_id": "v004",
+    "title": "A Good Image Generator Is What You Need for High-Resolution Video Synthesis",
+    "original_title": "[论文简析]MoCoGAN-HD A Good Image Generator Is What You Need...[2104.15069]",
+    "category": "内容生成",
+    "duration_seconds": 845.566833,
+    "slides": 43,
+    "characters": 7221,
+    "cover": "assets/slides/v004/0001.jpg",
+    "url": "reading/v004/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v004-materials.zip",
+    "papers": [
+      "arxiv_2104.15069"
+    ]
+  },
+  {
+    "video_id": "v005",
+    "title": "Multimodal Unsupervised Image-to-Image Translation[1804.04732]",
+    "original_title": "[论文简析]Multimodal Unsupervised Image-to-Image Translation[1804.04732]",
+    "category": "内容生成",
+    "duration_seconds": 769.962667,
+    "slides": 61,
+    "characters": 6531,
+    "cover": "assets/slides/v005/0001.jpg",
+    "url": "reading/v005/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v005-materials.zip",
+    "papers": [
+      "arxiv_1804.04732"
+    ]
+  },
+  {
+    "video_id": "v006",
+    "title": "Regularized Vector Quantization for Tokenized Image Synthesis[2303.06424]",
+    "original_title": "[论文简析]Regularized Vector Quantization for Tokenized Image Synthesis[2303.06424]",
+    "category": "内容生成",
+    "duration_seconds": 567.765333,
+    "slides": 23,
+    "characters": 4274,
+    "cover": "assets/slides/v006/0001.jpg",
+    "url": "reading/v006/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v006-materials.zip",
+    "papers": [
+      "arxiv_2303.06424"
+    ]
+  },
+  {
+    "video_id": "v007",
+    "title": "RetinaGAN An Object-aware Approach to Sim-to-Real Transfer[2011.03148]",
+    "original_title": "[论文简析]RetinaGAN An Object-aware Approach to Sim-to-Real Transfer[2011.03148]",
+    "category": "内容生成",
+    "duration_seconds": 688.895167,
+    "slides": 32,
+    "characters": 5207,
+    "cover": "assets/slides/v007/0001.jpg",
+    "url": "reading/v007/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v007-materials.zip",
+    "papers": [
+      "arxiv_2011.03148"
+    ]
+  },
+  {
+    "video_id": "v008",
+    "title": "Unsupervised Image-to-Image Translation Networks[1703.00848]",
+    "original_title": "[论文简析]Unsupervised Image-to-Image Translation Networks[1703.00848]",
+    "category": "内容生成",
+    "duration_seconds": 582.762667,
+    "slides": 35,
+    "characters": 5005,
+    "cover": "assets/slides/v008/0001.jpg",
+    "url": "reading/v008/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v008-materials.zip",
+    "papers": [
+      "arxiv_1703.00848"
+    ]
+  },
+  {
+    "video_id": "v009",
+    "title": "VQ-VAENeural discrete representation learning[1711.00937]",
+    "original_title": "[论文简析]VQ-VAENeural discrete representation learning[1711.00937]",
+    "category": "内容生成",
+    "duration_seconds": 1012.947833,
+    "slides": 77,
+    "characters": 7175,
+    "cover": "assets/slides/v009/0001.jpg",
+    "url": "reading/v009/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v009-materials.zip",
+    "papers": [
+      "arxiv_1711.00937"
+    ]
+  },
+  {
+    "video_id": "v010",
+    "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+    "original_title": "[论文简析]Visual Autoregressive Modeling ...via Next-Scale Prediction[2404.02905]",
+    "category": "内容生成",
+    "duration_seconds": 1691.178667,
+    "slides": 32,
+    "characters": 12826,
+    "cover": "assets/slides/v010/0001.jpg",
+    "url": "reading/v010/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v010-materials.zip",
+    "papers": [
+      "arxiv_2404.02905"
+    ]
+  },
+  {
+    "video_id": "v011",
+    "title": "Autoregressive Image Generation using Residual Quantization[2203.01941]",
+    "original_title": "[论文速览]Autoregressive Image Generation using Residual Quantization[2203.01941]",
+    "category": "内容生成",
+    "duration_seconds": 1285.824,
+    "slides": 44,
+    "characters": 9742,
+    "cover": "assets/slides/v011/0001.jpg",
+    "url": "reading/v011/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v011-materials.zip",
+    "papers": [
+      "arxiv_2203.01941"
+    ]
+  },
+  {
+    "video_id": "v012",
+    "title": "Denoising Diffusion Implicit Models  DDIM[2010.02502]",
+    "original_title": "[论文速览]Denoising Diffusion Implicit Models  DDIM[2010.02502]",
+    "category": "内容生成",
+    "duration_seconds": 530.432,
+    "slides": 30,
+    "characters": 3532,
+    "cover": "assets/slides/v012/0001.jpg",
+    "url": "reading/v012/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v012-materials.zip",
+    "papers": [
+      "arxiv_2010.02502"
+    ]
+  },
+  {
+    "video_id": "v013",
+    "title": "Denoising Diffusion Probabilistic Models  DDPM[2006.11239]",
+    "original_title": "[论文速览]Denoising Diffusion Probabilistic Models  DDPM[2006.11239]",
+    "category": "内容生成",
+    "duration_seconds": 1903.104,
+    "slides": 95,
+    "characters": 11778,
+    "cover": "assets/slides/v013/0001.jpg",
+    "url": "reading/v013/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v013-materials.zip",
+    "papers": [
+      "arxiv_2006.11239"
+    ]
+  },
+  {
+    "video_id": "v014",
+    "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+    "original_title": "[论文速览]Drag Your GAN Interactive Point-based Manipulation...[2305.10973]",
+    "category": "内容生成",
+    "duration_seconds": 629.12,
+    "slides": 27,
+    "characters": 4636,
+    "cover": "assets/slides/v014/0001.jpg",
+    "url": "reading/v014/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v014-materials.zip",
+    "papers": [
+      "arxiv_2305.10973"
+    ]
+  },
+  {
+    "video_id": "v015",
+    "title": "FreeU Free Lunch in Diffusion U-Net[2309.11497]",
+    "original_title": "[论文速览]FreeU Free Lunch in Diffusion U-Net[2309.11497]",
+    "category": "内容生成",
+    "duration_seconds": 292.010667,
+    "slides": 9,
+    "characters": 2257,
+    "cover": "assets/slides/v015/0001.jpg",
+    "url": "reading/v015/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v015-materials.zip",
+    "papers": [
+      "arxiv_2309.11497"
+    ]
+  },
+  {
+    "video_id": "v016",
+    "title": "Personalizing Text2Img Generation using Textual Inversion[2208.01618]",
+    "original_title": "[论文速览]Personalizing Text2Img Generation using Textual Inversion[2208.01618]",
+    "category": "内容生成",
+    "duration_seconds": 278.314667,
+    "slides": 8,
+    "characters": 2095,
+    "cover": "assets/slides/v016/0001.jpg",
+    "url": "reading/v016/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v016-materials.zip",
+    "papers": [
+      "arxiv_2208.01618"
+    ]
+  },
+  {
+    "video_id": "v017",
+    "title": "Rethinking the Truly Unsupervised Image-to-Image Translation[2006.06500]",
+    "original_title": "[论文速览]Rethinking the Truly Unsupervised Image-to-Image Translation[2006.06500]",
+    "category": "内容生成",
+    "duration_seconds": 607.978667,
+    "slides": 43,
+    "characters": 5491,
+    "cover": "assets/slides/v017/0001.jpg",
+    "url": "reading/v017/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v017-materials.zip",
+    "papers": [
+      "arxiv_2006.06500"
+    ]
+  },
+  {
+    "video_id": "v018",
+    "title": "Structured Denoising Diffusion Models in Discrete State-Spaces[2107.03006]",
+    "original_title": "[论文速览]Structured Denoising Diffusion Models in Discrete State-Spaces[2107.03006]",
+    "category": "内容生成",
+    "duration_seconds": 1156.778667,
+    "slides": 65,
+    "characters": 7886,
+    "cover": "assets/slides/v018/0001.jpg",
+    "url": "reading/v018/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v018-materials.zip",
+    "papers": [
+      "arxiv_2107.03006"
+    ]
+  },
+  {
+    "video_id": "v019",
+    "title": "Taming Transformers for High-Resolution Image Synthesis[2012.09841]",
+    "original_title": "[论文速览]Taming Transformers for High-Resolution Image Synthesis[2012.09841]",
+    "category": "内容生成",
+    "duration_seconds": 373.461333,
+    "slides": 27,
+    "characters": 3028,
+    "cover": "assets/slides/v019/0001.jpg",
+    "url": "reading/v019/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v019-materials.zip",
+    "papers": [
+      "arxiv_2012.09841"
+    ]
+  },
+  {
+    "video_id": "v020",
+    "title": "CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free",
+    "original_title": "[论文简析]CLIP Dense Inference Yields Open-Vocab ... For-Free[2309.14289]",
+    "category": "多模态语言模型",
+    "duration_seconds": 350.464,
+    "slides": 8,
+    "characters": 2714,
+    "cover": "assets/slides/v020/0001.jpg",
+    "url": "reading/v020/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v020-materials.zip",
+    "papers": [
+      "arxiv_2309.14289"
+    ]
+  },
+  {
+    "video_id": "v021",
+    "title": "End-to-End Learning of Visual Representations from Uncurated Instructional Videos",
+    "original_title": "[论文简析]End-to-End Learning... from Uncurated Instructional Videos[1912.06430]",
+    "category": "多模态语言模型",
+    "duration_seconds": 538.261333,
+    "slides": 20,
+    "characters": 4167,
+    "cover": "assets/slides/v021/0001.jpg",
+    "url": "reading/v021/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v021-materials.zip",
+    "papers": [
+      "arxiv_1912.06430"
+    ]
+  },
+  {
+    "video_id": "v022",
+    "title": "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling",
+    "original_title": "[论文简析]End-to-End Video-Language Transformers..Masked Visual-token..[2111.12681]",
+    "category": "多模态语言模型",
+    "duration_seconds": 548.48,
+    "slides": 35,
+    "characters": 4452,
+    "cover": "assets/slides/v022/0001.jpg",
+    "url": "reading/v022/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v022-materials.zip",
+    "papers": [
+      "arxiv_2111.12681"
+    ]
+  },
+  {
+    "video_id": "v023",
+    "title": "GroupViT Semantic Segmentation Emerges from Text Supervision[2202.11094]",
+    "original_title": "[论文简析]GroupViT Semantic Segmentation Emerges from Text Supervision[2202.11094]",
+    "category": "多模态语言模型",
+    "duration_seconds": 667.925333,
+    "slides": 20,
+    "characters": 5440,
+    "cover": "assets/slides/v023/0001.jpg",
+    "url": "reading/v023/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v023-materials.zip",
+    "papers": [
+      "arxiv_2202.11094"
+    ]
+  },
+  {
+    "video_id": "v024",
+    "title": "Improving fine-grained understanding in image-text pre-training[2401.0986]",
+    "original_title": "[论文简析]Improving fine-grained understanding in image-text pre-training[2401.0986]",
+    "category": "多模态语言模型",
+    "duration_seconds": 1055.317333,
+    "slides": 47,
+    "characters": 7075,
+    "cover": "assets/slides/v024/0001.jpg",
+    "url": "reading/v024/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v024-materials.zip",
+    "papers": [
+      "arxiv_2401.09865"
+    ]
+  },
+  {
+    "video_id": "v025",
+    "title": "LLaVA Visual Instruction Tuning[2304.08485]",
+    "original_title": "[论文简析]LLaVA Visual Instruction Tuning[2304.08485]",
+    "category": "多模态语言模型",
+    "duration_seconds": 572.842667,
+    "slides": 17,
+    "characters": 4186,
+    "cover": "assets/slides/v025/0001.jpg",
+    "url": "reading/v025/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v025-materials.zip",
+    "papers": [
+      "arxiv_2304.08485"
+    ]
+  },
+  {
+    "video_id": "v026",
+    "title": "Large Language Models as General Pattern Machines[2307.04721]",
+    "original_title": "[论文简析]Large Language Models as General Pattern Machines[2307.04721]",
+    "category": "多模态语言模型",
+    "duration_seconds": 945.621333,
+    "slides": 30,
+    "characters": 6888,
+    "cover": "assets/slides/v026/0001.jpg",
+    "url": "reading/v026/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v026-materials.zip",
+    "papers": [
+      "arxiv_2307.04721"
+    ]
+  },
+  {
+    "video_id": "v027",
+    "title": "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning",
+    "original_title": "[论文简析]Open Vocab. Semantic Seg.  with Patch Aligned Contrastive...[2212.04994]",
+    "category": "多模态语言模型",
+    "duration_seconds": 271.573333,
+    "slides": 7,
+    "characters": 2158,
+    "cover": "assets/slides/v027/0001.jpg",
+    "url": "reading/v027/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v027-materials.zip",
+    "papers": [
+      "arxiv_2210.09996",
+      "arxiv_2212.04994"
+    ]
+  },
+  {
+    "video_id": "v028",
+    "title": "Region-Aware Pretraining for Open-Vocab. Object Det. w ViT[2305.07011]",
+    "original_title": "[论文简析]Region-Aware Pretraining for Open-Vocab. Object Det. w ViT[2305.07011]",
+    "category": "多模态语言模型",
+    "duration_seconds": 490.282667,
+    "slides": 29,
+    "characters": 3919,
+    "cover": "assets/slides/v028/0001.jpg",
+    "url": "reading/v028/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v028-materials.zip",
+    "papers": [
+      "arxiv_2305.07011"
+    ]
+  },
+  {
+    "video_id": "v029",
+    "title": "Representation Learning via Global Temporal Alignment and Cycle-Consistency",
+    "original_title": "[论文简析]Representation Learning via Global Temporal Alignment and ...[2105.05217]",
+    "category": "多模态语言模型",
+    "duration_seconds": 869.8015,
+    "slides": 39,
+    "characters": 5902,
+    "cover": "assets/slides/v029/0001.jpg",
+    "url": "reading/v029/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v029-materials.zip",
+    "papers": [
+      "arxiv_2105.05217"
+    ]
+  },
+  {
+    "video_id": "v030",
+    "title": "TAN Temporal Alignment Networks for Long-term Video[2204.02968]",
+    "original_title": "[论文简析]TAN Temporal Alignment Networks for Long-term Video[2204.02968]",
+    "category": "多模态语言模型",
+    "duration_seconds": 979.946667,
+    "slides": 26,
+    "characters": 6880,
+    "cover": "assets/slides/v030/0001.jpg",
+    "url": "reading/v030/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v030-materials.zip",
+    "papers": [
+      "arxiv_2204.02968"
+    ]
+  },
+  {
+    "video_id": "v031",
+    "title": "Toolformer Language Models Can Teach Themselves to Use Tools[2302.04761]",
+    "original_title": "[论文简析]Toolformer Language Models Can Teach Themselves to Use Tools[2302.04761]",
+    "category": "多模态语言模型",
+    "duration_seconds": 788.736,
+    "slides": 30,
+    "characters": 5173,
+    "cover": "assets/slides/v031/0001.jpg",
+    "url": "reading/v031/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v031-materials.zip",
+    "papers": [
+      "arxiv_2302.04761"
+    ]
+  },
+  {
+    "video_id": "v032",
+    "title": "VATT Video-Audio-Text Transformer[2104.11178]",
+    "original_title": "[论文简析]VATT Video-Audio-Text Transformer[2104.11178]",
+    "category": "多模态语言模型",
+    "duration_seconds": 718.569833,
+    "slides": 30,
+    "characters": 6047,
+    "cover": "assets/slides/v032/0001.jpg",
+    "url": "reading/v032/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v032-materials.zip",
+    "papers": [
+      "arxiv_2104.11178"
+    ]
+  },
+  {
+    "video_id": "v033",
+    "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+    "original_title": "[论文简析]VoxPoser Composable 3D Value Maps for Robotic...[2307.05973]",
+    "category": "多模态语言模型",
+    "duration_seconds": 783.104,
+    "slides": 45,
+    "characters": 5913,
+    "cover": "assets/slides/v033/0001.jpg",
+    "url": "reading/v033/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v033-materials.zip",
+    "papers": [
+      "arxiv_2307.05973"
+    ]
+  },
+  {
+    "video_id": "v034",
+    "title": "A Simple LLM Framework for Long-Range Video Question-Answering[2312.17235]",
+    "original_title": "[论文速览]A Simple LLM Framework for Long-Range Video Question-Answering[2312.17235]",
+    "category": "多模态语言模型",
+    "duration_seconds": 741.717333,
+    "slides": 24,
+    "characters": 4169,
+    "cover": "assets/slides/v034/0001.jpg",
+    "url": "reading/v034/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v034-materials.zip",
+    "papers": [
+      "arxiv_2312.17235"
+    ]
+  },
+  {
+    "video_id": "v035",
+    "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+    "original_title": "[论文速览]Align before Fuse  ALBEF ...[2107.07651]",
+    "category": "多模态语言模型",
+    "duration_seconds": 795.690667,
+    "slides": 42,
+    "characters": 6678,
+    "cover": "assets/slides/v035/0001.jpg",
+    "url": "reading/v035/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v035-materials.zip",
+    "papers": [
+      "arxiv_2107.07651"
+    ]
+  },
+  {
+    "video_id": "v036",
+    "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+    "original_title": "[论文速览]BLIP-2 ...with Frozen Image Encoders and Large Language Models[2301.12597]",
+    "category": "多模态语言模型",
+    "duration_seconds": 822.698667,
+    "slides": 35,
+    "characters": 7324,
+    "cover": "assets/slides/v036/0001.jpg",
+    "url": "reading/v036/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v036-materials.zip",
+    "papers": [
+      "arxiv_2301.12597"
+    ]
+  },
+  {
+    "video_id": "v037",
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "original_title": "[论文速览]Bootstrapping Language-Image Pre-training...[2201.12086]",
+    "category": "多模态语言模型",
+    "duration_seconds": 685.141333,
+    "slides": 21,
+    "characters": 5751,
+    "cover": "assets/slides/v037/0001.jpg",
+    "url": "reading/v037/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v037-materials.zip",
+    "papers": [
+      "arxiv_2201.12086"
+    ]
+  },
+  {
+    "video_id": "v038",
+    "title": "CRG Improving Grounding in VLM wo training[2403.02325]",
+    "original_title": "[论文速览]CRG Improving Grounding in VLM wo training[2403.02325]",
+    "category": "多模态语言模型",
+    "duration_seconds": 322.986667,
+    "slides": 20,
+    "characters": 2658,
+    "cover": "assets/slides/v038/0001.jpg",
+    "url": "reading/v038/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v038-materials.zip",
+    "papers": [
+      "arxiv_2403.02325"
+    ]
+  },
+  {
+    "video_id": "v039",
+    "title": "Ferret Refer and Ground Anything Anywhere at Any Granularity[2310.07704]",
+    "original_title": "[论文速览]Ferret Refer and Ground Anything Anywhere at Any Granularity[2310.07704]",
+    "category": "多模态语言模型",
+    "duration_seconds": 582.911833,
+    "slides": 65,
+    "characters": 4160,
+    "cover": "assets/slides/v039/0001.jpg",
+    "url": "reading/v039/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v039-materials.zip",
+    "papers": [
+      "arxiv_2310.07704"
+    ]
+  },
+  {
+    "video_id": "v040",
+    "title": "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models",
+    "original_title": "[论文速览]Ferret-v2 An Improved...for Referring and Grounding with LLMs[2404.07973]",
+    "category": "多模态语言模型",
+    "duration_seconds": 569.045333,
+    "slides": 28,
+    "characters": 4234,
+    "cover": "assets/slides/v040/0001.jpg",
+    "url": "reading/v040/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v040-materials.zip",
+    "papers": [
+      "arxiv_2404.07973"
+    ]
+  },
+  {
+    "video_id": "v041",
+    "title": "Open-vocabulary Object Segmentation with Diffusion Models",
+    "original_title": "[论文速览]Guiding Text-to-Image Diffusion Model Towards Grounded Gen..[2301.05221]",
+    "category": "多模态语言模型",
+    "duration_seconds": 559.146667,
+    "slides": 14,
+    "characters": 4998,
+    "cover": "assets/slides/v041/0001.jpg",
+    "url": "reading/v041/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v041-materials.zip",
+    "papers": [
+      "arxiv_2301.05221v1",
+      "arxiv_2301.05221"
+    ]
+  },
+  {
+    "video_id": "v042",
+    "title": "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention",
+    "original_title": "[论文速览]LLaMA-Adapter Efficient Fine-tuning..Zero-init Attention[2303.16199]",
+    "category": "多模态语言模型",
+    "duration_seconds": 261.12,
+    "slides": 8,
+    "characters": 1988,
+    "cover": "assets/slides/v042/0001.jpg",
+    "url": "reading/v042/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v042-materials.zip",
+    "papers": [
+      "arxiv_2304.15010",
+      "arxiv_2303.16199"
+    ]
+  },
+  {
+    "video_id": "v043",
+    "title": "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections",
+    "original_title": "[论文速览]LaFTer Label-Free Tuning of Zero-shot Classifier...[2305.18287]",
+    "category": "多模态语言模型",
+    "duration_seconds": 411.008,
+    "slides": 14,
+    "characters": 3403,
+    "cover": "assets/slides/v043/0001.jpg",
+    "url": "reading/v043/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v043-materials.zip",
+    "papers": [
+      "arxiv_2305.18287"
+    ]
+  },
+  {
+    "video_id": "v044",
+    "title": "LongLoRA Efficient Fine-tuning of Long-Context LLMs[2309.12307]",
+    "original_title": "[论文速览]LongLoRA Efficient Fine-tuning of Long-Context LLMs[2309.12307]",
+    "category": "多模态语言模型",
+    "duration_seconds": 303.36,
+    "slides": 9,
+    "characters": 2381,
+    "cover": "assets/slides/v044/0001.jpg",
+    "url": "reading/v044/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v044-materials.zip",
+    "papers": [
+      "arxiv_2309.12307"
+    ]
+  },
+  {
+    "video_id": "v045",
+    "title": "OWL-ViT Simple Open-Vocabulary Object Detection with ViT[2205.06230]",
+    "original_title": "[论文速览]OWL-ViT Simple Open-Vocabulary Object Detection with ViT[2205.06230]",
+    "category": "多模态语言模型",
+    "duration_seconds": 464.128,
+    "slides": 29,
+    "characters": 3965,
+    "cover": "assets/slides/v045/0001.jpg",
+    "url": "reading/v045/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v045-materials.zip",
+    "papers": [
+      "arxiv_2205.06230"
+    ]
+  },
+  {
+    "video_id": "v046",
+    "title": "Socratic Models Zero-Shot Multimodal Reasoning[2204.00598]",
+    "original_title": "[论文速览]Socratic Models Zero-Shot Multimodal Reasoning[2204.00598]",
+    "category": "多模态语言模型",
+    "duration_seconds": 691.157333,
+    "slides": 27,
+    "characters": 4984,
+    "cover": "assets/slides/v046/0001.jpg",
+    "url": "reading/v046/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v046-materials.zip",
+    "papers": [
+      "arxiv_2204.00598"
+    ]
+  },
+  {
+    "video_id": "v047",
+    "title": "VLMs are Zero-Shot Reward Models for RL[2310.12921]",
+    "original_title": "[论文速览]VLMs are Zero-Shot Reward Models for RL[2310.12921]",
+    "category": "多模态语言模型",
+    "duration_seconds": 281.514667,
+    "slides": 7,
+    "characters": 2346,
+    "cover": "assets/slides/v047/0001.jpg",
+    "url": "reading/v047/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v047-materials.zip",
+    "papers": [
+      "arxiv_2310.12921"
+    ]
+  },
+  {
+    "video_id": "v048",
+    "title": "ViperGPT Visual Inference via Python Execution for Reasoning[2303.08128]",
+    "original_title": "[论文速览]ViperGPT Visual Inference via Python Execution for Reasoning[2303.08128]",
+    "category": "多模态语言模型",
+    "duration_seconds": 358.101333,
+    "slides": 28,
+    "characters": 2411,
+    "cover": "assets/slides/v048/0001.jpg",
+    "url": "reading/v048/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v048-materials.zip",
+    "papers": [
+      "arxiv_2303.08128"
+    ]
+  },
+  {
+    "video_id": "v049",
+    "title": "A Laplacian Pyramid Translation Network[2105.09188]",
+    "original_title": "[论文简析]A Laplacian Pyramid Translation Network[2105.09188]",
+    "category": "新模型",
+    "duration_seconds": 971.412167,
+    "slides": 34,
+    "characters": 5916,
+    "cover": "assets/slides/v049/0001.jpg",
+    "url": "reading/v049/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v049-materials.zip",
+    "papers": [
+      "arxiv_2105.09188"
+    ]
+  },
+  {
+    "video_id": "v050",
+    "title": "BEVT BERT Pretraining of Video Transformers[2112.01529]",
+    "original_title": "[论文简析]BEVT BERT Pretraining of Video Transformers[2112.01529]",
+    "category": "新模型",
+    "duration_seconds": 622.313833,
+    "slides": 36,
+    "characters": 4738,
+    "cover": "assets/slides/v050/0001.jpg",
+    "url": "reading/v050/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v050-materials.zip",
+    "papers": [
+      "arxiv_2112.01529"
+    ]
+  },
+  {
+    "video_id": "v051",
+    "title": "BiFormer Vision Transformer with Bi-Level Routing Attention[2303.08810]",
+    "original_title": "[论文简析]BiFormer Vision Transformer with Bi-Level Routing Attention[2303.08810]",
+    "category": "新模型",
+    "duration_seconds": 406.144,
+    "slides": 17,
+    "characters": 3433,
+    "cover": "assets/slides/v051/0001.jpg",
+    "url": "reading/v051/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v051-materials.zip",
+    "papers": [
+      "arxiv_2303.08810"
+    ]
+  },
+  {
+    "video_id": "v052",
+    "title": "CeiT Incorporating Convolution Designs into Visual Tr[2103.11816]",
+    "original_title": "[论文简析]CeiT Incorporating Convolution Designs into Visual Tr[2103.11816]",
+    "category": "新模型",
+    "duration_seconds": 356.0955,
+    "slides": 12,
+    "characters": 3296,
+    "cover": "assets/slides/v052/0001.jpg",
+    "url": "reading/v052/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v052-materials.zip",
+    "papers": [
+      "arxiv_2103.11816"
+    ]
+  },
+  {
+    "video_id": "v053",
+    "title": "DAT Vision Transformer with Deformable Attention[2201.00520]",
+    "original_title": "[论文简析]DAT Vision Transformer with Deformable Attention[2201.00520]",
+    "category": "新模型",
+    "duration_seconds": 419.349333,
+    "slides": 25,
+    "characters": 3418,
+    "cover": "assets/slides/v053/0001.jpg",
+    "url": "reading/v053/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v053-materials.zip",
+    "papers": [
+      "arxiv_2201.00520"
+    ]
+  },
+  {
+    "video_id": "v054",
+    "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+    "original_title": "[论文简析]DeepLab Semantic Image Segmentation with DCN..[1606.00915]",
+    "category": "新模型",
+    "duration_seconds": 987.795833,
+    "slides": 39,
+    "characters": 7086,
+    "cover": "assets/slides/v054/0001.jpg",
+    "url": "reading/v054/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v054-materials.zip",
+    "papers": [
+      "arxiv_1606.00915"
+    ]
+  },
+  {
+    "video_id": "v055",
+    "title": "DeepLab V3V3+[1706.055871802.02611]",
+    "original_title": "[论文简析]DeepLab V3V3+[1706.055871802.02611]",
+    "category": "新模型",
+    "duration_seconds": 634.9645,
+    "slides": 29,
+    "characters": 4943,
+    "cover": "assets/slides/v055/0001.jpg",
+    "url": "reading/v055/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v055-materials.zip",
+    "papers": [
+      "arxiv_1802.02611",
+      "arxiv_1706.05587"
+    ]
+  },
+  {
+    "video_id": "v056",
+    "title": "DeiT Data-efficient Image Transformers[2012.12877]",
+    "original_title": "[论文简析]DeiT Data-efficient Image Transformers[2012.12877]",
+    "category": "新模型",
+    "duration_seconds": 588.7565,
+    "slides": 27,
+    "characters": 5012,
+    "cover": "assets/slides/v056/0001.jpg",
+    "url": "reading/v056/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v056-materials.zip",
+    "papers": [
+      "arxiv_2012.12877"
+    ]
+  },
+  {
+    "video_id": "v057",
+    "title": "Dynamic Vision Transformers with Adaptive Sequence Length[2105.15075]",
+    "original_title": "[论文简析]Dynamic Vision Transformers with Adaptive Sequence Length[2105.15075]",
+    "category": "新模型",
+    "duration_seconds": 740.0525,
+    "slides": 33,
+    "characters": 5780,
+    "cover": "assets/slides/v057/0001.jpg",
+    "url": "reading/v057/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v057-materials.zip",
+    "papers": [
+      "arxiv_2105.15075",
+      "arxiv_2105.15075v1"
+    ]
+  },
+  {
+    "video_id": "v058",
+    "title": "EfficientNet V1V2[1905.119462104.00298]",
+    "original_title": "[论文简析]EfficientNet V1V2[1905.119462104.00298]",
+    "category": "新模型",
+    "duration_seconds": 807.934833,
+    "slides": 22,
+    "characters": 5588,
+    "cover": "assets/slides/v058/0001.jpg",
+    "url": "reading/v058/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v058-materials.zip",
+    "papers": [
+      "arxiv_1905.11946",
+      "arxiv_2104.00298"
+    ]
+  },
+  {
+    "video_id": "v059",
+    "title": "Exploring Self-attention for Image Recognition[2004.13621]",
+    "original_title": "[论文简析]Exploring Self-attention for Image Recognition[2004.13621]",
+    "category": "新模型",
+    "duration_seconds": 990.7825,
+    "slides": 53,
+    "characters": 6693,
+    "cover": "assets/slides/v059/0001.jpg",
+    "url": "reading/v059/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v059-materials.zip",
+    "papers": [
+      "arxiv_2004.13621"
+    ]
+  },
+  {
+    "video_id": "v060",
+    "title": "FlowNet3D Learning Scene Flow in 3D Point Clouds[1806.01411]",
+    "original_title": "[论文简析]FlowNet3D Learning Scene Flow in 3D Point Clouds[1806.01411]",
+    "category": "新模型",
+    "duration_seconds": 784.256,
+    "slides": 41,
+    "characters": 6012,
+    "cover": "assets/slides/v060/0001.jpg",
+    "url": "reading/v060/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v060-materials.zip",
+    "papers": [
+      "arxiv_1806.01411"
+    ]
+  },
+  {
+    "video_id": "v061",
+    "title": "Is Space-Time Attention All You Need for Video Understanding[2102.05095]",
+    "original_title": "[论文简析]Is Space-Time Attention All You Need for Video Understanding[2102.05095]",
+    "category": "新模型",
+    "duration_seconds": 273.407833,
+    "slides": 16,
+    "characters": 2410,
+    "cover": "assets/slides/v061/0001.jpg",
+    "url": "reading/v061/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v061-materials.zip",
+    "papers": [
+      "arxiv_2102.05095"
+    ]
+  },
+  {
+    "video_id": "v062",
+    "title": "MLP-Mixer An all-MLP Architecture for Vision[2105.01601]",
+    "original_title": "[论文简析]MLP-Mixer An all-MLP Architecture for Vision[2105.01601]",
+    "category": "新模型",
+    "duration_seconds": 564.649833,
+    "slides": 28,
+    "characters": 4423,
+    "cover": "assets/slides/v062/0001.jpg",
+    "url": "reading/v062/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v062-materials.zip",
+    "papers": [
+      "arxiv_2105.01601"
+    ]
+  },
+  {
+    "video_id": "v063",
+    "title": "MViT Multiscale Vision Transformers[2104.11227]",
+    "original_title": "[论文简析]MViT Multiscale Vision Transformers[2104.11227]",
+    "category": "新模型",
+    "duration_seconds": 750.015167,
+    "slides": 26,
+    "characters": 6036,
+    "cover": "assets/slides/v063/0001.jpg",
+    "url": "reading/v063/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v063-materials.zip",
+    "papers": [
+      "arxiv_2104.11227"
+    ]
+  },
+  {
+    "video_id": "v064",
+    "title": "MnasNet Platform-Aware Neural Architecture Search for Mobile[1807.11626]",
+    "original_title": "[论文简析]MnasNet Platform-Aware Neural Architecture Search for Mobile[1807.11626]",
+    "category": "新模型",
+    "duration_seconds": 474.324833,
+    "slides": 27,
+    "characters": 3606,
+    "cover": "assets/slides/v064/0001.jpg",
+    "url": "reading/v064/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v064-materials.zip",
+    "papers": [
+      "arxiv_1807.11626"
+    ]
+  },
+  {
+    "video_id": "v065",
+    "title": "Mobile-Former Bridging MobileNet and Transformer[2108.05895]",
+    "original_title": "[论文简析]Mobile-Former Bridging MobileNet and Transformer[2108.05895]",
+    "category": "新模型",
+    "duration_seconds": 828.416,
+    "slides": 55,
+    "characters": 6772,
+    "cover": "assets/slides/v065/0001.jpg",
+    "url": "reading/v065/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v065-materials.zip",
+    "papers": [
+      "arxiv_2108.05895"
+    ]
+  },
+  {
+    "video_id": "v066",
+    "title": "MobileNet V2 Inverted Residuals and Linear Bottlenecks[1801.04381]",
+    "original_title": "[论文简析]MobileNet V2 Inverted Residuals and Linear Bottlenecks[1801.04381]",
+    "category": "新模型",
+    "duration_seconds": 629.887167,
+    "slides": 25,
+    "characters": 4526,
+    "cover": "assets/slides/v066/0001.jpg",
+    "url": "reading/v066/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v066-materials.zip",
+    "papers": [
+      "arxiv_1801.04381"
+    ]
+  },
+  {
+    "video_id": "v067",
+    "title": "MobileNets Efficient CNN for Mobile Vision Applications[1704.04861]",
+    "original_title": "[论文简析]MobileNets Efficient CNN for Mobile Vision Applications[1704.04861]",
+    "category": "新模型",
+    "duration_seconds": 361.9195,
+    "slides": 14,
+    "characters": 2706,
+    "cover": "assets/slides/v067/0001.jpg",
+    "url": "reading/v067/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v067-materials.zip",
+    "papers": [
+      "arxiv_1704.04861"
+    ]
+  },
+  {
+    "video_id": "v068",
+    "title": "NAT Neighborhood Attention Transformer[2204.07143]",
+    "original_title": "[论文简析]NAT Neighborhood Attention Transformer[2204.07143]",
+    "category": "新模型",
+    "duration_seconds": 313.514667,
+    "slides": 17,
+    "characters": 2808,
+    "cover": "assets/slides/v068/0001.jpg",
+    "url": "reading/v068/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v068-materials.zip",
+    "papers": [
+      "arxiv_2204.07143"
+    ]
+  },
+  {
+    "video_id": "v069",
+    "title": "NeRF in the Wild NeRF for Unconstrained Photo Collections[2008.02268]",
+    "original_title": "[论文简析]NeRF in the Wild NeRF for Unconstrained Photo Collections[2008.02268]",
+    "category": "新模型",
+    "duration_seconds": 1026.218667,
+    "slides": 35,
+    "characters": 6811,
+    "cover": "assets/slides/v069/0001.jpg",
+    "url": "reading/v069/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v069-materials.zip",
+    "papers": [
+      "arxiv_2008.02268"
+    ]
+  },
+  {
+    "video_id": "v070",
+    "title": "NeRV Neural Representations for Videos[2110.13903]",
+    "original_title": "[论文简析]NeRV Neural Representations for Videos[2110.13903]",
+    "category": "新模型",
+    "duration_seconds": 513.8555,
+    "slides": 26,
+    "characters": 3574,
+    "cover": "assets/slides/v070/0001.jpg",
+    "url": "reading/v070/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v070-materials.zip",
+    "papers": [
+      "arxiv_2110.13903"
+    ]
+  },
+  {
+    "video_id": "v071",
+    "title": "Per-Pixel Classification is Not All You Need for Semantic Seg[2107.06278]",
+    "original_title": "[论文简析]Per-Pixel Classification is Not All You Need for Semantic Seg[2107.06278]",
+    "category": "新模型",
+    "duration_seconds": 628.777833,
+    "slides": 45,
+    "characters": 4742,
+    "cover": "assets/slides/v071/0001.jpg",
+    "url": "reading/v071/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v071-materials.zip",
+    "papers": [
+      "arxiv_2107.06278"
+    ]
+  },
+  {
+    "video_id": "v072",
+    "title": "Point Transformer V2[2210.05666]",
+    "original_title": "[论文简析]Point Transformer V2[2210.05666]",
+    "category": "新模型",
+    "duration_seconds": 635.093333,
+    "slides": 36,
+    "characters": 5208,
+    "cover": "assets/slides/v072/0001.jpg",
+    "url": "reading/v072/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v072-materials.zip",
+    "papers": [
+      "arxiv_2210.05666"
+    ]
+  },
+  {
+    "video_id": "v073",
+    "title": "Point Transformer[2012.09164]",
+    "original_title": "[论文简析]Point Transformer[2012.09164]",
+    "category": "新模型",
+    "duration_seconds": 712.9165,
+    "slides": 27,
+    "characters": 5266,
+    "cover": "assets/slides/v073/0001.jpg",
+    "url": "reading/v073/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v073-materials.zip",
+    "papers": [
+      "arxiv_2012.09164"
+    ]
+  },
+  {
+    "video_id": "v074",
+    "title": "Searching for MobileNet V3[1905.02244]",
+    "original_title": "[论文简析]Searching for MobileNet V3[1905.02244]",
+    "category": "新模型",
+    "duration_seconds": 483.412833,
+    "slides": 21,
+    "characters": 3500,
+    "cover": "assets/slides/v074/0001.jpg",
+    "url": "reading/v074/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v074-materials.zip",
+    "papers": [
+      "arxiv_1905.02244"
+    ]
+  },
+  {
+    "video_id": "v075",
+    "title": "SlowFast Networks for Video Recognition[1812.03982]",
+    "original_title": "[论文简析]SlowFast Networks for Video Recognition[1812.03982]",
+    "category": "新模型",
+    "duration_seconds": 574.207167,
+    "slides": 23,
+    "characters": 4374,
+    "cover": "assets/slides/v075/0001.jpg",
+    "url": "reading/v075/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v075-materials.zip",
+    "papers": [
+      "arxiv_1812.03982"
+    ]
+  },
+  {
+    "video_id": "v076",
+    "title": "TNT Transformer in Transformer[2103.00112]",
+    "original_title": "[论文简析]TNT Transformer in Transformer[2103.00112]",
+    "category": "新模型",
+    "duration_seconds": 435.946167,
+    "slides": 23,
+    "characters": 3752,
+    "cover": "assets/slides/v076/0001.jpg",
+    "url": "reading/v076/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v076-materials.zip",
+    "papers": [
+      "arxiv_2103.00112"
+    ]
+  },
+  {
+    "video_id": "v077",
+    "title": "TokenLearner What Can 8 Learned Tokens Do for Images and vids[2106.11297]",
+    "original_title": "[论文简析]TokenLearner What Can 8 Learned Tokens Do for Images and vids[2106.11297]",
+    "category": "新模型",
+    "duration_seconds": 673.961833,
+    "slides": 37,
+    "characters": 5384,
+    "cover": "assets/slides/v077/0001.jpg",
+    "url": "reading/v077/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v077-materials.zip",
+    "papers": [
+      "arxiv_2106.11297"
+    ]
+  },
+  {
+    "video_id": "v078",
+    "title": "Tokens-to-Token ViT Training ViT from Scratch on ImageNet[2101.11986]",
+    "original_title": "[论文简析]Tokens-to-Token ViT Training ViT from Scratch on ImageNet[2101.11986]",
+    "category": "新模型",
+    "duration_seconds": 255.5305,
+    "slides": 8,
+    "characters": 1924,
+    "cover": "assets/slides/v078/0001.jpg",
+    "url": "reading/v078/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v078-materials.zip",
+    "papers": [
+      "arxiv_2101.11986"
+    ]
+  },
+  {
+    "video_id": "v079",
+    "title": "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning",
+    "original_title": "[论文简析]Unified Transformer for Efficient Spatiotemporal...[2201.04676]",
+    "category": "新模型",
+    "duration_seconds": 387.52,
+    "slides": 32,
+    "characters": 3212,
+    "cover": "assets/slides/v079/0001.jpg",
+    "url": "reading/v079/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v079-materials.zip",
+    "papers": [
+      "arxiv_2201.04676"
+    ]
+  },
+  {
+    "video_id": "v080",
+    "title": "Vision Transformers Need Registers[2309.16588]",
+    "original_title": "[论文简析]Vision Transformers Need Registers[2309.16588]",
+    "category": "新模型",
+    "duration_seconds": 416.682667,
+    "slides": 14,
+    "characters": 3152,
+    "cover": "assets/slides/v080/0001.jpg",
+    "url": "reading/v080/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v080-materials.zip",
+    "papers": [
+      "arxiv_2309.16588"
+    ]
+  },
+  {
+    "video_id": "v081",
+    "title": "When Shift Operation Meets Vision Transformer[2201.10801]",
+    "original_title": "[论文简析]When Shift Operation Meets Vision Transformer[2201.10801]",
+    "category": "新模型",
+    "duration_seconds": 358.293333,
+    "slides": 13,
+    "characters": 2619,
+    "cover": "assets/slides/v081/0001.jpg",
+    "url": "reading/v081/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v081-materials.zip",
+    "papers": [
+      "arxiv_2201.10801"
+    ]
+  },
+  {
+    "video_id": "v082",
+    "title": "X3D Expanding Architectures for Efficient Video Recognition[2004.04730]",
+    "original_title": "[论文简析]X3D Expanding Architectures for Efficient Video Recognition[2004.04730]",
+    "category": "新模型",
+    "duration_seconds": 246.7625,
+    "slides": 15,
+    "characters": 1811,
+    "cover": "assets/slides/v082/0001.jpg",
+    "url": "reading/v082/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v082-materials.zip",
+    "papers": [
+      "arxiv_2004.04730"
+    ]
+  },
+  {
+    "video_id": "v083",
+    "title": "XCiT Cross-Covariance Image Transformers[2106.09681]",
+    "original_title": "[论文简析]XCiT Cross-Covariance Image Transformers[2106.09681]",
+    "category": "新模型",
+    "duration_seconds": 616.5325,
+    "slides": 16,
+    "characters": 5184,
+    "cover": "assets/slides/v083/0001.jpg",
+    "url": "reading/v083/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v083-materials.zip",
+    "papers": [
+      "arxiv_2106.09681"
+    ]
+  },
+  {
+    "video_id": "v084",
+    "title": "Aggregating Nested Transformers[2105.12723]",
+    "original_title": "[论文速览]Aggregating Nested Transformers[2105.12723]",
+    "category": "新模型",
+    "duration_seconds": 460.394167,
+    "slides": 14,
+    "characters": 3875,
+    "cover": "assets/slides/v084/0001.jpg",
+    "url": "reading/v084/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v084-materials.zip",
+    "papers": [
+      "arxiv_2105.12723"
+    ]
+  },
+  {
+    "video_id": "v085",
+    "title": "Bottleneck Transformers for Visual Recognition[2101.11605]",
+    "original_title": "[论文速览]Bottleneck Transformers for Visual Recognition[2101.11605]",
+    "category": "新模型",
+    "duration_seconds": 129.407833,
+    "slides": 8,
+    "characters": 1086,
+    "cover": "assets/slides/v085/0001.jpg",
+    "url": "reading/v085/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v085-materials.zip",
+    "papers": [
+      "arxiv_2101.11605"
+    ]
+  },
+  {
+    "video_id": "v086",
+    "title": "Deformable Convolutional Networks; DCN[1703.06211]",
+    "original_title": "[论文速览]Deformable Convolutional Networks; DCN[1703.06211]",
+    "category": "新模型",
+    "duration_seconds": 591.957333,
+    "slides": 15,
+    "characters": 4676,
+    "cover": "assets/slides/v086/0001.jpg",
+    "url": "reading/v086/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v086-materials.zip",
+    "papers": [
+      "arxiv_1703.06211"
+    ]
+  },
+  {
+    "video_id": "v087",
+    "title": "EViT Expediting Vision Transformers via Token Reorganizations[2202.07800]",
+    "original_title": "[论文速览]EViT Expediting Vision Transformers via Token Reorganizations[2202.07800]",
+    "category": "新模型",
+    "duration_seconds": 263.253333,
+    "slides": 14,
+    "characters": 2131,
+    "cover": "assets/slides/v087/0001.jpg",
+    "url": "reading/v087/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v087-materials.zip",
+    "papers": [
+      "arxiv_2202.07800"
+    ]
+  },
+  {
+    "video_id": "v088",
+    "title": "Masked-attention Mask Tr. for Universal Image Segmentation[2112.01527]",
+    "original_title": "[论文速览]Masked-attention Mask Tr. for Universal Image Segmentation[2112.01527]",
+    "category": "新模型",
+    "duration_seconds": 481.876833,
+    "slides": 40,
+    "characters": 4048,
+    "cover": "assets/slides/v088/0001.jpg",
+    "url": "reading/v088/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v088-materials.zip",
+    "papers": [
+      "arxiv_2112.01527"
+    ]
+  },
+  {
+    "video_id": "v089",
+    "title": "RetNet A Successor to Transformer for Large Language Models[2307.08621]",
+    "original_title": "[论文速览]RetNet A Successor to Transformer for Large Language Models[2307.08621]",
+    "category": "新模型",
+    "duration_seconds": 1488.085333,
+    "slides": 105,
+    "characters": 11445,
+    "cover": "assets/slides/v089/0001.jpg",
+    "url": "reading/v089/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v089-materials.zip",
+    "papers": [
+      "arxiv_2307.08621"
+    ]
+  },
+  {
+    "video_id": "v090",
+    "title": "Token Turing Machines[2211.09119]",
+    "original_title": "[论文速览]Token Turing Machines[2211.09119]",
+    "category": "新模型",
+    "duration_seconds": 307.242667,
+    "slides": 12,
+    "characters": 2474,
+    "cover": "assets/slides/v090/0001.jpg",
+    "url": "reading/v090/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v090-materials.zip",
+    "papers": [
+      "arxiv_2211.09119"
+    ]
+  },
+  {
+    "video_id": "v091",
+    "title": "iFormer Inception Transformer[2205.12956]",
+    "original_title": "[论文速览]iFormer Inception Transformer[2205.12956]",
+    "category": "新模型",
+    "duration_seconds": 384.789333,
+    "slides": 12,
+    "characters": 3380,
+    "cover": "assets/slides/v091/0001.jpg",
+    "url": "reading/v091/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v091-materials.zip",
+    "papers": [
+      "arxiv_2205.12956"
+    ]
+  },
+  {
+    "video_id": "v092",
+    "title": "Efficient Action Tokenization for Vision-Language-Action Models[2501.09747]",
+    "original_title": "Efficient Action Tokenization for Vision-Language-Action Models[2501.09747]",
+    "category": "机器人学",
+    "duration_seconds": 879.786667,
+    "slides": 89,
+    "characters": 5795,
+    "cover": "assets/slides/v092/0001.jpg",
+    "url": "reading/v092/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v092-materials.zip",
+    "papers": [
+      "arxiv_2501.09747"
+    ]
+  },
+  {
+    "video_id": "v093",
+    "title": "Diffusion Models for Robotics",
+    "original_title": "[论文夕拾]Diffusion Models for Robotics",
+    "category": "机器人学",
+    "duration_seconds": 460.16,
+    "slides": 13,
+    "characters": 4185,
+    "cover": "assets/slides/v093/0001.jpg",
+    "url": "reading/v093/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v093-materials.zip",
+    "papers": [
+      "arxiv_2302.11550",
+      "arxiv_2303.04137",
+      "arxiv_2305.20081",
+      "arxiv_2307.01849",
+      "arxiv_2301.10677",
+      "arxiv_2205.09991",
+      "arxiv_2303.06614",
+      "arxiv_2302.00111",
+      "arxiv_2302.13335",
+      "arxiv_2208.06193",
+      "arxiv_2211.15657"
+    ]
+  },
+  {
+    "video_id": "v094",
+    "title": "Robot Manipulation in a Language Model Era",
+    "original_title": "[论文夕拾]Robot Manipulation in a Language Model Era",
+    "category": "机器人学",
+    "duration_seconds": 722.602667,
+    "slides": 71,
+    "characters": 5292,
+    "cover": "assets/slides/v094/0001.jpg",
+    "url": "reading/v094/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v094-materials.zip",
+    "papers": [
+      "arxiv_2204.00598",
+      "arxiv_2406.18915",
+      "arxiv_2406.10721",
+      "arxiv_2312.07843",
+      "arxiv_2401.12168",
+      "arxiv_2209.07753",
+      "arxiv_2409.12514",
+      "arxiv_2406.09246",
+      "arxiv_2303.03378",
+      "arxiv_2412.03293",
+      "arxiv_2407.08693",
+      "arxiv_2212.06817",
+      "arxiv_2406.20095",
+      "arxiv_2409.01652",
+      "arxiv_2402.07872",
+      "arxiv_2406.11815",
+      "arxiv_2412.10345",
+      "arxiv_2307.15818",
+      "arxiv_2204.01691"
+    ]
+  },
+  {
+    "video_id": "v095",
+    "title": "A Framework for Efficient Robotic Manipulation[2012.07975]",
+    "original_title": "[论文简析]A Framework for Efficient Robotic Manipulation[2012.07975]",
+    "category": "机器人学",
+    "duration_seconds": 332.714667,
+    "slides": 19,
+    "characters": 2712,
+    "cover": "assets/slides/v095/0001.jpg",
+    "url": "reading/v095/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v095-materials.zip",
+    "papers": [
+      "arxiv_2012.07975"
+    ]
+  },
+  {
+    "video_id": "v096",
+    "title": "BCO Behavioral Cloning from Observation[1805.01954]",
+    "original_title": "[论文简析]BCO Behavioral Cloning from Observation[1805.01954]",
+    "category": "机器人学",
+    "duration_seconds": 973.971833,
+    "slides": 22,
+    "characters": 7660,
+    "cover": "assets/slides/v096/0001.jpg",
+    "url": "reading/v096/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v096-materials.zip",
+    "papers": [
+      "arxiv_1805.01954"
+    ]
+  },
+  {
+    "video_id": "v097",
+    "title": "Behavior From the Void Unsupervised Active Pre-Training[2103.04551]",
+    "original_title": "[论文简析]Behavior From the Void Unsupervised Active Pre-Training[2103.04551]",
+    "category": "机器人学",
+    "duration_seconds": 558.569833,
+    "slides": 26,
+    "characters": 4333,
+    "cover": "assets/slides/v097/0001.jpg",
+    "url": "reading/v097/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v097-materials.zip",
+    "papers": [
+      "arxiv_2103.04551"
+    ]
+  },
+  {
+    "video_id": "v098",
+    "title": "C-Learning: Learning to Achieve Goals via Recursive Classification",
+    "original_title": "[论文简析]C-Learning Learning to .. via Recursive Classification[2011.08909]",
+    "category": "机器人学",
+    "duration_seconds": 1467.197833,
+    "slides": 47,
+    "characters": 11012,
+    "cover": "assets/slides/v098/0001.jpg",
+    "url": "reading/v098/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v098-materials.zip",
+    "papers": [
+      "arxiv_2011.08909"
+    ]
+  },
+  {
+    "video_id": "v099",
+    "title": "CURL[2004.04136]",
+    "original_title": "[论文简析]CURL[2004.04136]",
+    "category": "机器人学",
+    "duration_seconds": 674.176,
+    "slides": 42,
+    "characters": 4313,
+    "cover": "assets/slides/v099/0001.jpg",
+    "url": "reading/v099/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v099-materials.zip",
+    "papers": [
+      "arxiv_2004.04136"
+    ]
+  },
+  {
+    "video_id": "v100",
+    "title": "Contrastive Language, Action, and State Pre-training for Robot Learning",
+    "original_title": "[论文简析]Contrastive Language, Action, and State Pre-training...[2304.10782]",
+    "category": "机器人学",
+    "duration_seconds": 375.978667,
+    "slides": 17,
+    "characters": 3418,
+    "cover": "assets/slides/v100/0001.jpg",
+    "url": "reading/v100/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v100-materials.zip",
+    "papers": [
+      "arxiv_2304.10782"
+    ]
+  },
+  {
+    "video_id": "v101",
+    "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning",
+    "original_title": "[论文简析]Crossway Diffusion Improving Diffusion-based ... via SSL[2307.01849]",
+    "category": "机器人学",
+    "duration_seconds": 580.138667,
+    "slides": 19,
+    "characters": 4985,
+    "cover": "assets/slides/v101/0001.jpg",
+    "url": "reading/v101/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v101-materials.zip",
+    "papers": [
+      "arxiv_2307.01849"
+    ]
+  },
+  {
+    "video_id": "v102",
+    "title": "DADS Dynamics-Aware Unsupervised Discovery of Skills[1907.01657]",
+    "original_title": "[论文简析]DADS Dynamics-Aware Unsupervised Discovery of Skills[1907.01657]",
+    "category": "机器人学",
+    "duration_seconds": 1269.758167,
+    "slides": 40,
+    "characters": 8877,
+    "cover": "assets/slides/v102/0001.jpg",
+    "url": "reading/v102/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v102-materials.zip",
+    "papers": [
+      "arxiv_1907.01657"
+    ]
+  },
+  {
+    "video_id": "v103",
+    "title": "DrQ Data regularized Q[2004.13649]",
+    "original_title": "[论文简析]DrQ Data regularized Q[2004.13649]",
+    "category": "机器人学",
+    "duration_seconds": 643.007167,
+    "slides": 22,
+    "characters": 4507,
+    "cover": "assets/slides/v103/0001.jpg",
+    "url": "reading/v103/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v103-materials.zip",
+    "papers": [
+      "arxiv_2004.13649"
+    ]
+  },
+  {
+    "video_id": "v104",
+    "title": "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge",
+    "original_title": "[论文简析]DreamVLA A Vision-Language-Action Model Dreamed...[2507.04447]",
+    "category": "机器人学",
+    "duration_seconds": 551.908167,
+    "slides": 86,
+    "characters": 4134,
+    "cover": "assets/slides/v104/0001.jpg",
+    "url": "reading/v104/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v104-materials.zip",
+    "papers": [
+      "arxiv_2507.04447"
+    ]
+  },
+  {
+    "video_id": "v105",
+    "title": "Dreamer V2[2010.02193]",
+    "original_title": "[论文简析]Dreamer V2[2010.02193]",
+    "category": "机器人学",
+    "duration_seconds": 1399.1445,
+    "slides": 76,
+    "characters": 7238,
+    "cover": "assets/slides/v105/0001.jpg",
+    "url": "reading/v105/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v105-materials.zip",
+    "papers": [
+      "arxiv_2010.02193"
+    ]
+  },
+  {
+    "video_id": "v106",
+    "title": "Efficient Transformers in RL using Actor-Learner Distillation[2104.01655]",
+    "original_title": "[论文简析]Efficient Transformers in RL using Actor-Learner Distillation[2104.01655]",
+    "category": "机器人学",
+    "duration_seconds": 429.6955,
+    "slides": 20,
+    "characters": 3469,
+    "cover": "assets/slides/v106/0001.jpg",
+    "url": "reading/v106/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v106-materials.zip",
+    "papers": [
+      "arxiv_2104.01655"
+    ]
+  },
+  {
+    "video_id": "v107",
+    "title": "Learning Invariant Representations for RL without Reconstructi[2006.10742]",
+    "original_title": "[论文简析]Learning Invariant Representations for RL without Reconstructi[2006.10742]",
+    "category": "机器人学",
+    "duration_seconds": 929.364167,
+    "slides": 25,
+    "characters": 7238,
+    "cover": "assets/slides/v107/0001.jpg",
+    "url": "reading/v107/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v107-materials.zip",
+    "papers": [
+      "arxiv_2006.10742"
+    ]
+  },
+  {
+    "video_id": "v108",
+    "title": "Neuroevolution of Self-interpretable Agents[2003.08165]",
+    "original_title": "[论文简析]Neuroevolution of Self-interpretable Agents[2003.08165]",
+    "category": "机器人学",
+    "duration_seconds": 810.964167,
+    "slides": 43,
+    "characters": 5650,
+    "cover": "assets/slides/v108/0001.jpg",
+    "url": "reading/v108/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v108-materials.zip",
+    "papers": [
+      "arxiv_2003.08165"
+    ]
+  },
+  {
+    "video_id": "v109",
+    "title": "Off-DADS Emergent Real-World Robotic Skills via off policy RL[2004.12974]",
+    "original_title": "[论文简析]Off-DADS Emergent Real-World Robotic Skills via off policy RL[2004.12974]",
+    "category": "机器人学",
+    "duration_seconds": 616.895167,
+    "slides": 28,
+    "characters": 4422,
+    "cover": "assets/slides/v109/0001.jpg",
+    "url": "reading/v109/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v109-materials.zip",
+    "papers": [
+      "arxiv_2004.12974"
+    ]
+  },
+  {
+    "video_id": "v110",
+    "title": "PPG Phasic Policy Gradient[2009.04416]",
+    "original_title": "[论文简析]PPG Phasic Policy Gradient[2009.04416]",
+    "category": "机器人学",
+    "duration_seconds": 467.156833,
+    "slides": 27,
+    "characters": 3675,
+    "cover": "assets/slides/v110/0001.jpg",
+    "url": "reading/v110/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v110-materials.zip",
+    "papers": [
+      "arxiv_2009.04416"
+    ]
+  },
+  {
+    "video_id": "v111",
+    "title": "QT-Opt Scalable Deep RL for Vision-Based Robotic Manipulation[1806.10293]",
+    "original_title": "[论文简析]QT-Opt Scalable Deep RL for Vision-Based Robotic Manipulation[1806.10293]",
+    "category": "机器人学",
+    "duration_seconds": 814.334833,
+    "slides": 33,
+    "characters": 5490,
+    "cover": "assets/slides/v111/0001.jpg",
+    "url": "reading/v111/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v111-materials.zip",
+    "papers": [
+      "arxiv_1806.10293"
+    ]
+  },
+  {
+    "video_id": "v112",
+    "title": "RL-CycleGAN Reinforcement Learning Aware Simulation-To-Real[2006.09001]",
+    "original_title": "[论文简析]RL-CycleGAN Reinforcement Learning Aware Simulation-To-Real[2006.09001]",
+    "category": "机器人学",
+    "duration_seconds": 837.396167,
+    "slides": 26,
+    "characters": 6692,
+    "cover": "assets/slides/v112/0001.jpg",
+    "url": "reading/v112/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v112-materials.zip",
+    "papers": [
+      "arxiv_2006.09001"
+    ]
+  },
+  {
+    "video_id": "v113",
+    "title": "RainbowCombining Improvements in Deep Reinforcement Learning[1710.02298]",
+    "original_title": "[论文简析]RainbowCombining Improvements in Deep Reinforcement Learning[1710.02298]",
+    "category": "机器人学",
+    "duration_seconds": 1656.9575,
+    "slides": 53,
+    "characters": 12888,
+    "cover": "assets/slides/v113/0001.jpg",
+    "url": "reading/v113/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v113-materials.zip",
+    "papers": [
+      "arxiv_1710.02298"
+    ]
+  },
+  {
+    "video_id": "v114",
+    "title": "Reinforcement Learning with Augmented Data RAD[2004.14990]",
+    "original_title": "[论文简析]Reinforcement Learning with Augmented Data RAD[2004.14990]",
+    "category": "机器人学",
+    "duration_seconds": 293.546667,
+    "slides": 9,
+    "characters": 2325,
+    "cover": "assets/slides/v114/0001.jpg",
+    "url": "reading/v114/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v114-materials.zip",
+    "papers": [
+      "arxiv_2004.14990"
+    ]
+  },
+  {
+    "video_id": "v115",
+    "title": "SAC Soft Actor-Critic Part 1[1801.01290]",
+    "original_title": "[论文简析]SAC Soft Actor-Critic Part 1[1801.01290]",
+    "category": "机器人学",
+    "duration_seconds": 2547.964167,
+    "slides": 151,
+    "characters": 17210,
+    "cover": "assets/slides/v115/0001.jpg",
+    "url": "reading/v115/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v115-materials.zip",
+    "papers": [
+      "arxiv_1801.01290"
+    ]
+  },
+  {
+    "video_id": "v116",
+    "title": "SAC Soft Actor-Critic Part 2[1812.05905]",
+    "original_title": "[论文简析]SAC Soft Actor-Critic Part 2[1812.05905]",
+    "category": "机器人学",
+    "duration_seconds": 653.375167,
+    "slides": 55,
+    "characters": 4369,
+    "cover": "assets/slides/v116/0001.jpg",
+    "url": "reading/v116/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v116-materials.zip",
+    "papers": [
+      "arxiv_1812.05905"
+    ]
+  },
+  {
+    "video_id": "v117",
+    "title": "SEER Stored Embeddings for Efficient RL[2103.02886]",
+    "original_title": "[论文简析]SEER Stored Embeddings for Efficient RL[2103.02886]",
+    "category": "机器人学",
+    "duration_seconds": 467.732833,
+    "slides": 13,
+    "characters": 3577,
+    "cover": "assets/slides/v117/0001.jpg",
+    "url": "reading/v117/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v117-materials.zip",
+    "papers": [
+      "arxiv_2103.02886"
+    ]
+  },
+  {
+    "video_id": "v118",
+    "title": "SPR Data-Efficient RL with Self-Predictive Representations[2007.05929]",
+    "original_title": "[论文简析]SPR Data-Efficient RL with Self-Predictive Representations[2007.05929]",
+    "category": "机器人学",
+    "duration_seconds": 494.292833,
+    "slides": 17,
+    "characters": 3719,
+    "cover": "assets/slides/v118/0001.jpg",
+    "url": "reading/v118/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v118-materials.zip",
+    "papers": [
+      "arxiv_2007.05929"
+    ]
+  },
+  {
+    "video_id": "v119",
+    "title": "Stabilizing transformers for reinforcement learning[1910.06764]",
+    "original_title": "[论文简析]Stabilizing transformers for reinforcement learning[1910.06764]",
+    "category": "机器人学",
+    "duration_seconds": 837.694833,
+    "slides": 24,
+    "characters": 6804,
+    "cover": "assets/slides/v119/0001.jpg",
+    "url": "reading/v119/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v119-materials.zip",
+    "papers": [
+      "arxiv_1910.06764"
+    ]
+  },
+  {
+    "video_id": "v120",
+    "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning[2302.12902]",
+    "original_title": "[论文简析]The Dormant Neuron Phenomenon in Deep Reinforcement Learning[2302.12902]",
+    "category": "机器人学",
+    "duration_seconds": 813.013333,
+    "slides": 14,
+    "characters": 4950,
+    "cover": "assets/slides/v120/0001.jpg",
+    "url": "reading/v120/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v120-materials.zip",
+    "papers": [
+      "arxiv_2302.12902"
+    ]
+  },
+  {
+    "video_id": "v121",
+    "title": "Time-Contrastive NetworksSelf-Supervised Learning from Video[1704.06888]",
+    "original_title": "[论文简析]Time-Contrastive NetworksSelf-Supervised Learning from Video[1704.06888]",
+    "category": "机器人学",
+    "duration_seconds": 782.676167,
+    "slides": 16,
+    "characters": 5022,
+    "cover": "assets/slides/v121/0001.jpg",
+    "url": "reading/v121/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v121-materials.zip",
+    "papers": [
+      "arxiv_1704.06888"
+    ]
+  },
+  {
+    "video_id": "v122",
+    "title": "Transformers are Sample Efficient World Models[2209.00588]",
+    "original_title": "[论文简析]Transformers are Sample Efficient World Models[2209.00588]",
+    "category": "机器人学",
+    "duration_seconds": 633.344,
+    "slides": 31,
+    "characters": 5133,
+    "cover": "assets/slides/v122/0001.jpg",
+    "url": "reading/v122/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v122-materials.zip",
+    "papers": [
+      "arxiv_2209.00588"
+    ]
+  },
+  {
+    "video_id": "v123",
+    "title": "Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations",
+    "original_title": "[论文简析]Video Prediction Policy A Generalist Robot Policy...[2412.14803]",
+    "category": "机器人学",
+    "duration_seconds": 624.8255,
+    "slides": 51,
+    "characters": 4972,
+    "cover": "assets/slides/v123/0001.jpg",
+    "url": "reading/v123/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v123-materials.zip",
+    "papers": [
+      "arxiv_2412.14803"
+    ]
+  },
+  {
+    "video_id": "v124",
+    "title": "Visionary Vision architecture discovery for robot learning[2103.14633]",
+    "original_title": "[论文简析]Visionary Vision architecture discovery for robot learning[2103.14633]",
+    "category": "机器人学",
+    "duration_seconds": 630.249833,
+    "slides": 35,
+    "characters": 4671,
+    "cover": "assets/slides/v124/0001.jpg",
+    "url": "reading/v124/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v124-materials.zip",
+    "papers": [
+      "arxiv_2103.14633"
+    ]
+  },
+  {
+    "video_id": "v125",
+    "title": "World Models[1803.10122]",
+    "original_title": "[论文简析]World Models[1803.10122]",
+    "category": "机器人学",
+    "duration_seconds": 819.966833,
+    "slides": 47,
+    "characters": 6023,
+    "cover": "assets/slides/v125/0001.jpg",
+    "url": "reading/v125/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v125-materials.zip",
+    "papers": [
+      "arxiv_1803.10122"
+    ]
+  },
+  {
+    "video_id": "v126",
+    "title": "XSkill Cross Embodiment Skill Discovery[2307.09955]",
+    "original_title": "[论文简析]XSkill Cross Embodiment Skill Discovery[2307.09955]",
+    "category": "机器人学",
+    "duration_seconds": 1129.6,
+    "slides": 135,
+    "characters": 8302,
+    "cover": "assets/slides/v126/0001.jpg",
+    "url": "reading/v126/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v126-materials.zip",
+    "papers": [
+      "arxiv_2307.09955"
+    ]
+  },
+  {
+    "video_id": "v127",
+    "title": "A Self-Improving Generalist Agent for Robotic Manipulation[2306.11706]",
+    "original_title": "[论文速览]A Self-Improving Generalist Agent for Robotic Manipulation[2306.11706]",
+    "category": "机器人学",
+    "duration_seconds": 731.946667,
+    "slides": 37,
+    "characters": 5122,
+    "cover": "assets/slides/v127/0001.jpg",
+    "url": "reading/v127/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v127-materials.zip",
+    "papers": [
+      "arxiv_2306.11706"
+    ]
+  },
+  {
+    "video_id": "v128",
+    "title": "DDPG&TD3[1509.02971][1802.09477]",
+    "original_title": "[论文速览]DDPG&TD3[1509.02971][1802.09477]",
+    "category": "机器人学",
+    "duration_seconds": 416.724833,
+    "slides": 23,
+    "characters": 3316,
+    "cover": "assets/slides/v128/0001.jpg",
+    "url": "reading/v128/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v128-materials.zip",
+    "papers": [
+      "arxiv_1509.02971",
+      "arxiv_1802.09477"
+    ]
+  },
+  {
+    "video_id": "v129",
+    "title": "Decision Transformer RL via Sequence Modeling[2106.01345]",
+    "original_title": "[论文速览]Decision Transformer RL via Sequence Modeling[2106.01345]",
+    "category": "机器人学",
+    "duration_seconds": 310.293167,
+    "slides": 8,
+    "characters": 2604,
+    "cover": "assets/slides/v129/0001.jpg",
+    "url": "reading/v129/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v129-materials.zip",
+    "papers": [
+      "arxiv_2106.01345"
+    ]
+  },
+  {
+    "video_id": "v130",
+    "title": "Diffusion Policy Visuomotor Policy Learning via Action Diff.[2303.04137]",
+    "original_title": "[论文速览]Diffusion Policy Visuomotor Policy Learning via Action Diff.[2303.04137]",
+    "category": "机器人学",
+    "duration_seconds": 349.781333,
+    "slides": 12,
+    "characters": 2911,
+    "cover": "assets/slides/v130/0001.jpg",
+    "url": "reading/v130/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v130-materials.zip",
+    "papers": [
+      "arxiv_2303.04137"
+    ]
+  },
+  {
+    "video_id": "v131",
+    "title": "GENIMA Generative Image as Action Models[2407.07875]",
+    "original_title": "[论文速览]GENIMA Generative Image as Action Models[2407.07875]",
+    "category": "机器人学",
+    "duration_seconds": 379.008,
+    "slides": 61,
+    "characters": 2568,
+    "cover": "assets/slides/v131/0001.jpg",
+    "url": "reading/v131/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v131-materials.zip",
+    "papers": [
+      "arxiv_2407.07875"
+    ]
+  },
+  {
+    "video_id": "v132",
+    "title": "Implicit Behavioral Cloning  IBC[2109.00137]",
+    "original_title": "[论文速览]Implicit Behavioral Cloning  IBC[2109.00137]",
+    "category": "机器人学",
+    "duration_seconds": 416.426667,
+    "slides": 22,
+    "characters": 3331,
+    "cover": "assets/slides/v132/0001.jpg",
+    "url": "reading/v132/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v132-materials.zip",
+    "papers": [
+      "arxiv_2109.00137"
+    ]
+  },
+  {
+    "video_id": "v133",
+    "title": "LLaRA Supercharging Robot Learning Data for VLM Policy[2406.20095]",
+    "original_title": "[论文速览]LLaRA Supercharging Robot Learning Data for VLM Policy[2406.20095]",
+    "category": "机器人学",
+    "duration_seconds": 901.888,
+    "slides": 205,
+    "characters": 6457,
+    "cover": "assets/slides/v133/0001.jpg",
+    "url": "reading/v133/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v133-materials.zip",
+    "papers": [
+      "arxiv_2406.20095"
+    ]
+  },
+  {
+    "video_id": "v134",
+    "title": "Latent Action Pretraining from Videos[2410.11758]",
+    "original_title": "[论文速览]Latent Action Pretraining from Videos[2410.11758]",
+    "category": "机器人学",
+    "duration_seconds": 400.512,
+    "slides": 37,
+    "characters": 2811,
+    "cover": "assets/slides/v134/0001.jpg",
+    "url": "reading/v134/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v134-materials.zip",
+    "papers": [
+      "arxiv_2410.11758"
+    ]
+  },
+  {
+    "video_id": "v135",
+    "title": "Mask-based Latent Reconstruction for Reinforcement Learning[2201.12096]",
+    "original_title": "[论文速览]Mask-based Latent Reconstruction for Reinforcement Learning[2201.12096]",
+    "category": "机器人学",
+    "duration_seconds": 309.888,
+    "slides": 16,
+    "characters": 2743,
+    "cover": "assets/slides/v135/0001.jpg",
+    "url": "reading/v135/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v135-materials.zip",
+    "papers": [
+      "arxiv_2201.12096"
+    ]
+  },
+  {
+    "video_id": "v136",
+    "title": "NeRF-RL Reinforcement Learning with Neural Radiance Fields[2206.01634]",
+    "original_title": "[论文速览]NeRF-RL Reinforcement Learning with Neural Radiance Fields[2206.01634]",
+    "category": "机器人学",
+    "duration_seconds": 612.394667,
+    "slides": 37,
+    "characters": 4912,
+    "cover": "assets/slides/v136/0001.jpg",
+    "url": "reading/v136/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v136-materials.zip",
+    "papers": [
+      "arxiv_2206.01634"
+    ]
+  },
+  {
+    "video_id": "v137",
+    "title": "OpenVLA An Open-Source Vision-Language-Action Model[2406.09246]",
+    "original_title": "[论文速览]OpenVLA An Open-Source Vision-Language-Action Model[2406.09246]",
+    "category": "机器人学",
+    "duration_seconds": 330.538667,
+    "slides": 21,
+    "characters": 2400,
+    "cover": "assets/slides/v137/0001.jpg",
+    "url": "reading/v137/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v137-materials.zip",
+    "papers": [
+      "arxiv_2406.09246"
+    ]
+  },
+  {
+    "video_id": "v138",
+    "title": "Self-Supervised Policy Adaptation during Deployment[2007.04309]",
+    "original_title": "[论文速览]Self-Supervised Policy Adaptation during Deployment[2007.04309]",
+    "category": "机器人学",
+    "duration_seconds": 222.0585,
+    "slides": 6,
+    "characters": 1826,
+    "cover": "assets/slides/v138/0001.jpg",
+    "url": "reading/v138/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v138-materials.zip",
+    "papers": [
+      "arxiv_2007.04309"
+    ]
+  },
+  {
+    "video_id": "v139",
+    "title": "Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation",
+    "original_title": "[论文速览]Stabilizing Deep Q-Learning with ConvNets and ViT...[2107.00644]",
+    "category": "机器人学",
+    "duration_seconds": 235.5625,
+    "slides": 11,
+    "characters": 1883,
+    "cover": "assets/slides/v139/0001.jpg",
+    "url": "reading/v139/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v139-materials.zip",
+    "papers": [
+      "arxiv_2107.00644"
+    ]
+  },
+  {
+    "video_id": "v140",
+    "title": "Synthetic Experience Replay[2303.06614]",
+    "original_title": "[论文速览]Synthetic Experience Replay[2303.06614]",
+    "category": "机器人学",
+    "duration_seconds": 151.637333,
+    "slides": 7,
+    "characters": 1208,
+    "cover": "assets/slides/v140/0001.jpg",
+    "url": "reading/v140/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v140-materials.zip",
+    "papers": [
+      "arxiv_2303.06614"
+    ]
+  },
+  {
+    "video_id": "v141",
+    "title": "VRL3 A Data-Driven Framework for Visual Deep Reinforcement L.[2202.10324]",
+    "original_title": "[论文速览]VRL3 A Data-Driven Framework for Visual Deep Reinforcement L.[2202.10324]",
+    "category": "机器人学",
+    "duration_seconds": 362.24,
+    "slides": 11,
+    "characters": 2682,
+    "cover": "assets/slides/v141/0001.jpg",
+    "url": "reading/v141/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v141-materials.zip",
+    "papers": [
+      "arxiv_2202.10324"
+    ]
+  },
+  {
+    "video_id": "v142",
+    "title": "$\\pi_0$: A Vision-Language-Action Flow Model for General Robot Control",
+    "original_title": "[论文速览]π_0 A Vision-Language-Action Flow Model for General Robot...[2410.24164]",
+    "category": "机器人学",
+    "duration_seconds": 1510.2015,
+    "slides": 148,
+    "characters": 11461,
+    "cover": "assets/slides/v142/0001.jpg",
+    "url": "reading/v142/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v142-materials.zip",
+    "papers": [
+      "arxiv_2410.24164"
+    ]
+  },
+  {
+    "video_id": "v143",
+    "title": "CycleGAN照片转梵高莫奈油画",
+    "original_title": "CycleGAN照片转梵高莫奈油画",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 1798.037333,
+    "slides": 465,
+    "characters": 9227,
+    "cover": "assets/slides/v143/0001.jpg",
+    "url": "reading/v143/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v143-materials.zip",
+    "papers": [
+      "arxiv_1703.10593"
+    ]
+  },
+  {
+    "video_id": "v144",
+    "title": "MMGeneration开源图像生成算法库【OpenMMLab】",
+    "original_title": "MMGeneration开源图像生成算法库【OpenMMLab】",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 2646.464,
+    "slides": 690,
+    "characters": 13606,
+    "cover": "assets/slides/v144/0001.jpg",
+    "url": "reading/v144/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v144-materials.zip",
+    "papers": [
+      "arxiv_2007.06600",
+      "arxiv_1912.04958",
+      "arxiv_2103.17249",
+      "arxiv_1611.07004",
+      "arxiv_1809.11096",
+      "arxiv_2106.12423"
+    ]
+  },
+  {
+    "video_id": "v145",
+    "title": "【精读AI论文】pix2pix-简笔画猫转真猫",
+    "original_title": "【精读AI论文】pix2pix-简笔画猫转真猫",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 5708.933313,
+    "slides": 700,
+    "characters": 27029,
+    "cover": "assets/slides/v145/0001.jpg",
+    "url": "reading/v145/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v145-materials.zip",
+    "papers": [
+      "arxiv_1611.07004"
+    ]
+  },
+  {
+    "video_id": "v146",
+    "title": "人像自拍秒变爆款动漫画风【OpenMMLab】",
+    "original_title": "人像自拍秒变爆款动漫画风【OpenMMLab】",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 1683.072,
+    "slides": 300,
+    "characters": 8361,
+    "cover": "assets/slides/v146/0001.jpg",
+    "url": "reading/v146/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v146-materials.zip",
+    "papers": [
+      "agilegan_2021"
+    ]
+  },
+  {
+    "video_id": "v147",
+    "title": "生成对抗网络GAN交互式可视化",
+    "original_title": "生成对抗网络GAN交互式可视化",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 1165.432313,
+    "slides": 331,
+    "characters": 4731,
+    "cover": "assets/slides/v147/0001.jpg",
+    "url": "reading/v147/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v147-materials.zip",
+    "papers": [
+      "ganlab_2018",
+      "arxiv_1406.2661"
+    ]
+  },
+  {
+    "video_id": "v148",
+    "title": "生成对抗网络GAN开山之作论文精读",
+    "original_title": "生成对抗网络GAN开山之作论文精读",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 6014.442667,
+    "slides": 583,
+    "characters": 29487,
+    "cover": "assets/slides/v148/0001.jpg",
+    "url": "reading/v148/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v148-materials.zip",
+    "papers": [
+      "arxiv_1406.2661"
+    ]
+  },
+  {
+    "video_id": "v149",
+    "title": "精读CycleGAN论文-拍案叫绝的非配对图像风格迁移",
+    "original_title": "精读CycleGAN论文-拍案叫绝的非配对图像风格迁移",
+    "category": "生成对抗网络GAN",
+    "duration_seconds": 6305.266313,
+    "slides": 637,
+    "characters": 29518,
+    "cover": "assets/slides/v149/0001.jpg",
+    "url": "reading/v149/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v149-materials.zip",
+    "papers": [
+      "arxiv_1703.10593"
+    ]
+  },
+  {
+    "video_id": "v150",
+    "title": "An Empirical Study of Training Self-Supervised ViT[2104.02057]",
+    "original_title": "[论文简析]An Empirical Study of Training Self-Supervised ViT[2104.02057]",
+    "category": "表征学习",
+    "duration_seconds": 538.4955,
+    "slides": 25,
+    "characters": 4218,
+    "cover": "assets/slides/v150/0001.jpg",
+    "url": "reading/v150/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v150-materials.zip",
+    "papers": [
+      "arxiv_2104.02057"
+    ]
+  },
+  {
+    "video_id": "v151",
+    "title": "BYOL Bootstrap Your Own Latent[2006.07733]",
+    "original_title": "[论文简析]BYOL Bootstrap Your Own Latent[2006.07733]",
+    "category": "表征学习",
+    "duration_seconds": 982.675833,
+    "slides": 71,
+    "characters": 6884,
+    "cover": "assets/slides/v151/0001.jpg",
+    "url": "reading/v151/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v151-materials.zip",
+    "papers": [
+      "arxiv_2006.07733"
+    ]
+  },
+  {
+    "video_id": "v152",
+    "title": "Barlow TwinsSelf-Supervised Learning via Redundancy Reduction[2103.03230]",
+    "original_title": "[论文简析]Barlow TwinsSelf-Supervised Learning via Redundancy Reduction[2103.03230]",
+    "category": "表征学习",
+    "duration_seconds": 346.0475,
+    "slides": 21,
+    "characters": 2543,
+    "cover": "assets/slides/v152/0001.jpg",
+    "url": "reading/v152/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v152-materials.zip",
+    "papers": [
+      "arxiv_2103.03230"
+    ]
+  },
+  {
+    "video_id": "v153",
+    "title": "Big Self-Supervised Models are Strong Semi-Supervised Learners[2006.10029]",
+    "original_title": "[论文简析]Big Self-Supervised Models are Strong Semi-Supervised Learners[2006.10029]",
+    "category": "表征学习",
+    "duration_seconds": 424.490167,
+    "slides": 19,
+    "characters": 2974,
+    "cover": "assets/slides/v153/0001.jpg",
+    "url": "reading/v153/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v153-materials.zip",
+    "papers": [
+      "arxiv_2006.10029"
+    ]
+  },
+  {
+    "video_id": "v154",
+    "title": "Broaden Your Views for Self-Supervised Video Learning[2103.16559]",
+    "original_title": "[论文简析]Broaden Your Views for Self-Supervised Video Learning[2103.16559]",
+    "category": "表征学习",
+    "duration_seconds": 479.380833,
+    "slides": 35,
+    "characters": 3692,
+    "cover": "assets/slides/v154/0001.jpg",
+    "url": "reading/v154/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v154-materials.zip",
+    "papers": [
+      "arxiv_2103.16559"
+    ]
+  },
+  {
+    "video_id": "v155",
+    "title": "DCLGANSimDCL Dual Contrastive Learning[2104.07689]",
+    "original_title": "[论文简析]DCLGANSimDCL Dual Contrastive Learning[2104.07689]",
+    "category": "表征学习",
+    "duration_seconds": 361.364833,
+    "slides": 12,
+    "characters": 2767,
+    "cover": "assets/slides/v155/0001.jpg",
+    "url": "reading/v155/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v155-materials.zip",
+    "papers": [
+      "arxiv_2104.07689"
+    ]
+  },
+  {
+    "video_id": "v156",
+    "title": "DINO Emerging Properties in SelfSupervised Vision Transformers[2104.14294]",
+    "original_title": "[论文简析]DINO Emerging Properties in SelfSupervised Vision Transformers[2104.14294]",
+    "category": "表征学习",
+    "duration_seconds": 595.4125,
+    "slides": 23,
+    "characters": 5255,
+    "cover": "assets/slides/v156/0001.jpg",
+    "url": "reading/v156/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v156-materials.zip",
+    "papers": [
+      "arxiv_2104.14294"
+    ]
+  },
+  {
+    "video_id": "v157",
+    "title": "Deconstructing Denoising Diffusion Models for SSL[2401.14404]",
+    "original_title": "[论文简析]Deconstructing Denoising Diffusion Models for SSL[2401.14404]",
+    "category": "表征学习",
+    "duration_seconds": 1799.168,
+    "slides": 65,
+    "characters": 12498,
+    "cover": "assets/slides/v157/0001.jpg",
+    "url": "reading/v157/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v157-materials.zip",
+    "papers": [
+      "arxiv_2401.14404"
+    ]
+  },
+  {
+    "video_id": "v158",
+    "title": "Directional SSL for Heavy Image Augmentations[2110.13555]",
+    "original_title": "[论文简析]Directional SSL for Heavy Image Augmentations[2110.13555]",
+    "category": "表征学习",
+    "duration_seconds": 390.250667,
+    "slides": 23,
+    "characters": 3049,
+    "cover": "assets/slides/v158/0001.jpg",
+    "url": "reading/v158/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v158-materials.zip",
+    "papers": [
+      "arxiv_2110.13555"
+    ]
+  },
+  {
+    "video_id": "v159",
+    "title": "DropPos Pre-Training ViTs by Reconstructing Dropped Positions[2309.03576]",
+    "original_title": "[论文简析]DropPos Pre-Training ViTs by Reconstructing Dropped Positions[2309.03576]",
+    "category": "表征学习",
+    "duration_seconds": 381.525333,
+    "slides": 9,
+    "characters": 2996,
+    "cover": "assets/slides/v159/0001.jpg",
+    "url": "reading/v159/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v159-materials.zip",
+    "papers": [
+      "arxiv_2309.03576"
+    ]
+  },
+  {
+    "video_id": "v160",
+    "title": "Energy-Inspired Self-Supervised Pretraining for Vision Models[2302.01384]",
+    "original_title": "[论文简析]Energy-Inspired Self-Supervised Pretraining for Vision Models[2302.01384]",
+    "category": "表征学习",
+    "duration_seconds": 667.733333,
+    "slides": 38,
+    "characters": 4677,
+    "cover": "assets/slides/v160/0001.jpg",
+    "url": "reading/v160/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v160-materials.zip",
+    "papers": [
+      "arxiv_2302.01384"
+    ]
+  },
+  {
+    "video_id": "v161",
+    "title": "Equivariant Contrastive Learning[2111.00899]",
+    "original_title": "[论文简析]Equivariant Contrastive Learning[2111.00899]",
+    "category": "表征学习",
+    "duration_seconds": 601.152,
+    "slides": 23,
+    "characters": 4725,
+    "cover": "assets/slides/v161/0001.jpg",
+    "url": "reading/v161/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v161-materials.zip",
+    "papers": [
+      "arxiv_2111.00899"
+    ]
+  },
+  {
+    "video_id": "v162",
+    "title": "Evolving Losses for Unsupervised Video Representation Learning[2002.12177]",
+    "original_title": "[论文简析]Evolving Losses for Unsupervised Video Representation Learning[2002.12177]",
+    "category": "表征学习",
+    "duration_seconds": 1112.8945,
+    "slides": 41,
+    "characters": 8008,
+    "cover": "assets/slides/v162/0001.jpg",
+    "url": "reading/v162/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v162-materials.zip",
+    "papers": [
+      "arxiv_2002.12177"
+    ]
+  },
+  {
+    "video_id": "v163",
+    "title": "Extreme Masking for Learning Instance and Distributed Visual Representations",
+    "original_title": "[论文简析]Extreme Masking for Learning Instance and Distributed Visual..[2206.04667]",
+    "category": "表征学习",
+    "duration_seconds": 321.194667,
+    "slides": 13,
+    "characters": 2528,
+    "cover": "assets/slides/v163/0001.jpg",
+    "url": "reading/v163/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v163-materials.zip",
+    "papers": [
+      "arxiv_2206.04667"
+    ]
+  },
+  {
+    "video_id": "v164",
+    "title": "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations",
+    "original_title": "[论文简析]Generative Scene Inference and Sampling...[1907.13052]",
+    "category": "表征学习",
+    "duration_seconds": 853.077333,
+    "slides": 32,
+    "characters": 6661,
+    "cover": "assets/slides/v164/0001.jpg",
+    "url": "reading/v164/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v164-materials.zip",
+    "papers": [
+      "arxiv_1907.13052"
+    ]
+  },
+  {
+    "video_id": "v165",
+    "title": "Humble Teachers Teach Better Students for Semi-Supervised Object Detection",
+    "original_title": "[论文简析]Humble Teachers Teach Better Students for Semi-Supervised Object Detection",
+    "category": "表征学习",
+    "duration_seconds": 763.924167,
+    "slides": 26,
+    "characters": 6153,
+    "cover": "assets/slides/v165/0001.jpg",
+    "url": "reading/v165/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v165-materials.zip",
+    "papers": [
+      "arxiv_2106.10456"
+    ]
+  },
+  {
+    "video_id": "v166",
+    "title": "Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers",
+    "original_title": "[论文简析]Keeping Your Eye on the Ball Trajectory Attention...[2106.05392]",
+    "category": "表征学习",
+    "duration_seconds": 1182.186667,
+    "slides": 64,
+    "characters": 8404,
+    "cover": "assets/slides/v166/0001.jpg",
+    "url": "reading/v166/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v166-materials.zip",
+    "papers": [
+      "arxiv_2106.05392"
+    ]
+  },
+  {
+    "video_id": "v167",
+    "title": "Learning by Aligning Videos in Time[2103.17260]",
+    "original_title": "[论文简析]Learning by Aligning Videos in Time[2103.17260]",
+    "category": "表征学习",
+    "duration_seconds": 672.575167,
+    "slides": 39,
+    "characters": 4833,
+    "cover": "assets/slides/v167/0001.jpg",
+    "url": "reading/v167/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v167-materials.zip",
+    "papers": [
+      "arxiv_2103.17260"
+    ]
+  },
+  {
+    "video_id": "v168",
+    "title": "Leveraging BG AUG to encourage semantic focus in SSCL[2103.12719]",
+    "original_title": "[论文简析]Leveraging BG AUG to encourage semantic focus in SSCL[2103.12719]",
+    "category": "表征学习",
+    "duration_seconds": 274.047833,
+    "slides": 10,
+    "characters": 1611,
+    "cover": "assets/slides/v168/0001.jpg",
+    "url": "reading/v168/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v168-materials.zip",
+    "papers": [
+      "arxiv_2103.12719"
+    ]
+  },
+  {
+    "video_id": "v169",
+    "title": "Location-Aware Self-Supervised Transformers for Semantic Seg.[2212.02400]",
+    "original_title": "[论文简析]Location-Aware Self-Supervised Transformers for Semantic Seg.[2212.02400]",
+    "category": "表征学习",
+    "duration_seconds": 722.261333,
+    "slides": 23,
+    "characters": 5927,
+    "cover": "assets/slides/v169/0001.jpg",
+    "url": "reading/v169/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v169-materials.zip",
+    "papers": [
+      "arxiv_2212.02400"
+    ]
+  },
+  {
+    "video_id": "v170",
+    "title": "MONet Unsupervised Scene Decomposition and Representation[1901.11390]",
+    "original_title": "[论文简析]MONet Unsupervised Scene Decomposition and Representation[1901.11390]",
+    "category": "表征学习",
+    "duration_seconds": 822.762667,
+    "slides": 40,
+    "characters": 5936,
+    "cover": "assets/slides/v170/0001.jpg",
+    "url": "reading/v170/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v170-materials.zip",
+    "papers": [
+      "arxiv_1901.11390"
+    ]
+  },
+  {
+    "video_id": "v171",
+    "title": "MixMAE & Mixed AE[2205.13137][2303.17152]",
+    "original_title": "[论文简析]MixMAE & Mixed AE[2205.13137][2303.17152]",
+    "category": "表征学习",
+    "duration_seconds": 855.808,
+    "slides": 38,
+    "characters": 6261,
+    "cover": "assets/slides/v171/0001.jpg",
+    "url": "reading/v171/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v171-materials.zip",
+    "papers": [
+      "arxiv_2303.17152",
+      "arxiv_2205.13137"
+    ]
+  },
+  {
+    "video_id": "v172",
+    "title": "MoCo Momentum Contrast Learning[1911.057222003.04297]",
+    "original_title": "[论文简析]MoCo Momentum Contrast Learning[1911.057222003.04297]",
+    "category": "表征学习",
+    "duration_seconds": 599.9565,
+    "slides": 29,
+    "characters": 4802,
+    "cover": "assets/slides/v172/0001.jpg",
+    "url": "reading/v172/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v172-materials.zip",
+    "papers": [
+      "arxiv_2003.04297",
+      "arxiv_1911.05722"
+    ]
+  },
+  {
+    "video_id": "v173",
+    "title": "Object-Centric Learning with Slot Attention[2006.15055]",
+    "original_title": "[论文简析]Object-Centric Learning with Slot Attention[2006.15055]",
+    "category": "表征学习",
+    "duration_seconds": 557.162667,
+    "slides": 22,
+    "characters": 4246,
+    "cover": "assets/slides/v173/0001.jpg",
+    "url": "reading/v173/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v173-materials.zip",
+    "papers": [
+      "arxiv_2006.15055"
+    ]
+  },
+  {
+    "video_id": "v174",
+    "title": "Probabilistic Representations for Video Contrastive Learning[2204.03946]",
+    "original_title": "[论文简析]Probabilistic Representations for Video Contrastive Learning[2204.03946]",
+    "category": "表征学习",
+    "duration_seconds": 886.549333,
+    "slides": 27,
+    "characters": 7124,
+    "cover": "assets/slides/v174/0001.jpg",
+    "url": "reading/v174/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v174-materials.zip",
+    "papers": [
+      "arxiv_2204.03946"
+    ]
+  },
+  {
+    "video_id": "v175",
+    "title": "Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement",
+    "original_title": "[论文简析]Progressive Stage-wise Learning for Unsupervised Feature.. [2106.05554]",
+    "category": "表征学习",
+    "duration_seconds": 458.794167,
+    "slides": 16,
+    "characters": 3425,
+    "cover": "assets/slides/v175/0001.jpg",
+    "url": "reading/v175/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v175-materials.zip",
+    "papers": [
+      "arxiv_2106.05554"
+    ]
+  },
+  {
+    "video_id": "v176",
+    "title": "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning",
+    "original_title": "[论文简析]Propagate Yourself Exploring Pixel-Level Consistency...[2011.10043]",
+    "category": "表征学习",
+    "duration_seconds": 456.362167,
+    "slides": 16,
+    "characters": 3622,
+    "cover": "assets/slides/v176/0001.jpg",
+    "url": "reading/v176/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v176-materials.zip",
+    "papers": [
+      "arxiv_2011.10043"
+    ]
+  },
+  {
+    "video_id": "v177",
+    "title": "Representation Learning with Contrastive Predictive Coding[1807.03748]",
+    "original_title": "[论文简析]Representation Learning with Contrastive Predictive Coding[1807.03748]",
+    "category": "表征学习",
+    "duration_seconds": 1025.363833,
+    "slides": 27,
+    "characters": 7447,
+    "cover": "assets/slides/v177/0001.jpg",
+    "url": "reading/v177/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v177-materials.zip",
+    "papers": [
+      "arxiv_1807.03748"
+    ]
+  },
+  {
+    "video_id": "v178",
+    "title": "Rethinking Pre-training and Self-training[2006.06882]",
+    "original_title": "[论文简析]Rethinking Pre-training and Self-training[2006.06882]",
+    "category": "表征学习",
+    "duration_seconds": 501.162167,
+    "slides": 19,
+    "characters": 3746,
+    "cover": "assets/slides/v178/0001.jpg",
+    "url": "reading/v178/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v178-materials.zip",
+    "papers": [
+      "arxiv_2006.06882"
+    ]
+  },
+  {
+    "video_id": "v179",
+    "title": "SimCLR A simple framework for contrastive learning[2002.05709]",
+    "original_title": "[论文简析]SimCLR A simple framework for contrastive learning[2002.05709]",
+    "category": "表征学习",
+    "duration_seconds": 191.957167,
+    "slides": 10,
+    "characters": 1207,
+    "cover": "assets/slides/v179/0001.jpg",
+    "url": "reading/v179/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v179-materials.zip",
+    "papers": [
+      "arxiv_2002.05709"
+    ]
+  },
+  {
+    "video_id": "v180",
+    "title": "SimSiam Exploring Simple Siamese Representation Learning[2011.10566]",
+    "original_title": "[论文简析]SimSiam Exploring Simple Siamese Representation Learning[2011.10566]",
+    "category": "表征学习",
+    "duration_seconds": 554.943167,
+    "slides": 39,
+    "characters": 3634,
+    "cover": "assets/slides/v180/0001.jpg",
+    "url": "reading/v180/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v180-materials.zip",
+    "papers": [
+      "arxiv_2011.10566"
+    ]
+  },
+  {
+    "video_id": "v181",
+    "title": "SwAV Swapping Assignments between multiple Views[2006.09882]",
+    "original_title": "[论文简析]SwAV Swapping Assignments between multiple Views[2006.09882]",
+    "category": "表征学习",
+    "duration_seconds": 1019.283833,
+    "slides": 42,
+    "characters": 7067,
+    "cover": "assets/slides/v181/0001.jpg",
+    "url": "reading/v181/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v181-materials.zip",
+    "papers": [
+      "arxiv_2006.09882"
+    ]
+  },
+  {
+    "video_id": "v182",
+    "title": "Towards Better Understanding of Self-Supervised Representation[2203.01881]",
+    "original_title": "[论文简析]Towards Better Understanding of Self-Supervised Representation[2203.01881]",
+    "category": "表征学习",
+    "duration_seconds": 465.578667,
+    "slides": 25,
+    "characters": 3833,
+    "cover": "assets/slides/v182/0001.jpg",
+    "url": "reading/v182/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v182-materials.zip",
+    "papers": [
+      "arxiv_2203.01881"
+    ]
+  },
+  {
+    "video_id": "v183",
+    "title": "TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition",
+    "original_title": "[论文简析]TransRank SS Video...Ranking-based Transformation Recognition[2205.02028]",
+    "category": "表征学习",
+    "duration_seconds": 867.477333,
+    "slides": 22,
+    "characters": 6640,
+    "cover": "assets/slides/v183/0001.jpg",
+    "url": "reading/v183/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v183-materials.zip",
+    "papers": [
+      "arxiv_2205.02028"
+    ]
+  },
+  {
+    "video_id": "v184",
+    "title": "Transf. Meta-learners for Implicit Neural Representations[2208.02801]",
+    "original_title": "[论文简析]Transf. Meta-learners for Implicit Neural Representations[2208.02801]",
+    "category": "表征学习",
+    "duration_seconds": 598.528,
+    "slides": 22,
+    "characters": 4379,
+    "cover": "assets/slides/v184/0001.jpg",
+    "url": "reading/v184/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v184-materials.zip",
+    "papers": [
+      "arxiv_2208.02801"
+    ]
+  },
+  {
+    "video_id": "v185",
+    "title": "Unsupervised Learning of Object Keypoints for Perception and Control",
+    "original_title": "[论文简析]Unsupervised Learning of Object Keypoints for Perception..[1906.11883]",
+    "category": "表征学习",
+    "duration_seconds": 676.2445,
+    "slides": 25,
+    "characters": 4792,
+    "cover": "assets/slides/v185/0001.jpg",
+    "url": "reading/v185/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v185-materials.zip",
+    "papers": [
+      "arxiv_1906.11883"
+    ]
+  },
+  {
+    "video_id": "v186",
+    "title": "Vi2CLR Video and Image for Visual Contrastive Learning of Representation",
+    "original_title": "[论文简析]Vi2CLR Video and Image for Visual Contrastive Learning of Representation",
+    "category": "表征学习",
+    "duration_seconds": 551.8285,
+    "slides": 23,
+    "characters": 4539,
+    "cover": "assets/slides/v186/0001.jpg",
+    "url": "reading/v186/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v186-materials.zip",
+    "papers": [
+      "cvf_2021_vi2clr"
+    ]
+  },
+  {
+    "video_id": "v187",
+    "title": "VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples",
+    "original_title": "[论文简析]VideoMoCo ...Temporally Adversarial Examples[2103.05905]",
+    "category": "表征学习",
+    "duration_seconds": 402.154167,
+    "slides": 22,
+    "characters": 3019,
+    "cover": "assets/slides/v187/0001.jpg",
+    "url": "reading/v187/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v187-materials.zip",
+    "papers": [
+      "arxiv_2103.05905"
+    ]
+  },
+  {
+    "video_id": "v188",
+    "title": "Wasserstein Contrastive Representation Distillation WCoRD[2012.08674]",
+    "original_title": "[论文简析]Wasserstein Contrastive Representation Distillation WCoRD[2012.08674]",
+    "category": "表征学习",
+    "duration_seconds": 1180.2865,
+    "slides": 43,
+    "characters": 9047,
+    "cover": "assets/slides/v188/0001.jpg",
+    "url": "reading/v188/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v188-materials.zip",
+    "papers": [
+      "arxiv_2012.08674"
+    ]
+  },
+  {
+    "video_id": "v189",
+    "title": "β-VAE Learning basic visual concepts with a constrained variational...",
+    "original_title": "[论文简析]β-VAE Learning basic visual concepts with a constrained variational...",
+    "category": "表征学习",
+    "duration_seconds": 769.534833,
+    "slides": 30,
+    "characters": 5704,
+    "cover": "assets/slides/v189/0001.jpg",
+    "url": "reading/v189/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v189-materials.zip",
+    "papers": [
+      "openreview_beta_vae"
+    ]
+  },
+  {
+    "video_id": "v190",
+    "title": "Improving Transferability of Representations via Augmentation-Aware Self-Supervision",
+    "original_title": "[论文速览]AugSelf Improving Transferability...Augmentation-Aware..[2111.09613]",
+    "category": "表征学习",
+    "duration_seconds": 248.895833,
+    "slides": 17,
+    "characters": 1910,
+    "cover": "assets/slides/v190/0001.jpg",
+    "url": "reading/v190/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v190-materials.zip",
+    "papers": [
+      "arxiv_2111.09613"
+    ]
+  },
+  {
+    "video_id": "v191",
+    "title": "Data-Efficient Image Recog with Contrastive Predictive Coding[1905.09272]",
+    "original_title": "[论文速览]Data-Efficient Image Recog with Contrastive Predictive Coding[1905.09272]",
+    "category": "表征学习",
+    "duration_seconds": 375.4235,
+    "slides": 13,
+    "characters": 2571,
+    "cover": "assets/slides/v191/0001.jpg",
+    "url": "reading/v191/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v191-materials.zip",
+    "papers": [
+      "arxiv_1905.09272"
+    ]
+  },
+  {
+    "video_id": "v192",
+    "title": "Efficient Visual Pretraining with Contrastive Detection[2103.10957]",
+    "original_title": "[论文速览]Efficient Visual Pretraining with Contrastive Detection[2103.10957]",
+    "category": "表征学习",
+    "duration_seconds": 257.578667,
+    "slides": 15,
+    "characters": 2174,
+    "cover": "assets/slides/v192/0001.jpg",
+    "url": "reading/v192/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v192-materials.zip",
+    "papers": [
+      "arxiv_2103.10957"
+    ]
+  },
+  {
+    "video_id": "v193",
+    "title": "Finite Scalar Quantization VQ-VAE Made Simple[2309.15505]",
+    "original_title": "[论文速览]Finite Scalar Quantization VQ-VAE Made Simple[2309.15505]",
+    "category": "表征学习",
+    "duration_seconds": 325.589333,
+    "slides": 10,
+    "characters": 2257,
+    "cover": "assets/slides/v193/0001.jpg",
+    "url": "reading/v193/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v193-materials.zip",
+    "papers": [
+      "arxiv_2309.15505"
+    ]
+  },
+  {
+    "video_id": "v194",
+    "title": "Generative Modeling by Estimating Gradients of the Data Dist[1907.05600]",
+    "original_title": "[论文速览]Generative Modeling by Estimating Gradients of the Data Dist[1907.05600]",
+    "category": "表征学习",
+    "duration_seconds": 1071.957333,
+    "slides": 43,
+    "characters": 7439,
+    "cover": "assets/slides/v194/0001.jpg",
+    "url": "reading/v194/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v194-materials.zip",
+    "papers": [
+      "arxiv_1907.05600"
+    ]
+  },
+  {
+    "video_id": "v195",
+    "title": "Invariant Information Clustering for Unsupervised Image Classification and Segmentation",
+    "original_title": "[论文速览]Invariant Information Clustering for Unsupervised Image...[1807.06653]",
+    "category": "表征学习",
+    "duration_seconds": 623.445333,
+    "slides": 33,
+    "characters": 4796,
+    "cover": "assets/slides/v195/0001.jpg",
+    "url": "reading/v195/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v195-materials.zip",
+    "papers": [
+      "arxiv_1807.06653"
+    ]
+  },
+  {
+    "video_id": "v196",
+    "title": "Jigsaw Clustering for Unsupervised Visual Representation Learn[2104.00323]",
+    "original_title": "[论文速览]Jigsaw Clustering for Unsupervised Visual Representation Learn[2104.00323]",
+    "category": "表征学习",
+    "duration_seconds": 331.519833,
+    "slides": 16,
+    "characters": 2495,
+    "cover": "assets/slides/v196/0001.jpg",
+    "url": "reading/v196/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v196-materials.zip",
+    "papers": [
+      "arxiv_2104.00323"
+    ]
+  },
+  {
+    "video_id": "v197",
+    "title": "Long Short View Feature Decomposition via Contrastive Video Representation Learning",
+    "original_title": "[论文速览]Long Short View Feature Decomposition via Contrastive Video...[2109.11593]",
+    "category": "表征学习",
+    "duration_seconds": 368.362167,
+    "slides": 29,
+    "characters": 3146,
+    "cover": "assets/slides/v197/0001.jpg",
+    "url": "reading/v197/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v197-materials.zip",
+    "papers": [
+      "arxiv_2109.11593"
+    ]
+  },
+  {
+    "video_id": "v198",
+    "title": "Masked Feature Prediction .Self-Supervised Visual Pre-Training[2112.09133]",
+    "original_title": "[论文速览]Masked Feature Prediction .Self-Supervised Visual Pre-Training[2112.09133]",
+    "category": "表征学习",
+    "duration_seconds": 315.946667,
+    "slides": 14,
+    "characters": 2421,
+    "cover": "assets/slides/v198/0001.jpg",
+    "url": "reading/v198/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v198-materials.zip",
+    "papers": [
+      "arxiv_2112.09133"
+    ]
+  },
+  {
+    "video_id": "v199",
+    "title": "Multi-Object Representation Learning with Iterative Variational Inference",
+    "original_title": "[论文速览]Multi-Object ... with Iterative Variational Inference[1903.00450]",
+    "category": "表征学习",
+    "duration_seconds": 928.426667,
+    "slides": 37,
+    "characters": 6359,
+    "cover": "assets/slides/v199/0001.jpg",
+    "url": "reading/v199/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v199-materials.zip",
+    "papers": [
+      "arxiv_1903.00450"
+    ]
+  },
+  {
+    "video_id": "v200",
+    "title": "Nearest-Neighbor Contrastive Learning of Visual Representations[2104.14548",
+    "original_title": "[论文速览]Nearest-Neighbor Contrastive Learning of Visual Representations[2104.14548",
+    "category": "表征学习",
+    "duration_seconds": 333.781167,
+    "slides": 35,
+    "characters": 2520,
+    "cover": "assets/slides/v200/0001.jpg",
+    "url": "reading/v200/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v200-materials.zip",
+    "papers": [
+      "arxiv_2104.14548"
+    ]
+  },
+  {
+    "video_id": "v201",
+    "title": "Object Discovery and Representation Networks[2203.08777]",
+    "original_title": "[论文速览]Object Discovery and Representation Networks[2203.08777]",
+    "category": "表征学习",
+    "duration_seconds": 351.125333,
+    "slides": 15,
+    "characters": 2866,
+    "cover": "assets/slides/v201/0001.jpg",
+    "url": "reading/v201/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v201-materials.zip",
+    "papers": [
+      "arxiv_2203.08777"
+    ]
+  },
+  {
+    "video_id": "v202",
+    "title": "SODA Bottleneck Diffusion Models for Representation Learning[2311.17901]",
+    "original_title": "[论文速览]SODA Bottleneck Diffusion Models for Representation Learning[2311.17901]",
+    "category": "表征学习",
+    "duration_seconds": 838.570667,
+    "slides": 22,
+    "characters": 6479,
+    "cover": "assets/slides/v202/0001.jpg",
+    "url": "reading/v202/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v202-materials.zip",
+    "papers": [
+      "arxiv_2311.17901"
+    ]
+  },
+  {
+    "video_id": "v203",
+    "title": "SS Video Representation Learning by Context&Motion Decoupling[2104.00862]",
+    "original_title": "[论文速览]SS Video Representation Learning by Context&Motion Decoupling[2104.00862]",
+    "category": "表征学习",
+    "duration_seconds": 507.348833,
+    "slides": 19,
+    "characters": 3794,
+    "cover": "assets/slides/v203/0001.jpg",
+    "url": "reading/v203/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v203-materials.zip",
+    "papers": [
+      "arxiv_2104.00862"
+    ]
+  },
+  {
+    "video_id": "v204",
+    "title": "Self-supervised Video Transformer[2112.01514]",
+    "original_title": "[论文速览]Self-supervised Video Transformer[2112.01514]",
+    "category": "表征学习",
+    "duration_seconds": 428.821333,
+    "slides": 10,
+    "characters": 3493,
+    "cover": "assets/slides/v204/0001.jpg",
+    "url": "reading/v204/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v204-materials.zip",
+    "papers": [
+      "arxiv_2112.01514"
+    ]
+  },
+  {
+    "video_id": "v205",
+    "title": "Solving Inefficiency of Self-supervised Representation Learning[2104.0876]",
+    "original_title": "[论文速览]Solving Inefficiency of Self-supervised Representation Learning[2104.0876]",
+    "category": "表征学习",
+    "duration_seconds": 376.916833,
+    "slides": 16,
+    "characters": 2964,
+    "cover": "assets/slides/v205/0001.jpg",
+    "url": "reading/v205/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v205-materials.zip",
+    "papers": [
+      "arxiv_2104.08760"
+    ]
+  },
+  {
+    "video_id": "v206",
+    "title": "Theia: Distilling Diverse Vision Foundation Models for Robot Learning",
+    "original_title": "[论文速览]Theia Distilling Diverse Vision Foundation Models for Robot..[2407.20179]",
+    "category": "表征学习",
+    "duration_seconds": 483.029333,
+    "slides": 119,
+    "characters": 3846,
+    "cover": "assets/slides/v206/0001.jpg",
+    "url": "reading/v206/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v206-materials.zip",
+    "papers": [
+      "arxiv_2407.20179"
+    ]
+  },
+  {
+    "video_id": "v207",
+    "title": "Video Rep. Learning by Recognizing Temporal Transformations[2007.10730]",
+    "original_title": "[论文速览]Video Rep. Learning by Recognizing Temporal Transformations[2007.10730]",
+    "category": "表征学习",
+    "duration_seconds": 393.856,
+    "slides": 36,
+    "characters": 2709,
+    "cover": "assets/slides/v207/0001.jpg",
+    "url": "reading/v207/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v207-materials.zip",
+    "papers": [
+      "arxiv_2007.10730"
+    ]
+  },
+  {
+    "video_id": "v208",
+    "title": "iBOT Image BERT Pre-Training with Online Tokenizer[2111.07832]",
+    "original_title": "[论文速览]iBOT Image BERT Pre-Training with Online Tokenizer[2111.07832]",
+    "category": "表征学习",
+    "duration_seconds": 434.346667,
+    "slides": 24,
+    "characters": 3745,
+    "cover": "assets/slides/v208/0001.jpg",
+    "url": "reading/v208/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v208-materials.zip",
+    "papers": [
+      "arxiv_2111.07832"
+    ]
+  },
+  {
+    "video_id": "v209",
+    "title": "22位巨头重磅联名！当AI开始自我进化，我们的时间还剩多少？",
+    "original_title": "22位巨头重磅联名！当AI开始自我进化，我们的时间还剩多少？",
+    "category": "论文精读",
+    "duration_seconds": 693.951565,
+    "slides": 220,
+    "characters": 3983,
+    "cover": "assets/slides/v209/0001.jpg",
+    "url": "reading/v209/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v209-materials.zip",
+    "papers": [
+      "arxiv_2609.36054"
+    ]
+  },
+  {
+    "video_id": "v210",
+    "title": "3秒复刻灵笼！CosyVoice三部曲深度解析",
+    "original_title": "3秒复刻灵笼！CosyVoice三部曲深度解析【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 649.184739,
+    "slides": 74,
+    "characters": 3981,
+    "cover": "assets/slides/v210/0001.jpg",
+    "url": "reading/v210/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v210-materials.zip",
+    "papers": [
+      "arxiv_2407.05407",
+      "arxiv_2412.10117",
+      "arxiv_2505.17589"
+    ]
+  },
+  {
+    "video_id": "v211",
+    "title": "AI视频生成即将革命！斯坦福用AI杂交暴砍98%算力成本！",
+    "original_title": "AI视频生成即将革命！斯坦福用AI杂交暴砍98%算力成本！【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 444.94161,
+    "slides": 62,
+    "characters": 2561,
+    "cover": "assets/slides/v211/0001.jpg",
+    "url": "reading/v211/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v211-materials.zip",
+    "papers": [
+      "arxiv_2506.05340"
+    ]
+  },
+  {
+    "video_id": "v212",
+    "title": "Attention被爆杀？VMamba原班人马颠覆Transformer！【vHeat论文精读】",
+    "original_title": "Attention被爆杀？VMamba原班人马颠覆Transformer！【vHeat论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1181.013515,
+    "slides": 103,
+    "characters": 6089,
+    "cover": "assets/slides/v212/0001.jpg",
+    "url": "reading/v212/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v212-materials.zip",
+    "papers": [
+      "arxiv_2405.16555"
+    ]
+  },
+  {
+    "video_id": "v213",
+    "title": "Bengio亲手戳穿CoT神话！25％顶会论文遭打脸：CoT Is Not Explainability",
+    "original_title": "Bengio亲手戳穿CoT神话！25％顶会论文遭打脸：CoT Is Not Explainability【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1239.866313,
+    "slides": 250,
+    "characters": 6184,
+    "cover": "assets/slides/v213/0001.jpg",
+    "url": "reading/v213/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v213-materials.zip",
+    "papers": [
+      "cot_is_not_explainability"
+    ]
+  },
+  {
+    "video_id": "v214",
+    "title": "CVPR 2026最佳论文提名 Mapping Networks",
+    "original_title": "CVPR 2026最佳论文提名 Mapping Networks【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 650.646349,
+    "slides": 222,
+    "characters": 3561,
+    "cover": "assets/slides/v214/0001.jpg",
+    "url": "reading/v214/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v214-materials.zip",
+    "papers": [
+      "arxiv_2602.19134"
+    ]
+  },
+  {
+    "video_id": "v215",
+    "title": "CVPR'26 最佳学生论文提名！ChordEdit",
+    "original_title": "CVPR'26 最佳学生论文提名！ChordEdit【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 561.365624,
+    "slides": 176,
+    "characters": 3246,
+    "cover": "assets/slides/v215/0001.jpg",
+    "url": "reading/v215/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v215-materials.zip",
+    "papers": [
+      "arxiv_2602.19083"
+    ]
+  },
+  {
+    "video_id": "v216",
+    "title": "DeepSeek-V4不会比它更好  Kimi K2.5",
+    "original_title": "DeepSeek-V4不会比它更好  Kimi K2.5【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 475.266032,
+    "slides": 154,
+    "characters": 2551,
+    "cover": "assets/slides/v216/0001.jpg",
+    "url": "reading/v216/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v216-materials.zip",
+    "papers": [
+      "arxiv_2602.02276"
+    ]
+  },
+  {
+    "video_id": "v217",
+    "title": "DeepSeek下一代技术曝光！梁文锋获ACL'25最佳论文奖 NSA",
+    "original_title": "DeepSeek下一代技术曝光！梁文锋获ACL'25最佳论文奖 NSA【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 626.815646,
+    "slides": 96,
+    "characters": 3269,
+    "cover": "assets/slides/v217/0001.jpg",
+    "url": "reading/v217/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v217-materials.zip",
+    "papers": [
+      "arxiv_2502.11089"
+    ]
+  },
+  {
+    "video_id": "v218",
+    "title": "DiT被CNN爆杀！提速500%碾压Transformer：DiC",
+    "original_title": "DiT被CNN爆杀！提速500%碾压Transformer：DiC【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 758.983878,
+    "slides": 76,
+    "characters": 4108,
+    "cover": "assets/slides/v218/0001.jpg",
+    "url": "reading/v218/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v218-materials.zip",
+    "papers": [
+      "arxiv_2501.00603"
+    ]
+  },
+  {
+    "video_id": "v219",
+    "title": "ICLR 神作！文言文「硬控」全网大模型，100%越狱！",
+    "original_title": "ICLR 神作！文言文「硬控」全网大模型，100%越狱！",
+    "category": "论文精读",
+    "duration_seconds": 377.417143,
+    "slides": 106,
+    "characters": 2010,
+    "cover": "assets/slides/v219/0001.jpg",
+    "url": "reading/v219/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v219-materials.zip",
+    "papers": [
+      "arxiv_2602.22983"
+    ]
+  },
+  {
+    "video_id": "v220",
+    "title": "ICML'25神作！分隔符优化狂减50%KV缓存：SepLLM",
+    "original_title": "ICML'25神作！分隔符优化狂减50%KV缓存：SepLLM【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1101.105215,
+    "slides": 115,
+    "characters": 6085,
+    "cover": "assets/slides/v220/0001.jpg",
+    "url": "reading/v220/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v220-materials.zip",
+    "papers": [
+      "arxiv_2412.12094"
+    ]
+  },
+  {
+    "video_id": "v221",
+    "title": "OpenAl最新研究揭开AI幻觉真相！元凶竟是人类自己！",
+    "original_title": "OpenAl最新研究揭开AI幻觉真相！元凶竟是人类自己！",
+    "category": "论文精读",
+    "duration_seconds": 629.052993,
+    "slides": 82,
+    "characters": 3186,
+    "cover": "assets/slides/v221/0001.jpg",
+    "url": "reading/v221/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v221-materials.zip",
+    "papers": [
+      "arxiv_2509.04664"
+    ]
+  },
+  {
+    "video_id": "v222",
+    "title": "Transformer颤抖吧！我CNN又回来了！OverLoCK",
+    "original_title": "Transformer颤抖吧！我CNN又回来了！OverLoCK【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 451.48966,
+    "slides": 127,
+    "characters": 2350,
+    "cover": "assets/slides/v222/0001.jpg",
+    "url": "reading/v222/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v222-materials.zip",
+    "papers": [
+      "arxiv_2502.20087"
+    ]
+  },
+  {
+    "video_id": "v223",
+    "title": "打脸主流！大道至简！何恺明新作：JiT",
+    "original_title": "bilidown检测到重名文件-ha5k-打脸主流！大道至简！何恺明新作：JiT【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 676.234739,
+    "slides": 161,
+    "characters": 3800,
+    "cover": "assets/slides/v223/0001.jpg",
+    "url": "reading/v223/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v223-materials.zip",
+    "papers": [
+      "arxiv_2511.13720"
+    ]
+  },
+  {
+    "video_id": "v224",
+    "title": "“LoRA已死，新王当立”参数再砍95%！LoRI",
+    "original_title": "“LoRA已死，新王当立”参数再砍95%！LoRI【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1093.520726,
+    "slides": 95,
+    "characters": 5959,
+    "cover": "assets/slides/v224/0001.jpg",
+    "url": "reading/v224/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v224-materials.zip",
+    "papers": [
+      "arxiv_2504.07448"
+    ]
+  },
+  {
+    "video_id": "v225",
+    "title": "“LoRA已死，果蝇称王”——FlyLoRA",
+    "original_title": "“LoRA已死，果蝇称王”——FlyLoRA【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 765.469025,
+    "slides": 118,
+    "characters": 4052,
+    "cover": "assets/slides/v225/0001.jpg",
+    "url": "reading/v225/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v225-materials.zip",
+    "papers": [
+      "arxiv_2510.08396"
+    ]
+  },
+  {
+    "video_id": "v226",
+    "title": "“残差已死，新王当立”效能提升240%！MUDDFormer",
+    "original_title": "“残差已死，新王当立”效能提升240%！MUDDFormer【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 580.080907,
+    "slides": 269,
+    "characters": 3318,
+    "cover": "assets/slides/v226/0001.jpg",
+    "url": "reading/v226/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v226-materials.zip",
+    "papers": [
+      "arxiv_2502.12170"
+    ]
+  },
+  {
+    "video_id": "v227",
+    "title": "【硬核科普】大模型输出答案前，脑子里到底在算什么？",
+    "original_title": "【硬核科普】大模型输出答案前，脑子里到底在算什么？",
+    "category": "论文精读",
+    "duration_seconds": 452.301497,
+    "slides": 157,
+    "characters": 2638,
+    "cover": "assets/slides/v227/0001.jpg",
+    "url": "reading/v227/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v227-materials.zip",
+    "papers": [
+      "arxiv_2605.29358",
+      "arxiv_2209.10652",
+      "anthropic_biology_llm",
+      "anthropic_circuit_tracing"
+    ]
+  },
+  {
+    "video_id": "v228",
+    "title": "国运之争！深度剖析《2026斯坦福AI报告》",
+    "original_title": "【论文精读】国运之争！深度剖析《2026斯坦福AI报告》",
+    "category": "论文精读",
+    "duration_seconds": 581.752744,
+    "slides": 168,
+    "characters": 3457,
+    "cover": "assets/slides/v228/0001.jpg",
+    "url": "reading/v228/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v228-materials.zip",
+    "papers": [
+      "stanford_ai_index_2026"
+    ]
+  },
+  {
+    "video_id": "v229",
+    "title": "一个视频看懂AI作图背后的技术革命",
+    "original_title": "一个视频看懂AI作图背后的技术革命",
+    "category": "论文精读",
+    "duration_seconds": 642.565805,
+    "slides": 141,
+    "characters": 3892,
+    "cover": "assets/slides/v229/0001.jpg",
+    "url": "reading/v229/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v229-materials.zip",
+    "papers": [
+      "arxiv_2403.03206",
+      "arxiv_2212.09748",
+      "arxiv_2410.03456"
+    ]
+  },
+  {
+    "video_id": "v230",
+    "title": "为啥AI很难处理数量问题？",
+    "original_title": "为啥AI很难处理数量问题？",
+    "category": "论文精读",
+    "duration_seconds": 446.844807,
+    "slides": 74,
+    "characters": 2410,
+    "cover": "assets/slides/v230/0001.jpg",
+    "url": "reading/v230/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v230-materials.zip",
+    "papers": [
+      "arxiv_2505.23941"
+    ]
+  },
+  {
+    "video_id": "v231",
+    "title": "云组会 ｜ 5分钟速通4大视频生成顶会论文！",
+    "original_title": "云组会 ｜ 5分钟速通4大视频生成顶会论文！",
+    "category": "论文精读",
+    "duration_seconds": 272.532608,
+    "slides": 62,
+    "characters": 1343,
+    "cover": "assets/slides/v231/0001.jpg",
+    "url": "reading/v231/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v231-materials.zip",
+    "papers": [
+      "arxiv_2407.21705",
+      "arxiv_2505.23742",
+      "arxiv_2205.06255",
+      "arxiv_2303.09535"
+    ]
+  },
+  {
+    "video_id": "v232",
+    "title": "交大出品“数字打工人”终结996！PC Agent",
+    "original_title": "交大出品“数字打工人”终结996！PC Agent【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1353.168889,
+    "slides": 128,
+    "characters": 7251,
+    "cover": "assets/slides/v232/0001.jpg",
+    "url": "reading/v232/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v232-materials.zip",
+    "papers": [
+      "arxiv_2412.17589"
+    ]
+  },
+  {
+    "video_id": "v233",
+    "title": "何恺明&谢赛宁署名！谷歌：Vision Banana",
+    "original_title": "何恺明&谢赛宁署名！谷歌：Vision Banana【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 736.722721,
+    "slides": 162,
+    "characters": 4277,
+    "cover": "assets/slides/v233/0001.jpg",
+    "url": "reading/v233/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v233-materials.zip",
+    "papers": [
+      "arxiv_2604.20329"
+    ]
+  },
+  {
+    "video_id": "v234",
+    "title": "何恺明进军《行测》领域！ AI已超人类平均水平！？",
+    "original_title": "何恺明进军《行测》领域！ AI已超人类平均水平！？",
+    "category": "论文精读",
+    "duration_seconds": 795.538866,
+    "slides": 251,
+    "characters": 4061,
+    "cover": "assets/slides/v234/0001.jpg",
+    "url": "reading/v234/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v234-materials.zip",
+    "papers": [
+      "arxiv_2511.14761"
+    ]
+  },
+  {
+    "video_id": "v235",
+    "title": "你的ViT一直在用背景做分类！ LaSt-ViT【CVPR'26】",
+    "original_title": "你的ViT一直在用背景做分类！ LaSt-ViT【CVPR'26】",
+    "category": "论文精读",
+    "duration_seconds": 459.221043,
+    "slides": 158,
+    "characters": 2681,
+    "cover": "assets/slides/v235/0001.jpg",
+    "url": "reading/v235/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v235-materials.zip",
+    "papers": [
+      "arxiv_2602.22394"
+    ]
+  },
+  {
+    "video_id": "v236",
+    "title": "全网首发！我对市面上多款AI模型进行了人格测试...",
+    "original_title": "全网首发！我对市面上多款AI模型进行了人格测试...",
+    "category": "论文精读",
+    "duration_seconds": 639.98839,
+    "slides": 130,
+    "characters": 3351,
+    "cover": "assets/slides/v236/0001.jpg",
+    "url": "reading/v236/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v236-materials.zip",
+    "papers": [
+      "arxiv_2311.15131",
+      "arxiv_2310.01405"
+    ]
+  },
+  {
+    "video_id": "v237",
+    "title": "具身智能奠基之作：Do as I Can, Not as I Say",
+    "original_title": "具身智能奠基之作：Do as I Can, Not as I Say【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 3591.755646,
+    "slides": 603,
+    "characters": 17641,
+    "cover": "assets/slides/v237/0001.jpg",
+    "url": "reading/v237/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v237-materials.zip",
+    "papers": [
+      "arxiv_2204.01691"
+    ]
+  },
+  {
+    "video_id": "v238",
+    "title": "分形生成模型 论文逐段精读",
+    "original_title": "分形生成模型 论文逐段精读【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1973.467959,
+    "slides": 354,
+    "characters": 9762,
+    "cover": "assets/slides/v238/0001.jpg",
+    "url": "reading/v238/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v238-materials.zip",
+    "papers": [
+      "arxiv_2502.17437"
+    ]
+  },
+  {
+    "video_id": "v239",
+    "title": "华人团队再登《Nature》！光学AI生成模型",
+    "original_title": "华人团队再登《Nature》！光学AI生成模型【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 508.540227,
+    "slides": 85,
+    "characters": 2556,
+    "cover": "assets/slides/v239/0001.jpg",
+    "url": "reading/v239/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v239-materials.zip",
+    "papers": [
+      "optical_generative_models"
+    ]
+  },
+  {
+    "video_id": "v240",
+    "title": "单步秒生图！性能暴增50%！MeanFlow",
+    "original_title": "单步秒生图！性能暴增50%！MeanFlow【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 767.094603,
+    "slides": 54,
+    "characters": 4121,
+    "cover": "assets/slides/v240/0001.jpg",
+    "url": "reading/v240/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v240-materials.zip",
+    "papers": [
+      "arxiv_2505.13447"
+    ]
+  },
+  {
+    "video_id": "v241",
+    "title": "即插即用，5%100%！清华高分论文Mona ",
+    "original_title": "即插即用，5%100%！清华高分论文Mona 【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1105.968776,
+    "slides": 80,
+    "characters": 6313,
+    "cover": "assets/slides/v241/0001.jpg",
+    "url": "reading/v241/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v241-materials.zip",
+    "papers": [
+      "arxiv_2408.08345"
+    ]
+  },
+  {
+    "video_id": "v242",
+    "title": "反向传播被判死刑！？“去噪学习”杀疯了：NoProp",
+    "original_title": "反向传播被判死刑！？“去噪学习”杀疯了：NoProp【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1293.537415,
+    "slides": 87,
+    "characters": 6771,
+    "cover": "assets/slides/v242/0001.jpg",
+    "url": "reading/v242/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v242-materials.zip",
+    "papers": [
+      "arxiv_2503.24322"
+    ]
+  },
+  {
+    "video_id": "v243",
+    "title": "大佬集体押注物理AI！深度解析《物理AI与世界模型》！",
+    "original_title": "大佬集体押注物理AI！深度解析《物理AI与世界模型》！",
+    "category": "论文精读",
+    "duration_seconds": 598.170431,
+    "slides": 177,
+    "characters": 3087,
+    "cover": "assets/slides/v243/0001.jpg",
+    "url": "reading/v243/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v243-materials.zip",
+    "papers": [
+      "arxiv_2604.20289",
+      "arxiv_2606.28758",
+      "arxiv_2606.24253",
+      "arxiv_2603.19979",
+      "arxiv_2605.24892"
+    ]
+  },
+  {
+    "video_id": "v244",
+    "title": "大模型告别逐字生成！并行推理提速200%！英伟达震撼发布：Multiverse",
+    "original_title": "大模型告别逐字生成！并行推理提速200%！英伟达震撼发布：Multiverse【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1499.188118,
+    "slides": 126,
+    "characters": 8350,
+    "cover": "assets/slides/v244/0001.jpg",
+    "url": "reading/v244/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v244-materials.zip",
+    "papers": [
+      "arxiv_2506.09991"
+    ]
+  },
+  {
+    "video_id": "v245",
+    "title": "开源第一！把后训练做到极致！GLM-5.3",
+    "original_title": "开源第一！把后训练做到极致！GLM-5.3【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 550.103946,
+    "slides": 198,
+    "characters": 3121,
+    "cover": "assets/slides/v245/0001.jpg",
+    "url": "reading/v245/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v245-materials.zip",
+    "papers": [
+      "glm_5_3_official_release"
+    ]
+  },
+  {
+    "video_id": "v246",
+    "title": "我受够了Transformer！连续思维机器 CTM",
+    "original_title": "我受够了Transformer！连续思维机器 CTM【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 444.453152,
+    "slides": 150,
+    "characters": 2533,
+    "cover": "assets/slides/v246/0001.jpg",
+    "url": "reading/v246/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v246-materials.zip",
+    "papers": [
+      "arxiv_2505.05522"
+    ]
+  },
+  {
+    "video_id": "v247",
+    "title": "打脸主流！大道至简！何恺明新作：JiT",
+    "original_title": "打脸主流！大道至简！何恺明新作：JiT【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 676.234739,
+    "slides": 161,
+    "characters": 3801,
+    "cover": "assets/slides/v247/0001.jpg",
+    "url": "reading/v247/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v247-materials.zip",
+    "papers": [
+      "arxiv_2511.13720"
+    ]
+  },
+  {
+    "video_id": "v248",
+    "title": "提速32倍！何恺明语言模型处女作！ELF",
+    "original_title": "提速32倍！何恺明语言模型处女作！ELF【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 698.433016,
+    "slides": 235,
+    "characters": 3696,
+    "cover": "assets/slides/v248/0001.jpg",
+    "url": "reading/v248/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v248-materials.zip",
+    "papers": [
+      "arxiv_2605.10938"
+    ]
+  },
+  {
+    "video_id": "v249",
+    "title": "李飞飞团队最新图像编码器SOTA：Flow to the Mode",
+    "original_title": "李飞飞团队最新图像编码器SOTA：Flow to the Mode【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 1279.280363,
+    "slides": 89,
+    "characters": 6940,
+    "cover": "assets/slides/v249/0001.jpg",
+    "url": "reading/v249/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v249-materials.zip",
+    "papers": [
+      "arxiv_2503.11056"
+    ]
+  },
+  {
+    "video_id": "v250",
+    "title": "梁圣亲自挂帅！V4超级Buff全解析！DSpark",
+    "original_title": "梁圣亲自挂帅！V4超级Buff全解析！DSpark【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 639.82585,
+    "slides": 200,
+    "characters": 3717,
+    "cover": "assets/slides/v250/0001.jpg",
+    "url": "reading/v250/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v250-materials.zip",
+    "papers": [
+      "arxiv_2607.05147"
+    ]
+  },
+  {
+    "video_id": "v251",
+    "title": "梁文锋带DeepSeek登上Nature封面！隐藏亮点大揭秘！",
+    "original_title": "梁文锋带DeepSeek登上Nature封面！隐藏亮点大揭秘！",
+    "category": "论文精读",
+    "duration_seconds": 484.530794,
+    "slides": 122,
+    "characters": 2930,
+    "cover": "assets/slides/v251/0001.jpg",
+    "url": "reading/v251/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v251-materials.zip",
+    "papers": [
+      "arxiv_2501.12948",
+      "deepseek_r1_nature"
+    ]
+  },
+  {
+    "video_id": "v252",
+    "title": "比肩Claude！国产第一回归！GLM-5.2",
+    "original_title": "比肩Claude！国产第一回归！GLM-5.2【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 457.990385,
+    "slides": 119,
+    "characters": 2880,
+    "cover": "assets/slides/v252/0001.jpg",
+    "url": "reading/v252/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v252-materials.zip",
+    "papers": [
+      "glm_5_2_official_release"
+    ]
+  },
+  {
+    "video_id": "v253",
+    "title": "真王回归！！！DeepSeek系列最全回顾！无缝衔接V4！",
+    "original_title": "真王回归！！！DeepSeek系列最全回顾！无缝衔接V4！",
+    "category": "论文精读",
+    "duration_seconds": 1330.526621,
+    "slides": 440,
+    "characters": 8375,
+    "cover": "assets/slides/v253/0001.jpg",
+    "url": "reading/v253/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v253-materials.zip",
+    "papers": [
+      "arxiv_2401.06066",
+      "arxiv_2405.04434",
+      "arxiv_2501.12948",
+      "arxiv_2412.19437",
+      "arxiv_2512.02556",
+      "arxiv_2606.19348",
+      "arxiv_2401.02954"
+    ]
+  },
+  {
+    "video_id": "v254",
+    "title": "砍掉90% Token！源神要颠覆大模型训练范式？",
+    "original_title": "砍掉90% Token！源神要颠覆大模型训练范式？",
+    "category": "论文精读",
+    "duration_seconds": 657.334966,
+    "slides": 125,
+    "characters": 3848,
+    "cover": "assets/slides/v254/0001.jpg",
+    "url": "reading/v254/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v254-materials.zip",
+    "papers": [
+      "arxiv_2510.18234"
+    ]
+  },
+  {
+    "video_id": "v255",
+    "title": "突破Transformer！交大首发「类人脑」大模型BriLLM",
+    "original_title": "突破Transformer！交大首发「类人脑」大模型BriLLM",
+    "category": "论文精读",
+    "duration_seconds": 669.780884,
+    "slides": 156,
+    "characters": 3502,
+    "cover": "assets/slides/v255/0001.jpg",
+    "url": "reading/v255/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v255-materials.zip",
+    "papers": [
+      "arxiv_2503.11299"
+    ]
+  },
+  {
+    "video_id": "v256",
+    "title": "谷歌DeepMind再放大招！推理提速100%，KV缓存减半：MoR",
+    "original_title": "谷歌DeepMind再放大招！推理提速100%，KV缓存减半：MoR【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 825.855873,
+    "slides": 75,
+    "characters": 4437,
+    "cover": "assets/slides/v256/0001.jpg",
+    "url": "reading/v256/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v256-materials.zip",
+    "papers": [
+      "arxiv_2507.10524"
+    ]
+  },
+  {
+    "video_id": "v257",
+    "title": "颠覆10年共识！马斯克叹服！Kimi：AttnRes",
+    "original_title": "颠覆10年共识！马斯克叹服！Kimi：AttnRes【论文精读】",
+    "category": "论文精读",
+    "duration_seconds": 509.445805,
+    "slides": 171,
+    "characters": 2934,
+    "cover": "assets/slides/v257/0001.jpg",
+    "url": "reading/v257/",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-documents/v257-materials.zip",
+    "papers": [
+      "arxiv_2603.15031"
+    ]
+  }
+]

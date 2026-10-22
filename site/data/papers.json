@@ -1,0 +1,4043 @@
+[
+  {
+    "key": "agilegan_2021",
+    "title": "AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning",
+    "source_url": "https://guoxiansong.github.io/homepage/agilegan.html",
+    "download": "https://guoxiansong.github.io/homepage/paper/AgileGAN.pdf",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v146"
+    ],
+    "sha256": "66b74ea758b2aa0c154c7a88561b0b32aa2ae6181d47e3886b78dcc3d11e6431",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "anthropic_biology_llm",
+    "title": "On the Biology of a Large Language Model",
+    "source_url": "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/anthropic_biology_llm.pdf",
+    "pages": 99,
+    "document_type": "web",
+    "video_ids": [
+      "v227"
+    ],
+    "sha256": "c5427dc7e2e7c91f13aec59165d9b398a26ea2e75d22bf00259363ea8d68e81a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "anthropic_circuit_tracing",
+    "title": "Circuit Tracing: Revealing Computational Graphs in Language Models",
+    "source_url": "https://transformer-circuits.pub/2025/attribution-graphs/methods.html",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/anthropic_circuit_tracing.pdf",
+    "pages": 86,
+    "document_type": "web",
+    "video_ids": [
+      "v227"
+    ],
+    "sha256": "32eed212059dfcc3c9a93323e1514582436d3806203f4d41cda89fc5d2448341",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1406.2661",
+    "title": "Generative Adversarial Networks",
+    "source_url": "https://arxiv.org/abs/1406.2661",
+    "download": "https://arxiv.org/pdf/1406.2661",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v147",
+      "v148"
+    ],
+    "sha256": "ff5819e3a7b713c3bd3107b7de3d51fe0a347aa5d8444f0efdcf2345ef0a8b63",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1509.02971",
+    "title": "Continuous control with deep reinforcement learning",
+    "source_url": "https://arxiv.org/abs/1509.02971",
+    "download": "https://arxiv.org/pdf/1509.02971",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v128"
+    ],
+    "sha256": "34ef677ecdee8c2a72721c70c7d849191be72af39ac8691a12e8c2979a28feda",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1606.00915",
+    "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+    "source_url": "https://arxiv.org/abs/1606.00915",
+    "download": "https://arxiv.org/pdf/1606.00915",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v054"
+    ],
+    "sha256": "b80b304869e8dbd0ce9505b4f874ca4b18dca354967348cd104aff62a6dcd25d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1611.07004",
+    "title": "Image-to-Image Translation with Conditional Adversarial Networks",
+    "source_url": "https://arxiv.org/abs/1611.07004",
+    "download": "https://arxiv.org/pdf/1611.07004",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v145",
+      "v144"
+    ],
+    "sha256": "ed7b7219e7f0b27a7832ea0a0d3160c11d13b6a1469b21d7cb07af6a71a64886",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1703.00848",
+    "title": "Unsupervised Image-to-Image Translation Networks",
+    "source_url": "https://arxiv.org/abs/1703.00848",
+    "download": "https://arxiv.org/pdf/1703.00848",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v008"
+    ],
+    "sha256": "48de51d0f94d8a1c480d6eaa8fb4bff6cb21c53a2bd33bc63bfad002844c5ca7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1703.06211",
+    "title": "Deformable Convolutional Networks",
+    "source_url": "https://arxiv.org/abs/1703.06211",
+    "download": "https://arxiv.org/pdf/1703.06211",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v086"
+    ],
+    "sha256": "f87b0e43d5cd1b8d770188c524baee8144354c78179fdb790c378753c0939115",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1703.10593",
+    "title": "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks",
+    "source_url": "https://arxiv.org/abs/1703.10593",
+    "download": "https://arxiv.org/pdf/1703.10593",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v143",
+      "v149"
+    ],
+    "sha256": "4f0b004c8f9dce3baa15606283c4410fef452ea9f597acb78e45a9f86532d34c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1704.04861",
+    "title": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications",
+    "source_url": "https://arxiv.org/abs/1704.04861",
+    "download": "https://arxiv.org/pdf/1704.04861",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v067"
+    ],
+    "sha256": "9fd87b02ecc96c1ecf2b8c2166faf969a2acb187ab3e1e9333b26d226387ff55",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1704.06888",
+    "title": "Time-Contrastive Networks: Self-Supervised Learning from Video",
+    "source_url": "https://arxiv.org/abs/1704.06888",
+    "download": "https://arxiv.org/pdf/1704.06888",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v121"
+    ],
+    "sha256": "a1be44788d8bf87a25ea1470439a2fa49f90532211c191964f77cfc17906ab9d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1706.05587",
+    "title": "Rethinking Atrous Convolution for Semantic Image Segmentation",
+    "source_url": "https://arxiv.org/abs/1706.05587",
+    "download": "https://arxiv.org/pdf/1706.05587",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v055"
+    ],
+    "sha256": "3a6759c7f26d9aec1f2aefad3c86ea103627c0e450c42f3f41f05f0bdb805ae4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1710.02298",
+    "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/1710.02298",
+    "download": "https://arxiv.org/pdf/1710.02298",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v113"
+    ],
+    "sha256": "0a209934694aa5575fb9bbce8db1c3a6a25a42e152df94eae7b8eacdc1dfc821",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1711.00937",
+    "title": "Neural Discrete Representation Learning",
+    "source_url": "https://arxiv.org/abs/1711.00937",
+    "download": "https://arxiv.org/pdf/1711.00937",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v009"
+    ],
+    "sha256": "d62036803c190a82718b718f59a87adb2be8b586e4887a394ad0cef15c56301e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1801.01290",
+    "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "source_url": "https://arxiv.org/abs/1801.01290",
+    "download": "https://arxiv.org/pdf/1801.01290",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v115"
+    ],
+    "sha256": "5c33fae017d02f7025730f05198d4a6b103402822c8bbf48cbc5d8a0474c336a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1801.04381",
+    "title": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+    "source_url": "https://arxiv.org/abs/1801.04381",
+    "download": "https://arxiv.org/pdf/1801.04381",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v066"
+    ],
+    "sha256": "1f4c30fa6b938c0b7a4d82bc274077dbece70e7cd553a69f591eba7482b51736",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1802.02611",
+    "title": "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation",
+    "source_url": "https://arxiv.org/abs/1802.02611",
+    "download": "https://arxiv.org/pdf/1802.02611",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v055"
+    ],
+    "sha256": "6d266d4f88f6314c423c9e0156b3a0969068d1d9991228ce3d7de5b16540a2d3",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1802.09477",
+    "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+    "source_url": "https://arxiv.org/abs/1802.09477",
+    "download": "https://arxiv.org/pdf/1802.09477",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v128"
+    ],
+    "sha256": "429a584222ffc9c318fde085f6558fd0d3a94dcba8ffe368caab8cf5dc3b6ae5",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1803.10122",
+    "title": "World Models",
+    "source_url": "https://arxiv.org/abs/1803.10122",
+    "download": "https://arxiv.org/pdf/1803.10122",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v125"
+    ],
+    "sha256": "b0c1e30aab53efd28ddf61d661f680150918d4d03b77bae62bc52d62dbd76cce",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1804.04732",
+    "title": "Multimodal Unsupervised Image-to-Image Translation",
+    "source_url": "https://arxiv.org/abs/1804.04732",
+    "download": "https://arxiv.org/pdf/1804.04732",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v005"
+    ],
+    "sha256": "bf260f5e089b59a381098034feddf8521967cfd0f60ee0ce6700b3629f76e21a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1805.01954",
+    "title": "Behavioral Cloning from Observation",
+    "source_url": "https://arxiv.org/abs/1805.01954",
+    "download": "https://arxiv.org/pdf/1805.01954",
+    "pages": 8,
+    "document_type": "paper",
+    "video_ids": [
+      "v096"
+    ],
+    "sha256": "96100f39d42629d7c9e8e7edb90e719cb4238782d59ce1fd371061d4adeda857",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1806.01411",
+    "title": "FlowNet3D: Learning Scene Flow in 3D Point Clouds",
+    "source_url": "https://arxiv.org/abs/1806.01411",
+    "download": "https://arxiv.org/pdf/1806.01411",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v060"
+    ],
+    "sha256": "4d458f398ec42a44a143d493ae7667af2365f6260a5bf09f72b4eea4bb8e4233",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1806.10293",
+    "title": "QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation",
+    "source_url": "https://arxiv.org/abs/1806.10293",
+    "download": "https://arxiv.org/pdf/1806.10293",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v111"
+    ],
+    "sha256": "1482043a0e94f30c0db5b1841574a81a44eeaa47154ca99492e31c3706b89c75",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1807.03748",
+    "title": "Representation Learning with Contrastive Predictive Coding",
+    "source_url": "https://arxiv.org/abs/1807.03748",
+    "download": "https://arxiv.org/pdf/1807.03748",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v177"
+    ],
+    "sha256": "5ef5e1ab47d2273f418f01f66fb8eb1431ba9b185b7cba45e9955f0fee36427d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1807.06653",
+    "title": "Invariant Information Clustering for Unsupervised Image Classification and Segmentation",
+    "source_url": "https://arxiv.org/abs/1807.06653",
+    "download": "https://arxiv.org/pdf/1807.06653",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v195"
+    ],
+    "sha256": "7deb087c2d9325efca25876637e409d0a654459c76f309c485d20e4d5c3d7dac",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1807.11626",
+    "title": "MnasNet: Platform-Aware Neural Architecture Search for Mobile",
+    "source_url": "https://arxiv.org/abs/1807.11626",
+    "download": "https://arxiv.org/pdf/1807.11626",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v064"
+    ],
+    "sha256": "2fc643814c9822a63ebf97fb55933a2b4995f627d54870ca880e9e97d47aa2b2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1809.11096",
+    "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
+    "source_url": "https://arxiv.org/abs/1809.11096",
+    "download": "https://arxiv.org/pdf/1809.11096",
+    "pages": 35,
+    "document_type": "paper",
+    "video_ids": [
+      "v144"
+    ],
+    "sha256": "c5eabe2788a372b2e3ce27a068e49355ff776074f78404659febc6156c5913c2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1812.03982",
+    "title": "SlowFast Networks for Video Recognition",
+    "source_url": "https://arxiv.org/abs/1812.03982",
+    "download": "https://arxiv.org/pdf/1812.03982",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v075"
+    ],
+    "sha256": "0061172db85174526c75b8f4812c039fbedeba142effa18efd8a2930a9a3e905",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1812.05905",
+    "title": "Soft Actor-Critic Algorithms and Applications",
+    "source_url": "https://arxiv.org/abs/1812.05905",
+    "download": "https://arxiv.org/pdf/1812.05905",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v116"
+    ],
+    "sha256": "30df4c4ff7c878aa2938ecaf651eb5cc05dc224eb0e3b5bcc8981dbf30d7a9bd",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1901.11390",
+    "title": "MONet: Unsupervised Scene Decomposition and Representation",
+    "source_url": "https://arxiv.org/abs/1901.11390",
+    "download": "https://arxiv.org/pdf/1901.11390",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v170"
+    ],
+    "sha256": "13c3bb7860d6ec0c3ceb79898ff595f9f579095640a12ef5be0f41ac3ca3b372",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1903.00450",
+    "title": "Multi-Object Representation Learning with Iterative Variational Inference",
+    "source_url": "https://arxiv.org/abs/1903.00450",
+    "download": "https://arxiv.org/pdf/1903.00450",
+    "pages": 28,
+    "document_type": "paper",
+    "video_ids": [
+      "v199"
+    ],
+    "sha256": "9dfa8c90b17005468942e6d8b2d8bf214d92b15a1e41e80ff6efd101980dd7d2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1905.02244",
+    "title": "Searching for MobileNetV3",
+    "source_url": "https://arxiv.org/abs/1905.02244",
+    "download": "https://arxiv.org/pdf/1905.02244",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v074"
+    ],
+    "sha256": "12bd89cf0d8309bf130b77bda626c495e4bceea0acfcc4f571d0828e6f62c78f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1905.09272",
+    "title": "Data-Efficient Image Recognition with Contrastive Predictive Coding",
+    "source_url": "https://arxiv.org/abs/1905.09272",
+    "download": "https://arxiv.org/pdf/1905.09272",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v191"
+    ],
+    "sha256": "806e66f2fb9e7f165a620bd1e2f1447c6e52913ee43372e2aeb497bf540bb68f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1905.11946",
+    "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+    "source_url": "https://arxiv.org/abs/1905.11946",
+    "download": "https://arxiv.org/pdf/1905.11946",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v058"
+    ],
+    "sha256": "af6b1bd620f81bfaea81edf8227484588e1fcc2427d6b5020fa17454d7566c70",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1906.11883",
+    "title": "Unsupervised Learning of Object Keypoints for Perception and Control",
+    "source_url": "https://arxiv.org/abs/1906.11883",
+    "download": "https://arxiv.org/pdf/1906.11883",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v185"
+    ],
+    "sha256": "9dbf58eb14496c777085f78e6da33450d2600caf3db01747ac8ba291a67480e7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1907.01657",
+    "title": "Dynamics-Aware Unsupervised Discovery of Skills",
+    "source_url": "https://arxiv.org/abs/1907.01657",
+    "download": "https://arxiv.org/pdf/1907.01657",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v102"
+    ],
+    "sha256": "e13faab20c899f5e49fba9593f62837fc028e16b8787850ed3b1a473e3bd7bb9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1907.05600",
+    "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+    "source_url": "https://arxiv.org/abs/1907.05600",
+    "download": "https://arxiv.org/pdf/1907.05600",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v194"
+    ],
+    "sha256": "c4a898f531eb8716d8e96035dfab27ca2cee3b5b82078ac283af1242d687bf22",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1907.13052",
+    "title": "GENESIS: Generative Scene Inference and Sampling with Object-Centric Latent Representations",
+    "source_url": "https://arxiv.org/abs/1907.13052",
+    "download": "https://arxiv.org/pdf/1907.13052",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v164"
+    ],
+    "sha256": "01b2d45565a6b0b9579405768abc776d930b5e5e211f974d76cfb425058cae67",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1910.06764",
+    "title": "Stabilizing Transformers for Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/1910.06764",
+    "download": "https://arxiv.org/pdf/1910.06764",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v119"
+    ],
+    "sha256": "98b64dec5b94f8b122a136cc0bdc6536958daf28e881b5f9b794375385386636",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1911.05722",
+    "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+    "source_url": "https://arxiv.org/abs/1911.05722",
+    "download": "https://arxiv.org/pdf/1911.05722",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v172"
+    ],
+    "sha256": "ad31ea26ed2d9ba3e2f767a2dcb0961a5b70ff505b1c3fb18d07201140e4e1fe",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1912.04958",
+    "title": "Analyzing and Improving the Image Quality of StyleGAN",
+    "source_url": "https://arxiv.org/abs/1912.04958",
+    "download": "https://arxiv.org/pdf/1912.04958",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v144"
+    ],
+    "sha256": "6fb2da3be6e9d7c1429697dc82dd63858983ff86adb34c76c2a52398aca02730",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_1912.06430",
+    "title": "End-to-End Learning of Visual Representations from Uncurated Instructional Videos",
+    "source_url": "https://arxiv.org/abs/1912.06430",
+    "download": "https://arxiv.org/pdf/1912.06430",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v021"
+    ],
+    "sha256": "36ff3408459deb567bda62cd71ab4c09efeed571efb67ff39c8de3ad4638c7a2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2002.05709",
+    "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+    "source_url": "https://arxiv.org/abs/2002.05709",
+    "download": "https://arxiv.org/pdf/2002.05709",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v179"
+    ],
+    "sha256": "e1b10db76adeb0d21a014b9abcf42f6a6af928540c223f010fa1d8c293d9d105",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2002.12177",
+    "title": "Evolving Losses for Unsupervised Video Representation Learning",
+    "source_url": "https://arxiv.org/abs/2002.12177",
+    "download": "https://arxiv.org/pdf/2002.12177",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v162"
+    ],
+    "sha256": "0a7b04fd6dc8d417d3d29afcf5f0c947d0c7012ecfaf0e3755a6abe2b08dc05f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2003.04297",
+    "title": "Improved Baselines with Momentum Contrastive Learning",
+    "source_url": "https://arxiv.org/abs/2003.04297",
+    "download": "https://arxiv.org/pdf/2003.04297",
+    "pages": 3,
+    "document_type": "paper",
+    "video_ids": [
+      "v172"
+    ],
+    "sha256": "12279a05ec386febacea77313d12fdb63eb8fde8250cd6d6fb39d88ae6ae80d9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2003.08165",
+    "title": "Neuroevolution of Self-Interpretable Agents",
+    "source_url": "https://arxiv.org/abs/2003.08165",
+    "download": "https://arxiv.org/pdf/2003.08165",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v108"
+    ],
+    "sha256": "af617ef10cb109cf2700b3a7f4b44408dbf2c8a83788595f0d2244a4683bca8a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.04136",
+    "title": "CURL: Contrastive Unsupervised Representations for Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2004.04136",
+    "download": "https://arxiv.org/pdf/2004.04136",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v099"
+    ],
+    "sha256": "30600b6955c79d3912e5fc41c2828cfedac5f6feac12865469c9bf7dd6e4930a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.04730",
+    "title": "X3D: Expanding Architectures for Efficient Video Recognition",
+    "source_url": "https://arxiv.org/abs/2004.04730",
+    "download": "https://arxiv.org/pdf/2004.04730",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v082"
+    ],
+    "sha256": "d9fa81cc972fb55591a4985edbdc24d4538510760bd69a1ca59fbb12f9986a8c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.12974",
+    "title": "Emergent Real-World Robotic Skills via Unsupervised Off-Policy Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2004.12974",
+    "download": "https://arxiv.org/pdf/2004.12974",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v109"
+    ],
+    "sha256": "e8a614ad7b1204e511f56d600951bbe13bd3a62734cd068f11118b68fda13891",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.13621",
+    "title": "Exploring Self-attention for Image Recognition",
+    "source_url": "https://arxiv.org/abs/2004.13621",
+    "download": "https://arxiv.org/pdf/2004.13621",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v059"
+    ],
+    "sha256": "cc67d31674d26068f5cc18fc125c1639b0408415ff8946944aef771f346532cd",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.13649",
+    "title": "Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels",
+    "source_url": "https://arxiv.org/abs/2004.13649",
+    "download": "https://arxiv.org/pdf/2004.13649",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v103"
+    ],
+    "sha256": "5860ea8ff5584b78010d55952caa9ab7e5c8d71b2e3a336b7288406098fccef4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2004.14990",
+    "title": "Reinforcement Learning with Augmented Data",
+    "source_url": "https://arxiv.org/abs/2004.14990",
+    "download": "https://arxiv.org/pdf/2004.14990",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v114"
+    ],
+    "sha256": "3e9bba21dd95390abf5adff1385ced113218bf3c8a6693cd5451013d4e02fa4a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.06500",
+    "title": "Rethinking the Truly Unsupervised Image-to-Image Translation",
+    "source_url": "https://arxiv.org/abs/2006.06500",
+    "download": "https://arxiv.org/pdf/2006.06500",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v017"
+    ],
+    "sha256": "ea3c3bfa3c6e0f42cbedf9b2475f83de513fd7191f9f268a9f0c201141d1a494",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.06882",
+    "title": "Rethinking Pre-training and Self-training",
+    "source_url": "https://arxiv.org/abs/2006.06882",
+    "download": "https://arxiv.org/pdf/2006.06882",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v178"
+    ],
+    "sha256": "87538cc0d3d33c7d8bad8a1961dc3f05665f3c2edd2dd1ecbc908dd07abf5939",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.07733",
+    "title": "Bootstrap your own latent: A new approach to self-supervised Learning",
+    "source_url": "https://arxiv.org/abs/2006.07733",
+    "download": "https://arxiv.org/pdf/2006.07733",
+    "pages": 35,
+    "document_type": "paper",
+    "video_ids": [
+      "v151"
+    ],
+    "sha256": "873e7b74d58e1e17806cf7a3cf6b80ead914559f36ed19313c749672eed0aa94",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.09001",
+    "title": "RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real",
+    "source_url": "https://arxiv.org/abs/2006.09001",
+    "download": "https://arxiv.org/pdf/2006.09001",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v112"
+    ],
+    "sha256": "f9d71a621ec9d1acfa186257526dbda425a6e7f47473df09c77a7f03b0d9fc6d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.09882",
+    "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments",
+    "source_url": "https://arxiv.org/abs/2006.09882",
+    "download": "https://arxiv.org/pdf/2006.09882",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v181"
+    ],
+    "sha256": "4249b19a6c31946e27b4244d050b69d7283b87dde1d134c051cd596a8bd4e5dc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.10029",
+    "title": "Big Self-Supervised Models are Strong Semi-Supervised Learners",
+    "source_url": "https://arxiv.org/abs/2006.10029",
+    "download": "https://arxiv.org/pdf/2006.10029",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v153"
+    ],
+    "sha256": "9c52dbe32ad5cf563e96a11185887b51f0c742904443b6dd7f4278f52c7108d4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.10742",
+    "title": "Learning Invariant Representations for Reinforcement Learning without Reconstruction",
+    "source_url": "https://arxiv.org/abs/2006.10742",
+    "download": "https://arxiv.org/pdf/2006.10742",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v107"
+    ],
+    "sha256": "8322d722f58393f703be8cbc7c24de360a028926db6843feb0e2adc3a392b952",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.11239",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "source_url": "https://arxiv.org/abs/2006.11239",
+    "download": "https://arxiv.org/pdf/2006.11239",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v013"
+    ],
+    "sha256": "aee5e07a802e8dfd2a386374c94fd61d1d056cb7e1e0fec4f28e8120ff5d8505",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2006.15055",
+    "title": "Object-Centric Learning with Slot Attention",
+    "source_url": "https://arxiv.org/abs/2006.15055",
+    "download": "https://arxiv.org/pdf/2006.15055",
+    "pages": 27,
+    "document_type": "paper",
+    "video_ids": [
+      "v173"
+    ],
+    "sha256": "ff310f9ee610ce0bad20bfc7517cb730b19e11b8f45195cd548b510616164b1f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2007.04309",
+    "title": "Self-Supervised Policy Adaptation during Deployment",
+    "source_url": "https://arxiv.org/abs/2007.04309",
+    "download": "https://arxiv.org/pdf/2007.04309",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v138"
+    ],
+    "sha256": "6e357d515380535b5d2bbc786c7dd76add667ca50952d258ae75cfd7ca86ffed",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2007.05929",
+    "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+    "source_url": "https://arxiv.org/abs/2007.05929",
+    "download": "https://arxiv.org/pdf/2007.05929",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v118"
+    ],
+    "sha256": "77ea8bcaf2a484982ac91031d66de43c07b8c1057023a9d1c7754e762dfdc151",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2007.06600",
+    "title": "Closed-Form Factorization of Latent Semantics in GANs",
+    "source_url": "https://arxiv.org/abs/2007.06600",
+    "download": "https://arxiv.org/pdf/2007.06600",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v144"
+    ],
+    "sha256": "266a61821398d9b9c3f48971b53f2a13a5a0c3be8be7e1d73569370ea136737f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2007.10730",
+    "title": "Video Representation Learning by Recognizing Temporal Transformations",
+    "source_url": "https://arxiv.org/abs/2007.10730",
+    "download": "https://arxiv.org/pdf/2007.10730",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v207"
+    ],
+    "sha256": "097ed5e75dec4afa30c96939c747a70023540cf70db9d2d0c0456281ed875deb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2007.15651",
+    "title": "Contrastive Learning for Unpaired Image-to-Image Translation",
+    "source_url": "https://arxiv.org/abs/2007.15651",
+    "download": "https://arxiv.org/pdf/2007.15651",
+    "pages": 29,
+    "document_type": "paper",
+    "video_ids": [
+      "v001"
+    ],
+    "sha256": "7c9071f402c5b8d58b8c64eac60bc2bac71dcce0d49155300573bf1d622ab038",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2008.02268",
+    "title": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections",
+    "source_url": "https://arxiv.org/abs/2008.02268",
+    "download": "https://arxiv.org/pdf/2008.02268",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v069"
+    ],
+    "sha256": "5f09cdda0208426a4dd8e4fde9cad57d293769e5bf479294a98ffb230c67f0ef",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2009.04416",
+    "title": "Phasic Policy Gradient",
+    "source_url": "https://arxiv.org/abs/2009.04416",
+    "download": "https://arxiv.org/pdf/2009.04416",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v110"
+    ],
+    "sha256": "a5d5e56983c74f3007eda154103b4a008e9359aacb745fea5f8ba7f7bde4bd09",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2010.02193",
+    "title": "Mastering Atari with Discrete World Models",
+    "source_url": "https://arxiv.org/abs/2010.02193",
+    "download": "https://arxiv.org/pdf/2010.02193",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v105"
+    ],
+    "sha256": "037dce26de328dd86ce4ab71dfb54f44513fef49a02f2995a1c05848ccef158f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2010.02502",
+    "title": "Denoising Diffusion Implicit Models",
+    "source_url": "https://arxiv.org/abs/2010.02502",
+    "download": "https://arxiv.org/pdf/2010.02502",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v012"
+    ],
+    "sha256": "07cb8796d7c100bf7c02bc575f16aab72c32630a8f85abd54ad45dc4f63e80fb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2011.03148",
+    "title": "RetinaGAN: An Object-aware Approach to Sim-to-Real Transfer",
+    "source_url": "https://arxiv.org/abs/2011.03148",
+    "download": "https://arxiv.org/pdf/2011.03148",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v007"
+    ],
+    "sha256": "9c8786e616206e316419cca75464e46beb7cffaada9ff5a12e71009c11c5fd1f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2011.08909",
+    "title": "C-Learning: Learning to Achieve Goals via Recursive Classification",
+    "source_url": "https://arxiv.org/abs/2011.08909",
+    "download": "https://arxiv.org/pdf/2011.08909",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v098"
+    ],
+    "sha256": "1d8fe1de24b7d5128ed2813bce7987f292c44454ed6611d9ab662d278a4be7eb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2011.10043",
+    "title": "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning",
+    "source_url": "https://arxiv.org/abs/2011.10043",
+    "download": "https://arxiv.org/pdf/2011.10043",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v176"
+    ],
+    "sha256": "e41275ae105fbcd37fc0810a1ff7d3291a068d574dcec365e37fc838abf41196",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2011.10566",
+    "title": "Exploring Simple Siamese Representation Learning",
+    "source_url": "https://arxiv.org/abs/2011.10566",
+    "download": "https://arxiv.org/pdf/2011.10566",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v180"
+    ],
+    "sha256": "37d37c81d423d503f54d99bc5c9d9dc23d07c7bd1aad62f37b47ec7d2871e63e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2012.07975",
+    "title": "Learning Visual Robotic Control Efficiently with Contrastive Pre-training and Data Augmentation",
+    "source_url": "https://arxiv.org/abs/2012.07975",
+    "download": "https://arxiv.org/pdf/2012.07975",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v095"
+    ],
+    "sha256": "448052b8776ee501dc96639d6ace2bf8ef8cb20ea0c4c6b5a7dea3729bf9daa9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2012.08674",
+    "title": "Wasserstein Contrastive Representation Distillation",
+    "source_url": "https://arxiv.org/abs/2012.08674",
+    "download": "https://arxiv.org/pdf/2012.08674",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v188"
+    ],
+    "sha256": "121e220d866c77adb0ef3b51f0f8fbb4777db4a5c36422afc66d61228b0a5e7e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2012.09164",
+    "title": "Point Transformer",
+    "source_url": "https://arxiv.org/abs/2012.09164",
+    "download": "https://arxiv.org/pdf/2012.09164",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v073"
+    ],
+    "sha256": "8ea292ceb2dc11b3f2a0c566d2907e220b57d26cc995bfd249b2980f7cc2dfc9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2012.09841",
+    "title": "Taming Transformers for High-Resolution Image Synthesis",
+    "source_url": "https://arxiv.org/abs/2012.09841",
+    "download": "https://arxiv.org/pdf/2012.09841",
+    "pages": 52,
+    "document_type": "paper",
+    "video_ids": [
+      "v019"
+    ],
+    "sha256": "07fe77d79d07feb4ef0ca81a497ff6eb02a10c584418d0e7d0d89ae36349fdae",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2012.12877",
+    "title": "Training data-efficient image transformers & distillation through attention",
+    "source_url": "https://arxiv.org/abs/2012.12877",
+    "download": "https://arxiv.org/pdf/2012.12877",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v056"
+    ],
+    "sha256": "a0fbdd27c115594326fd75b3a0f569fb94cbf0b5c34c84fdc204d993064188bb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2101.11605",
+    "title": "Bottleneck Transformers for Visual Recognition",
+    "source_url": "https://arxiv.org/abs/2101.11605",
+    "download": "https://arxiv.org/pdf/2101.11605",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v085"
+    ],
+    "sha256": "609639cb093d4fd0a255688721e1192ab909c34059febda057c6b8400c808c93",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2101.11986",
+    "title": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+    "source_url": "https://arxiv.org/abs/2101.11986",
+    "download": "https://arxiv.org/pdf/2101.11986",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v078"
+    ],
+    "sha256": "66163ef50be6ec80518cd8acfff3444b39a6d1a3461c1dea3974ff3408193dc6",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2102.05095",
+    "title": "Is Space-Time Attention All You Need for Video Understanding?",
+    "source_url": "https://arxiv.org/abs/2102.05095",
+    "download": "https://arxiv.org/pdf/2102.05095",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v061"
+    ],
+    "sha256": "9b61b223ece84f8d88a60fab70871be3cd368cae2fbbac57a3281aa5f4b1517a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.00112",
+    "title": "Transformer in Transformer",
+    "source_url": "https://arxiv.org/abs/2103.00112",
+    "download": "https://arxiv.org/pdf/2103.00112",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v076"
+    ],
+    "sha256": "9100e100bf55ad79f43b8c7356269d046127e77ac5d2dffcf3ae286d1e8409d0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.02886",
+    "title": "Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings",
+    "source_url": "https://arxiv.org/abs/2103.02886",
+    "download": "https://arxiv.org/pdf/2103.02886",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v117"
+    ],
+    "sha256": "527ab09c6b82108c95ad7469d6e2ff78bcb0e8f2cec46e903e955f38ad422275",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.03230",
+    "title": "Barlow Twins: Self-Supervised Learning via Redundancy Reduction",
+    "source_url": "https://arxiv.org/abs/2103.03230",
+    "download": "https://arxiv.org/pdf/2103.03230",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v152"
+    ],
+    "sha256": "3c39d728c72cc8a19a49b2a76b37efdabc4bd42bfb63eec1f9427962a20624eb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.04551",
+    "title": "Behavior From the Void: Unsupervised Active Pre-Training",
+    "source_url": "https://arxiv.org/abs/2103.04551",
+    "download": "https://arxiv.org/pdf/2103.04551",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v097"
+    ],
+    "sha256": "fd8e7ae1d544f069be34c59893aeb845cb1f75349fd4b3cedc0a25457f039514",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.05905",
+    "title": "VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples",
+    "source_url": "https://arxiv.org/abs/2103.05905",
+    "download": "https://arxiv.org/pdf/2103.05905",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v187"
+    ],
+    "sha256": "47808f9956c70982a94ea7f02597e7a908a4de491f21591a8a50be2286c06ad7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.10957",
+    "title": "Efficient Visual Pretraining with Contrastive Detection",
+    "source_url": "https://arxiv.org/abs/2103.10957",
+    "download": "https://arxiv.org/pdf/2103.10957",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v192"
+    ],
+    "sha256": "e7fdc0943d53a03b7a3ffabbd9d3aee76409790bbaec3c103c41c1effd1806b3",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.11816",
+    "title": "Incorporating Convolution Designs into Visual Transformers",
+    "source_url": "https://arxiv.org/abs/2103.11816",
+    "download": "https://arxiv.org/pdf/2103.11816",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v052"
+    ],
+    "sha256": "7269af2efd402a8886149f5478b3b13b5a59ebe1fbb55a2bb6752b9d1c400dee",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.12719",
+    "title": "Characterizing and Improving the Robustness of Self-Supervised Learning through Background Augmentations",
+    "source_url": "https://arxiv.org/abs/2103.12719",
+    "download": "https://arxiv.org/pdf/2103.12719",
+    "pages": 67,
+    "document_type": "paper",
+    "video_ids": [
+      "v168"
+    ],
+    "sha256": "32e1506970c4219068dd23213c3825c893425c4f2f51b7f52421fe7ae42f33ca",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.14633",
+    "title": "Visionary: Vision architecture discovery for robot learning",
+    "source_url": "https://arxiv.org/abs/2103.14633",
+    "download": "https://arxiv.org/pdf/2103.14633",
+    "pages": 7,
+    "document_type": "paper",
+    "video_ids": [
+      "v124"
+    ],
+    "sha256": "96bf88bf93a029941283424f3025c68a1609cdf5209a9a3d4cf1a2890a899ad8",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.16559",
+    "title": "Broaden Your Views for Self-Supervised Video Learning",
+    "source_url": "https://arxiv.org/abs/2103.16559",
+    "download": "https://arxiv.org/pdf/2103.16559",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v154"
+    ],
+    "sha256": "78565f607749c016034bd191118fc51a4193356e3c817ad0d1768f5318e6d3cf",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.17249",
+    "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+    "source_url": "https://arxiv.org/abs/2103.17249",
+    "download": "https://arxiv.org/pdf/2103.17249",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v144"
+    ],
+    "sha256": "f22784e68e3e753ae6d9268c3593a6e379d40993f7e4344cb2a13be39bf8557a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2103.17260",
+    "title": "Learning by Aligning Videos in Time",
+    "source_url": "https://arxiv.org/abs/2103.17260",
+    "download": "https://arxiv.org/pdf/2103.17260",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v167"
+    ],
+    "sha256": "354cfb0e07399a839029852d6f8d8124c5656b35c6c8f9ce371e2d612f0e508d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.00298",
+    "title": "EfficientNetV2: Smaller Models and Faster Training",
+    "source_url": "https://arxiv.org/abs/2104.00298",
+    "download": "https://arxiv.org/pdf/2104.00298",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v058"
+    ],
+    "sha256": "6a63e2954f0d80a77a9da50587dfdefdb185c51efc83319a215a9ec588016d57",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.00323",
+    "title": "Jigsaw Clustering for Unsupervised Visual Representation Learning",
+    "source_url": "https://arxiv.org/abs/2104.00323",
+    "download": "https://arxiv.org/pdf/2104.00323",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v196"
+    ],
+    "sha256": "a8cf03142157db510944ff0b3a1c9319e1637894f8f2b160d2efb6c622b66783",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.00862",
+    "title": "Self-supervised Video Representation Learning by Context and Motion Decoupling",
+    "source_url": "https://arxiv.org/abs/2104.00862",
+    "download": "https://arxiv.org/pdf/2104.00862",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v203"
+    ],
+    "sha256": "ab627ed458f1201aae3a800aae131d764c416509c0b6fa4a5118fcce96650f2c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.01655",
+    "title": "Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation",
+    "source_url": "https://arxiv.org/abs/2104.01655",
+    "download": "https://arxiv.org/pdf/2104.01655",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v106"
+    ],
+    "sha256": "3c63c7437b6cb011178bf2d5d456f7c85e51b6a04b9fc9f9830999b34171a4df",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.02057",
+    "title": "An Empirical Study of Training Self-Supervised Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2104.02057",
+    "download": "https://arxiv.org/pdf/2104.02057",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v150"
+    ],
+    "sha256": "5f75bd90555f8d549e2b57328ede2f4383757114c8d9fc7955f959d62723b1c7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.07689",
+    "title": "Dual Contrastive Learning for Unsupervised Image-to-Image Translation",
+    "source_url": "https://arxiv.org/abs/2104.07689",
+    "download": "https://arxiv.org/pdf/2104.07689",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v155"
+    ],
+    "sha256": "6c15f23811c6d9a2b62482525a41d6b1151d33c469b108c2707e7c39e1f1b408",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-01.zip"
+  },
+  {
+    "key": "arxiv_2104.08760",
+    "title": "Solving Inefficiency of Self-supervised Representation Learning",
+    "source_url": "https://arxiv.org/abs/2104.08760",
+    "download": "https://arxiv.org/pdf/2104.08760",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v205"
+    ],
+    "sha256": "95e68d0ce2346de486be69ff1a929c9d75326ddfe69568784f446e2a93f8dea8",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2104.11178",
+    "title": "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text",
+    "source_url": "https://arxiv.org/abs/2104.11178",
+    "download": "https://arxiv.org/pdf/2104.11178",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v032"
+    ],
+    "sha256": "55a1792852e4e31fc616a6bfd8dfc6bf1116d8f9985dd10a2bfddb5d47f8eee8",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2104.11227",
+    "title": "Multiscale Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2104.11227",
+    "download": "https://arxiv.org/pdf/2104.11227",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v063"
+    ],
+    "sha256": "143a6bbda3e857efb783f2a4b028b14fedb3eef2305d70cf980c8f5ddc0e726e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2104.14294",
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2104.14294",
+    "download": "https://arxiv.org/pdf/2104.14294",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v156"
+    ],
+    "sha256": "aa464cfd59a428890190bea1065823a491a853478b4fb2a25f5eb44d442ce296",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2104.14548",
+    "title": "With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations",
+    "source_url": "https://arxiv.org/abs/2104.14548",
+    "download": "https://arxiv.org/pdf/2104.14548",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v200"
+    ],
+    "sha256": "c857b6fd77c909c24c20b4194b976809ad9416726027169261b39de627009cb4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2104.15069",
+    "title": "A Good Image Generator Is What You Need for High-Resolution Video Synthesis",
+    "source_url": "https://arxiv.org/abs/2104.15069",
+    "download": "https://arxiv.org/pdf/2104.15069",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v004"
+    ],
+    "sha256": "22de78bcfaf61820fb755abc958a59ec5998ac2755699894beb3c6564f9f813f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.01601",
+    "title": "MLP-Mixer: An all-MLP Architecture for Vision",
+    "source_url": "https://arxiv.org/abs/2105.01601",
+    "download": "https://arxiv.org/pdf/2105.01601",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v062"
+    ],
+    "sha256": "e35cd320326cc4d59318edf2f70b23964aca94696693a5ca8bd028d277cb6e47",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.05217",
+    "title": "Representation Learning via Global Temporal Alignment and Cycle-Consistency",
+    "source_url": "https://arxiv.org/abs/2105.05217",
+    "download": "https://arxiv.org/pdf/2105.05217",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v029"
+    ],
+    "sha256": "4e7e763edeb2e09fad1c708b5bfa4369d3161a941c127c82308898bc72a773bb",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.09188",
+    "title": "High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network",
+    "source_url": "https://arxiv.org/abs/2105.09188",
+    "download": "https://arxiv.org/pdf/2105.09188",
+    "pages": 9,
+    "document_type": "paper",
+    "video_ids": [
+      "v049"
+    ],
+    "sha256": "c89501391b001294ec1dda0bfe33973fca30299f12e9ebf9760ef54fbed2ee8b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.12723",
+    "title": "Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding",
+    "source_url": "https://arxiv.org/abs/2105.12723",
+    "download": "https://arxiv.org/pdf/2105.12723",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v084"
+    ],
+    "sha256": "27b694d9c8fde84b537fade94c9b1ae76d1ae20dd03302224974ac739eec7fea",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.15075",
+    "title": "Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition",
+    "source_url": "https://arxiv.org/abs/2105.15075",
+    "download": "https://arxiv.org/pdf/2105.15075",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v057"
+    ],
+    "sha256": "acfa1e9b3f8f7717655e174f1f04ce2d8b7b5347f6b41bf4c538e7211fb61252",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2105.15075v1",
+    "title": "Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length",
+    "source_url": "https://arxiv.org/abs/2105.15075v1",
+    "download": "https://arxiv.org/pdf/2105.15075v1",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v057"
+    ],
+    "sha256": "2f5bf122e819b51fdef4054953031a0c3f040864a388ca92b011d2d42567d4c1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.01345",
+    "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+    "source_url": "https://arxiv.org/abs/2106.01345",
+    "download": "https://arxiv.org/pdf/2106.01345",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v129"
+    ],
+    "sha256": "6ff675a7b8286ca7bf8e01e4b90a41bf5c90f4c3c007e17fdb4d24e26fd05e28",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.05392",
+    "title": "Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers",
+    "source_url": "https://arxiv.org/abs/2106.05392",
+    "download": "https://arxiv.org/pdf/2106.05392",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v166"
+    ],
+    "sha256": "0566b0cdc9fb85505fdf244d9f2b4c1cb5e74bc6ef563f008bb5a8551e013320",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.05554",
+    "title": "Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement",
+    "source_url": "https://arxiv.org/abs/2106.05554",
+    "download": "https://arxiv.org/pdf/2106.05554",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v175"
+    ],
+    "sha256": "180dc4c0cc0a0d37fe06a89036e5f60f45e4413b0609eb0a9537c5bd4b56bddf",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.09681",
+    "title": "XCiT: Cross-Covariance Image Transformers",
+    "source_url": "https://arxiv.org/abs/2106.09681",
+    "download": "https://arxiv.org/pdf/2106.09681",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v083"
+    ],
+    "sha256": "809a049917a6db13ab2913486ccfc777f52981149fde74c0343a18c4c679ead0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.10456",
+    "title": "Humble Teachers Teach Better Students for Semi-Supervised Object Detection",
+    "source_url": "https://arxiv.org/abs/2106.10456",
+    "download": "https://arxiv.org/pdf/2106.10456",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v165"
+    ],
+    "sha256": "9936f83df7aaec3c55fd29e165cebd7232cd41a877fbb25c9f52a1a8fca523be",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.11297",
+    "title": "TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?",
+    "source_url": "https://arxiv.org/abs/2106.11297",
+    "download": "https://arxiv.org/pdf/2106.11297",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v077"
+    ],
+    "sha256": "0fb0c26d6162837c9c9aae5e7f77a3119cb1bd97bbfa1ec4e188757a62031e38",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2106.12423",
+    "title": "Alias-Free Generative Adversarial Networks",
+    "source_url": "https://arxiv.org/abs/2106.12423",
+    "download": "https://arxiv.org/pdf/2106.12423",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v144"
+    ],
+    "sha256": "e5bccc82d6bcf5958c65d828795a956d9c354e3ae1dc8e58ab116818b22e895b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2107.00644",
+    "title": "Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation",
+    "source_url": "https://arxiv.org/abs/2107.00644",
+    "download": "https://arxiv.org/pdf/2107.00644",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v139"
+    ],
+    "sha256": "c1f297c1bd8f9beb2e92c30d519af8055060f0386b6f2744ab61e878605e6d4a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2107.03006",
+    "title": "Structured Denoising Diffusion Models in Discrete State-Spaces",
+    "source_url": "https://arxiv.org/abs/2107.03006",
+    "download": "https://arxiv.org/pdf/2107.03006",
+    "pages": 33,
+    "document_type": "paper",
+    "video_ids": [
+      "v018"
+    ],
+    "sha256": "80406c2c520bac1e202013aca713f0ed7d90d85ea5057165361f02ef4727d14b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2107.06278",
+    "title": "Per-Pixel Classification is Not All You Need for Semantic Segmentation",
+    "source_url": "https://arxiv.org/abs/2107.06278",
+    "download": "https://arxiv.org/pdf/2107.06278",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v071"
+    ],
+    "sha256": "9f6e06631b70cad77b65dd80699a1ac89e82c4bb4818be6957c657675f615509",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2107.07651",
+    "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+    "source_url": "https://arxiv.org/abs/2107.07651",
+    "download": "https://arxiv.org/pdf/2107.07651",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v035"
+    ],
+    "sha256": "137c937c0834d8aa116bac93cae46cabe86cf7b7645f3b6339639b194273b229",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2108.05895",
+    "title": "Mobile-Former: Bridging MobileNet and Transformer",
+    "source_url": "https://arxiv.org/abs/2108.05895",
+    "download": "https://arxiv.org/pdf/2108.05895",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v065"
+    ],
+    "sha256": "8746657e43056edf2459345e295d75e676fdcce9909c16d304d80d7cdc5094b2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2109.00137",
+    "title": "Implicit Behavioral Cloning",
+    "source_url": "https://arxiv.org/abs/2109.00137",
+    "download": "https://arxiv.org/pdf/2109.00137",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v132"
+    ],
+    "sha256": "a4ad69d2cb46025c1aaf3c90e87a701e7b96f00f72684f02fb0ed696a7d1941b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2109.11593",
+    "title": "Long Short View Feature Decomposition via Contrastive Video Representation Learning",
+    "source_url": "https://arxiv.org/abs/2109.11593",
+    "download": "https://arxiv.org/pdf/2109.11593",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v197"
+    ],
+    "sha256": "89297bf2af989e2ce834b64d07b60e558eb12e582c432de90bf7957291cb567b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2110.13555",
+    "title": "Directional Self-supervised Learning for Heavy Image Augmentations",
+    "source_url": "https://arxiv.org/abs/2110.13555",
+    "download": "https://arxiv.org/pdf/2110.13555",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v158"
+    ],
+    "sha256": "d5318df953f1ddb4fa428325fcf0092173d6c3b03c08e47313dd5e283666c875",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2110.13903",
+    "title": "NeRV: Neural Representations for Videos",
+    "source_url": "https://arxiv.org/abs/2110.13903",
+    "download": "https://arxiv.org/pdf/2110.13903",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v070"
+    ],
+    "sha256": "67749a8024a674c0031065b7f3c0c0a25ca2e28c68e60bb769c24ba9b0e00107",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2111.00899",
+    "title": "Equivariant Contrastive Learning",
+    "source_url": "https://arxiv.org/abs/2111.00899",
+    "download": "https://arxiv.org/pdf/2111.00899",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v161"
+    ],
+    "sha256": "220eb97668b8d4c7c0931ddf5a4665176bee202cf1a3791425af33a56d050d37",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2111.07832",
+    "title": "iBOT: Image BERT Pre-Training with Online Tokenizer",
+    "source_url": "https://arxiv.org/abs/2111.07832",
+    "download": "https://arxiv.org/pdf/2111.07832",
+    "pages": 29,
+    "document_type": "paper",
+    "video_ids": [
+      "v208"
+    ],
+    "sha256": "fdfe7d26e8721c160cde5b4105975fb7baa3133669d2145857eeaf4b863c463f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2111.09613",
+    "title": "Improving Transferability of Representations via Augmentation-Aware Self-Supervision",
+    "source_url": "https://arxiv.org/abs/2111.09613",
+    "download": "https://arxiv.org/pdf/2111.09613",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v190"
+    ],
+    "sha256": "de83b253657d3e1fe430dab45074cbbbce6507e6406d1ba89b6343bbc9b0ff06",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2111.12681",
+    "title": "VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling",
+    "source_url": "https://arxiv.org/abs/2111.12681",
+    "download": "https://arxiv.org/pdf/2111.12681",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v022"
+    ],
+    "sha256": "33a1c44ee3400936896742dd8ce200ecf071c8471c1f55c7d71b0084807a69ae",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2112.01514",
+    "title": "Self-supervised Video Transformer",
+    "source_url": "https://arxiv.org/abs/2112.01514",
+    "download": "https://arxiv.org/pdf/2112.01514",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v204"
+    ],
+    "sha256": "1f97ab32630e36fa54dc6c5bf78a4eb7b627a64eac882f51cbbdc256754c4500",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2112.01527",
+    "title": "Masked-attention Mask Transformer for Universal Image Segmentation",
+    "source_url": "https://arxiv.org/abs/2112.01527",
+    "download": "https://arxiv.org/pdf/2112.01527",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v088"
+    ],
+    "sha256": "a360185a7682efb920247c916c448555a5262e3c52e0710192626592ea267d6f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2112.01529",
+    "title": "BEVT: BERT Pretraining of Video Transformers",
+    "source_url": "https://arxiv.org/abs/2112.01529",
+    "download": "https://arxiv.org/pdf/2112.01529",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v050"
+    ],
+    "sha256": "d5e5bcb5349e42c9fdf7a7c191490b33728ff31e2a570633d0c48fe1bfedc856",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2112.09133",
+    "title": "Masked Feature Prediction for Self-Supervised Visual Pre-Training",
+    "source_url": "https://arxiv.org/abs/2112.09133",
+    "download": "https://arxiv.org/pdf/2112.09133",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v198"
+    ],
+    "sha256": "bd2d2bdb8bdb31c52bed056d65e36850e2e6d99691402c9fc2acc9e092b02e43",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2201.00520",
+    "title": "Vision Transformer with Deformable Attention",
+    "source_url": "https://arxiv.org/abs/2201.00520",
+    "download": "https://arxiv.org/pdf/2201.00520",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v053"
+    ],
+    "sha256": "92c3f6bba2aac7c1039ee4ed386743d345db8088e88279311eb7397630cb8a60",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2201.04676",
+    "title": "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning",
+    "source_url": "https://arxiv.org/abs/2201.04676",
+    "download": "https://arxiv.org/pdf/2201.04676",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v079"
+    ],
+    "sha256": "70c26e68182cd4842d15629a504130abfa992711f704671578dbede91fd176a8",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2201.10801",
+    "title": "When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism",
+    "source_url": "https://arxiv.org/abs/2201.10801",
+    "download": "https://arxiv.org/pdf/2201.10801",
+    "pages": 8,
+    "document_type": "paper",
+    "video_ids": [
+      "v081"
+    ],
+    "sha256": "3615404bf332dc7a23f28b7047561b37193121a234c5ba6c9d69c95d7dc7aa40",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2201.12086",
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "source_url": "https://arxiv.org/abs/2201.12086",
+    "download": "https://arxiv.org/pdf/2201.12086",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v037"
+    ],
+    "sha256": "63e0335cdd57c3d92b907b89c93d10befdd29b8aeed108091bbde90c121ed97a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2201.12096",
+    "title": "Mask-based Latent Reconstruction for Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2201.12096",
+    "download": "https://arxiv.org/pdf/2201.12096",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v135"
+    ],
+    "sha256": "8e9620e06c231ed08ed2095a3f111a32c06f0c8cc94323ef733fa55dfcc56558",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2202.04200",
+    "title": "MaskGIT: Masked Generative Image Transformer",
+    "source_url": "https://arxiv.org/abs/2202.04200",
+    "download": "https://arxiv.org/pdf/2202.04200",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v003"
+    ],
+    "sha256": "dd716a8a8943955b5a1babd0ee41d57f6d5cd81206b59ed8eda4c76038c81ed1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2202.07800",
+    "title": "Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations",
+    "source_url": "https://arxiv.org/abs/2202.07800",
+    "download": "https://arxiv.org/pdf/2202.07800",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v087"
+    ],
+    "sha256": "c6d98d2ac474608218014af73ef9a1e4f4eae5db496e6d038c5d8e451959f1a7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2202.10324",
+    "title": "VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2202.10324",
+    "download": "https://arxiv.org/pdf/2202.10324",
+    "pages": 41,
+    "document_type": "paper",
+    "video_ids": [
+      "v141"
+    ],
+    "sha256": "4adf8f3bfb5ade70371f5c31b882fcc7c01a4e157a2342155bb2192271117624",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2202.11094",
+    "title": "GroupViT: Semantic Segmentation Emerges from Text Supervision",
+    "source_url": "https://arxiv.org/abs/2202.11094",
+    "download": "https://arxiv.org/pdf/2202.11094",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v023"
+    ],
+    "sha256": "faadeea27d1514ae57319db3c595cab0dc13303cc802f8b74ff0e87394cf3dea",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2203.01881",
+    "title": "Measuring Self-Supervised Representation Quality for Downstream Classification using Discriminative Features",
+    "source_url": "https://arxiv.org/abs/2203.01881",
+    "download": "https://arxiv.org/pdf/2203.01881",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v182"
+    ],
+    "sha256": "677d25d8fa5c20e78e118ddef8c0ece52a4a807b3c3a75a892212fee069727e0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2203.01941",
+    "title": "Autoregressive Image Generation using Residual Quantization",
+    "source_url": "https://arxiv.org/abs/2203.01941",
+    "download": "https://arxiv.org/pdf/2203.01941",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v011"
+    ],
+    "sha256": "0f2705369075821820a7f898dd59d4018e8f5fa87375d4ec13376b037c45b7a1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2203.08777",
+    "title": "Object discovery and representation networks",
+    "source_url": "https://arxiv.org/abs/2203.08777",
+    "download": "https://arxiv.org/pdf/2203.08777",
+    "pages": 27,
+    "document_type": "paper",
+    "video_ids": [
+      "v201"
+    ],
+    "sha256": "9a4498a2ea68b8937dd96d12b9c75aa2fb5ff2a336e6607cd686152268f28014",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2204.00598",
+    "title": "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language",
+    "source_url": "https://arxiv.org/abs/2204.00598",
+    "download": "https://arxiv.org/pdf/2204.00598",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v046",
+      "v094"
+    ],
+    "sha256": "9dc41ce3a6d9659d11ad3d1357e5877098c2309548898366e36504a9ece8eb25",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2204.01691",
+    "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+    "source_url": "https://arxiv.org/abs/2204.01691",
+    "download": "https://arxiv.org/pdf/2204.01691",
+    "pages": 34,
+    "document_type": "paper",
+    "video_ids": [
+      "v237"
+    ],
+    "sha256": "48c22d36a044bbbd34e640beb1db4fb4ba57e74d97fefa0fb121d55c31282312",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2204.02968",
+    "title": "Temporal Alignment Networks for Long-term Video",
+    "source_url": "https://arxiv.org/abs/2204.02968",
+    "download": "https://arxiv.org/pdf/2204.02968",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v030"
+    ],
+    "sha256": "02b25ed7c56e10425169ef51470472e3800aeb31fa0a044d96b5ce491bb99619",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2204.03946",
+    "title": "Probabilistic Representations for Video Contrastive Learning",
+    "source_url": "https://arxiv.org/abs/2204.03946",
+    "download": "https://arxiv.org/pdf/2204.03946",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v174"
+    ],
+    "sha256": "aee0122b856a0e2dee5a2b3033143c4826dd6f90f9382c004cf13f2b5e0a729f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2204.07143",
+    "title": "Neighborhood Attention Transformer",
+    "source_url": "https://arxiv.org/abs/2204.07143",
+    "download": "https://arxiv.org/pdf/2204.07143",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v068"
+    ],
+    "sha256": "b74044c2dbc69e6d5ea4349d5b5c82809160c1d300f03217b6f46ce485e09a2f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.02028",
+    "title": "TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition",
+    "source_url": "https://arxiv.org/abs/2205.02028",
+    "download": "https://arxiv.org/pdf/2205.02028",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v183"
+    ],
+    "sha256": "db445e8c965fc48f1f11a0419e7dad2fe3f67191710d7d3a04460b3706619659",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.06230",
+    "title": "Simple Open-Vocabulary Object Detection with Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2205.06230",
+    "download": "https://arxiv.org/pdf/2205.06230",
+    "pages": 28,
+    "document_type": "paper",
+    "video_ids": [
+      "v045"
+    ],
+    "sha256": "3d38f1ae5c64a45203c51e3dda842dfc866228e744952d52547de55f284cd23d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.06255",
+    "title": "3D Moments from Near-Duplicate Photos",
+    "source_url": "https://arxiv.org/abs/2205.06255",
+    "download": "https://arxiv.org/pdf/2205.06255",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v231"
+    ],
+    "sha256": "5da7c54435f9ce03879840df87ef63557776cb6591654000318f75e4235e8963",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.09991",
+    "title": "Planning with Diffusion for Flexible Behavior Synthesis",
+    "source_url": "https://arxiv.org/abs/2205.09991",
+    "download": "https://arxiv.org/pdf/2205.09991",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "aafe149adb5476e8b8b061c02d26824c42fb14a71ce8ae37b1a0e375452d7a1f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.12956",
+    "title": "Inception Transformer",
+    "source_url": "https://arxiv.org/abs/2205.12956",
+    "download": "https://arxiv.org/pdf/2205.12956",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v091"
+    ],
+    "sha256": "66a1f4ae84d42c4c1a3a19a827381c222f67d9759da8bb82f798383214b76bdc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2205.13137",
+    "title": "MixMAE: Mixed and Masked Autoencoder for Efficient Pretraining of Hierarchical Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2205.13137",
+    "download": "https://arxiv.org/pdf/2205.13137",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v171"
+    ],
+    "sha256": "3cc0ed52403d99b96c2260016dad2bf5060a80612479f5c1c1d48daa571a6fa0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2206.01634",
+    "title": "Reinforcement Learning with Neural Radiance Fields",
+    "source_url": "https://arxiv.org/abs/2206.01634",
+    "download": "https://arxiv.org/pdf/2206.01634",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v136"
+    ],
+    "sha256": "f859a3ecea7c7e9388cbb485869ab8caff885384be4e6ddf96cb4012510659a9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2206.04667",
+    "title": "Extreme Masking for Learning Instance and Distributed Visual Representations",
+    "source_url": "https://arxiv.org/abs/2206.04667",
+    "download": "https://arxiv.org/pdf/2206.04667",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v163"
+    ],
+    "sha256": "07cf036b0104f91edee5229973bf0b858048e75e9fb6cfb2e4886788f2c56728",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2208.01618",
+    "title": "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion",
+    "source_url": "https://arxiv.org/abs/2208.01618",
+    "download": "https://arxiv.org/pdf/2208.01618",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v016"
+    ],
+    "sha256": "21c1c7c4842f2e559888dbf432ad2345e6a87ce10a6f90398ddfa2562fa70b3f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2208.02801",
+    "title": "Transformers as Meta-Learners for Implicit Neural Representations",
+    "source_url": "https://arxiv.org/abs/2208.02801",
+    "download": "https://arxiv.org/pdf/2208.02801",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v184"
+    ],
+    "sha256": "525b139976cfe6ade10f4c0fef60d86727d204e3f81c8346ed2d08cb4d8890ff",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2208.06193",
+    "title": "Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2208.06193",
+    "download": "https://arxiv.org/pdf/2208.06193",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "380ae19ca845afdf0d0edf51104b956db0fa5aab24b532575b3d7d9bde5a3af0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2208.12242",
+    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+    "source_url": "https://arxiv.org/abs/2208.12242",
+    "download": "https://arxiv.org/pdf/2208.12242",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v002"
+    ],
+    "sha256": "fe33f0d2f768b83a094113bf2862db4d048c5a61ddf6b0283ae7c1b8f6f7d27c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2209.00588",
+    "title": "Transformers are Sample-Efficient World Models",
+    "source_url": "https://arxiv.org/abs/2209.00588",
+    "download": "https://arxiv.org/pdf/2209.00588",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v122"
+    ],
+    "sha256": "6b583542ba35dc99a36127dd3b7650aac5d28479f3fe0e5e47f741768ae587b4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2209.07753",
+    "title": "Code as Policies: Language Model Programs for Embodied Control",
+    "source_url": "https://arxiv.org/abs/2209.07753",
+    "download": "https://arxiv.org/pdf/2209.07753",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "e36857fa13746da031444ec59549e61204ca92d599b1d048ac1c55aaf1f6d0a3",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2209.10652",
+    "title": "Toy Models of Superposition",
+    "source_url": "https://arxiv.org/abs/2209.10652",
+    "download": "https://arxiv.org/pdf/2209.10652",
+    "pages": 62,
+    "document_type": "paper",
+    "video_ids": [
+      "v227"
+    ],
+    "sha256": "0acd3e05e40c1b703be3aed15c8cdbd5713a1840df9738b495d2bde2e8eb1e3a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2210.05666",
+    "title": "Point Transformer V2: Grouped Vector Attention and Partition-based Pooling",
+    "source_url": "https://arxiv.org/abs/2210.05666",
+    "download": "https://arxiv.org/pdf/2210.05666",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v072"
+    ],
+    "sha256": "e12f2f9442c7695f5b23831703f28335eaef4dcf4a44e7b9774637e6b225df74",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2210.09996",
+    "title": "Perceptual Grouping in Contrastive Vision-Language Models",
+    "source_url": "https://arxiv.org/abs/2210.09996",
+    "download": "https://arxiv.org/pdf/2210.09996",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v027"
+    ],
+    "sha256": "0f44e32b7743264afd2944f0a2dd8a00a65cf66482854179c8e0c2acc9d565b1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2211.09119",
+    "title": "Token Turing Machines",
+    "source_url": "https://arxiv.org/abs/2211.09119",
+    "download": "https://arxiv.org/pdf/2211.09119",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v090"
+    ],
+    "sha256": "9dd7e3d6f4b7d69d396e29905175c0bebfe314cd3e487232290c9702375cf0c9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2211.15657",
+    "title": "Is Conditional Generative Modeling all you need for Decision-Making?",
+    "source_url": "https://arxiv.org/abs/2211.15657",
+    "download": "https://arxiv.org/pdf/2211.15657",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "73235755dccd3a4327315f282578d205225736b2f0e654dc3f26bc3871e9a4e3",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2212.02400",
+    "title": "Location-Aware Self-Supervised Transformers for Semantic Segmentation",
+    "source_url": "https://arxiv.org/abs/2212.02400",
+    "download": "https://arxiv.org/pdf/2212.02400",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v169"
+    ],
+    "sha256": "3424722d451ee9fc4300f84d991dfb774a3e4d0832f158e03e7bae8fc8eaefde",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2212.04994",
+    "title": "Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning",
+    "source_url": "https://arxiv.org/abs/2212.04994",
+    "download": "https://arxiv.org/pdf/2212.04994",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v027"
+    ],
+    "sha256": "2bc3c7cec504fd4152d19c7bdf375f89c5bbe1f04c8828a1e53c2b6e33ae3f61",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2212.06817",
+    "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+    "source_url": "https://arxiv.org/abs/2212.06817",
+    "download": "https://arxiv.org/pdf/2212.06817",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "81efe669c8fa50ffc7097886dc78a442fa7a8f7f2451684b93069cb9fbeda767",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-02.zip"
+  },
+  {
+    "key": "arxiv_2212.09748",
+    "title": "Scalable Diffusion Models with Transformers",
+    "source_url": "https://arxiv.org/abs/2212.09748",
+    "download": "https://arxiv.org/pdf/2212.09748",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v229"
+    ],
+    "sha256": "5fbb0ec35e3ae76826240171ca63ed4c27de6cb43180367453019e9d28a8b076",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2301.05221",
+    "title": "Open-vocabulary Object Segmentation with Diffusion Models",
+    "source_url": "https://arxiv.org/abs/2301.05221",
+    "download": "https://arxiv.org/pdf/2301.05221",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v041"
+    ],
+    "sha256": "cece06d7953de360c572a65d251efb78df39a0085e7f9c8b59f6da96a26f4d7f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2301.05221v1",
+    "title": "Guiding Text-to-Image Diffusion Model Towards Grounded Generation",
+    "source_url": "https://arxiv.org/abs/2301.05221v1",
+    "download": "https://arxiv.org/pdf/2301.05221v1",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v041"
+    ],
+    "sha256": "cc88dcc35f7faab0baabc593b5cded8c941a6ee519faade734f6517b6859b77d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2301.10677",
+    "title": "Imitating Human Behaviour with Diffusion Models",
+    "source_url": "https://arxiv.org/abs/2301.10677",
+    "download": "https://arxiv.org/pdf/2301.10677",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "ef712d35ba2c4723447c9adcfac5185dffdcd584f9d913713aa1822a9d11610b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2301.12597",
+    "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+    "source_url": "https://arxiv.org/abs/2301.12597",
+    "download": "https://arxiv.org/pdf/2301.12597",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v036"
+    ],
+    "sha256": "6bc5d399d6127a64ace5167a2f0c00112a49725d2475d80322dbf0083f139e80",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.00111",
+    "title": "Learning Universal Policies via Text-Guided Video Generation",
+    "source_url": "https://arxiv.org/abs/2302.00111",
+    "download": "https://arxiv.org/pdf/2302.00111",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "5ded462cfcad30a6317610a4f991d3c1eca7826cbe208dbd9929c3837529708e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.01384",
+    "title": "Energy-Inspired Self-Supervised Pretraining for Vision Models",
+    "source_url": "https://arxiv.org/abs/2302.01384",
+    "download": "https://arxiv.org/pdf/2302.01384",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v160"
+    ],
+    "sha256": "260e8123be63147d77b453252ed03e987b883cf2b968d12ab6f82205b1f8eea9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "source_url": "https://arxiv.org/abs/2302.04761",
+    "download": "https://arxiv.org/pdf/2302.04761",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v031"
+    ],
+    "sha256": "6d7483d94653008e40c2058a1c22441c92e3713dae278b6361e8efc447c99522",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.11550",
+    "title": "Scaling Robot Learning with Semantically Imagined Experience",
+    "source_url": "https://arxiv.org/abs/2302.11550",
+    "download": "https://arxiv.org/pdf/2302.11550",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "35fc36cc3341dd627a8aab17999c3a415530b08d0494e7a95241a1b567f99b15",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.12902",
+    "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2302.12902",
+    "download": "https://arxiv.org/pdf/2302.12902",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v120"
+    ],
+    "sha256": "b4c284de0c66f20210985bdd1e532a8a4131cf16f18b8125bd64eee6ac834f4a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2302.13335",
+    "title": "Diffusion Model-Augmented Behavioral Cloning",
+    "source_url": "https://arxiv.org/abs/2302.13335",
+    "download": "https://arxiv.org/pdf/2302.13335",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "a7abbe8de310f74378084966e7b8f4ba789969a8e86fad3832ea020b1a8824dc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.03378",
+    "title": "PaLM-E: An Embodied Multimodal Language Model",
+    "source_url": "https://arxiv.org/abs/2303.03378",
+    "download": "https://arxiv.org/pdf/2303.03378",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "535cc3c7fe1ae7428b9ac7d6a3738a0529975aadc372b2229ea0cb2ce724576a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.04137",
+    "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+    "source_url": "https://arxiv.org/abs/2303.04137",
+    "download": "https://arxiv.org/pdf/2303.04137",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v130",
+      "v093"
+    ],
+    "sha256": "b65c474b696a4802d8f1457d86b637ce2c5521412570d3aa928cd54563babc8f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.06424",
+    "title": "Regularized Vector Quantization for Tokenized Image Synthesis",
+    "source_url": "https://arxiv.org/abs/2303.06424",
+    "download": "https://arxiv.org/pdf/2303.06424",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v006"
+    ],
+    "sha256": "6b91a94aed0944e384a8c2e1697fdf135ccea9184bde05b5f069de1afef61abe",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.06614",
+    "title": "Synthetic Experience Replay",
+    "source_url": "https://arxiv.org/abs/2303.06614",
+    "download": "https://arxiv.org/pdf/2303.06614",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v140",
+      "v093"
+    ],
+    "sha256": "8f21f3a259c2bc83dd25a05a63c842be53984b45a0deef5f3938739e2b57243b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.08128",
+    "title": "ViperGPT: Visual Inference via Python Execution for Reasoning",
+    "source_url": "https://arxiv.org/abs/2303.08128",
+    "download": "https://arxiv.org/pdf/2303.08128",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v048"
+    ],
+    "sha256": "dee7d2a2872494f85706b042aac50e73c374d6da94a3d5d15f2f0c287a705ec1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.08810",
+    "title": "BiFormer: Vision Transformer with Bi-Level Routing Attention",
+    "source_url": "https://arxiv.org/abs/2303.08810",
+    "download": "https://arxiv.org/pdf/2303.08810",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v051"
+    ],
+    "sha256": "2d11009c050f154e75fb7f0284abe73b61037e1020c7ef0efc03b28ba77f6e15",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.09535",
+    "title": "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing",
+    "source_url": "https://arxiv.org/abs/2303.09535",
+    "download": "https://arxiv.org/pdf/2303.09535",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v231"
+    ],
+    "sha256": "0ec89c7bfa286cd8ca72c77859917ecbe03efbdddbf69cce9d5e888bd746bd8b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.16199",
+    "title": "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention",
+    "source_url": "https://arxiv.org/abs/2303.16199",
+    "download": "https://arxiv.org/pdf/2303.16199",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v042"
+    ],
+    "sha256": "b669aac68f080ddbcd96b9dc5d7957cca5ad94cc66c0af060b685872c86ffb22",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2303.17152",
+    "title": "Mixed Autoencoder for Self-supervised Visual Representation Learning",
+    "source_url": "https://arxiv.org/abs/2303.17152",
+    "download": "https://arxiv.org/pdf/2303.17152",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v171"
+    ],
+    "sha256": "a2e2ee98f631ace79f6a99bf957016bca1510df59d43b1b7fa318575d2f7ea9d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2304.08485",
+    "title": "Visual Instruction Tuning",
+    "source_url": "https://arxiv.org/abs/2304.08485",
+    "download": "https://arxiv.org/pdf/2304.08485",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v025"
+    ],
+    "sha256": "dc8bace378a282ea78caa9b5959306202fbfa3b8cedaf8a66541a9af18f4d3bf",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2304.10782",
+    "title": "Contrastive Language, Action, and State Pre-training for Robot Learning",
+    "source_url": "https://arxiv.org/abs/2304.10782",
+    "download": "https://arxiv.org/pdf/2304.10782",
+    "pages": 7,
+    "document_type": "paper",
+    "video_ids": [
+      "v100"
+    ],
+    "sha256": "5581ea412ef44056c2ddca5af7bebda455a8004bc515b930bd4c92045318f216",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2304.15010",
+    "title": "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model",
+    "source_url": "https://arxiv.org/abs/2304.15010",
+    "download": "https://arxiv.org/pdf/2304.15010",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v042"
+    ],
+    "sha256": "2e3e51e30b1cc43c82f4903c5e7f6f0fe061a255ee8e64bc4af3e9b954ba726a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2305.07011",
+    "title": "Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers",
+    "source_url": "https://arxiv.org/abs/2305.07011",
+    "download": "https://arxiv.org/pdf/2305.07011",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v028"
+    ],
+    "sha256": "7b882cb8bec5c4d1cbb9668b76da173cca250706b9e21c0b6724f54fc245393b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2305.10973",
+    "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+    "source_url": "https://arxiv.org/abs/2305.10973",
+    "download": "https://arxiv.org/pdf/2305.10973",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v014"
+    ],
+    "sha256": "1f32ce05d389fc5cadb34519295f597459bba08b1805c3ed6e3983749b70b86f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2305.18287",
+    "title": "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections",
+    "source_url": "https://arxiv.org/abs/2305.18287",
+    "download": "https://arxiv.org/pdf/2305.18287",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v043"
+    ],
+    "sha256": "d41e14f78b34d9d8485c537ddff66214c619fef343afbb2f77ce00c8983f683c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2305.20081",
+    "title": "Efficient Diffusion Policies for Offline Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2305.20081",
+    "download": "https://arxiv.org/pdf/2305.20081",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v093"
+    ],
+    "sha256": "811e906372b4b5a38150e6cb0758a1c273070bc9d277722b12becd92df1fb1c4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2306.11706",
+    "title": "RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation",
+    "source_url": "https://arxiv.org/abs/2306.11706",
+    "download": "https://arxiv.org/pdf/2306.11706",
+    "pages": 60,
+    "document_type": "paper",
+    "video_ids": [
+      "v127"
+    ],
+    "sha256": "ec66c1579baaada787820abf4ce99a9a59143b583ddcc6dfc4814623d1969831",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.01849",
+    "title": "Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning",
+    "source_url": "https://arxiv.org/abs/2307.01849",
+    "download": "https://arxiv.org/pdf/2307.01849",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v101",
+      "v093"
+    ],
+    "sha256": "c3387cd6ba9c9a053579ae7b417c165660a128608e9a9286705937a9f953d933",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.04721",
+    "title": "Large Language Models as General Pattern Machines",
+    "source_url": "https://arxiv.org/abs/2307.04721",
+    "download": "https://arxiv.org/pdf/2307.04721",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v026"
+    ],
+    "sha256": "3af9bca20611ddbdcaeca36b5c4ac00428e5b9da98ff48cfdebee9d8c028cb20",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.05973",
+    "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+    "source_url": "https://arxiv.org/abs/2307.05973",
+    "download": "https://arxiv.org/pdf/2307.05973",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v033"
+    ],
+    "sha256": "cf1cadcf7a1ee44979908c07698f87755c9b5340a79420db509a92d6d2533d42",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.08621",
+    "title": "Retentive Network: A Successor to Transformer for Large Language Models",
+    "source_url": "https://arxiv.org/abs/2307.08621",
+    "download": "https://arxiv.org/pdf/2307.08621",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v089"
+    ],
+    "sha256": "b75fdb67fdcc760609a38d28171a785f336ece30f750d210c7379306bb483fa7",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.09955",
+    "title": "XSkill: Cross Embodiment Skill Discovery",
+    "source_url": "https://arxiv.org/abs/2307.09955",
+    "download": "https://arxiv.org/pdf/2307.09955",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v126"
+    ],
+    "sha256": "60fc0417c4a72efc89672687e8957a14af3038333b2595d8ef465dfde61ae8ae",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2307.15818",
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "source_url": "https://arxiv.org/abs/2307.15818",
+    "download": "https://arxiv.org/pdf/2307.15818",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "0a62dc36bbbfdea232ad45a0ab75c82e9cf535b55333ff22c02d5da1897ccac3",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.03576",
+    "title": "DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions",
+    "source_url": "https://arxiv.org/abs/2309.03576",
+    "download": "https://arxiv.org/pdf/2309.03576",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v159"
+    ],
+    "sha256": "43cd43eeba811b2206f94ffd031c798ed1938b1e4214e7a4dc7646a3365002f5",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.11497",
+    "title": "FreeU: Free Lunch in Diffusion U-Net",
+    "source_url": "https://arxiv.org/abs/2309.11497",
+    "download": "https://arxiv.org/pdf/2309.11497",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v015"
+    ],
+    "sha256": "4a6362303b3d52498522a6a6ec96e7884ee104541202e85caee58c6c49aa5462",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.12307",
+    "title": "LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models",
+    "source_url": "https://arxiv.org/abs/2309.12307",
+    "download": "https://arxiv.org/pdf/2309.12307",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v044"
+    ],
+    "sha256": "ebae0749edbed429e7c250fa337fb6f8846f352b024ee72b450bf19e804007fd",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.14289",
+    "title": "CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free",
+    "source_url": "https://arxiv.org/abs/2309.14289",
+    "download": "https://arxiv.org/pdf/2309.14289",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v020"
+    ],
+    "sha256": "5ff402e14185e8740497d08e764529c62306a1a72542bfc205e8a7c2e3a53a7e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.15505",
+    "title": "Finite Scalar Quantization: VQ-VAE Made Simple",
+    "source_url": "https://arxiv.org/abs/2309.15505",
+    "download": "https://arxiv.org/pdf/2309.15505",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v193"
+    ],
+    "sha256": "7cbbb58998c36b13beebe705de0ba4e3bfc8572d4a06fdb1f1ed5abbd83bc791",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2309.16588",
+    "title": "Vision Transformers Need Registers",
+    "source_url": "https://arxiv.org/abs/2309.16588",
+    "download": "https://arxiv.org/pdf/2309.16588",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v080"
+    ],
+    "sha256": "e7b94bffc68d851322d799a8be387fc8b36d53f9e6cc757bac511305acd60776",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2310.01405",
+    "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+    "source_url": "https://arxiv.org/abs/2310.01405",
+    "download": "https://arxiv.org/pdf/2310.01405",
+    "pages": 56,
+    "document_type": "paper",
+    "video_ids": [
+      "v236"
+    ],
+    "sha256": "5cd54799f795433bd6652231e0d113dead887f21c798148619fc0ce6f0fd589f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2310.07704",
+    "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity",
+    "source_url": "https://arxiv.org/abs/2310.07704",
+    "download": "https://arxiv.org/pdf/2310.07704",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v039"
+    ],
+    "sha256": "00ea2a269aa4f46dc5292c2446e350bc92bd984eb79d642524897ecb7120f12d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2310.12921",
+    "title": "Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2310.12921",
+    "download": "https://arxiv.org/pdf/2310.12921",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v047"
+    ],
+    "sha256": "d5bb12b952c43dc0e8dfe34ab31bf45221804164119a7969beaaa65c028b8752",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2311.15131",
+    "title": "Localizing Lying in Llama: Understanding Instructed Dishonesty on True-False Questions Through Prompting, Probing, and Patching",
+    "source_url": "https://arxiv.org/abs/2311.15131",
+    "download": "https://arxiv.org/pdf/2311.15131",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v236"
+    ],
+    "sha256": "71fd97f6a7ed0ecc34ab05645efa908929d9446cd93108bdce6e7aa29672b902",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2311.17901",
+    "title": "SODA: Bottleneck Diffusion Models for Representation Learning",
+    "source_url": "https://arxiv.org/abs/2311.17901",
+    "download": "https://arxiv.org/pdf/2311.17901",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v202"
+    ],
+    "sha256": "98179b6f7a3bd0e6b3bcd1a1253b0bc1ab4ff254f8e9bcea1a3fc6d0c82c0d7f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2312.07843",
+    "title": "Foundation Models in Robotics: Applications, Challenges, and the Future",
+    "source_url": "https://arxiv.org/abs/2312.07843",
+    "download": "https://arxiv.org/pdf/2312.07843",
+    "pages": 33,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "c043fd4ecc37786f50bc2c888e871608c729ec02317c2cfa315335faa21c7085",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2312.17235",
+    "title": "A Simple LLM Framework for Long-Range Video Question-Answering",
+    "source_url": "https://arxiv.org/abs/2312.17235",
+    "download": "https://arxiv.org/pdf/2312.17235",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v034"
+    ],
+    "sha256": "7af99b5352ea1f01794264c50fc7495a35b0ddf8ed64b3f0b1fac44616baa7dc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2401.02954",
+    "title": "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism",
+    "source_url": "https://arxiv.org/abs/2401.02954",
+    "download": "https://arxiv.org/pdf/2401.02954",
+    "pages": 48,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "9be2b427133468d443ff3a6411287a6f64759ed1e9cdd9a07f07486f11b00591",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2401.06066",
+    "title": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+    "source_url": "https://arxiv.org/abs/2401.06066",
+    "download": "https://arxiv.org/pdf/2401.06066",
+    "pages": 33,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "a64b509e1410d09cf5b70570788d27790985fb9808ce436b9da8de73f2eed651",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2401.09865",
+    "title": "Improving fine-grained understanding in image-text pre-training",
+    "source_url": "https://arxiv.org/abs/2401.09865",
+    "download": "https://arxiv.org/pdf/2401.09865",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v024"
+    ],
+    "sha256": "0dfe192c5875c6f37813a7a1f2b45231b9d2a01a05ae1b11130aa0d32f6a7852",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2401.12168",
+    "title": "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities",
+    "source_url": "https://arxiv.org/abs/2401.12168",
+    "download": "https://arxiv.org/pdf/2401.12168",
+    "pages": 29,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "c10f059f0db1b55265873c889f1ceca0e1f82c538127a5ae86163185ebee15e2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2401.14404",
+    "title": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning",
+    "source_url": "https://arxiv.org/abs/2401.14404",
+    "download": "https://arxiv.org/pdf/2401.14404",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v157"
+    ],
+    "sha256": "de3995aa8e3602297a718c1dbf251051a2c4563924d3e921fd334a13a686fd79",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2402.07872",
+    "title": "PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs",
+    "source_url": "https://arxiv.org/abs/2402.07872",
+    "download": "https://arxiv.org/pdf/2402.07872",
+    "pages": 27,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "643c47d0f2404f9152884ea6b0e179f606ee5de62f810f45e202d96394c84e65",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2403.02325",
+    "title": "Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training",
+    "source_url": "https://arxiv.org/abs/2403.02325",
+    "download": "https://arxiv.org/pdf/2403.02325",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v038"
+    ],
+    "sha256": "0a6ffde8423152b2bf6ac5e17d67a94b3b51b27be2a8a599cd20b46f00aa3d51",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2403.03206",
+    "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+    "source_url": "https://arxiv.org/abs/2403.03206",
+    "download": "https://arxiv.org/pdf/2403.03206",
+    "pages": 28,
+    "document_type": "paper",
+    "video_ids": [
+      "v229"
+    ],
+    "sha256": "7ba352b6ded12859cda4d47df203d5fe38ee884c45f3b67ff227549d82db1487",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2404.02905",
+    "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction",
+    "source_url": "https://arxiv.org/abs/2404.02905",
+    "download": "https://arxiv.org/pdf/2404.02905",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v010"
+    ],
+    "sha256": "09bf82325072d173f99954cf971b5f748ddc8834dadd9afc135098410d6b5849",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2404.07973",
+    "title": "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models",
+    "source_url": "https://arxiv.org/abs/2404.07973",
+    "download": "https://arxiv.org/pdf/2404.07973",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v040"
+    ],
+    "sha256": "9ff55409ebe9f11f3203bd0c70be12bdd41b00ae7d09e700abcdbc4b722c6e7c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2405.04434",
+    "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+    "source_url": "https://arxiv.org/abs/2405.04434",
+    "download": "https://arxiv.org/pdf/2405.04434",
+    "pages": 52,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "f149f9c09aa8b46ce6a740a255a99b7cc2317ac5b065989339919b7e6c329c9b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2405.16555",
+    "title": "Building Vision Models upon Heat Conduction",
+    "source_url": "https://arxiv.org/abs/2405.16555",
+    "download": "https://arxiv.org/pdf/2405.16555",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v212"
+    ],
+    "sha256": "888277df447292bc13e2924b277b92ac54fc87733879041cc0d39036b227732d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2406.09246",
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "source_url": "https://arxiv.org/abs/2406.09246",
+    "download": "https://arxiv.org/pdf/2406.09246",
+    "pages": 37,
+    "document_type": "paper",
+    "video_ids": [
+      "v137",
+      "v094"
+    ],
+    "sha256": "353c37df34458f12f969b14dfd8b77175b727b9cddea7bb891759beddeefe1be",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2406.10721",
+    "title": "RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics",
+    "source_url": "https://arxiv.org/abs/2406.10721",
+    "download": "https://arxiv.org/pdf/2406.10721",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "ae9e8476d63b82ccfa922905e6b410dc9ef302cd0618e11b79f10e06a5c8a1ed",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2406.11815",
+    "title": "LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning",
+    "source_url": "https://arxiv.org/abs/2406.11815",
+    "download": "https://arxiv.org/pdf/2406.11815",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "631532a0f47876bd7db1ccc91385e851c3247bd617a0528ef58d1da8e869c6ce",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-03.zip"
+  },
+  {
+    "key": "arxiv_2406.18915",
+    "title": "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models",
+    "source_url": "https://arxiv.org/abs/2406.18915",
+    "download": "https://arxiv.org/pdf/2406.18915",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "c1aaeeb0a70f4e6b587b87e35b6644f799dadd662a379e2f2afb86a076e9f7ab",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2406.20095",
+    "title": "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy",
+    "source_url": "https://arxiv.org/abs/2406.20095",
+    "download": "https://arxiv.org/pdf/2406.20095",
+    "pages": 47,
+    "document_type": "paper",
+    "video_ids": [
+      "v133",
+      "v094"
+    ],
+    "sha256": "ae40d59dc1787f8f2959681db3539894b0fb7f9f24853f748585cb07de7814e0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2407.05407",
+    "title": "CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens",
+    "source_url": "https://arxiv.org/abs/2407.05407",
+    "download": "https://arxiv.org/pdf/2407.05407",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v210"
+    ],
+    "sha256": "943cfccccb8abaf2e3be1949e48de6990e9ebb5c4815b618270f157eb9c41f1a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2407.07875",
+    "title": "Generative Image as Action Models",
+    "source_url": "https://arxiv.org/abs/2407.07875",
+    "download": "https://arxiv.org/pdf/2407.07875",
+    "pages": 27,
+    "document_type": "paper",
+    "video_ids": [
+      "v131"
+    ],
+    "sha256": "844bf5176e0512449e7cc11056025efaaea04ff56676422d6fa6fc97bdff5cb9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2407.08693",
+    "title": "Robotic Control via Embodied Chain-of-Thought Reasoning",
+    "source_url": "https://arxiv.org/abs/2407.08693",
+    "download": "https://arxiv.org/pdf/2407.08693",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "f1bed12bbeb45f9ba25433217420ea8eeac160c697ca277241245341d945f7f8",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2407.20179",
+    "title": "Theia: Distilling Diverse Vision Foundation Models for Robot Learning",
+    "source_url": "https://arxiv.org/abs/2407.20179",
+    "download": "https://arxiv.org/pdf/2407.20179",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v206"
+    ],
+    "sha256": "9a17d5e41e099aba3820b1981c129f704a09b2b85050a014c3a8783b8f5f4e78",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2407.21705",
+    "title": "Tora: Trajectory-oriented Diffusion Transformer for Video Generation",
+    "source_url": "https://arxiv.org/abs/2407.21705",
+    "download": "https://arxiv.org/pdf/2407.21705",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v231"
+    ],
+    "sha256": "f017bcb5f67e6a334fa767a8024b93e72ad0f961bf3ee041162bb9add8b88a30",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2408.08345",
+    "title": "5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks",
+    "source_url": "https://arxiv.org/abs/2408.08345",
+    "download": "https://arxiv.org/pdf/2408.08345",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v241"
+    ],
+    "sha256": "dfe33b87148a38b7eb1d75f00cd581a754d3bd06742e7f019698337f70a6d8c5",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2409.01652",
+    "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+    "source_url": "https://arxiv.org/abs/2409.01652",
+    "download": "https://arxiv.org/pdf/2409.01652",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "6820e718a66f3c52f27996d3ee2623260dd442eddeab2df098212eb6eb769334",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2409.12514",
+    "title": "TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation",
+    "source_url": "https://arxiv.org/abs/2409.12514",
+    "download": "https://arxiv.org/pdf/2409.12514",
+    "pages": 8,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "57a8d723e8ec76f8c6fee0e74944b8f7308b87cabe6bd327050ae9ebb4a9753f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2410.03456",
+    "title": "Dynamic Diffusion Transformer",
+    "source_url": "https://arxiv.org/abs/2410.03456",
+    "download": "https://arxiv.org/pdf/2410.03456",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v229"
+    ],
+    "sha256": "5b4cbb35745ab1bf763ef11eb227db47dc836b2ab655edafad339c43dac79a15",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2410.11758",
+    "title": "Latent Action Pretraining from Videos",
+    "source_url": "https://arxiv.org/abs/2410.11758",
+    "download": "https://arxiv.org/pdf/2410.11758",
+    "pages": 27,
+    "document_type": "paper",
+    "video_ids": [
+      "v134"
+    ],
+    "sha256": "efab4f379e1a30ef7be36c87885c2c509d880ee9578f4cfdcc20d9321c93dce9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2410.24164",
+    "title": "$\\pi_0$: A Vision-Language-Action Flow Model for General Robot Control",
+    "source_url": "https://arxiv.org/abs/2410.24164",
+    "download": "https://arxiv.org/pdf/2410.24164",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v142"
+    ],
+    "sha256": "fbdfba56258bdbd220207ba63410c6c943e43a73e97a7a5a47ca0bc74204f821",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.03293",
+    "title": "Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning",
+    "source_url": "https://arxiv.org/abs/2412.03293",
+    "download": "https://arxiv.org/pdf/2412.03293",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "f036c44e762cd5fcdc0a32dd12f9294e390dafd7eb3233f839717c587ed0129d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.10117",
+    "title": "CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models",
+    "source_url": "https://arxiv.org/abs/2412.10117",
+    "download": "https://arxiv.org/pdf/2412.10117",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v210"
+    ],
+    "sha256": "b407f3e132f6ca73adb44f94b8d14963e005d6d61e80b47bc79615b7dddc3e74",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.10345",
+    "title": "TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies",
+    "source_url": "https://arxiv.org/abs/2412.10345",
+    "download": "https://arxiv.org/pdf/2412.10345",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v094"
+    ],
+    "sha256": "cdf472fba7149b90b14b6a7345e0e6bb172d901827061a9012b8dadcef882c3d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.12094",
+    "title": "SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator",
+    "source_url": "https://arxiv.org/abs/2412.12094",
+    "download": "https://arxiv.org/pdf/2412.12094",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v220"
+    ],
+    "sha256": "6742e1069a8d204c8d534b6bbeb4efbca04e695440e7bbbcd87835ecfcea5ec5",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.14803",
+    "title": "Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations",
+    "source_url": "https://arxiv.org/abs/2412.14803",
+    "download": "https://arxiv.org/pdf/2412.14803",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v123"
+    ],
+    "sha256": "7a6d966b78a205efe0943e9188f16ec33e470526da1066df5406922fafb4f0d6",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.17589",
+    "title": "PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World",
+    "source_url": "https://arxiv.org/abs/2412.17589",
+    "download": "https://arxiv.org/pdf/2412.17589",
+    "pages": 24,
+    "document_type": "paper",
+    "video_ids": [
+      "v232"
+    ],
+    "sha256": "3b1be0810bc758d3fb9bcefe4147e7abdfc9645086d93052b0c7012170725326",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2412.19437",
+    "title": "DeepSeek-V3 Technical Report",
+    "source_url": "https://arxiv.org/abs/2412.19437",
+    "download": "https://arxiv.org/pdf/2412.19437",
+    "pages": 53,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "812a3fd645c80725354de9d831a6785503007a60681461407f64e97305fa9330",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2501.00603",
+    "title": "DiC: Rethinking Conv3x3 Designs in Diffusion Models",
+    "source_url": "https://arxiv.org/abs/2501.00603",
+    "download": "https://arxiv.org/pdf/2501.00603",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v218"
+    ],
+    "sha256": "2267efd2f6878809e0492bf5be064b243a94ff660d43787ebd68edc0772793ea",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2501.09747",
+    "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+    "source_url": "https://arxiv.org/abs/2501.09747",
+    "download": "https://arxiv.org/pdf/2501.09747",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v092"
+    ],
+    "sha256": "3739b31f5fecdde371509ff5bb13619979734e894a255a9b264253f4cc53934a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "source_url": "https://arxiv.org/abs/2501.12948",
+    "download": "https://arxiv.org/pdf/2501.12948",
+    "pages": 86,
+    "document_type": "paper",
+    "video_ids": [
+      "v251",
+      "v253"
+    ],
+    "sha256": "b191b0a365a64b4ab2791d117069ed17a2933d03554a662ced58b37df52018f4",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2502.11089",
+    "title": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+    "source_url": "https://arxiv.org/abs/2502.11089",
+    "download": "https://arxiv.org/pdf/2502.11089",
+    "pages": 25,
+    "document_type": "paper",
+    "video_ids": [
+      "v217"
+    ],
+    "sha256": "2314e53e3c122a839b14724e4a5096a208f0317d02cca21cc6962e52e070c74e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2502.12170",
+    "title": "MUDDFormer: Breaking Residual Bottlenecks in Transformers via Multiway Dynamic Dense Connections",
+    "source_url": "https://arxiv.org/abs/2502.12170",
+    "download": "https://arxiv.org/pdf/2502.12170",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v226"
+    ],
+    "sha256": "98bc5c98313801e5fc28f43b11b4fb8b7b7cc62699beed30fd6b848aff97aebe",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2502.17437",
+    "title": "Fractal Generative Models",
+    "source_url": "https://arxiv.org/abs/2502.17437",
+    "download": "https://arxiv.org/pdf/2502.17437",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v238"
+    ],
+    "sha256": "91ce21363a7b3c6f0376a9a2be8739ad63a038752699229d2ebe226c7b0f7ac2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2502.20087",
+    "title": "OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels",
+    "source_url": "https://arxiv.org/abs/2502.20087",
+    "download": "https://arxiv.org/pdf/2502.20087",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v222"
+    ],
+    "sha256": "cd9d60031d5775b2db323ff36dd31b6bcbf76723d6d766368741070f66623461",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2503.11056",
+    "title": "Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization",
+    "source_url": "https://arxiv.org/abs/2503.11056",
+    "download": "https://arxiv.org/pdf/2503.11056",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v249"
+    ],
+    "sha256": "c6a1d6c640175e2a6334f344c953cff88399b2c70fd5c68e025b204332c30b83",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2503.11299",
+    "title": "BriLLM: Brain-inspired Large Language Model",
+    "source_url": "https://arxiv.org/abs/2503.11299",
+    "download": "https://arxiv.org/pdf/2503.11299",
+    "pages": 12,
+    "document_type": "paper",
+    "video_ids": [
+      "v255"
+    ],
+    "sha256": "c39598260e780574794e8773a766f24cebf5dd1dba8aa2bd059371d240e0a222",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2503.24322",
+    "title": "NoProp: Training Neural Networks without Full Back-propagation or Full Forward-propagation",
+    "source_url": "https://arxiv.org/abs/2503.24322",
+    "download": "https://arxiv.org/pdf/2503.24322",
+    "pages": 20,
+    "document_type": "paper",
+    "video_ids": [
+      "v242"
+    ],
+    "sha256": "993ff39c417d89588913e7fc71c82ff8b7893b8ebecb881778a93784bd5c0a2c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2504.07448",
+    "title": "LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation",
+    "source_url": "https://arxiv.org/abs/2504.07448",
+    "download": "https://arxiv.org/pdf/2504.07448",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v224"
+    ],
+    "sha256": "908f60f8c692eeee9d0b49bb87a5310b390a62734e786f74c0874d83b09327f5",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2505.05522",
+    "title": "Continuous Thought Machines",
+    "source_url": "https://arxiv.org/abs/2505.05522",
+    "download": "https://arxiv.org/pdf/2505.05522",
+    "pages": 44,
+    "document_type": "paper",
+    "video_ids": [
+      "v246"
+    ],
+    "sha256": "671fd295f6362b3910d5def7e78d5eb08f8a99d3866c4808f79a26c685dec171",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2505.13447",
+    "title": "Mean Flows for One-step Generative Modeling",
+    "source_url": "https://arxiv.org/abs/2505.13447",
+    "download": "https://arxiv.org/pdf/2505.13447",
+    "pages": 16,
+    "document_type": "paper",
+    "video_ids": [
+      "v240"
+    ],
+    "sha256": "322ba9244ad2c72382038e421fe0ffa92510c51d4f9c740bd7282b36bfc25206",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2505.17589",
+    "title": "CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training",
+    "source_url": "https://arxiv.org/abs/2505.17589",
+    "download": "https://arxiv.org/pdf/2505.17589",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v210"
+    ],
+    "sha256": "e8384d30da289670ee1c8c39176a87ed4433ef38d91c6d0963286e63e76b4eb1",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2505.23742",
+    "title": "MAGREF: Masked Guidance for Any-Reference Video Generation with Subject Disentanglement",
+    "source_url": "https://arxiv.org/abs/2505.23742",
+    "download": "https://arxiv.org/pdf/2505.23742",
+    "pages": 32,
+    "document_type": "paper",
+    "video_ids": [
+      "v231"
+    ],
+    "sha256": "c08701f7401031b88a46899f88720370536201ee48bbc72067cf11246dc669ef",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2505.23941",
+    "title": "Vision Language Models are Biased",
+    "source_url": "https://arxiv.org/abs/2505.23941",
+    "download": "https://arxiv.org/pdf/2505.23941",
+    "pages": 86,
+    "document_type": "paper",
+    "video_ids": [
+      "v230"
+    ],
+    "sha256": "bb39fbd2ad577c6b571847292ffb3b84add19dc8ea3f06556924b57f125aadb9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2506.05340",
+    "title": "Exploring Diffusion Transformer Designs via Grafting",
+    "source_url": "https://arxiv.org/abs/2506.05340",
+    "download": "https://arxiv.org/pdf/2506.05340",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v211"
+    ],
+    "sha256": "d08950a3b635614646334312ad9fbeb4b0c08c25fd41613dbbd64142cf6e7cc6",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2506.09991",
+    "title": "Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation",
+    "source_url": "https://arxiv.org/abs/2506.09991",
+    "download": "https://arxiv.org/pdf/2506.09991",
+    "pages": 26,
+    "document_type": "paper",
+    "video_ids": [
+      "v244"
+    ],
+    "sha256": "09a124536d74993b454e3bd608020787b73563ec708575d598c736e17351963f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2507.04447",
+    "title": "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge",
+    "source_url": "https://arxiv.org/abs/2507.04447",
+    "download": "https://arxiv.org/pdf/2507.04447",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v104"
+    ],
+    "sha256": "916d49a313c0246bfcd60bffba2e685e6432ae912f4b969fdbd3008437c3a44d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2507.10524",
+    "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation",
+    "source_url": "https://arxiv.org/abs/2507.10524",
+    "download": "https://arxiv.org/pdf/2507.10524",
+    "pages": 38,
+    "document_type": "paper",
+    "video_ids": [
+      "v256"
+    ],
+    "sha256": "040b9467356aee6f30f27901eef06cb65738f362ad9054ca4b1ba5f408700b69",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2509.04664",
+    "title": "Why Language Models Hallucinate",
+    "source_url": "https://arxiv.org/abs/2509.04664",
+    "download": "https://arxiv.org/pdf/2509.04664",
+    "pages": 36,
+    "document_type": "paper",
+    "video_ids": [
+      "v221"
+    ],
+    "sha256": "b6a0d4e8de1b3add1044cbf00c59c92e0ca76c7deef5c944d76cb0f16db28950",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2510.08396",
+    "title": "FlyLoRA: Boosting Task Decoupling and Parameter Efficiency via Implicit Rank-Wise Mixture-of-Experts",
+    "source_url": "https://arxiv.org/abs/2510.08396",
+    "download": "https://arxiv.org/pdf/2510.08396",
+    "pages": 34,
+    "document_type": "paper",
+    "video_ids": [
+      "v225"
+    ],
+    "sha256": "8ff15dce57440bed6195d4c06a3e576b5007709afec9e5d5e1a899da36a99afc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2510.18234",
+    "title": "DeepSeek-OCR: Contexts Optical Compression",
+    "source_url": "https://arxiv.org/abs/2510.18234",
+    "download": "https://arxiv.org/pdf/2510.18234",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v254"
+    ],
+    "sha256": "a7297788968f8ad9ed21bcd273110814e4889efbbc99bfea86dca12205797a90",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2511.13720",
+    "title": "Back to Basics: Let Denoising Generative Models Denoise",
+    "source_url": "https://arxiv.org/abs/2511.13720",
+    "download": "https://arxiv.org/pdf/2511.13720",
+    "pages": 18,
+    "document_type": "paper",
+    "video_ids": [
+      "v223",
+      "v247"
+    ],
+    "sha256": "8c265e4adfd488ccbce035a53ad9055edddd02f5c0393738f54da583ee832b8f",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2511.14761",
+    "title": "ARC Is a Vision Problem!",
+    "source_url": "https://arxiv.org/abs/2511.14761",
+    "download": "https://arxiv.org/pdf/2511.14761",
+    "pages": 17,
+    "document_type": "paper",
+    "video_ids": [
+      "v234"
+    ],
+    "sha256": "0f7c95b5243039fb95827b1f440fd548a96431fb79db551dadf9ebb53e9cb1e0",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2512.02556",
+    "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+    "source_url": "https://arxiv.org/abs/2512.02556",
+    "download": "https://arxiv.org/pdf/2512.02556",
+    "pages": 23,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "2bec0671778769c159ec389412727d1f3d4889fe1c71564b61edaa24705bd17b",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2602.02276",
+    "title": "Kimi K2.5: Visual Agentic Intelligence",
+    "source_url": "https://arxiv.org/abs/2602.02276",
+    "download": "https://arxiv.org/pdf/2602.02276",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v216"
+    ],
+    "sha256": "889025c0fcbacb8b049aacd5b21f6c902a236eb28dec7aa51e6852ca39ec5417",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2602.19083",
+    "title": "ChordEdit: One-Step Low-Energy Transport for Image Editing",
+    "source_url": "https://arxiv.org/abs/2602.19083",
+    "download": "https://arxiv.org/pdf/2602.19083",
+    "pages": 33,
+    "document_type": "paper",
+    "video_ids": [
+      "v215"
+    ],
+    "sha256": "b1ed3668ab3d4b02ecb7e02831a626c126ae965301bc1117774adc723bd34b08",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2602.19134",
+    "title": "Mapping Networks",
+    "source_url": "https://arxiv.org/abs/2602.19134",
+    "download": "https://arxiv.org/pdf/2602.19134",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v214"
+    ],
+    "sha256": "a084918c210f386e089a6c079b4b3a65f49f42cc2520f956bcd4d421b482723e",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2602.22394",
+    "title": "Vision Transformers Need More Than Registers",
+    "source_url": "https://arxiv.org/abs/2602.22394",
+    "download": "https://arxiv.org/pdf/2602.22394",
+    "pages": 10,
+    "document_type": "paper",
+    "video_ids": [
+      "v235"
+    ],
+    "sha256": "b601b3d85ed1401e3a6bcd87c06983e4f67749f6d0b1dcb7cfaa32d973f18fb2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2602.22983",
+    "title": "Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search",
+    "source_url": "https://arxiv.org/abs/2602.22983",
+    "download": "https://arxiv.org/pdf/2602.22983",
+    "pages": 31,
+    "document_type": "paper",
+    "video_ids": [
+      "v219"
+    ],
+    "sha256": "719ebe9f171266cfed1f1072c758f16e940d3700be2202de1f9c478255ff2310",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2603.15031",
+    "title": "Attention Residuals",
+    "source_url": "https://arxiv.org/abs/2603.15031",
+    "download": "https://arxiv.org/pdf/2603.15031",
+    "pages": 21,
+    "document_type": "paper",
+    "video_ids": [
+      "v257"
+    ],
+    "sha256": "444673994328f7be8aee9d96fb240596b6f254f06ebaa53a2673413a244198c9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2603.19979",
+    "title": "X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving",
+    "source_url": "https://arxiv.org/abs/2603.19979",
+    "download": "https://arxiv.org/pdf/2603.19979",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v243"
+    ],
+    "sha256": "eb1fb329e7d0493ab4172fa73cc24aa677b5389b0eed04eb949dc31c86325e94",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2604.20289",
+    "title": "X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference",
+    "source_url": "https://arxiv.org/abs/2604.20289",
+    "download": "https://arxiv.org/pdf/2604.20289",
+    "pages": 15,
+    "document_type": "paper",
+    "video_ids": [
+      "v243"
+    ],
+    "sha256": "2ada551cd2fa9333fe9eb34f2c804ceb268622e61543fb40110002cb90b102a6",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2604.20329",
+    "title": "Image Generators are Generalist Vision Learners",
+    "source_url": "https://arxiv.org/abs/2604.20329",
+    "download": "https://arxiv.org/pdf/2604.20329",
+    "pages": 30,
+    "document_type": "paper",
+    "video_ids": [
+      "v233"
+    ],
+    "sha256": "088b078cbc2b6183ec50fc95910c1daf6e29f7e4928ed17dda6d978a82204dc6",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2605.10938",
+    "title": "ELF: Embedded Language Flows",
+    "source_url": "https://arxiv.org/abs/2605.10938",
+    "download": "https://arxiv.org/pdf/2605.10938",
+    "pages": 39,
+    "document_type": "paper",
+    "video_ids": [
+      "v248"
+    ],
+    "sha256": "50c6c0ca07340b21e01dcb5123b9e6fb593ed6c6f8801c78249d437e787224c2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2605.24892",
+    "title": "X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling",
+    "source_url": "https://arxiv.org/abs/2605.24892",
+    "download": "https://arxiv.org/pdf/2605.24892",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v243"
+    ],
+    "sha256": "58111f3080dd5805abe7f8ea2190312732aa628ee9a083020e2faf63ba946c05",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2605.29358",
+    "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+    "source_url": "https://arxiv.org/abs/2605.29358",
+    "download": "https://arxiv.org/pdf/2605.29358",
+    "pages": 71,
+    "document_type": "paper",
+    "video_ids": [
+      "v227"
+    ],
+    "sha256": "1094a892548fefdad9aedab54b60bb5ef47418343dce0d205b81a54491a0207d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2606.19348",
+    "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+    "source_url": "https://arxiv.org/abs/2606.19348",
+    "download": "https://arxiv.org/pdf/2606.19348",
+    "pages": 58,
+    "document_type": "paper",
+    "video_ids": [
+      "v253"
+    ],
+    "sha256": "55b2d72f772ac00de2e470b3ee08443c648d971c7f57c52d6202895665e5978d",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2606.24253",
+    "title": "TuringViT: Making SOTA Vision Transformers Accessible to All",
+    "source_url": "https://arxiv.org/abs/2606.24253",
+    "download": "https://arxiv.org/pdf/2606.24253",
+    "pages": 19,
+    "document_type": "paper",
+    "video_ids": [
+      "v243"
+    ],
+    "sha256": "b99cae88f97fb664b726c7f9ff42948c0413ef432fd4bab9e3fa31ab58914430",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2606.28758",
+    "title": "X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving",
+    "source_url": "https://arxiv.org/abs/2606.28758",
+    "download": "https://arxiv.org/pdf/2606.28758",
+    "pages": 13,
+    "document_type": "paper",
+    "video_ids": [
+      "v243"
+    ],
+    "sha256": "a5b0635690399550c1c34c5215b7ba878fb1eddf1102ec378a903f7ae50c93ca",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2607.05147",
+    "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+    "source_url": "https://arxiv.org/abs/2607.05147",
+    "download": "https://arxiv.org/pdf/2607.05147",
+    "pages": 33,
+    "document_type": "paper",
+    "video_ids": [
+      "v250"
+    ],
+    "sha256": "522036b0cc16ad4678bd7c278dd0a0ab4da31170af7b97c2041067cc09a8289a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "arxiv_2609.36054",
+    "title": "What if automating AI R&D triggers an intelligence explosion?",
+    "source_url": "https://arxiv.org/abs/2609.36054",
+    "download": "https://arxiv.org/pdf/2609.36054",
+    "pages": 14,
+    "document_type": "paper",
+    "video_ids": [
+      "v209"
+    ],
+    "sha256": "4ddafe6258d714dad24d915d8120f2ca4e4470a4e4203adaeb9a4c02e5784733",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "cot_is_not_explainability",
+    "title": "Chain-of-Thought Is Not Explainability",
+    "source_url": "https://www.adelbibi.com/publication/cot_not_explainability/",
+    "download": "https://fbarez.github.io/assets/pdf/Cot_Is_Not_Explainability.pdf",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v213"
+    ],
+    "sha256": "2774d387fcadcc252632cea2325bc0f3e63bb8dd702e2d63a787655ecc293e9a",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "cvf_2021_vi2clr",
+    "title": "Vi2CLR: Video and Image for Visual Contrastive Learning of Representation",
+    "source_url": "https://openaccess.thecvf.com/content/ICCV2021/html/Diba_Vi2CLR_Video_and_Image_for_Visual_Contrastive_Learning_of_Representation_ICCV_2021_paper.html",
+    "download": "https://openaccess.thecvf.com/content/ICCV2021/papers/Diba_Vi2CLR_Video_and_Image_for_Visual_Contrastive_Learning_of_Representation_ICCV_2021_paper.pdf",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v186"
+    ],
+    "sha256": "d0eae9f09b444218aeba132d628be1e201e0978d5076b164040548b6206c1cee",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "deepseek_r1_nature",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+    "source_url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "download": "https://www.nature.com/articles/s41586-025-09422-z.pdf",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v251"
+    ],
+    "sha256": "916fdaafc3b44143a9744481d079744f773d73d06372f82b1dba1076525927f2",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "ganlab_2018",
+    "title": "GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation",
+    "source_url": "https://poloclub.github.io/ganlab/",
+    "download": "https://poloclub.github.io/polochau/papers/18-vast-ganlab.pdf",
+    "pages": 11,
+    "document_type": "paper",
+    "video_ids": [
+      "v147"
+    ],
+    "sha256": "eb145f25e50bc49b2f5fe6758fdd2fa42bbba88a2b4e32a55c224d710dea7ecc",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "glm_5_2_official_release",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "source_url": "https://z.ai/blog/glm-5.2",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/glm_5_2_official_release.pdf",
+    "pages": 13,
+    "document_type": "web",
+    "video_ids": [
+      "v252"
+    ],
+    "sha256": "9355ebf7a6b5e3817311484463956348730d946daf5f662c55d0ad3720e50c7c",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "glm_5_3_official_release",
+    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+    "source_url": "https://z.ai/blog/glm-5.3",
+    "download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/glm_5_3_official_release.pdf",
+    "pages": 12,
+    "document_type": "web",
+    "video_ids": [
+      "v245"
+    ],
+    "sha256": "3e99f494de1ed06e2d0266dad2d32abd6807f8571bd4a1967736d467c8c47606",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-04.zip"
+  },
+  {
+    "key": "openreview_beta_vae",
+    "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+    "source_url": "https://openreview.net/forum?id=Sy2fzU9gl",
+    "download": "https://papers.baulab.info/papers/also/Higgins-2017.pdf",
+    "pages": 22,
+    "document_type": "paper",
+    "video_ids": [
+      "v189"
+    ],
+    "sha256": "037ad2ae314124bccea0835df46809e38278558a314cf4930057968f6f066096",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-05.zip"
+  },
+  {
+    "key": "optical_generative_models",
+    "title": "Optical generative models",
+    "source_url": "https://www.nature.com/articles/s41586-025-09446-5",
+    "download": "https://www.nature.com/articles/s41586-025-09446-5.pdf",
+    "pages": 29,
+    "document_type": "paper",
+    "video_ids": [
+      "v239"
+    ],
+    "sha256": "5cdfa12d331d2c3b44209b9a98dc280203f8f668b6c5758d89112c9ec0be45b9",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-05.zip"
+  },
+  {
+    "key": "stanford_ai_index_2026",
+    "title": "The 2026 AI Index Report",
+    "source_url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "download": "https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf",
+    "pages": 425,
+    "document_type": "paper",
+    "video_ids": [
+      "v228"
+    ],
+    "sha256": "fff5ac1df971cee7daf847fa5ed00dd7444db693092821c3e691debc1eaada09",
+    "archive_download": "https://github.com/GreyNails/kn-paper-library/releases/download/v1.0.0-papers/originals-05.zip"
+  }
+]

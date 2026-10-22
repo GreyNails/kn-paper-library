@@ -1,0 +1,476 @@
+{
+  "video_id": "v039",
+  "title": "Ferret Refer and Ground Anything Anywhere at Any Granularity[2310.07704]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v039/0001.jpg",
+      "path": "assets/slides/v039/0001.jpg",
+      "sha256": "855dba7354c9eb66f3e1e076ffd124779592cdf97dd6d6ce398bc6c0d2eae27d",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v039/0002.jpg",
+      "path": "assets/slides/v039/0002.jpg",
+      "sha256": "5039aed9ab2e321431eda16c15bc0e532ba0e2847c71e1a36bfe2fb08183a551",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v039/0003.jpg",
+      "path": "assets/slides/v039/0003.jpg",
+      "sha256": "f4b27ba805e582fc9b701dc92be02157804d38a605bf3090546ba721c52eb81c",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v039/0004.jpg",
+      "path": "assets/slides/v039/0004.jpg",
+      "sha256": "e139869c752aa787472c738d2f470b14f405649167dae21ca28fc043ca98021b",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v039/0005.jpg",
+      "path": "assets/slides/v039/0005.jpg",
+      "sha256": "fd625e4785b207302ada0e2f2044717fa28d5a4b5f6b954cb4d084274a7ba741",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v039/0006.jpg",
+      "path": "assets/slides/v039/0006.jpg",
+      "sha256": "b9048d39479fd2e7c378bb50a7eae95874a0d292303169b3432785c47cd35db4",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v039/0007.jpg",
+      "path": "assets/slides/v039/0007.jpg",
+      "sha256": "68c1a9d1a4fe16e0d55fbe5f500abcf873a372beb739f1f8eda540f7199b0124",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v039/0008.jpg",
+      "path": "assets/slides/v039/0008.jpg",
+      "sha256": "339331cb687d88b9b774479d066cea2137da9247153dc6fc132ef3563436dd6f",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v039/0009.jpg",
+      "path": "assets/slides/v039/0009.jpg",
+      "sha256": "0d487fb5bfa3487e8579be60e677ac6c3677920841dbf7adb400f7e8e1c4067c",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v039/0010.jpg",
+      "path": "assets/slides/v039/0010.jpg",
+      "sha256": "8630d9d2f5e76f0a110969d317b3718a98b33a371b33aba53fe87823b472baa6",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v039/0011.jpg",
+      "path": "assets/slides/v039/0011.jpg",
+      "sha256": "f1e1fe8707c18be56ea41a58f57ce2cdff3d1bd661d68a67d662fbd60871c808",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v039/0012.jpg",
+      "path": "assets/slides/v039/0012.jpg",
+      "sha256": "b46865d707c1cdf7bd1cfad14436fa3dc286db037e4b2d27544d1ba04b0d1872",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v039/0013.jpg",
+      "path": "assets/slides/v039/0013.jpg",
+      "sha256": "bdf5d95def52f676cc52817a21e591805f16015f2a6f7d5ed1c7454d982ac25b",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v039/0014.jpg",
+      "path": "assets/slides/v039/0014.jpg",
+      "sha256": "ad467565929c2c7a1c26e81ac932d969c818739c6523c674b4c2fc22dff08d81",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v039/0015.jpg",
+      "path": "assets/slides/v039/0015.jpg",
+      "sha256": "d2e53cecc39c44f743a71ca838b69acc3a5dac7fb4bffe7a414a2943f9eaf7f4",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v039/0016.jpg",
+      "path": "assets/slides/v039/0016.jpg",
+      "sha256": "8aefc82d1aabcaba96b7c97cc6030ac7c001a35221a433a3737d846e081ab143",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v039/0017.jpg",
+      "path": "assets/slides/v039/0017.jpg",
+      "sha256": "4b82c7273db29b11121ca761daab8f82887f32dcae5a2cb9e03585ec931a8eee",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v039/0018.jpg",
+      "path": "assets/slides/v039/0018.jpg",
+      "sha256": "1f6d2b218c3db3d7156444f9ee8e97e0ff2d1c9dbcadfc7b269ade6718c49a6c",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v039/0019.jpg",
+      "path": "assets/slides/v039/0019.jpg",
+      "sha256": "26c55d02c6b48255fa9046ae16883d2f162a8c096ec8941884e7caaca7071f57",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v039/0020.jpg",
+      "path": "assets/slides/v039/0020.jpg",
+      "sha256": "417caea590afb0ae436e40b4d409524081fbab1d56c6db637d1b4bec5ef64d5f",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v039/0021.jpg",
+      "path": "assets/slides/v039/0021.jpg",
+      "sha256": "0a48c6e106824652fcf9e9766dee89dc8b2cc69e20a1e4f024c02dd2cc527aad",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v039/0022.jpg",
+      "path": "assets/slides/v039/0022.jpg",
+      "sha256": "6a88fcd81faf8f1514dddc25c8353e649aeca9bee8e224de27f036b45cd5581b",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v039/0023.jpg",
+      "path": "assets/slides/v039/0023.jpg",
+      "sha256": "d66644054382bc26fa9280afe1d3cb87e0820caba4c3a4b5f2689c5e102e4923",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v039/0024.jpg",
+      "path": "assets/slides/v039/0024.jpg",
+      "sha256": "3af94506d09690369cf8abd35e88fed5e5c4c8e6ca023066a590104f42cb8c65",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v039/0025.jpg",
+      "path": "assets/slides/v039/0025.jpg",
+      "sha256": "d862fdeadfd0f1d97e1888506e46dcfda12394b2c14fced16492e61ade375516",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v039/0026.jpg",
+      "path": "assets/slides/v039/0026.jpg",
+      "sha256": "117bcaad1350e98cd659bc13627925bd4f89338ad9edd294df32065e9ff13e1e",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v039/0027.jpg",
+      "path": "assets/slides/v039/0027.jpg",
+      "sha256": "dd28bf960a92879e9907fa0b6544fc33ce786a30cb775b92cbab34e40ff51f99",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v039/0028.jpg",
+      "path": "assets/slides/v039/0028.jpg",
+      "sha256": "3db1dbdd0646a9c9edce973487a4daec1c79269c3e1b40ff7e1ae27505515035",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v039/0029.jpg",
+      "path": "assets/slides/v039/0029.jpg",
+      "sha256": "0976c12840d0632926294fa68c1198ef95e015b9ac8faf326dd01beda5f82fa0",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v039/0030.jpg",
+      "path": "assets/slides/v039/0030.jpg",
+      "sha256": "eddb72cf919767cd9d5dbe107e6194bd46e8bd05b8c16f64bdbb4697a92592d5",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v039/0031.jpg",
+      "path": "assets/slides/v039/0031.jpg",
+      "sha256": "4e8b6617db8b91dbfc8f9fb028e13026e88d2182e82a6a1b3e33d40b842d950a",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v039/0032.jpg",
+      "path": "assets/slides/v039/0032.jpg",
+      "sha256": "6f0bd47251ed7ddb474d7cc2c402e33bb665fbbdbfbfba985eb9683dece8775f",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v039/0033.jpg",
+      "path": "assets/slides/v039/0033.jpg",
+      "sha256": "0ab04056c00fb1da65c53476055bf02984fbecbe02e7b3eb776635937cb9eaf4",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v039/0034.jpg",
+      "path": "assets/slides/v039/0034.jpg",
+      "sha256": "5e2c1a9b39999046aca25c21b61e5808c8ea616931181e2779fe3036f4a72db8",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v039/0035.jpg",
+      "path": "assets/slides/v039/0035.jpg",
+      "sha256": "dc8d1af4cfde3923a4c217564647f0c9a417cff572b7062fbe4e8cd35e70052c",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v039/0036.jpg",
+      "path": "assets/slides/v039/0036.jpg",
+      "sha256": "61e31d35a6b5ca40424315ee80e170a83d8143ac886bd6ce6e569e829c38a454",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v039/0037.jpg",
+      "path": "assets/slides/v039/0037.jpg",
+      "sha256": "9ae0017963187fef90cd00955ec6a8ba01ccd275b0e07c2c4cb9cec33d2079c1",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v039/0038.jpg",
+      "path": "assets/slides/v039/0038.jpg",
+      "sha256": "e58cbd6bb5a1cf7cdf14f0d49dd50c4324cd267fa86dcf190ce28d72b13df194",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v039/0039.jpg",
+      "path": "assets/slides/v039/0039.jpg",
+      "sha256": "766ffbe68078272304106893b06758a2f4a65862f590f3bd1bdbfc900e44c326",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v039/0040.jpg",
+      "path": "assets/slides/v039/0040.jpg",
+      "sha256": "06d5300874ba652691a96e5473f09a87eeb0c30cdba3f80fcd57c285596e687e",
+      "slide_index": 40
+    },
+    {
+      "src": "../../assets/slides/v039/0041.jpg",
+      "path": "assets/slides/v039/0041.jpg",
+      "sha256": "a867d8f62f22efb3c1ed0ab2ab0100be597e17a86e396fc47102e657b0714e7d",
+      "slide_index": 41
+    },
+    {
+      "src": "../../assets/slides/v039/0042.jpg",
+      "path": "assets/slides/v039/0042.jpg",
+      "sha256": "40fa549fdc628e8c4fd0e736eebe19de42caa30611f3980a79e73db932bcb250",
+      "slide_index": 42
+    },
+    {
+      "src": "../../assets/slides/v039/0043.jpg",
+      "path": "assets/slides/v039/0043.jpg",
+      "sha256": "f4107180c1cc7b8298888de7fbcd4efd49f00032b3ff09b4ba815a564a9e2101",
+      "slide_index": 43
+    },
+    {
+      "src": "../../assets/slides/v039/0044.jpg",
+      "path": "assets/slides/v039/0044.jpg",
+      "sha256": "8d63b87d8f377f8171b6e10d556d29d8b8bfb13d2f8d943980844b645e170b50",
+      "slide_index": 44
+    },
+    {
+      "src": "../../assets/slides/v039/0045.jpg",
+      "path": "assets/slides/v039/0045.jpg",
+      "sha256": "dfe1208b0ab834f916a4db4c9376e11f2edab6ac1c3a3a748b87e94a6a60b9df",
+      "slide_index": 45
+    },
+    {
+      "src": "../../assets/slides/v039/0046.jpg",
+      "path": "assets/slides/v039/0046.jpg",
+      "sha256": "d1808b52bc7343e52a1602e41bee932e7b645db238026818dc912c65869c6951",
+      "slide_index": 46
+    },
+    {
+      "src": "../../assets/slides/v039/0047.jpg",
+      "path": "assets/slides/v039/0047.jpg",
+      "sha256": "85803afdea3ec2fabc8c274b1b0d8ad5d9e55a33402108aa41f58571460338b9",
+      "slide_index": 47
+    },
+    {
+      "src": "../../assets/slides/v039/0048.jpg",
+      "path": "assets/slides/v039/0048.jpg",
+      "sha256": "d8d123c492ab0be33371f5eaf22de49f5c5a450d6708a8db3ee63c08dbd0d4cc",
+      "slide_index": 48
+    },
+    {
+      "src": "../../assets/slides/v039/0049.jpg",
+      "path": "assets/slides/v039/0049.jpg",
+      "sha256": "f97181f6fde79dd6bfbb6d1da99318d06f3fe0ada9712d2728b70a0b22da2f0b",
+      "slide_index": 49
+    },
+    {
+      "src": "../../assets/slides/v039/0050.jpg",
+      "path": "assets/slides/v039/0050.jpg",
+      "sha256": "1300112aafe8d04b86b9104b69a4737d900bbf41d46ec59a40879c6c1e0af17d",
+      "slide_index": 50
+    },
+    {
+      "src": "../../assets/slides/v039/0051.jpg",
+      "path": "assets/slides/v039/0051.jpg",
+      "sha256": "a4a25acf5d87eeeaa9fbe9e3876dd763f35f374a2f70c743ef552bebd12cee2a",
+      "slide_index": 51
+    },
+    {
+      "src": "../../assets/slides/v039/0052.jpg",
+      "path": "assets/slides/v039/0052.jpg",
+      "sha256": "9e1f158e771305e2a02e9c61e1205dd04ae2d3d32ece9ddf9cd8c6a431b4aae0",
+      "slide_index": 52
+    },
+    {
+      "src": "../../assets/slides/v039/0053.jpg",
+      "path": "assets/slides/v039/0053.jpg",
+      "sha256": "eda6e4d2c9340308db438d6575c5c2c523ee7b7365730f1a9374a85201c227fd",
+      "slide_index": 53
+    },
+    {
+      "src": "../../assets/slides/v039/0054.jpg",
+      "path": "assets/slides/v039/0054.jpg",
+      "sha256": "b628b555c493f54f971a27512a21e20e95ce8c00a7f679132b4c76a51ec090b3",
+      "slide_index": 54
+    },
+    {
+      "src": "../../assets/slides/v039/0055.jpg",
+      "path": "assets/slides/v039/0055.jpg",
+      "sha256": "9d9bd231cd22e7b977a7ecd9b7e1aa83fd1cbdb948cb29fe0833a2c346896802",
+      "slide_index": 55
+    },
+    {
+      "src": "../../assets/slides/v039/0056.jpg",
+      "path": "assets/slides/v039/0056.jpg",
+      "sha256": "03b22c3bec83e811764352221590bb69e8c159814df7831f2cc90dcdf6e74b35",
+      "slide_index": 56
+    },
+    {
+      "src": "../../assets/slides/v039/0057.jpg",
+      "path": "assets/slides/v039/0057.jpg",
+      "sha256": "bb92ee259fb29a6e33b67f9051d458326a4c7fd4f739896ca37c72b765e58386",
+      "slide_index": 57
+    },
+    {
+      "src": "../../assets/slides/v039/0058.jpg",
+      "path": "assets/slides/v039/0058.jpg",
+      "sha256": "0245499674222ab43e7ef3fbe0a3014ca6f2324a0e2a833bcd873c038e4a19b9",
+      "slide_index": 58
+    },
+    {
+      "src": "../../assets/slides/v039/0059.jpg",
+      "path": "assets/slides/v039/0059.jpg",
+      "sha256": "98db8350c13d66a3a1aed826c9e1447270f85a277e1210cc90fefdf7b6a30a9b",
+      "slide_index": 59
+    },
+    {
+      "src": "../../assets/slides/v039/0060.jpg",
+      "path": "assets/slides/v039/0060.jpg",
+      "sha256": "c4953c68bc390fe9a6addef0c7c6fcc32f54fc31dc4d66621d00c36c212db679",
+      "slide_index": 60
+    },
+    {
+      "src": "../../assets/slides/v039/0061.jpg",
+      "path": "assets/slides/v039/0061.jpg",
+      "sha256": "083d497b5dcccc8caa16f79ecae0bd454fa7a1ed07701418dc912982d21c49ee",
+      "slide_index": 61
+    },
+    {
+      "src": "../../assets/slides/v039/0062.jpg",
+      "path": "assets/slides/v039/0062.jpg",
+      "sha256": "0f209ca9240187f7da639c86404f4c15c2e574ae38e63b4b6ad7c78e23cd3526",
+      "slide_index": 62
+    },
+    {
+      "src": "../../assets/slides/v039/0063.jpg",
+      "path": "assets/slides/v039/0063.jpg",
+      "sha256": "ecc47e161f4cf8e9a1ad68dc9ca5b16f427f2494dc4d59b092c4a0999dc26078",
+      "slide_index": 63
+    },
+    {
+      "src": "../../assets/slides/v039/0064.jpg",
+      "path": "assets/slides/v039/0064.jpg",
+      "sha256": "05fdd952f0df5723af1825e999f0d66dd7bae2176d35e0b1774ef74c7f6706ef",
+      "slide_index": 64
+    },
+    {
+      "src": "../../assets/slides/v039/0065.jpg",
+      "path": "assets/slides/v039/0065.jpg",
+      "sha256": "8caf9898ad85f971fa68c74fa244f16f34117071751ad49652a116b7d67650c1",
+      "slide_index": 65
+    }
+  ],
+  "paragraphs": [
+    "大家好啊,今天我们来快速说一篇论文 FerretRefer and ground anything anywhere at any granularity。那么这一篇呢，你可以认为是像之前的 Flamingo 也好，LLaVA 也好，在他们之上的延伸。我们知道之前我们介绍过这两篇文章，他们的核心的思想呢，都是我的用户给一张图片，然后呢根据这张图片提一些问题，那么这些模型呢就回答这些问题去帮助这个用户。",
+    "但是呢，在问来问去的这些问题呢，回答出来的这些问题呢，它都是纯文本的形式的。你如果想让它的回答跟图像有直接的关联，那还是做不到的。所以看下来就相对的比较 young simple，有些时候甚至说 naive。那么当然这之后肯定就有人会继续沿这个方向往下做嘛，你像这个 Emu 还有这个 GILL，它都是把这个 language model 输出的这些文本。",
+    "送到这个 stable diffusion 里面，diffusion model 里面，然后呢让它去生成一个相应的图像。那么这个呢是一个方向，但是呢本文呢走的是另一个方向，就是 referring and grounding，意思就是说我用户指定图像中的某一个区域，我们去详细的去讨论它，探讨它。",
+    "同时呢，我的 agent 呢也能给出图像中具体的一些东西的，比如说坐标也好，它的类型也好，作为回答。那打个比方来说，Flamingo LLaVA 就像你跟客服打电话一样，只不过一开始呢你把一张照片通过传真发给客服了，然后呢客服就根据你发过去的一个图然后开始聊。那么本文的方法呢就像你们现在两个人在一个房间里面共同指着这一张图把它放在白板上。",
+    "然后你说一个地方戳戳这个图，然后呢这个模型呢回答一个地方。那必要的时候呢，它会把图中相关的东西指给你看。那么这个呢就是本文的方法。那么当然我们都知道，在这背后驱动这些所有的东西的呢，实际上是一个 language model，一个大的语言模型。所以呢，重点就是我们怎么样让语言模型能够把这个图也好，包括这个 bounding box 也好，让语言模型能够处理这些东西，也就是说把这些东西给 language model 一个抓手。",
+    "那么本文的核心就是怎么样把用户的输入的这些东西变成一个 language model 能够处理的 representation，同时让 language model 输出一个 bounding box。那么当然 language model 输出 bounding box 这个东西也不是什么新鲜的东西了，你像 RT2 里面虽然它是 robotics，但是它是直接让 language model 输出 actionlanguage model as general pattern machine 这篇文章我们也讲了是一个很悬的文章。",
+    "那么当然还有之前的 VisionLLM 等等，那么这些文章呢告诉我们这个 language model 是可以通过各种方法成为一些有用的坐标。那么下面呢我们重点要解决的就是怎么样让这个输入让 language model 能够处理。那么在本文的设计中呢，我们当我们谈论一张图片的时候，那么这里作者定义了三种用户的输入的类型，第一种呢就是一个点，就是 XY 的坐标，一个点。那第二种呢 bounding box，左上角右下角两个点的坐标，四个值结束了。",
+    "那么第三个就是这种自由的图形，它没有固定的形状，这个时候比如说你可以用一个 binary mask 或者说是用一个 polygon 把它的边缘给它表示出来等等等等。那么在这三种交互的基础上，作者就是要设计一个机制，把它变得能够让 language model 去处理。这里作者定义了当我们。",
+    "要去操作这个图像，无论是你是处理用户输入的这个 referring 还是你模型输出的这么一个 bounding box，你把它理解成 language model 和这个 image 它们之间的这个接口就好。那么这个接口它要有一个协议对吧，这个协议是什么就是这个区域里面是什么东西加上 coordinate 加上它的这个 feature。那一个点呢就是 xy 的值嘛，一个 bounding box。",
+    "两个角四个直然后呢那对于这种自由的形状呢它还是取到左上和右下两个点但是它的重点在于后面的这个东西它为我们提供了除了这个坐标跟图像语义具体相关的这些内容那么这里呢作者的设计呢我们看到对于一个点来说它就画了一个圆以这个点的这个位置为圆心画一个圆半径为五的这么一个圆",
+    "那么这个圆的区域就是我们想要讨论的区域我们后面呢这些所有的 visual feature 呢就从这里来那对于 bounding box 就简单了嘛你就直接把这个 bounding box 拿过来而像这种自由自在的形状呢你就在这个形状里面把你的 feature 去提出来那么通过这样一种定义呢作者把所有三种类型的这个 referral 都统一到这样一个协议下面来那么像 region name 这个东西好解决这个图里面是什么就是什么",
+    "如果我们不知道是什么我们叫它 area 或者叫这个 region 就可以了那这个坐标也好解决对吧虽然它是一个连续的值我们完全可以把它做一下量化那这里呢作者把它分成了 1000 份最后剩下的呢就是我们怎么样在一个给定的图像的区域里面提这个 feature 作者的配置跟 LLaVA 一样他是把这个图像送到一个 clip 的这个 vision encoder 里面",
+    "得到这个 image embedding 它的尺寸是跟原始的图像的尺寸空间尺寸是相同的然后呢这个是我们之前说的这个对于任何一个描述图像中一个区域的方法那么最后文本的输入呢你就直接是这个 language model 自己的 tokenizer 它的 text embedding 就可以了这个呢是模型的输入",
+    "那么下面我们就要看拿到这一整张图像的 feature 之后怎么把这个区域里面有用的 feature 给他拿出来了那么这里呢作者处理他的思路呢跟处理点云是非常像的我们之前也介绍过这个 point transformer 还有一篇神奇的 image as set of points 就是把一张图像当成一个点集来处理那么这里呢处理的思路都是一样的我们给定一个 mask 就是这个中间的区域这个 mask 嘛我们在这个区域里面踩上 n 个点",
+    "那么这个 n 一开始是很大的我们要把这里面的 feature 聚集起来同时减少这个 n 的数量怎么办呢我们在这个 n 个点的基础上采出 2 分之 n 个点来用这个 FPS 算法然后采出来的每个点之后找它的 k 个邻居那么这 k 个邻居就用来给这一个点提供新的 feature 每一个邻居的 feature 减去当前这个点的 feature 串上邻居的坐标减去这个点的坐标",
+    "那这一整个东西送到一个 linear layer 里面然后呢再串上当前这个点的 feature 当前这个点的坐标一起再送一个 linear layer 那这样子呢你的每一个邻居都有这么一个 featureHIK 那么对于一个点的 K 个邻居来说最后呢做一个这个 max pooling 得到的这个 feature 就是采样过后的这个点所在的 feature 就像图里显示的这样子那么你一个 block 之后",
+    "这个点的数量减少了 R 倍嘛那这里呢作者设置了两个 block 就是一开始你采 512 个点过了一个 block 除以 4 过了一个 block 除以 4 那最后呢你就只剩下 32 个点然后这 32 个点的 feature 呢你把它展开然后加一个 linear projection 就是最终得到的我们关于这一个区域里面的图像的 feature 就是这样一个直接的设计",
+    "然后我们就可以拿着这个方式构建我们自己的数据集去翻译我们的 language model 了",
+    "那这里呢我们来看到作者设计的数据集它包含了五个部分那么前三个部分你从一般的这个公开的数据集上就可以做出来比如说最简单的图里有什么物体那么第二种数据呢就是物体之间的这个几何关系那么第三种呢就是去描述圈圈的这个区域它的本身是什么那么这三个任务呢都是可以通过已经有的数据集去构建的同时呢你在构建的时候呢这里你看到作者这里举了两个例子同样的一张图你可以构建从图像中一个区域到描述的文字输入是区域输出是文字也可以构建输入是文字输出是一个区域这样的一张图两个任务那么当然你也可以设计更复杂的来回的交互那么这个都是很直接的那么再往下呢作者想给这个数据集中灌注一些更多的常识更加有深入的东西那么这个时候呢还是把 GPT-4 搬出来对吧让 GPT-4 去生成一些更加有挑战性的问题生成完了问题还是不能说直接去使用你得看它生成的问题靠不靠谱是不是正确回答了你的 prompt",
+    "所以这个时候作者选择用 GPT-4 把生成出来的东西再去检查一遍看看他做的对不对那么这个是另一类数据那么最后一类数据是增加这个系统的鲁棒性的就是你看到上面这些所有的数据它都是已经默认说我们图像中就有我们用户问的这个东西了那这就意味着如果你只按上面的数据来训练模型会出现一种幻觉就是用户说里面有什么他就是有什么哪怕图片里面没有这个模型也自己给你造出一个来",
+    "这是不可以的所以呢很重要的一点就是我们要在数据集中构建一定的数据要教会我们的模型这个东西图像里面没有那用户说这个可以有模型这个真没有这个也是很重要的一个设计那么结合了所有的这些数据集作者呢就可以拿它去 fine-tune 整个模型",
+    "那本文的作者呢是在 LLaVA 的基础上把模型重新 fine-tune 了一下那么比 LLaVA 新加的部分就直接是从中开始训练那么以上呢就是本文的主要的技术的部分总的来说呢你看到这其实是一个现在这个阶段很标准的一篇文章设计一个从图像到文本的这么一个接口然后呢搞一个数据集自己去做一做然后得到的结果让人满意你按照这个公式继续做至少这半年还是有文章可以发的那么当然就是后面实验的部分不是我们这个节目的重点感兴趣的朋友呢非常推荐你到原文查看那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "6cd6a7b76eec4424a9925ca762513879d679379ac7aac105d82a66c624bd7939"
+}

@@ -1,0 +1,265 @@
+{
+  "video_id": "v200",
+  "title": "Nearest-Neighbor Contrastive Learning of Visual Representations[2104.14548",
+  "frames": [
+    {
+      "src": "../../assets/slides/v200/0001.jpg",
+      "path": "assets/slides/v200/0001.jpg",
+      "sha256": "64577452fac215141f5eed62dbd87866c9c3435a35d7d4d616a82119d760180f",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v200/0002.jpg",
+      "path": "assets/slides/v200/0002.jpg",
+      "sha256": "bfb44bb5b3dbd443117aa905183eb73aa5c5315ac438316307cff50c8f26cfba",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v200/0003.jpg",
+      "path": "assets/slides/v200/0003.jpg",
+      "sha256": "ba1ea32f1b184f0fe6bf19cb96757ead46bd6f6fedd46fe926815fd173cad104",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v200/0004.jpg",
+      "path": "assets/slides/v200/0004.jpg",
+      "sha256": "a74a2aacae1f6e0538cf3393f699c456b34b264d98393d4603244de98f35fd77",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v200/0005.jpg",
+      "path": "assets/slides/v200/0005.jpg",
+      "sha256": "a76642b9e0886c753f94c839632211450c6a7d3298503dcde5e46472c7b3bf64",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v200/0006.jpg",
+      "path": "assets/slides/v200/0006.jpg",
+      "sha256": "26964c64516d2a8417f9baf5bf711c2f917d944c0730d3e621b884c1ed0e8e65",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v200/0007.jpg",
+      "path": "assets/slides/v200/0007.jpg",
+      "sha256": "d19e753088a6726944a6f633ed322aeb3331d39c4fb2ad09583fcc51d920cf1f",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v200/0008.jpg",
+      "path": "assets/slides/v200/0008.jpg",
+      "sha256": "da00e872aee3d7983ba6e158e684aaa70985d4c9f48fe93c5e9ce85203582ea2",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v200/0009.jpg",
+      "path": "assets/slides/v200/0009.jpg",
+      "sha256": "7191cd457dbd7eb463d5385af4be020bfa301a305f2fa855114760f3a79bc10d",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v200/0010.jpg",
+      "path": "assets/slides/v200/0010.jpg",
+      "sha256": "2fee98d933a936e9111048532a06009446d32f105c0944c23046e1447cbcdbae",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v200/0011.jpg",
+      "path": "assets/slides/v200/0011.jpg",
+      "sha256": "11c8b4b2aa0381449dca157130fc9e33543a7f7c7a243d0058aa1f3800d544f4",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v200/0012.jpg",
+      "path": "assets/slides/v200/0012.jpg",
+      "sha256": "b1a86f79b16d70a9f6899535490e7b4282dcc6c5bde6facef0288fdcfac21275",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v200/0013.jpg",
+      "path": "assets/slides/v200/0013.jpg",
+      "sha256": "a8bd7eb9b79f8f68d1c250687d66675f2823d75829cb6f985671bbec243d5e31",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v200/0014.jpg",
+      "path": "assets/slides/v200/0014.jpg",
+      "sha256": "3f89a61029eb3e0662b7db43b915b36e0b64b2b2d7a926e65cf9793d409b0bef",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v200/0015.jpg",
+      "path": "assets/slides/v200/0015.jpg",
+      "sha256": "c138e2e7ef85da2cde768db99f51f9923d867ea9a455ed1269b19f6cae7f8659",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v200/0016.jpg",
+      "path": "assets/slides/v200/0016.jpg",
+      "sha256": "05210d43489e86e5894a46fad9e8c55baf0493d33b47e8a92ff1a31908f4de88",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v200/0017.jpg",
+      "path": "assets/slides/v200/0017.jpg",
+      "sha256": "0bff27a73ca11c75c0629c0ccbcbd9158218b5aa19c81b987d97bee258dff6ba",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v200/0018.jpg",
+      "path": "assets/slides/v200/0018.jpg",
+      "sha256": "481c1d239031e21c313fac39f2df6acccf7b6a23001bd2ea2b1a73efc80dc256",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v200/0019.jpg",
+      "path": "assets/slides/v200/0019.jpg",
+      "sha256": "ee77e55eb3012ccc47a988095ede8b7189595a55ab43db850b28b0683e0424b9",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v200/0020.jpg",
+      "path": "assets/slides/v200/0020.jpg",
+      "sha256": "467814eb4ec0b7974ccdf3bb2711a08bf8983e81bc00a4d7390a1db2c0e32a74",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v200/0021.jpg",
+      "path": "assets/slides/v200/0021.jpg",
+      "sha256": "83242c4113da7793272b5ea657f1f3e10315b8f1f8682885ff39529b5c4014b4",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v200/0022.jpg",
+      "path": "assets/slides/v200/0022.jpg",
+      "sha256": "26b68d4ab90fcfe13e95f22804a44affd39bd09e312adedeb3c9d750629a06d4",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v200/0023.jpg",
+      "path": "assets/slides/v200/0023.jpg",
+      "sha256": "7b86efee41172decb2a26247845a61f1fe86b73df45584fd8e5bbf25ee181aaf",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v200/0024.jpg",
+      "path": "assets/slides/v200/0024.jpg",
+      "sha256": "484e424dfe81f87527ec51a3adac76a8f74c1914846400ada846481dd4e86f1a",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v200/0025.jpg",
+      "path": "assets/slides/v200/0025.jpg",
+      "sha256": "60cc209ac2a6e0a9c20da29a8a4174ce054886947c378078136668b57c5661d0",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v200/0026.jpg",
+      "path": "assets/slides/v200/0026.jpg",
+      "sha256": "ea6b042901903e03e399b7c76b848d70365f2a709f2080d94ca0291e298d7396",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v200/0027.jpg",
+      "path": "assets/slides/v200/0027.jpg",
+      "sha256": "cebb89ed9a871b27b46e7add485bd1070cd73ad5a373a0ab0a67356543cd1957",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v200/0028.jpg",
+      "path": "assets/slides/v200/0028.jpg",
+      "sha256": "ecc5883059d6bb15d3b0fd296308be5d3ae7dc4a904d916ad9c4c704717c1a62",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v200/0029.jpg",
+      "path": "assets/slides/v200/0029.jpg",
+      "sha256": "42b168582ea6137df49df0c9bebd3824ecf144582b1d112768e33217231396cc",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v200/0030.jpg",
+      "path": "assets/slides/v200/0030.jpg",
+      "sha256": "c56b2eaae5093037e2ab0129e0e6438cc1bbe00c8bd9623474b8125fc39524a8",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v200/0031.jpg",
+      "path": "assets/slides/v200/0031.jpg",
+      "sha256": "8b84ff9d5850b09770a76f8b45a2207bdb66e5893ac90b35e7e14bc0cd73ce45",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v200/0032.jpg",
+      "path": "assets/slides/v200/0032.jpg",
+      "sha256": "fd95ed0637367ba99b9a17daea927509669ad260c1513a5c1fa4160e29264e8f",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v200/0033.jpg",
+      "path": "assets/slides/v200/0033.jpg",
+      "sha256": "054c434308f0de5005861e84c0e7c84427fc230934d72cdd3ed107a1da282fe8",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v200/0034.jpg",
+      "path": "assets/slides/v200/0034.jpg",
+      "sha256": "8e02200add13369f978370bef839d665869378df38b199ea39992e163efe42c6",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v200/0035.jpg",
+      "path": "assets/slides/v200/0035.jpg",
+      "sha256": "b6bf689021c8a9153979b046cc2b1aa19268eb62e08d86dad15f18e8fd13b456",
+      "slide_index": 35
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来飞速说一篇论文 With a little help from my friends: Nearest-Neighbor Contrastive Learning of Visual Representations 首先这篇论文是一个 idea 非常简单,实验非常充分的文章因此依照节目的惯例,我们还只介绍本文的核心思想然后留下了大部分实验作者的分析供各位感兴趣的朋友去原文仔细查看那么直接来到正题",
+    "本文的核心思想其实非常简单,这个是 SimCLR,一个图像进来,不同的 random augmentation,做完了之后得到两个 view,然后 view 之后得到 encoder argumentation,然后做 contrastive learning,因为你知道虽然这是两个 view,但是它们来自同一张图,它们代表的语义信息应该是一样的,所以它们在 latent space 里面应该是完全相近的。",
+    "它用的 loss 是 InfoNCE 这个是 SimCLR 如果你对这个不熟悉查看我们以前的视频那么在这里本文的核心思想就是 random augmentation 如果爆了我们直接对比这个 view 它不够给劲怎么办我们在一边得到这个 view 之后我去我之前的内存中这里它叫 support set 我去我之前内存中查说我原来看过这个图像里面哪一个跟现在这个图像最为接近",
+    "那找到这个最为接近的图像啊我跟这个另一个 view 做这个 InfoNCE 这样子呢再构成一个 loss 那当然你这里推断出来的 representation 不要扔啊对吧这次训练完了之后扔进这个 support set 里面相当于更新一下我们这个 support set 就这样不断的更新下去啊非常简单的思想那具体来看使用的 loss 呢对吧这里的作者叫这个 NNCLR 他本质上呢是这个 InfoNCE 但是呢我们看了这里的这个 positive sample",
+    "用的是这个最近邻这个 zi 呢就是这里的这个 ze 他是左边的这个 view 然后呢求他的最近邻 q 是这个 support set 那最近邻怎么求的呢直接是两个 representation 他们因为在这个 latent space 里面过了 normalization 他们都是单位向量然后呢 L2 distance 就可以了那么当然关于这个 support set q 呢我们这里补充一点细节第一个是 fifo",
+    "它是一个先进先出的也就是说你每次推理完之后新的这些 representation 等它所有的训练完之后再塞到这个 support set 里面然后把原来的这些太早的这些 representation 给顶出去了它初始化的时候是一个随机的矩阵然后作者在后面的观察中也发现",
+    "我让这个 support set 包括这两个 view 的这个 representation 还是包括一个 view 的 representation 他们的改善呢并不是很明显好了那么以上就是本文的核心思想了那这个时候呢可能有朋友就会问了啊等一下等一下我书读的多你骗不了我这个最近邻对吧他是不可微分的这玩意不可微分的你咋训练呢",
+    "这问题其实非常好因为我们知道在训练 SimCLR 的时候因为我们两边的 Encoder 都是一样的它们的权重是相互 share 的反正它们只要有一边把梯度传下去那这个 Encoder 还是能够得到训练的就像老话说的对吧两脚离地了病毒关闭了聪明的智商就又占领高地了你这不俩脚吗对吧这只关闭了一个那一样还是能够训练的那同时还有一些其他的方法像这个 BYOL 啊 SimSiam 这种东西",
+    "他们在训练的过程中呢还特别要求说你旁边有一只需要这个 stop gradient 他这个设计呢这不刚刚好吗我虽然瞎了但正好外面天黑啊那下面我们来看作者汇报一些结果",
+    "这里我们挑选了一些最主要的结果 Linear Evaluation 在 ImageNet 上面它的结果不如我们上一篇介绍的 Truncated Triplet 好这里它训练了 1000 个 Epochs 还不如人家 800 个能打但是我觉得是相对合理的因为你不太能确定说最近邻就一定是属于你这个 class 的 sample它就一定是 positive sample 但是在 truncated triplet 里面你比较能确定说比如说排到第 5 或者是中位数的那几个 sample 一定是 negative sample 所以这个东西它 work 的没有那么好也是很合理的一件事情同时它确实比我们之前的这些方法有一些改善这是为什么这里我们就推测",
+    "这个最近邻的过程呢，其实是帮我们选了一个更加 generalize 的一个 data augmentation 的过程，因为实际上我们是强行把另一张图像的这个 representation 认为成是这张图像的 representation。一方面呢，相当于我们做了更加 generalize 的 data augmentation，在一个 view 上让它显得就是更加具有普世性。但另一方面呢，你选择这个 representation 是来自于另一个 view 的。",
+    "那另一个 view 呢，虽然你也是经过各种 data augmentation，但是它的强度呢又不至于太过离谱，导致说这个 data augmentation 太强，强到连妈都不认识了。所以呢，这是一个很巧妙的方法。同时呢，我们也注意到这个最近邻在 support set 的这个搜索的过程中呢。",
+    "Support set 其实相当于充当了一个 Momentum encoder 的作用，就把过去的 representation 存住了，然后在未来的时刻拿出来训练。你想，其实它的作用跟 Momentum encoder 的作用是差不多的。总的来说，这篇是非常有意思的工作，还是作者在原文中汇报了大量的详细的实验，各种实验的细节非常推荐你去原文查看。好的，以上就是我对这篇论文的一个快速的介绍，感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "b174a3360fcca4344bebffad3903cf998dd00f7e19c902d0d18b8a44b16117ff"
+}

@@ -1,0 +1,177 @@
+{
+  "video_id": "v152",
+  "title": "Barlow TwinsSelf-Supervised Learning via Redundancy Reduction[2103.03230]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v152/0001.jpg",
+      "path": "assets/slides/v152/0001.jpg",
+      "sha256": "5b5dd56b3e65e2f8a40f5edd11f0c284ec0c2bd813413f8002c9402147e6d9ea",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v152/0002.jpg",
+      "path": "assets/slides/v152/0002.jpg",
+      "sha256": "264f283d8c8f71781cef43e3e656856172e34ef8ae020e875ece1dc4ccdf561c",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v152/0003.jpg",
+      "path": "assets/slides/v152/0003.jpg",
+      "sha256": "5214aa2bd2f10ad0e9d0877c06f067bec94d2ecefcbe8fed5ab3211b91daa751",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v152/0004.jpg",
+      "path": "assets/slides/v152/0004.jpg",
+      "sha256": "9ec1ed76621d95bad27e2b1ec5a1cb221bdc208c02c5c6d1ad99f6fdbc602e40",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v152/0005.jpg",
+      "path": "assets/slides/v152/0005.jpg",
+      "sha256": "deea7ce0beb0fa59ab7e60ac104d3d157f663279bab5f7bfd43d3562e46897c3",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v152/0006.jpg",
+      "path": "assets/slides/v152/0006.jpg",
+      "sha256": "cc23895c08c952977a6e3bed2ba89ee075d96ac324d0f12c08943f1007c4d788",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v152/0007.jpg",
+      "path": "assets/slides/v152/0007.jpg",
+      "sha256": "d1dc968539df67ca7d0d0284f6153d40ffcb279eb89c05b86a7bc82d3054ca0d",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v152/0008.jpg",
+      "path": "assets/slides/v152/0008.jpg",
+      "sha256": "a9a63dd915c6c48d2aae4489a71e5a457ef1ce51342336f21f169c68c9205fb4",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v152/0009.jpg",
+      "path": "assets/slides/v152/0009.jpg",
+      "sha256": "97c40243bcf7c89be137e7e4734de988c8bc3cf9f22b56aef9c0ed788882bff5",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v152/0010.jpg",
+      "path": "assets/slides/v152/0010.jpg",
+      "sha256": "cc051e601083c8e1dffe048da8639d630a6b93afe138286b96af2164fbd3615e",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v152/0011.jpg",
+      "path": "assets/slides/v152/0011.jpg",
+      "sha256": "80c2e620245d3a0f49395c6c23a3b58b92b9ad42f7bfce30fc6baa040d44f456",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v152/0012.jpg",
+      "path": "assets/slides/v152/0012.jpg",
+      "sha256": "8ab1c579e2fec9162ee68b2ace5d7f85b721786beacfebe178ddc87979840786",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v152/0013.jpg",
+      "path": "assets/slides/v152/0013.jpg",
+      "sha256": "4fbb6f430ac463ac6d2d8c237868c6a8f41236281da9506fda0696cc9ba35178",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v152/0014.jpg",
+      "path": "assets/slides/v152/0014.jpg",
+      "sha256": "a0aa4f09af23cbb85b1bc9c4d666dfa75936e7ed05194e7f24441c6b9e91f0e6",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v152/0015.jpg",
+      "path": "assets/slides/v152/0015.jpg",
+      "sha256": "1e662bbb807e7fc9577b0bd3a94c29334e4510707794644269c16c45bfbf13de",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v152/0016.jpg",
+      "path": "assets/slides/v152/0016.jpg",
+      "sha256": "3a0f1e1efd6d587ec83b665de225994d2eb0a585d7df6637dc2ede569060cc52",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v152/0017.jpg",
+      "path": "assets/slides/v152/0017.jpg",
+      "sha256": "1b188282fa933e908372ad697d346e6bf949566f68788ec623aa1530d31f095e",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v152/0018.jpg",
+      "path": "assets/slides/v152/0018.jpg",
+      "sha256": "6dc4c82b42f4a17fb3d5e46ace8f03026506f89cd223b4481212c392158f9370",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v152/0019.jpg",
+      "path": "assets/slides/v152/0019.jpg",
+      "sha256": "f18bad9b1a016f8e58c198caf62e67a53fc37fedbdcc27a492baf39d7f353532",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v152/0020.jpg",
+      "path": "assets/slides/v152/0020.jpg",
+      "sha256": "9dd94b7cded49b5543eb31b999249cf448f3ade9d230359c8257188966be8e3f",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v152/0021.jpg",
+      "path": "assets/slides/v152/0021.jpg",
+      "sha256": "3b53ac12b5865882f32d540d1a618805f2933c70a2f653f81042f3ee0273e362",
+      "slide_index": 21
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来迅速说一篇论文 Barlow Twins Self-Supervised Learning via Redundancy Reduction。那么这篇论文和我们之前介绍的 SimSiam 和 BYOL 它们都是非常类似的，就是研究一种 Self-Supervised 的方法能够学到一个更好的 Representation。那么同之前的方法相比,本文也是使用了两支网络，但是梯度的传递和 Loss Function 的构建是与前文不同的。",
+    "那么在这个视频中我们直接介绍 Barlow Twins 它的核心的实现细节以及作者汇报的结果。首先来看本文提出的网络结构，跟我们之前熟悉的 BYOL SimSiam 一样，一个图像输入进来之后我们对它进行随机的 Data Augmentation。那么这里作者换了一个名字叫做 Distort Images，然后把增强的两组图像输入到两个 Network 里面。",
+    "两个 network 它们的参数是完全一样的，就得到两个不同的 latent representation。那么本文的核心在于，那么本文就要构建一种 loss 使得这边 vector 和这边 vector 两个 latent vectors 它们应该尽可能相关。那么我们具体来看，假如说我们得到的 feature 是一个长度为 d 的 vector，那么我们就构造一个 cross correlation 的矩阵，它的宽度和高度都是 d。那么对于这个矩阵上 di 行dj 列的元素来说，那么它就是 latent representation a 中第 i 个元素和 latent representation b 中 dj 个元素它们在这个 batch 中的相关性。那么看到这个表达式这里的 b 呢代表一个 batch 中每一个样本的 index。对于 db 个样本来说呢，它的 latent representation a 中的 d i 个元素",
+    "乘上这个样本 latent representation b 中的第几个元素这就是分子分母呢就是进行一个归一化的操作。那么在得到这样一个协方差矩阵之后呢，作者希望我的这个矩阵它的对角线上的元素应该尽量接近于 1，而不是对角线上的元素应该接近于 0。那么也就是这里这里对角线上的元素使它靠近于 1，不是对角线上元素靠近于 0。",
+    "那么这里有个 lambda 来调节这个两个项目之间的 tradeoff。那么这就是本文提出的 barlow twins 的 loss function。那么来到作者提供的伪代码，同样的一个输入样本 x 它会产生 ya 和 yb 两种经过不同的 data augmentation 产生的图像，把它们送到同样的网络中得到两个 latent representation 做 batch normalization，然后计算对于 vector 中每一个元素的 cross correlation matrix。",
+    "然后呢在这个 matrix 基础上构建我们之前提到的这个 barlow twins 的这样一个 loss 最后呢再来训练这个网络可以看到可以看到呢在这两路呢都是有梯度来进行传递的那么这就是本文 barlow twins 的核心思想那么来到作者汇报的结果那还是我们的老朋友 ImageNet 那么这个表格呢还是 latent representation 后面加一层 linear layer 那么对比了我们常见的一些",
+    "unsupervised 的方法还有 supervised 的方法。那么这里呢是使用了 1%和 10%的 training labels 进行了 fine-tune。那么得到的结果呢在这里，那么作者还测试了各种 transfer learning 的任务，比如说换了不同的数据集或者是做 object detection instance segmentation 这样的任务。",
+    "那么这里都是作者汇报的结果，那么我们可以看到呢，如果你的方法表现不那么好，但你一定要用下说点什么时候，你可以把前三个最好的这个 self-supervised 方法呢都给它标上 underline，对吧？这样子人第一眼就不会注意到你的方法性能其实没有别人那么好。那么此外呢，作者还做了一些消融实验，作者这里尝试了不同 loss function 的组合，设了这么多种组合，那选一种最好的就是我们提出的 baseline，然后作者还尝试了 batch size",
+    "batch size 这个曲线很有意思，对于不同大小的 batch size 这里有一个 sweet point，也就是 1024，作者由此得出本文的方法是对 batch size 是鲁棒的。那么当然这个图还是有一个陷阱的就是它的纵轴是 top1 准确率的下降，那么也就是说，虽然这里我们看到作者提出的方法好像是比 BYOL 要好，但是这个 0 这个 top1 的准确率它们的起点本来是不一样的",
+    "那么回到刚才我们发现这个 BYOL 它的起点是要比本文提出的起点要高，大概 1.16%点的，所以大家千万不要被这种可视化的 trick 所误导。那么此外呢，作者还发现一个有趣的现象就是最后的 projector dimension，也就是我们在得到 representation 之后加一层 linear layer，这个 linear layer 它的 dimension，可以看到本文提出的方法对于最后的 linear layer 的 dimension 是非常敏感的",
+    "而且只有后面的网络的结构足够大那么本文的优势才能够逐渐的体现出来达到一个和 BYOL 相接近但是仍然差那么一个百分点的水平那么总的来说本文提出了一种新的构建 self-supervised learning 的方法它的性能虽然赶不上 BYOL 这种 state of art 但也算相对的名列前茅当前作者发布的论文还是处在一个相对早期的阶段，那么后续我们会继续关注这篇论文，看作者是否会为我们带来更多惊喜。好的，那么以上就是我对这篇论文的简单的一个分析，感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2cb53d11647f7e4222fe70583ac0df4fe4de0ad7dd297d230d9bf6dc44bea7fa"
+}

@@ -1,0 +1,199 @@
+{
+  "video_id": "v076",
+  "title": "TNT Transformer in Transformer[2103.00112]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v076/0001.jpg",
+      "path": "assets/slides/v076/0001.jpg",
+      "sha256": "0c165011695d00bae87da63948b41fc9a7e8fd3d02888f015e9a2b23ee977b80",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v076/0002.jpg",
+      "path": "assets/slides/v076/0002.jpg",
+      "sha256": "6638474d8d77e971298bf7bb5cf2eca01006c3bcf65458c1a8c9ed9a2232f8ff",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v076/0003.jpg",
+      "path": "assets/slides/v076/0003.jpg",
+      "sha256": "b496a293e7a5baf0d94138dbab6c2982e9e1f468255b35e775f76e2a95c468e9",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v076/0004.jpg",
+      "path": "assets/slides/v076/0004.jpg",
+      "sha256": "7b1c8ab43cabf231c896bf6ca1af6ea48e4ec888c90df06730f7438b94ede2fb",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v076/0005.jpg",
+      "path": "assets/slides/v076/0005.jpg",
+      "sha256": "5b8a7a3c84edd7eafa4f27848fb3ad1562f0cbbcd21ed2b056afb05c3ee60467",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v076/0006.jpg",
+      "path": "assets/slides/v076/0006.jpg",
+      "sha256": "2797fa9b99b09148566b589406adc7864ba73f3ff17f5924b4da0be19fb56cbd",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v076/0007.jpg",
+      "path": "assets/slides/v076/0007.jpg",
+      "sha256": "f6f1ad6ef45f3827532bea5d6077bece87d225c27e68308a775da252ac1c8075",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v076/0008.jpg",
+      "path": "assets/slides/v076/0008.jpg",
+      "sha256": "5daa2a8359e8a805c03a1d8505aa51c2c15e4db2d66e8ea09e870f014fbf48b7",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v076/0009.jpg",
+      "path": "assets/slides/v076/0009.jpg",
+      "sha256": "a862b0c4a8273dd98aa8da68503926502c4689efed7c6e15750f71047cb67593",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v076/0010.jpg",
+      "path": "assets/slides/v076/0010.jpg",
+      "sha256": "2f4bf6ef7ce87620cca6c764f10cd923e10790a6e7038ae54f7a7c6a7a051e58",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v076/0011.jpg",
+      "path": "assets/slides/v076/0011.jpg",
+      "sha256": "f84ea2d714b4e3cf5ec2359eb43daa812fea7664360a7a22a7c7ab9be1708248",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v076/0012.jpg",
+      "path": "assets/slides/v076/0012.jpg",
+      "sha256": "de47b32789b82942a5520d768038e5bd070981544555d581004fecd60309c8b4",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v076/0013.jpg",
+      "path": "assets/slides/v076/0013.jpg",
+      "sha256": "49787ea13993081b8df47dca5a1cd1075e09e18f1395bc229a3bc37aa4a1506e",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v076/0014.jpg",
+      "path": "assets/slides/v076/0014.jpg",
+      "sha256": "d8489832d5921b82dc9783491e8a727b101f7d9cffec85eae548358225c71048",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v076/0015.jpg",
+      "path": "assets/slides/v076/0015.jpg",
+      "sha256": "aa42793730f076c2277c3fc4c0fea1f95a61d946a33e370b6106ae3d653ddadd",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v076/0016.jpg",
+      "path": "assets/slides/v076/0016.jpg",
+      "sha256": "be2a2e2d9693b7e610b98c998424438a3010872c1228d921d1d20f4caac4e3e4",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v076/0017.jpg",
+      "path": "assets/slides/v076/0017.jpg",
+      "sha256": "c3f292a695112842630a36f2e130ce5f6d37ab19b5993819d884fad9ff3c515a",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v076/0018.jpg",
+      "path": "assets/slides/v076/0018.jpg",
+      "sha256": "a983c0ddcf4eee47e4d560acec107f4bc1ae75889ea1347c243a2b7959603b6d",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v076/0019.jpg",
+      "path": "assets/slides/v076/0019.jpg",
+      "sha256": "1318349b587025fa763be7b06c7728ca3a51a305164c4c3f497f66830e617865",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v076/0020.jpg",
+      "path": "assets/slides/v076/0020.jpg",
+      "sha256": "e882a774629974cdf7018ab6bdc29c6da8e4e6ca98853f129630f3f42679d799",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v076/0021.jpg",
+      "path": "assets/slides/v076/0021.jpg",
+      "sha256": "22e2a2b780b21bfc30b0f7c940fed6f3fbfca80ad50895617ccca2f3287ffc15",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v076/0022.jpg",
+      "path": "assets/slides/v076/0022.jpg",
+      "sha256": "a67c34bfcbc629dded20d13f4b772a15b88b017664cde33c5dd0737a6fb73690",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v076/0023.jpg",
+      "path": "assets/slides/v076/0023.jpg",
+      "sha256": "efcd89dff087287d52bd5ea7955a408c47432dbeec4c8f0639d9b8d836f4fd2f",
+      "slide_index": 23
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来介绍 Transformer in Transformer 这篇论文。那么这篇论文的核心思想就是我们传统的 Transformer 它是可以直接看到全局的每个 patch 之间的关系的，但是它可能对于每个 patch 之内的像素之间的相互关系并不会特别的敏感。那么在本文中作者就提出了，我如果在大的 Transformer 里面套一个小的 Transformer专门来解决每个 patch 之内的每个像素的 token 每个像素的 embedding 之间它们之间的 attention 的关系那么是不是能够提升一下整个系统的性能呢那么答案是肯定的在这个视频中呢我们会介绍作者怎么样把这两个 transformer 套在一起的那么因为之前我们已经介绍过 transformer encoder 了所以这次呢我们就直接介绍本文提出的 transformer in transformer",
+    "作者实验的一些结果以及得到的结论。如果你对 Vision Transformer 不是很熟悉，那么强烈建议你先去看之前的一个 VITVision Transformer 这个视频。好的，让我们直接开始介绍 Transformer in Transformer。那么这个结构就是本文提出的 Transformer in Transformer 的结构。我们可以看到它，那么为了做图简单的作者省略了 Position Encoding。那么它使用的 Position Encoding 跟我们之前的 Vision Transformer 也是一样的",
+    "那么本文和之前 Vision Transformer 最大的区别是什么呢当然就是这个 Transformer Encoder 的部分这里本文提出的是使用 Transformer in Transformer TNT 的 block 来替换到原来单纯的 Transformer 的这么一个结构那么所谓的 TNT block 是怎么的结构呢其实它非常直白也就是我们会维护两个 Transformer 第一个 Transformer 我们叫 Outer Transformer Block 这个 block 就是用来处理 Patch 的 embedding 就是每一个图像块",
+    "他们所提取出的 token 不断进行 transform 来用来处理它而这个 inner transformer block 它就是用来处理每一个 patch 之间每一个像素提取出的 embedding 其实也不一定是像素你可以把一个大的 patch 拆成更小的 patch 每一个小的 patch 它就可以提出一个 token 那么这个 token 也可以经过 transformer 一层一层的传递下去当然为了让 outer transformer 能够得到 pixel 之间的信息",
+    "所以这个 inner transformer 它的输出会串接起来过一个 MLP 加合到原来的 patch embedding 上。这样子得到了新的 embedding 送到 outer block 就会使得这个 outer transformer block 能够获得所有的信息了。我们从原理上来看这是一个非常明确的从粗到细这么一个金字塔结构。然后我们结合表达式来梳理一下这个 TNT block 它的逻辑",
+    "首先这个 pixel embedding 它跟 patch embedding 是一样的只不过这里的原始图像换成了一个 patch 然后把 patch 拆成各个小的 pixel 每个 pixel 经过 MLP 就可以得到这个 pixel embedding 那么这里 pixel embedding 是使用了 y 来表达的跟经典的 transformer encoder 一样对于 inner transformer 来说也是先过 layer normalization 过 multi-head self-attention 再和原来的自己加起来",
+    "然后呢，得到中间的这个 Y'这个 Y'呢，再经过 layer normalization，送到 MLP，再和自己原来的这个值加起来，就得到了这个 transformer 的输出。这个呢，就是 inner transformer，它的运行的流程呢，跟我们标准的 transformer 是一样的，而且呢，因为我们并不需要在这个 level 做 classification，做 recognition 这些东西。",
+    "所以在 pixel embedding 里面我们是没有像之前的 xclass 那个 token 的而对于 outer transformer 它的情况会稍微复杂一些首先我们这里会得到 inner transformer 输出了一堆 token 我们把这个 token 串接成一个大的 vector 然后送到一层 linear layer 里面这里乘上 weight 这里加上 bias 然后加上原本的 patch embedding 就会得到真正的需要送到 transformer 里面的 token 也就是这个 z",
+    "那么这个子一样的也是跟标准的 transformer 一样过 layer normalizationmulti-head self-attention 对吧加起来再再做 normalization 再做 mlp 那么最后呢就得到了我们想要的 representation 那么因为我们要在 outer transformer 做这个 classification 所以呢在所以在 patch embedding 的时候呢我们会加这么一个 token 那么最后呢也是会取 zl0 的 representation",
+    "作为后续任务的使用的 feature 那么简单来说对于这个 transformer in transformer 这个 block 来讲它的输入是 pixel embedding 这个 y 和 patch embedding 这个 z 那么输出呢还是这两个 embedding 那么它们的尺寸大小完全一样就可以一层一层的串接起来了这个呢就是 transformer in transformer tnt 网络它的结构在这里需要额外提的是这个 position encoding",
+    "因为我们使用了两个 scale 的 transformer，所以自然也需要使用两个 scale 的 encoding。那么对于外层的 outer transformer，对于 patch 的 position encoding 跟原来的一样，对吧？每个 patch123456789 的排下去就可以了。而对于 pixel position encoding，我们对于每一个 patch 中的 pixel 使用的 position encoding 是一样的，也就是说，我维护一个 pixel position encoding 的这个 network。",
+    "那么它输出的结果得到这个 position encoding，对所有的 patch 都可以适用，也就是每一个 patch 中的 pixel embedding 都会加一个相同的 position encoding。那么这就是作者关于 position encoding 的设计。好的，那么我们就可以来到结果。首先是 ImageNet 相对于这些 CNN 的方法，相对于这些 transformer 的方法，那么本文提出的方法性能肯定是 outperform 前面的这些方法。作者在这里还汇报了一些消融实验。",
+    "比如说，我在 patch 和 pixel level 是否使用 position encoding，那么肯定是使用了两个 position encoding 效果是最好的。最后还是在 inner transformer 中我们应该使用多少个 head，以及每一个 pixel patch 它应该选多大，也就是每一个 patch 中小的 patch 应该选多大，那么这里也作为汇报的结果。",
+    "此外呢，作者也是做了一些 Transfer Learning 的实验，主要呢就是把这些低像素的图像用高分辨率再 fine-tune 一下，看一下它的表现。那么总的来说，本文提出了一种 Transformer in Transformer 的 block，它通过使用 Inner Transformer 使模型呢先注意到了局部的信息，然后再把这个局部的信息汇报给 Outer Transformer，使它更好地来估计全局的信息。那么这个思路呢也是计算机视觉中非常经典的。",
+    "金字塔式的结构，但是就本文来说，它汇报的实验丰富度啊、可视化等等这些东西，比原始的这个 Vision Transformer 比原始的 Vision Transformer 还是有一定差距。这里呢我也在跟作者沟通，看看是否在将来会有更多的实验的结果能够公布出来。好了，那么以上呢就是我对这篇论文的简单的介绍，感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "55eb6ed2b7132372746ce3455c05fe3629ce1113ddbb0515bf3f1e55c09a4f6f"
+}

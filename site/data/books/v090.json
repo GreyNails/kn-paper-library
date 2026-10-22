@@ -1,0 +1,126 @@
+{
+  "video_id": "v090",
+  "title": "Token Turing Machines[2211.09119]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v090/0001.jpg",
+      "path": "assets/slides/v090/0001.jpg",
+      "sha256": "e676abdc67e4f69b78a62b39805734ac1484d6c5a3846124affdbf8009c1a3e2",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v090/0002.jpg",
+      "path": "assets/slides/v090/0002.jpg",
+      "sha256": "a06833b79bbc01ace44bc57be63863290dc1cf0092c55dc2531e45f2ba78f14c",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v090/0003.jpg",
+      "path": "assets/slides/v090/0003.jpg",
+      "sha256": "b03fac0a8e5854531f10f9a3c8cf9aa8f014d8af20942ffdb1d3717b9993d36d",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v090/0004.jpg",
+      "path": "assets/slides/v090/0004.jpg",
+      "sha256": "bf420e31912fd27c86dda0fd55e443181c0471e1c84957f9b13d2dab59618ad4",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v090/0005.jpg",
+      "path": "assets/slides/v090/0005.jpg",
+      "sha256": "97146dfbcd0097df6d22cbebdee4256275524d6fd0f85d7719b01a7c25c54a2e",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v090/0006.jpg",
+      "path": "assets/slides/v090/0006.jpg",
+      "sha256": "3f569433d83128f7ec690d7f33592b17e09c5e6cdf4416c4487c02fa6ad83799",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v090/0007.jpg",
+      "path": "assets/slides/v090/0007.jpg",
+      "sha256": "77f32011eea8b2cfb5538650a2c08cb1ffa9b2a7dfb37a63e0c25e3acc61cadc",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v090/0008.jpg",
+      "path": "assets/slides/v090/0008.jpg",
+      "sha256": "ba9274018fadb37b06068ab4e78ec9f39ddeacbdbae644b29daa042d283b5475",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v090/0009.jpg",
+      "path": "assets/slides/v090/0009.jpg",
+      "sha256": "94475700cc954d78f7cd9ff9289f10c35b6a12f0c318d6dd7412658164d812df",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v090/0010.jpg",
+      "path": "assets/slides/v090/0010.jpg",
+      "sha256": "b6e6ada9988b2b9123966598c0cf31c8a1ccd053588b010474ee042de90d108b",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v090/0011.jpg",
+      "path": "assets/slides/v090/0011.jpg",
+      "sha256": "074530a5c25b9635d711c19ccf30aa4b83bb75c3914c481b1821f151b6045fe5",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v090/0012.jpg",
+      "path": "assets/slides/v090/0012.jpg",
+      "sha256": "77f0d5c386844f0fa58a61d0f331106547a2c7b1c8a2e9df035fc3714d947476",
+      "slide_index": 12
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来快速数一篇论文，Token Turing Machine。这篇论文呢，是这个 Michael Ryoo，也是我们这个频道的老朋友了。我们之前介绍过他的很多的工作，包括这一篇最相关的是这个 Token Learner。其实这一篇呢，就是 Token Learner 的一个应用。本质上来说呢，就是你通过学习的方法在很多个 token 中总结出较少的一些 token，然后这些 token 呢作为记忆来保存下来。这样在处理长序列的过程中呢，你就不用去使用过去的整个的长的序列，你只需要维持这个记忆就好了。所以呢，它是一个相对轻量的这个 auto regressive base。所以呢，它是一个相对轻量的这个 auto regressive 的这样的一个方法。那下面我们具体来看。",
+    "那你看到的这个方法呢，很直接，就是我在上一个时刻会保留一些系统的状态啊。这些东西呢，作者叫 memory。其实它跟 rnn 里面非常像嘛。跟当前的这个系统的输入，比如说是 image，比如说是这个文字这个指令对吧，他们一起做融合啊。这里作者说一个这是一个读的操作。其实本质上呢，就是总结一下这个 memory 和这个 input，然后呢送到这个 processing unit 里面。",
+    "这个 processing unit 呢，给出我们当前时刻的输出。那比如说你是做时序上的 action classification 等等这些东西对吧，你也这里输出一个结果。那么最后呢，你这个 processing unit 出来的结果加上 memory 加上你的输入对吧，大家还有你的输出大家一起来总结一下，总结一下写入重新写到这个 memory 里面。这个 memory 呢，就供下一个时刻来使用了对吧。这是一个经典的这个 auto regressive 流程。本质上呢，跟 rnn 这些东西呢也是非常相近的。只不过呢，具体来说呢，就是这些所有的东西。",
+    "对吧，比如说 memory 也好，你的 input 也好，auto 等等这些东西，它都是一串 token 的形式。那至于里面具体的操作呢，processing unit 它其实就是一个标准的比如说 transformer 或者 mlp mixer 这些东西，一个标准的模型把一串 token 变成另一串 token 这些都好说对吧。但是呢，最重要的就是这个 read 和 write。那么这里的操作呢，就是 token summarization。",
+    "就是把一大串很长的这个序列的一些 token 通过学习的方法总结出数量相对较少的 token。那一说到这里，熟悉 token learner 的朋友啊，立刻就想要到了对吧。那就用 token learner 这些东西啊来做这些事情。那具体来说呢，这个 token summarization 就是说我这里有 p 个 token 啊，压缩成这个 k 个 token 啊，这个 k 呢是远远的小于 p 的啊，就这样结束了对吧。那么你如果详细来说呢。",
+    "那么每一个输入的 token 呢，针对你的一个输出的 token，你都可以学出一个值来。然后呢，根据学出来这个值把这些输入的 token 这个 v 对吧，加权求出来。这个加权和呢，又是你输出的这个 token 它的这个值。那你如果想最终输出 k 个 token，你就把这个过程重复 k 次，非常简单直接的方法。",
+    "那么来到这边，你的读操作其实就是把一堆 token 压缩成一小部分 token，你的写操作也是把所有的这些 token 压缩成一个你的 memory。那继续来看呢对吧，你读的时候是把你的 memory 还有 input 这些 token 啊，给他们串起来，然后呢输出这个 z。这个 z 呢送到这个 processing unit 里面变成这个 o。这个 o 结合上你的 memory 结合上你的输入的",
+    "这个图片对吧？你把它们结合起来，然后呢，再过一个这个 token summarization。那就像这里一样，你的 processing unit 给你 16 个 token，你的过去的 memory 给你 96 个 token，你的输入有 3076 个 token，对吧？把这些 token 总结一下，总结成新的 96 个 token，那这个呢就是你的新的 memory，你就可以在下一步迭代里面再使用了。那这个呢就是本文的最核心的，对吧？read 和 write 就是通过总结 token 的方法。",
+    "那么再往下呢，对吧？还有这个 processing unit，我们之前也说过了，它就是一个纯纯的 transformer 或者是 mlp mixer 这种东西，一系列的 token 映射成另一系列的 token，这个数量不变。然后呢，作者还说了这个 memory 里面，对吧？不仅是 token 它本身的这个内容是重要的。",
+    "这个 token 在 memory 中的位置也是很重要的，所以呢，在每个读操作之前，在总结之前，对吧？他们都要加一个这个 learnable positional embedding 来把这个位置的信息给它编码进去。那这些都是常规的操作了，好的。那么以上就是本文主要的技术细节了，那本质上就是多次的把很多个 token 投到数量相对较少的 token，通过这样一个相对代价较小的 memory 来记住过去的这个历史的状态。",
+    "来达到一个处理长序列的目的。那这里呢，作者的实验包括比如说这个是 temporal activity detection，还有作者后面有这个 robotics 相关的实验，感兴趣的朋友呢可以到原文中查看。那像这里呢，这个 vivit 是一个视觉的 encoder 嘛，对吧？它就是把我们的图像进来之前先变成一个个 token。",
+    "然后呢，再跟我们 memory 这个通讯图人们设计这些东西想结合好的。那么以上就是我对这个视频的一个快速的整理啊，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "2567699ca51b8184ae0c4704e08093dadcf6650c393138bbfbb450f548bd4bb7"
+}

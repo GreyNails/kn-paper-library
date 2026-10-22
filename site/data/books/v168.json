@@ -1,0 +1,103 @@
+{
+  "video_id": "v168",
+  "title": "Leveraging BG AUG to encourage semantic focus in SSCL[2103.12719]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v168/0001.jpg",
+      "path": "assets/slides/v168/0001.jpg",
+      "sha256": "62e78a2d1e874dd6e240d8a41d6fc428be2913f25453ff8edfdc9dd76c0194e9",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v168/0002.jpg",
+      "path": "assets/slides/v168/0002.jpg",
+      "sha256": "e781b2dc214c2a11c3e779b30c69c97ce408c71a98b5c817d1d113d2dea58485",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v168/0003.jpg",
+      "path": "assets/slides/v168/0003.jpg",
+      "sha256": "b1f69669f57e095f423cb32c7db177115ac26c2bab23da0dbfbda26be8886c4b",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v168/0004.jpg",
+      "path": "assets/slides/v168/0004.jpg",
+      "sha256": "d7206d25aead92172bb67b0591daf98b003958588747b46860aa6e5b659281d5",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v168/0005.jpg",
+      "path": "assets/slides/v168/0005.jpg",
+      "sha256": "2d6ba0d2cd31adf5e67ec2870d401390cb418b183ca75fd9e22b169ff61eabee",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v168/0006.jpg",
+      "path": "assets/slides/v168/0006.jpg",
+      "sha256": "fc7b8897533bd62024b0d31829b34db8264e5b60c08061cc1ea2447865fb9ebe",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v168/0007.jpg",
+      "path": "assets/slides/v168/0007.jpg",
+      "sha256": "c39c704f242f0d68f8b4ac784158563e5aafd2a2b022d364263760a31a9e861c",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v168/0008.jpg",
+      "path": "assets/slides/v168/0008.jpg",
+      "sha256": "4475327c87e20a569f106e8e8c4058ab3afcaa871a320dc1600032d76253a41d",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v168/0009.jpg",
+      "path": "assets/slides/v168/0009.jpg",
+      "sha256": "5a881ebeb92b9c41ce81af5f078de0b044edd28895bc3c7d462abb87f2ce3a03",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v168/0010.jpg",
+      "path": "assets/slides/v168/0010.jpg",
+      "sha256": "9d6497ab2f20e01d24d213abbbfb3ec246ff83faa847b5bfed75fff0801f7b6f",
+      "slide_index": 10
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来迅速说一篇论文 Leveraging Background Augmentation to Encourage Semantic Focus in Self-Supervised Contrastive Learning。那么这篇论文的方法其实已经在标题中说得很明白了，就是我通过一种新的背景增强的手段来让我们的 self-supervised 的方法能够更加关注到我们的图像的语义本身，而不是说背景的这些噪声。",
+    "那么我们就直接看到本文的方法还有结果，那其实非常直接，相对于传统的这些图像增强，比如说你放大缩小水平翻转旋转给切个块或者是变成灰色等等等等，这种这种图像增强呢，自我认为呢，这些都是这个图像处理上的这些图像增强，它并没有呢把我们的语义信息包含到这个图像增强当中。",
+    "那最简单的道理是，你的网络里的模型它可能是不会去区别前景和背景的，也就是说有可能背景呢帮助了这个网络来对我们的图像做了分类，这个呢不是我们想要的一个结果，所以呢在本文中呢，作者就提出了，我要能不能根据语义信息来设计出新的图像增强的方式，那么这里呢，作者就设计了三种，第一种就是我直接把背景去掉。用灰色来填充这个背景，这叫 background remove，第二种呢就是我把这个背景替换成其他随机的背景，这个叫 background random，第三个呢也是最有意思的就是我换一下不同的背景，那么为了让我们的这个模型能够根据前景来区别不同样本之间的差异，而不是根据背景呢，我们把 positive samples 和 query。",
+    "它们的背景设置成不一样的但是我们把 negative samples 和 query 它们设计的背景是一样的这样子就直接的附近了我们的模型去观察前景的信息去学习前景的特征那么直接来看实验坐在这里测试了 MoCo-v2、BYOL 和 SwAV 那么右边这两个我们之前在视频中都已经介绍过了",
+    "可以看到，无论采用哪一种这个 self-supervised learning 的方法，那么应用上本文的这些图像增强手段之后呢，他们的性能呢都提升了接近一个百分点，甚至呢到了两个百分点，不过比较遗憾的，像 byol SwAV 这些方法呢，他是没有使用这个负样本的，也就是说这个 background swaps 我们更换样本呢，是没有办法应用在这两个算法里面的。",
+    "但是呢，我觉得这个 background random 其实呢，也一定程度上达到这个 background swapped 它的这个效果，那么除此之外呢，作者还做了很多实验，比如说在 Moco V2 里面，它通过控制变量，我给正样本还是只给负样本等等这些变量的控制的方法来得出结论说呢，每一部分的设计呢，都是对性能改善有帮助的，还有像 transfer learninglonger training 这些东西，作者都测试了。",
+    "汇报的结果来看都还是不错的，而且在增加了一些图像增强策略之后，我们的模型对一些对抗攻击它更有鲁棒性了，变得不是那么敏感了，这些都是很大量的实验，具体结果大家可以在论文原文中查看，当然这篇论文还是 preprint，他们还在继续这篇论文的工作，所以这里我只做一个简单的介绍。",
+    "那么除此之外在副作中呢，作者还汇报了一个比较有意思的事情，就是假如我们的前背景的这个 mask 它并不是那么准确，比如这里作者在原来的这个 mask 的基础上给它增加了这些扭曲，还有比如增加了平移增加旋转等等增加了这些扰动，作者发现呢，即便如此模型的性能依然得到改善，所以对于前景这个 mask 呢，有 noise 的情况下呢，本文的方法呢，依然能够 work。",
+    "这也是很有意思的发现，好的，那么以上就是我对这篇论文的简单的分析，这篇论文的思想也是非常非常的简单，但是呢，作者做了很充分的实验，欢迎感兴趣的朋友呢，还是在原文中查看，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "e245b20ba2cd1f87220afb6feae6509789eafcd171637cc6c3a351c2ac5b3efc"
+}

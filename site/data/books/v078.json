@@ -1,0 +1,87 @@
+{
+  "video_id": "v078",
+  "title": "Tokens-to-Token ViT Training ViT from Scratch on ImageNet[2101.11986]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v078/0001.jpg",
+      "path": "assets/slides/v078/0001.jpg",
+      "sha256": "d2a2de5b908faa7b5f9bb5e5aee24aa5a463db89d66bed12cdc96bbba0cbb5ab",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v078/0002.jpg",
+      "path": "assets/slides/v078/0002.jpg",
+      "sha256": "c0bb1ef24881ca15d43f611283727675725f97db3a70301618a394be49756f60",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v078/0003.jpg",
+      "path": "assets/slides/v078/0003.jpg",
+      "sha256": "05c8988b9cf422273268233433aa2bdf179e43b7cef53dceee12415618afd6fd",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v078/0004.jpg",
+      "path": "assets/slides/v078/0004.jpg",
+      "sha256": "1c839d5dd521fb9adc8cf620e7b653c9dd9ead868bce42addb3468192701f87b",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v078/0005.jpg",
+      "path": "assets/slides/v078/0005.jpg",
+      "sha256": "f5697b5780f370d1755d0f1de01a59b7f0a202062b588a9cee888ee03527255b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v078/0006.jpg",
+      "path": "assets/slides/v078/0006.jpg",
+      "sha256": "d69ba5fc729155f5c0dbc244c61dc195a1d823294c09cbc649f943a723ca2e84",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v078/0007.jpg",
+      "path": "assets/slides/v078/0007.jpg",
+      "sha256": "80857696c9d39989d14a4c4789d6a08ee8fe97650c1972c63ee5d7d3ae5113e0",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v078/0008.jpg",
+      "path": "assets/slides/v078/0008.jpg",
+      "sha256": "d15a59e0a341c915631e29d350512762da70da6596b1bb1802334e4c3020dc9a",
+      "slide_index": 8
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Tokens-to-Token Vision Transformer: Training Vision Transformers from Scratch on ImageNet 这篇论文是今年比较早 1 月份的时候的一篇论文它用的方法也不是说特别优雅特别是你如果已经熟悉了 Multi-Scale Vision Transformer 你大概能感受到这篇论文是怎么样启发了后面的工作然后包括一些小的结论在后面也被印证那么首先我们来看",
+    "提上来的作者先说这个原来的 vision transformer 它的设计呢是相对比较粗糙的有的区块呢并不能够学到好的特征那像这种就是区块爆掉了那作者认为的主要还是就是说我的这个各个 token 之间他们的交流呢仅限于这个 transformer self-attention 这些里面在交流它呢其实就是模型不太灵活而且 Vision Transformer 是在 JFT-300M 上数据集上训练相当于是谷歌自己的数据集它实际的性能确实值得怀疑因此本文作者提出了说我使用一个 T2TToken to Token 的 Transformer 来强制的让我们邻近的 Token 之间相互互动这样子我们 Token 的数量会减少但是每个 Token 它的 Representation 它的长度会不断增加",
+    "那么自主讯息进行怎么样实现呢我们看到假如说这里我们有几个 token 首先呢我们还是把它先还原成原来图像排布的样子这个步骤呢叫做 reshape 然后呢再做 unfold 就跟你做卷积一样拿一个滑窗把局部的 token 框起来然后这样划下去那每一个框呢就组成一个新的 token 在这个新的 token 里面呢把原来 token 呢他们的这个 feature 的 dimension 呢给它串接起来这个 feature 呢就是新的 token 的 feature 然后呢把这些东西",
+    "新的 token 呢扔到下一层就可以一层层处理下去了那显然你会注意到这样随着处理呢作者的占用的内存呢是越来越多的那我们看到作者提供的整个网络的结构啊在这里呢相对于传统的 Vision Transformer 在这里我们看到呢它主要是改了这个前面的 token embedding 这个地方或者叫 patch embedding 的地方首先呢你处理图像的方式不是直接那样没有重叠的就把它划分成比如说 10 个或者是 16x16 的各种块",
+    "你呢是通过 unfold 也是通过一个类似卷积的方法呢，把这个一个 patch 给它滑过去，得到一个 token。中间再经过 reshape、soft split 这个操作，soft split 其实就是用 unfold。然后呢，你的 token 的数量变小了，但是每个 token 它的长度呢变深了这样子。呢最后处理出来的 token 呢，送到我们的 Vision Transformer 里面就可以了。我们在论文中的作者还测试了不同的这个 Vision Transformer Backbone",
+    "就是后面这个网络能够使用不同的结构来看的表现那么看到结果呢相当于那个时候才有的 CNN 在 SkipConnection 的 CNNVisionTransformer 加 Backbone 还有 T2T 加 VisionTransformer 加 Backbone 你看到本文提出的一系列方法呢是 outperform 实现的方法其中比较值得关注的呢就是这个 Wide 它的意思呢就是我正常设计一个网络的时候我是希望随着层数的增加网络结构呢是变得越窄但是越深",
+    "窄的意思就是说每一个 layer 它的面积变小但是它的 feature dimension 很深就是每一个像素我有一个很长的 vector 去代表它而使用 wide 它的思路就是我要保持每个 channel 它相对的较浅但是每一个 layer 之后我会铺一个面积很大的 feature 是一个扁平的结构可以看到这种结构的设计是不如我们的 base line 也就是一个又窄又深的设计这个也很符合我们在 CNN 设计里面的直觉包括你在后面的 Multi-scale Vision Transformer 里面呢你也能理解为什么说他要把这个 token 的数量变小然后呢把这个 feature 的维度加深好了那么以上就是我对这篇论文的简单的分析当然是做了大量的省略如果你对这篇论文感兴趣想仔细的去查证的话还是非常推荐你去看原文设计的各种实验包括他测试的各种各样的 backbone 具体是什么样那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "abcf573445612e113e5025f104bf76369ccafc0212f872a83644bd428c4c2e42"
+}

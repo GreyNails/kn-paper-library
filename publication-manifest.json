@@ -1,0 +1,37 @@
+{
+  "videos": 257,
+  "slide_images": 17881,
+  "originals": 310,
+  "site_bytes": 897427528,
+  "repository": "GreyNails/kn-paper-library",
+  "website": "https://greynails.github.io/kn-paper-library/",
+  "document_release": "v1.0.0-documents",
+  "paper_release": "v1.0.0-papers",
+  "original_archives": [
+    {
+      "name": "originals-01.zip",
+      "papers": 101,
+      "bytes": 642705547
+    },
+    {
+      "name": "originals-02.zip",
+      "papers": 75,
+      "bytes": 615145199
+    },
+    {
+      "name": "originals-03.zip",
+      "papers": 62,
+      "bytes": 655652119
+    },
+    {
+      "name": "originals-04.zip",
+      "papers": 69,
+      "bytes": 591959718
+    },
+    {
+      "name": "originals-05.zip",
+      "papers": 3,
+      "bytes": 136971422
+    }
+  ]
+}

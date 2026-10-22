@@ -1,0 +1,155 @@
+{
+  "video_id": "v176",
+  "title": "Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning",
+  "frames": [
+    {
+      "src": "../../assets/slides/v176/0001.jpg",
+      "path": "assets/slides/v176/0001.jpg",
+      "sha256": "33292dbe615c5d0819a8b6667e02160add154a0d37e6a3d24a930fe4942383b5",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v176/0002.jpg",
+      "path": "assets/slides/v176/0002.jpg",
+      "sha256": "8ebd6c35e3c24e87b1c63115b0e72bda98cc280d00201ddd7aceb6c688ebb6c5",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v176/0003.jpg",
+      "path": "assets/slides/v176/0003.jpg",
+      "sha256": "83122fc3954400dd2d1b0873281d19dff51c6d7cf608a1916bca39a947355f62",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v176/0004.jpg",
+      "path": "assets/slides/v176/0004.jpg",
+      "sha256": "c79c096fe6b67aa35b752ce4b1a5298fc5ad37254f287fb4fb4533885d4829c9",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v176/0005.jpg",
+      "path": "assets/slides/v176/0005.jpg",
+      "sha256": "6ca51e89dd9c5fe45c49ae5de32147a4aadd33e0c28dea6ce958aea4541c6cce",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v176/0006.jpg",
+      "path": "assets/slides/v176/0006.jpg",
+      "sha256": "50514b322ab7b4437ddb0fce2ab9a76da04647b8e6e4e40ebbad2a917441fb13",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v176/0007.jpg",
+      "path": "assets/slides/v176/0007.jpg",
+      "sha256": "45cc158f5a78c8ba3b78ee597167edf104c6b37241e55a13be96dd871633595b",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v176/0008.jpg",
+      "path": "assets/slides/v176/0008.jpg",
+      "sha256": "f1fcc4dd313b482b9b1571126081a66b2d3d2d86ba21ae558ace2395eceebec1",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v176/0009.jpg",
+      "path": "assets/slides/v176/0009.jpg",
+      "sha256": "a5d9fccac7d789dd9dcbe2f9b6113079605a069b86359a262967ff75306f3efb",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v176/0010.jpg",
+      "path": "assets/slides/v176/0010.jpg",
+      "sha256": "e5afcad2e670efc458763ea0ac7daffa8ead4f72f03b4808793d2c8097b601cf",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v176/0011.jpg",
+      "path": "assets/slides/v176/0011.jpg",
+      "sha256": "a200f9b20f66c068e76cc0cca59faeb08da2e88a22f202d7e59c31324e754ce7",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v176/0012.jpg",
+      "path": "assets/slides/v176/0012.jpg",
+      "sha256": "e91804cf941ef5c620cfd44960973a82dde430b6181842abc4cebd7a53b8a178",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v176/0013.jpg",
+      "path": "assets/slides/v176/0013.jpg",
+      "sha256": "0615bb5a73b409bc085e085a7d69e1e2bb42d3dba0e92248c328fb2ecc450ed6",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v176/0014.jpg",
+      "path": "assets/slides/v176/0014.jpg",
+      "sha256": "1cfab00da89aa35ebd96ed869cd42b3e5bca934a673b57c5a145c2cabb6e3366",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v176/0015.jpg",
+      "path": "assets/slides/v176/0015.jpg",
+      "sha256": "96c63a8883448cbb7558017361dd634cdf5069ad341202626acd7945b639f067",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v176/0016.jpg",
+      "path": "assets/slides/v176/0016.jpg",
+      "sha256": "f9d5c67b80574a7282e8fe407acd36bddf3e41de3d524dab8540005250f9743b",
+      "slide_index": 16
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速介绍一篇论文 Propagate YourselfExploring Pixel-Level Consistency for Unsupervised Visual Representation Learning。这篇论文的核心贡献是把这个 Unsupervised Representation Learning 从原来的 Instance Level 也就是我们以图像为单位的它们相互做对比给它拓展到 Pixel-Level 也就是图像中的每个像素做对比。那么下面我们继续来看，在本文中其实作者提出了两种 Pixel-Level 的模型。",
+    "那一种呢叫做 pixcontrast，另一种呢叫做 pixpro。他们呢其实就是作者设计的两种不同的这个 pixel level 的这个 loss，我们会分别介绍他们。然后还有作者汇报的结果。那么首先来看这个 pixcontrast，在这里呢作者的想法其实非常简单，就像我们的 instance level 之间他们要做对比一样，我们看到熟悉的这个 contrastive learning 的 framework 啊，一张图像进来经过不同的 augmentation 来产生两个不同的 view。",
+    "然后经过我们的 backbone network 我们的 encoder 过一个 projection head，这里没有 prediction head，我们得到两个 projection。但是这两个投影它区别于我们传统的 contrastive learning 的方法就是它不仅局限于是一个向量，它在这里可以是一个 2D 的 feature map。在这基础上每一个 feature map 对应的数值你就可以给它溯源到原始图像中的某一个位置的像素。那么同 instance level 的 contrastive learning 一样，",
+    "你的一个像素呢经过不同的图像增强它们产生的 representation 呢在我们做了这个 projection 之后呢应该是尽量接近的。所以呢这里作者使用了一个形容 InfoNCE 的这样一个 loss。但是因为作者这个原文中的这个表达实在是太啰嗦了，我这里呢直接借用了 moco 它的表达。那需要注意呢就是原来这个 q 呢这里呢变成了这个 x，那原来这个 k plus 呢和这个 k minus 呢其实就是这个 x prime。",
+    "那区别就是同一个像素对应的 X'和不同像素对应的 X'那么与之前相同呢，分子上呢是 positive sample，那分母上呢是所有的 sample。那这里的 sample 呢就是 pixel level 的 sample。那这里还有这个 hyperparameter tau，这个配置呢是一个典型的 MoCo 的配置。那因为是 MoCo 呢，我们这里就自然有一个 momentum encoder。但是呢这里存在一个问题，如果我们对所有的像素呢都应用这个 InfoNCE 这个 loss。",
+    "那其实呢这个 Loss 呢会让我们这一个 Feature Map 中的所有的像素它的 Feature 都变成同一个。因为这里它对比的不是图像这个层次这个 Instance Level 而是对比的一个像素，而这个像素的 Feature 呢它可能跟 Feature Map 中其他的 Feature 它长的是不一样的。但是呢它和其他的像素都是来源于同一张图像，那么直接做这 ContrastLoss 呢是不太合适的。因此呢这里呢作者还增加了一个基于距离的这样一个 Mask。",
+    "其实它的用意呢非常简单，就是我这一个像素只跟它周围一定距离内的像素做这个 contrastive loss。那距离它太远呢我就不要管了。那这里可以看到呢其实就是 normalize 之后一个距离，那我根据这两个像素之间的距离来来决定说它们两个之间这个 InfoNCE 是不是记录我们最终的 loss。那此外呢这里还有一个小的细节需要注意的就是因为我们在做 data augmentation 的时候呢，我们会把这个图像比如说做旋转平移。",
+    "它呢就会导致我的这个 feature map 中相同位置的这个 feature 它对应的原始像素呢是不太一样因此呢你有必要在计算这个 loss 的时候呢把我们的这个 data augmentation 造成的这个图像的位移这个坐标的改变给它同时输入到我们的这个函数里面把它记录当中这样子呢才能保证你这两个这个 projection 对应的就是原来的那个位置上的那个像素那么这个呢就是作者提出的 pix contrast 这个核心的思想然后呢我们来到这个 PixPro、pixel-to-propagation consistency 那这里呢也可以非常直观的看到相对于原来的这个 pix contrast 作者呢在这里又加了一个 pixel-to-propagation module (PPM)它呢其实就用来替代我们原来的 prediction head 这样一个作用那这个模块具体是怎么样运作的呢其他的流程呢就是这样一个图那写成式子呢是这样一个式子",
+    "我们一边边来看输入一个图像它的这个 channel 高度和宽度那把它呢首先这边送到这个 similarity computation 这个 similarity 呢指的就是同一张图像中不同的像素它们之间的 feature 的 computation 当然这个相似度的函数呢你可以按你的喜好来选择这里呢作者选取了这样一个形式那么经过这样一通计算之后呢我们就得到这个像素数量乘以像素数量这样一个这个像素之间的相关性的矩阵那么与之前这个 PixContrast loss 相似的你在计算两个相似的相似程度的时候呢也会使用一个 distance mask 就是说也是你只关心的是两个相互靠近的像素它们之间这个 similarity 这个函数那如果距离太远呢这个 s 呢就直接被设置为 0 了那么这边这一帧呢作者做了一个 transform 也就是对每一个像素呢做这个 mlp 就是 1 乘 1 的 convolution",
+    "那么它的作用呢其实就像我们原来的 prediction head 那么把这两项一结合其实就是根据我们的这个 similarity 来决定这个 prediction 它的权重最后输出的这个值呢就是我们得到这个 y 那么与之前的一个 s for y 方法相似呢我们把这个 y 和我们这个 x prime 也就是 momentum 出来这一支的这个 prediction 给它对比一下使用的呢也是这个 cos similarity loss 那么这个呢就是 pix pro loss他的表达其实呢是非常简单直白了那么现在呢我们已经有了这个 pix contrast loss 还有这个 pix pro loss 那么我们现在该把它们组合组合形成一个真正能用的这个 unsupervised learning 的这个方法了那么这里呢就是作者把这个 pix pro 结合这个 instance level 的这个 contrastive loss 啊然后呢当然你也可以选择再加这个 pix contrast 的都是可以的这里呢作者使用是 SimCLR 但是呢在我们的这个 backbone 出来之后呢",
+    "他用的是与 PIX Pro 不同的 projection head 还有 prediction head 其他的关于 loss 的组合就是非常简单的没什么可说的了那么下面我们直接来看到作者回报的结果那么现在既然我们有了 pixel level 的 contrastive loss 我们自然也来发挥一下 pixel level 这些方面的优势这里可以看到作者做了 PASCAL VOC 的 detection 使用的都是非常简单的标准主要就是看改进",
+    "还有 city scapes 这是做 semantic segmentation 那么一个对比肯定是一些漂亮的数字那么再往下看就是作者做了一些 ablation 就是我们既然有了 PixContrast 有 PixPro 我们怎么样把它们组合一下来能够取得更好的效果可以看到作者通过一些实验告诉我们这些参数的选择配置的实践应该是什么样子那么包括 instance level 的 contrastive loss",
+    "还有各个模块它们的相互的影响如果你感兴趣非常推荐你去原文来查看那么总的来说本文最大的亮点就是构筑了两个 pixel level 的 loss 虽然直接看下来也是一脸迷糊为什么就是按照这种方式来构建但是作者并不会把它过去失败的各种尝试写在论文里那么以上就是我对这篇论文的简单的分析感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "f9c73849c3782fdf7bc353787bd6718f14073ca5f4cd1825ca66c7292f0c2eb2"
+}

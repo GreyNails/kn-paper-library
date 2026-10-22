@@ -1,0 +1,251 @@
+{
+  "video_id": "v079",
+  "title": "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning",
+  "frames": [
+    {
+      "src": "../../assets/slides/v079/0001.jpg",
+      "path": "assets/slides/v079/0001.jpg",
+      "sha256": "2358daeeb660e1bc5783e18121eb3f4efdb3652a202e4f2f2d9ab39ea00556e6",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v079/0002.jpg",
+      "path": "assets/slides/v079/0002.jpg",
+      "sha256": "c05bb4dbc0be879e9a494b77547ea7de11548c3b959a8a332c88ab9a0c976b1e",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v079/0003.jpg",
+      "path": "assets/slides/v079/0003.jpg",
+      "sha256": "2d4c45aa41f084fab061f578d3a926c59ce4fd59fb40a8170e4483ebcb0c2e26",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v079/0004.jpg",
+      "path": "assets/slides/v079/0004.jpg",
+      "sha256": "46aab528fccfd0707614b5f4ce01275bd9b8574fab0423deb1a07cff8cc0e57f",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v079/0005.jpg",
+      "path": "assets/slides/v079/0005.jpg",
+      "sha256": "fb5147837b94625b9c5693a6625a49d3f74bfb3adc343ffda0e03202f2ba8294",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v079/0006.jpg",
+      "path": "assets/slides/v079/0006.jpg",
+      "sha256": "fa982c1d4696425dfae8c4938af767c62eaeec4e4d2e574694bede0c4e4c8ebf",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v079/0007.jpg",
+      "path": "assets/slides/v079/0007.jpg",
+      "sha256": "a152d1ac57fce0228d26490837689b9ccb790f5cd32cbcd460e7d4143cdd3b4e",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v079/0008.jpg",
+      "path": "assets/slides/v079/0008.jpg",
+      "sha256": "10c580e07e87c88f9a5e2418ab7b7e0deef7c099680de0a4f992691f8a593c1a",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v079/0009.jpg",
+      "path": "assets/slides/v079/0009.jpg",
+      "sha256": "755fd5dc9b4d924567070547b90432abae16f63935c5541d79c09862168424be",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v079/0010.jpg",
+      "path": "assets/slides/v079/0010.jpg",
+      "sha256": "c5f243e625b3a3e57405aa7d4829873722771ed32fce2350bd57e65b08133299",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v079/0011.jpg",
+      "path": "assets/slides/v079/0011.jpg",
+      "sha256": "2215018667c80a1a18e7b9686ed640b2f97062f65f57779962888d9ab5dcd661",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v079/0012.jpg",
+      "path": "assets/slides/v079/0012.jpg",
+      "sha256": "4fa85672c213574924ab70aff98150a12719b3c7192246fc3f0830244055e0ed",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v079/0013.jpg",
+      "path": "assets/slides/v079/0013.jpg",
+      "sha256": "87e021f28feb47ccf0d470dfb20e520dbd5679c260987ecb28ed6df70e06e7f4",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v079/0014.jpg",
+      "path": "assets/slides/v079/0014.jpg",
+      "sha256": "59de62518872c46d361134f56ca4a8387ecf331b4a802999af5fd10c69e9b965",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v079/0015.jpg",
+      "path": "assets/slides/v079/0015.jpg",
+      "sha256": "80be1ee87a39db2e74d6b5720cc0e64c89751fecf31c667fa14c42cef424549a",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v079/0016.jpg",
+      "path": "assets/slides/v079/0016.jpg",
+      "sha256": "e02dd23a4ea5deab8cde77cb3b85045671bbe0559bb13d21348b284e3b9c66bc",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v079/0017.jpg",
+      "path": "assets/slides/v079/0017.jpg",
+      "sha256": "73f1a566b45ff2f23276ec291022ac4587283689ef760d1073b6294191f0f1ad",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v079/0018.jpg",
+      "path": "assets/slides/v079/0018.jpg",
+      "sha256": "ad6cb41d06885fde02f747a3bc5608acdbc9428310d3ae0c9287b9eae3bb0fd2",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v079/0019.jpg",
+      "path": "assets/slides/v079/0019.jpg",
+      "sha256": "21291064413f9a4d9a64a8609a7fe2e4c76180eeb14309ef05ce7515429b2e48",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v079/0020.jpg",
+      "path": "assets/slides/v079/0020.jpg",
+      "sha256": "165ba1fc1a3f0913b5647a91a5f9771e04cfcb37fd5857c2672dda4921a037f2",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v079/0021.jpg",
+      "path": "assets/slides/v079/0021.jpg",
+      "sha256": "d44967584bb8db89649936f79f5313dfbc49453dcb5970b46a343fae3b232b28",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v079/0022.jpg",
+      "path": "assets/slides/v079/0022.jpg",
+      "sha256": "f0cea849e043eb55f166f8a228399670f8dc3229107714c1d961ba1c919d2e3f",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v079/0023.jpg",
+      "path": "assets/slides/v079/0023.jpg",
+      "sha256": "35717c3b7654a741f26d1f39984677f82db1f30d0a2cbeb506d58fb70dc5eeda",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v079/0024.jpg",
+      "path": "assets/slides/v079/0024.jpg",
+      "sha256": "7ee5d182ab1ddc0b369cb5ff3e26b7d42c0298465104c70de9403eacaa100e9c",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v079/0025.jpg",
+      "path": "assets/slides/v079/0025.jpg",
+      "sha256": "2896f4f6c936d2ead6deaf67a8c35e6107a3ccacfdf6ea7fca39b83b44dd3349",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v079/0026.jpg",
+      "path": "assets/slides/v079/0026.jpg",
+      "sha256": "c2209741ac0295700bd8acd8ec2e30382283a2bda4497111d82733be352eee2d",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v079/0027.jpg",
+      "path": "assets/slides/v079/0027.jpg",
+      "sha256": "6b363a920d2d7e995c27231393834fbb8b3f4aae11ebe5fc85d6c929c8713d77",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v079/0028.jpg",
+      "path": "assets/slides/v079/0028.jpg",
+      "sha256": "c82e6c5d991bf4d527a5dd5c433609ac0d516aac5577dc363f6af42befffe410",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v079/0029.jpg",
+      "path": "assets/slides/v079/0029.jpg",
+      "sha256": "705d56ab9c7c9e3c34065cafeb527535e5a0cb0701c4830f33233a7948ab2d02",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v079/0030.jpg",
+      "path": "assets/slides/v079/0030.jpg",
+      "sha256": "196e1d5d055f575cdfb1891df3a85faef99aa8b332883fc9a741f6a7f0ecd781",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v079/0031.jpg",
+      "path": "assets/slides/v079/0031.jpg",
+      "sha256": "c64a8d669a2cfc2a2866c8ceea88c5591e1b6de1bd6703c5474a4ba8d6bc09fc",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v079/0032.jpg",
+      "path": "assets/slides/v079/0032.jpg",
+      "sha256": "e0598b986a4e6a140c3e6e88fef2289a2522c60647ba82e24d63a0bc5226d95b",
+      "slide_index": 32
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速数一篇论文 UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning。这篇论文重点就是探讨了我们该怎么样对一个 video 里面的各个像素各个 token 他们应该相互建立关系。我们应该怎么样建立这个关系？之前我们介绍过 TimeSformer，它的解决方案是在 Spatial 和 Temporal 分别做一次 attention。这里作者对 TimeSformer 做了一个 Visualization。",
+    "他发现假如说我们以绿色的 token 作为我们的计算 attention 的 query，他在做 spatial 的时候注意到的范围其实是非常小的。同时在做 temporal 的时候追踪这一串 token 似乎又没有什么意义。因为你比如说脚在这里，人在其他的时刻脚已经去到其他位置了，但是你还是在做同一个位置的 temporal 的 attention。作者认为这个是不太灵活的。",
+    "那么本文呢就探讨了如何应该进一步细化我们的 attention 这个几个 token 它们相互之间的设计。那本文这个结构呢其实它也是一个标准的 transformer 的结构。我们先不看上面这一个个 stage 啊，我们只看这个每个 stage 里面它的一个 transformer block。那最后面呢是这个 ffn 这个 mlp 嘛，这些东西呢没有变。那中间呢原本应该是这个 multi-head self-attention，这里呢作者把它替换为这个 multi-head relation aggregator。",
+    "那么它是我们重点要讨论的一个东西。那么还有最开始的 positional embedding，这里作者提出了 dynamic positional embedding，本质上就是一个 depthwise 3D 的 convolution。那么下面我们就重点来看 mhra，那么 multi-head relation aggregator 主要的是为了解决在我们一开始这几层我们的 local redundancy 其实是很强的，就是你一个像素周围它很多的像素内容都是一样的。这个是在相对低层的情况下发生的事情。",
+    "那么在相对高层呢我们需要建立一个复杂的全局的这么一个 dependency。那么因此针对不同的层呢，这个 relation aggregator 呢它应该有不同的设计。那么我们直接来看，首先一个通用的框架，你的一个 tensor 进来，它可能过这个 attention，它可能有 value。那么因为是 multi-head 嘛，所以是每个 head 单独处理。那最后呢把每个 head 串起来过一个这个 u。那么所以具体来说呢，我们就应该关注这个 rn 它是怎么实现的。",
+    "那这里呢作者针对我们的低层和高层做了两种设计。低层呢就是我们近似一个 3D convolution 这么一个结构。那么对于高层呢，我们在做这个 Spatial Temporal Self-Attention。那么当然对于这个 V 这个 Multi-Head 这个 V 就是一个 Linear Layer 给它做一个映射就可以了。那么下面呢我们继续来看这个 A 它的实现。",
+    "首先是 local 也就是相对浅的这些层，它本质上其实就是一个拆分过的 3D convolution。它的思想跟 mobile net 里面做 depthwise 和 pointwise convolution 拆分这个思想是非常像的。你看它这个表达式很复杂，那么实际上你就可以理解为我们在 tensor 当中取出了一个 tube，那么把我们这个 tube 送到一个大的抽象的卷积核里面，然后做出相应的卷积操作就可以了。",
+    "那我们具体来看这个代码啊，它的这个 block 的实现，首先是过这个 normalization，这是一个 tube 嘛，然后呢过一个 1x1x1 的这个 convolution。",
+    "它呢就是一个 pointwise 的这个 convolution，相当于在空间尺度上大家不动，先把每个 channel 里面的信息混合一下，那么再往下呢是过了这个所谓的 attention。那其实这个 attention 呢就是一个 5x5x5，但是是这个 depthwise 的 convolution，也就是我们只在 spatial 做 convolution，然后每个 channel 之间它们是相互独立的，你可以看到它的这个 groups 呢就是这个 dimension 就是 channel 的数量。",
+    "那么过完这个之后呢，再做一个这个 pointwise convolution，这个 convolution2。那么它呢相当于把这个 channel 混合一遍，那最后呢还有这个 dropout，这个呢是作者的这个 local multi-head RA 的这个设计。那么再往下呢，我们看到这个 global，也就是在相对高的层里面我们做了这个 attention，那么到了这些层呢，它的目的就是为了全局的这个信息的它们的相互流通。那这里呢，作者就用了经典的 attention。",
+    "这里 query 和 key 对吧？为什么在这个指数上面，因为我们有一个 softmax，然后呢得到这个 attention 的矩阵，再跟我们的这个 value 相乘就是一个标准的 attention 的模块。那么当然呢，这里可选呢，你可以把我们的整个这个 block 再拆开。那这里呢是一个 spatial temporal 的 jointattention，你当然可以把它拆成先做 temporal 再做 spatial 这种，像 TimeSformer 的这种构型也是可以的。",
+    "那么以上呢就是两种不同的这个 attention 在本文的结构里面。那么下面呢我们再来看这个 dynamic positional embedding，那为什么我们需要它？那么因为绝对位置编码呢，针对不同长度的视频呢需要插值，那么相对位置编码呢性能不好。这里呢作者借鉴了这篇的文章，直接怼了一个 3D 的 depthwise convolution。那对于每个 block 来说呢都有这个 positional embedding，那这个呢就是作者的这个所谓的 DPE。",
+    "那么下面呢我们就可以把以上的这些模块整合起来，来看到作者的这个网络的结构。那每次升阶段的时候呢，你都会把这个 token 的这个 spatial resolution 减少，它的这个 depth resolution 增加。那么每个 block 里面先是这个 positional embedding，然后呢这个 attention 或者是这个 convolution，最后呢是这个 ffn。那么最后呢你把这个所有的这个 tokenpooling 起来就可以了。",
+    "那么下面我们来看作者汇报的结果，首先是一个快速的对比，从 X3D 到 TimeSformer，我们这种不同的信息交互的方法来建立，然后计算量的减小同时准确性的增加。这里是两个 Something Something 的性能，那么后面还有作者的 Ablation，比如说我们的 Positional Embedding 怎么做，然后一共四个阶段，每个阶段应该用什么样的 Block 是用 Local 还是 Global。",
+    "这里都有做，感兴趣的朋友呢可以看一下。总的来说呢，这篇文章呢并不是一篇意外的文章，里面的设计逻辑呢都符合我们之前的一些观察，符合一些直觉。那么以上呢就是我对这个文章的一个快速的整理，那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "a3fa10d88386e28c55f725f9f60ed3a6397e8f2c999fffee8ef1a1a02e2caec5"
+}

@@ -1,0 +1,669 @@
+{
+  "video_id": "v009",
+  "title": "VQ-VAENeural discrete representation learning[1711.00937]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v009/0001.jpg",
+      "path": "assets/slides/v009/0001.jpg",
+      "sha256": "c596f07f697d620d40279d0d349e47b5e47b9955edda28f05e65cb34857e4c50",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v009/0002.jpg",
+      "path": "assets/slides/v009/0002.jpg",
+      "sha256": "f0291859426a76ef9f6f6d436c0561864141bf6200f0c6bd3a51d8643ae36e62",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v009/0003.jpg",
+      "path": "assets/slides/v009/0003.jpg",
+      "sha256": "a842c497b012e420cc0a792117c02ddf6fa1b5437c4ebf1a21ecc0d6400e72ba",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v009/0004.jpg",
+      "path": "assets/slides/v009/0004.jpg",
+      "sha256": "bd275b4e038d50d595daa078b32b7c4129ed0676edec8a13b77074337d23f5ae",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v009/0005.jpg",
+      "path": "assets/slides/v009/0005.jpg",
+      "sha256": "00a059adcd2aea65196a6239a39451dda7fb92b972fc837ef0162a7164c37bc8",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v009/0006.jpg",
+      "path": "assets/slides/v009/0006.jpg",
+      "sha256": "901a22b1c7d7a92bb4321651b8ba35ae36f0d6e8227afd26c591bba908b6bd11",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v009/0007.jpg",
+      "path": "assets/slides/v009/0007.jpg",
+      "sha256": "ab5861b42327934a48da7208aaa7b30edcad213142f9b2dc8473fdcfbb972ae8",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v009/0008.jpg",
+      "path": "assets/slides/v009/0008.jpg",
+      "sha256": "b566d126881e68b779da03a13fd593a2360474f190b07b777bd19065fd097187",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v009/0009.jpg",
+      "path": "assets/slides/v009/0009.jpg",
+      "sha256": "5034090e92dea8e225ade49a3814f91a0a7375b5e754ba7f92ed5914cdec34e8",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v009/0010.jpg",
+      "path": "assets/slides/v009/0010.jpg",
+      "sha256": "4a897c0823f96e8377be2d1815093a7454d0a695d4fb6e7fa27927e27354ef58",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v009/0011.jpg",
+      "path": "assets/slides/v009/0011.jpg",
+      "sha256": "4bd98e001d159afe87abf362b7867c602bb1f13ef06f720ac3468b8323ecd999",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v009/0012.jpg",
+      "path": "assets/slides/v009/0012.jpg",
+      "sha256": "74aae1361ee4f40f22ff3faedf40a056f3c89ce019c8497c1efa6d7d790ad9ef",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v009/0013.jpg",
+      "path": "assets/slides/v009/0013.jpg",
+      "sha256": "23b10fc6f24fa790db128e620008e9a5f1f4789d83aa18a78f43f44632c2a01d",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v009/0014.jpg",
+      "path": "assets/slides/v009/0014.jpg",
+      "sha256": "e07378b1105f78a1bf6bf0579064c43f14df1e1cd4e658c05bd6abf965b875bd",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v009/0015.jpg",
+      "path": "assets/slides/v009/0015.jpg",
+      "sha256": "65ce053303aceeaca350d1d7eaf1146bbacde6a397e54f6892f74f508e7d1437",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v009/0016.jpg",
+      "path": "assets/slides/v009/0016.jpg",
+      "sha256": "5046cddb7f23215f1ebd19d32dc0a2c733167c85d3fc75929a8ba8938e649ddf",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v009/0017.jpg",
+      "path": "assets/slides/v009/0017.jpg",
+      "sha256": "c56c7d30e4b20f550dfe03e3396d9cec92fad4715611762e5ef0680d73cd9e51",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v009/0018.jpg",
+      "path": "assets/slides/v009/0018.jpg",
+      "sha256": "bb1ad78d255f4a054cad762cf3f24270293ecdc2c25846b4230604f6a5ff5ac1",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v009/0019.jpg",
+      "path": "assets/slides/v009/0019.jpg",
+      "sha256": "a5fdea494dfb4d9a352398401022aeb434cafcb43fda1aa4592e5e0593010370",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v009/0020.jpg",
+      "path": "assets/slides/v009/0020.jpg",
+      "sha256": "a8f9a5dd610daeaba4de44188ca2229494230bd6446ed160ef1d7e99b2903fb2",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v009/0021.jpg",
+      "path": "assets/slides/v009/0021.jpg",
+      "sha256": "4096b5ab64ac7a09ff0bf94d3c93d1c9d7a980cc8f40cb5d3040d31062e96ece",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v009/0022.jpg",
+      "path": "assets/slides/v009/0022.jpg",
+      "sha256": "d98529156069d79d97d287a82595d662f5adef5bc568e14d2eb3691604d5ff5c",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v009/0023.jpg",
+      "path": "assets/slides/v009/0023.jpg",
+      "sha256": "ca2579a2dfc285ca4081b414e9c95144a18e1c17e91fc27f089d3004d25520a0",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v009/0024.jpg",
+      "path": "assets/slides/v009/0024.jpg",
+      "sha256": "62db2fcda1ca15d57737135a4d93e742c87dcbb380cde3b932bdbeb5ba2478a1",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v009/0025.jpg",
+      "path": "assets/slides/v009/0025.jpg",
+      "sha256": "49f594562a523512cd875fd7d1bb9bc8110e1bc80560f7578dcf70dfcba22992",
+      "slide_index": 25
+    },
+    {
+      "src": "../../assets/slides/v009/0026.jpg",
+      "path": "assets/slides/v009/0026.jpg",
+      "sha256": "f792cbf026e78e5383b6ba5e11cfd51ece9f37624662a6eeb1581b7c6710d362",
+      "slide_index": 26
+    },
+    {
+      "src": "../../assets/slides/v009/0027.jpg",
+      "path": "assets/slides/v009/0027.jpg",
+      "sha256": "2494e8cc65d954bf0f55e5f80e5d99e6eae324ddf301ac45205204960b1fc52c",
+      "slide_index": 27
+    },
+    {
+      "src": "../../assets/slides/v009/0028.jpg",
+      "path": "assets/slides/v009/0028.jpg",
+      "sha256": "2d8066666cbe357605c233cfbef52bccf5e8a3ff1df5343b5c9436a0a0069372",
+      "slide_index": 28
+    },
+    {
+      "src": "../../assets/slides/v009/0029.jpg",
+      "path": "assets/slides/v009/0029.jpg",
+      "sha256": "aa6a07d77d60d4e310784eccd0315390b112bd3f8c0ad36616c639fe94916cb7",
+      "slide_index": 29
+    },
+    {
+      "src": "../../assets/slides/v009/0030.jpg",
+      "path": "assets/slides/v009/0030.jpg",
+      "sha256": "da3e04dc518002c752adc45a9030ae7355f55b587c35b346109bd1fe8e950365",
+      "slide_index": 30
+    },
+    {
+      "src": "../../assets/slides/v009/0031.jpg",
+      "path": "assets/slides/v009/0031.jpg",
+      "sha256": "2b191142d7e0e7f96107cec7179378b4f5805dd2eefc3bc6d68e1a8745153d0e",
+      "slide_index": 31
+    },
+    {
+      "src": "../../assets/slides/v009/0032.jpg",
+      "path": "assets/slides/v009/0032.jpg",
+      "sha256": "7e54290fd43dd053ad85ac6ebf153cf93c3f8eb34edb2add3f24758312ea41fe",
+      "slide_index": 32
+    },
+    {
+      "src": "../../assets/slides/v009/0033.jpg",
+      "path": "assets/slides/v009/0033.jpg",
+      "sha256": "aab680e33f72e920c7b7893d343dd8a9c604a40961b7c6cf090431736276305d",
+      "slide_index": 33
+    },
+    {
+      "src": "../../assets/slides/v009/0034.jpg",
+      "path": "assets/slides/v009/0034.jpg",
+      "sha256": "1072729e024e1350a953dda8f5c76a023ce1cfe5e9a46d0cffa52ee4a711950e",
+      "slide_index": 34
+    },
+    {
+      "src": "../../assets/slides/v009/0035.jpg",
+      "path": "assets/slides/v009/0035.jpg",
+      "sha256": "7dfb90e8f42a4974d09bd37b4924a2a67bebc4e28447c7ff452a4c2d523d2a8f",
+      "slide_index": 35
+    },
+    {
+      "src": "../../assets/slides/v009/0036.jpg",
+      "path": "assets/slides/v009/0036.jpg",
+      "sha256": "be0d829b29045b5bd7383700e453066139d5b3c00c4b9fea537c9db2bbb31a5e",
+      "slide_index": 36
+    },
+    {
+      "src": "../../assets/slides/v009/0037.jpg",
+      "path": "assets/slides/v009/0037.jpg",
+      "sha256": "9335dab484c60b51b6273f292d6c78a794bfddd5414cef0f3fc587f64cefdefc",
+      "slide_index": 37
+    },
+    {
+      "src": "../../assets/slides/v009/0038.jpg",
+      "path": "assets/slides/v009/0038.jpg",
+      "sha256": "6ecb21e09856b9fcad88d9dc1d3fc8fcfcd177a2f04928664457ddb7b3daf402",
+      "slide_index": 38
+    },
+    {
+      "src": "../../assets/slides/v009/0039.jpg",
+      "path": "assets/slides/v009/0039.jpg",
+      "sha256": "3a2b228f95dedae449fdf113a2aabe6cc996af008d52b2efbd8eb8ec05eb76d4",
+      "slide_index": 39
+    },
+    {
+      "src": "../../assets/slides/v009/0040.jpg",
+      "path": "assets/slides/v009/0040.jpg",
+      "sha256": "50e10d4df7a14d5188951abd1a1758699776fbfc72a59583498e35418d67a789",
+      "slide_index": 40
+    },
+    {
+      "src": "../../assets/slides/v009/0041.jpg",
+      "path": "assets/slides/v009/0041.jpg",
+      "sha256": "409039e1b2ddf09f0076b460c51d4dd3d5c6b84d1d0c9829b4f7f3366845fb5f",
+      "slide_index": 41
+    },
+    {
+      "src": "../../assets/slides/v009/0042.jpg",
+      "path": "assets/slides/v009/0042.jpg",
+      "sha256": "e8f135e20b283ca69ed9820b03351ce15e9fa6069cb6c7ab6ef2012bc2c90393",
+      "slide_index": 42
+    },
+    {
+      "src": "../../assets/slides/v009/0043.jpg",
+      "path": "assets/slides/v009/0043.jpg",
+      "sha256": "b192c96844c877a7f360d66a9f83833965941fffc747174ba783588ce995b966",
+      "slide_index": 43
+    },
+    {
+      "src": "../../assets/slides/v009/0044.jpg",
+      "path": "assets/slides/v009/0044.jpg",
+      "sha256": "ba9605c37b172b094c5918852beedd3373f4c73fcb419d47a5903d7969b13533",
+      "slide_index": 44
+    },
+    {
+      "src": "../../assets/slides/v009/0045.jpg",
+      "path": "assets/slides/v009/0045.jpg",
+      "sha256": "e5e932065b2a82bbe3541cabbb51332f377a0c46d696ca06c85582b66751fcda",
+      "slide_index": 45
+    },
+    {
+      "src": "../../assets/slides/v009/0046.jpg",
+      "path": "assets/slides/v009/0046.jpg",
+      "sha256": "ca0431b7fd39320bcdcec8f55058d9b1b2bd9771d96bc4cb80f4963d9d5ad810",
+      "slide_index": 46
+    },
+    {
+      "src": "../../assets/slides/v009/0047.jpg",
+      "path": "assets/slides/v009/0047.jpg",
+      "sha256": "301418bb4792fc7042922bda94af160e7f423156b47a9ea895b774496758f832",
+      "slide_index": 47
+    },
+    {
+      "src": "../../assets/slides/v009/0048.jpg",
+      "path": "assets/slides/v009/0048.jpg",
+      "sha256": "b4cfb8172c17f488d639433c8cea0c0b7e9ff8e5cc1005a93f9d08a705c079bc",
+      "slide_index": 48
+    },
+    {
+      "src": "../../assets/slides/v009/0049.jpg",
+      "path": "assets/slides/v009/0049.jpg",
+      "sha256": "5462ea0a0ff9b40587ee5da828543345c69ee14c397fa734fad1e208cb8ea705",
+      "slide_index": 49
+    },
+    {
+      "src": "../../assets/slides/v009/0050.jpg",
+      "path": "assets/slides/v009/0050.jpg",
+      "sha256": "db85c9fcd467fabf367d8ac0cc37483a70c9c7b3645daae17dc9721529ba744b",
+      "slide_index": 50
+    },
+    {
+      "src": "../../assets/slides/v009/0051.jpg",
+      "path": "assets/slides/v009/0051.jpg",
+      "sha256": "40872efc81522db69ecf495053a678216b070cbfa55a8544040d0f3f86e34f76",
+      "slide_index": 51
+    },
+    {
+      "src": "../../assets/slides/v009/0052.jpg",
+      "path": "assets/slides/v009/0052.jpg",
+      "sha256": "6aa4b7d9b52586e01da2644d6b6270e3cbfa1f1324ce161e0de36ab5774dd66b",
+      "slide_index": 52
+    },
+    {
+      "src": "../../assets/slides/v009/0053.jpg",
+      "path": "assets/slides/v009/0053.jpg",
+      "sha256": "713fcbeb2b92e79b957af1ee799c6917b67d4b78540768a4301a4d9414159cf5",
+      "slide_index": 53
+    },
+    {
+      "src": "../../assets/slides/v009/0054.jpg",
+      "path": "assets/slides/v009/0054.jpg",
+      "sha256": "ed25fbfdd99d0427e0f2175b68d5480f82468c804d0b85c8dfef1ed57c504f3f",
+      "slide_index": 54
+    },
+    {
+      "src": "../../assets/slides/v009/0055.jpg",
+      "path": "assets/slides/v009/0055.jpg",
+      "sha256": "c8dd064035c7ef15e200da2aa59979edf83b31e000645771e769752bfc87e389",
+      "slide_index": 55
+    },
+    {
+      "src": "../../assets/slides/v009/0056.jpg",
+      "path": "assets/slides/v009/0056.jpg",
+      "sha256": "093247391230f26521fce9792ab2f338af0567f69b8f66d6f18e25c384988b6e",
+      "slide_index": 56
+    },
+    {
+      "src": "../../assets/slides/v009/0057.jpg",
+      "path": "assets/slides/v009/0057.jpg",
+      "sha256": "99fdcf12eb63b0d21be03923cd40030b3f3a5d1f757b6e55ae1144e9b6f662a8",
+      "slide_index": 57
+    },
+    {
+      "src": "../../assets/slides/v009/0058.jpg",
+      "path": "assets/slides/v009/0058.jpg",
+      "sha256": "aabcc7100250b98f8b8e322b2114de3d39210c092735bbb27c5d29393d6d2fb0",
+      "slide_index": 58
+    },
+    {
+      "src": "../../assets/slides/v009/0059.jpg",
+      "path": "assets/slides/v009/0059.jpg",
+      "sha256": "2b3f0f2be6cfa8fbb2f848dfe4db376468db9ae5658f7710ec92c67b239d398e",
+      "slide_index": 59
+    },
+    {
+      "src": "../../assets/slides/v009/0060.jpg",
+      "path": "assets/slides/v009/0060.jpg",
+      "sha256": "742299aaec1609c122951c74df6df30adf4a3160194de32f012bf5826497a8dd",
+      "slide_index": 60
+    },
+    {
+      "src": "../../assets/slides/v009/0061.jpg",
+      "path": "assets/slides/v009/0061.jpg",
+      "sha256": "cbebd95041bd2270cc2d535fad826362ba8421458b436ac40081e78692880c02",
+      "slide_index": 61
+    },
+    {
+      "src": "../../assets/slides/v009/0062.jpg",
+      "path": "assets/slides/v009/0062.jpg",
+      "sha256": "ee2530de8f92f459ab028387c5d7271212db2ac0b4a955799a0c7e1def3c0fda",
+      "slide_index": 62
+    },
+    {
+      "src": "../../assets/slides/v009/0063.jpg",
+      "path": "assets/slides/v009/0063.jpg",
+      "sha256": "988eed75f4d5be6fe582f99df5443b8c82c700847453d65e172a7ff9d2dd135d",
+      "slide_index": 63
+    },
+    {
+      "src": "../../assets/slides/v009/0064.jpg",
+      "path": "assets/slides/v009/0064.jpg",
+      "sha256": "39c381cfdcbc0713a7389b71b6ad1029557d5f3a36bfd9b9fbb079e99ceb1e19",
+      "slide_index": 64
+    },
+    {
+      "src": "../../assets/slides/v009/0065.jpg",
+      "path": "assets/slides/v009/0065.jpg",
+      "sha256": "3fdca0af3b5270dc690fda21874f2a61bb17091dba757d256b22b264f0522cd1",
+      "slide_index": 65
+    },
+    {
+      "src": "../../assets/slides/v009/0066.jpg",
+      "path": "assets/slides/v009/0066.jpg",
+      "sha256": "0710a34b7610690ff341bd2c2b9fac0719ab63c71fe1dcf701750ebc7cbc5e9e",
+      "slide_index": 66
+    },
+    {
+      "src": "../../assets/slides/v009/0067.jpg",
+      "path": "assets/slides/v009/0067.jpg",
+      "sha256": "72a7cac85e281fa9bab3f6a736c5ffe1689e821f503654da93b8e4b5c450cd1e",
+      "slide_index": 67
+    },
+    {
+      "src": "../../assets/slides/v009/0068.jpg",
+      "path": "assets/slides/v009/0068.jpg",
+      "sha256": "e3a47d907c83b615c2d07a36cb2524afa9de6ff5ce791354a29c5d0eecb9b3cc",
+      "slide_index": 68
+    },
+    {
+      "src": "../../assets/slides/v009/0069.jpg",
+      "path": "assets/slides/v009/0069.jpg",
+      "sha256": "7262026c2127dcdd51ee7896739583328a6dbab2e9858cf758958f0cf648547b",
+      "slide_index": 69
+    },
+    {
+      "src": "../../assets/slides/v009/0070.jpg",
+      "path": "assets/slides/v009/0070.jpg",
+      "sha256": "7aa488e71aa1fb1a9bb6d5ffe6947f14de086db5f98b398ea577ba4d5def6b37",
+      "slide_index": 70
+    },
+    {
+      "src": "../../assets/slides/v009/0071.jpg",
+      "path": "assets/slides/v009/0071.jpg",
+      "sha256": "f8f4882cb473c9bba2a4a07739d37291f1a1a832f9ade6136e6f61140f225362",
+      "slide_index": 71
+    },
+    {
+      "src": "../../assets/slides/v009/0072.jpg",
+      "path": "assets/slides/v009/0072.jpg",
+      "sha256": "fe1ea8dfb17bf1b083efde25204359cf05964cd859d18a25e819878e632e9efd",
+      "slide_index": 72
+    },
+    {
+      "src": "../../assets/slides/v009/0073.jpg",
+      "path": "assets/slides/v009/0073.jpg",
+      "sha256": "76a5468224479ad6f067f857b760d36ae3ce50c81307aad19875b610116a6afc",
+      "slide_index": 73
+    },
+    {
+      "src": "../../assets/slides/v009/0074.jpg",
+      "path": "assets/slides/v009/0074.jpg",
+      "sha256": "5ddc30a055b2d3e459c4e7e34919c7355ff312bdc9b3db748cb68c05d4b09b37",
+      "slide_index": 74
+    },
+    {
+      "src": "../../assets/slides/v009/0075.jpg",
+      "path": "assets/slides/v009/0075.jpg",
+      "sha256": "da1d2f3c96639ff32ed0880e94c27fe0ffb8a3221aed6460a74f3eee89c248d0",
+      "slide_index": 75
+    },
+    {
+      "src": "../../assets/slides/v009/0076.jpg",
+      "path": "assets/slides/v009/0076.jpg",
+      "sha256": "729089f9510e9ba9e9afe9dccc842c14d56f26e0475bcaf6d831c84d5dea1bd7",
+      "slide_index": 76
+    },
+    {
+      "src": "../../assets/slides/v009/0077.jpg",
+      "path": "assets/slides/v009/0077.jpg",
+      "sha256": "b758ae57d06eda15741f1b1e0fc1dcc04aa9263449def1745d5d0ea430ec8877",
+      "slide_index": 77
+    }
+  ],
+  "paragraphs": [
+    "大家好啊，今天我们来介绍 neural discrete representation learning，是著名的 VQVAEVector Quantized Variational Autoencoder。那么在这之前呢，如果你对 VAE 不熟悉，那非常推荐呢你去先观看我们之前的关于 VAE 的介绍。然后呢，我们就来开始研究本文和这个标准的 VAE 它的主要的区别。那么本文的 intuition 呢，在于 VAE 它存在一个问题就是这个 Posterior Collapse。",
+    "那更确切的来说呢，就是我们的这 Decoder 它很强，它随便用点什么噪声对吧，就可以生成一张逼真的图像，它完全不顾及我们的从前面 Decoder 过来这个 Latent 这些东西，就 Latent Representation 这些东西，它完全不顾及。那么这种现象呢，在使用连续变量作为 Latent 在这个 VAE 里面呢，是很常见的。或者你换个角度想，你先给我干对不对，它不就是用这个 Noise 对吧，作为输入输出一张逼真的图像所以呢，本文呢，就要解决这个问题。那解决的方法呢，就是这个 vector quantization。那这里撇开 vector，我们先看 quantization 量化，量化好理解嘛，就是我们原来一个连续的模拟量对吧，我要把它变成数字量，就是用有限的这个二进制的位置来表示它嘛。那现在的问题呢，在于假如说我只有一个这个模拟量，我需要用一定位数去表示它，这完全 OK。但是呢，现在假如说我们有很多个这样的模拟量，我们都需要表示",
+    "比如说我现在不要是一个这个模拟量，我有 32 个 bit，那我是不是对于每一个这个模拟量都要用 32 个 bit 去编码呢？这样直接做当然是可以的，但是它会消耗大量的空间。那怎么办呢？我们想到了之前我们在拉普拉斯金字塔里面介绍过，在这个视频压缩的这个 NERV 里面介绍过，我们可以先编码一个 base 或者 average。",
+    "把这个值先放在这里，它比如说我用 32 个 bit 编好了，然后呢，我去编码其他的所有的模拟量跟这个 average 跟这个 baseline 它的差值。那这个差值呢，因为它的这个绝对的数量级比我们的这个 baseline 要少很多，所以呢，我们可以用更小的 bit 去描述每一个差值这样子就达到了节约编码空间的目的，这个在 N 语言里面叫差分编码或者增长编码。那么现在我们把这个模拟量拓展成一个 vector，看到这边，假如说我们是一个 2D 的 vector，然后我们看到这些所有的星星就是我们需要标记的数据，需要编码的这些数据。那么同样的，我们如果直接存这些数据，它是非常占用空间的，一个可行的解决方案就是我们去维护这些红色的点",
+    "红色点它叫 code words，或者你叫它 prototypes 都可以，我们先记录一个完整的它，然后剩下呢，我们只需要记录其他这些 vector 和这个 prototype 他们之间的这个距离就可以了。那么这个距离呢，因为它的数量级呢比直接去记录它的绝对的位置要小很多，所以呢，所以呢，我们可以用更少的 bit 去记录它那么当然呢，虽然这个值很小，但是如果你想保存这个差值呢，它还是需要占用空间的。而且很多情况下呢，我并不关心说每一个这个 sample 它具体的值是什么，相对的呢，我只关心整个这个区域这些 sample 它们的概率分布一些统计学上的信息",
+    "那这就好办了对吧，我们也不用存每一个 sample 跟这个 prototype 之间它们的距离了，我们只需要把这个 prototype 让它代表一定数量这个 sample，然后呢，我就可以通过这个 prototype 它的这个分布去描述所有 sample 它这个分布。那么从概率分布的角度来讲呢，这一片的概率密度呢，就被这一个 prototype 所代表。那么下面的问题很自然的就是我们该怎么样去找这个 prototype",
+    "其实最简单的方法呢，就非常类似于 K-means，它不完全相等啊，但是它的思路非常像。就是说我现在初始化好了几个这个 prototype 之后呢，我去找它附近的样本，然后呢根据这几个样本，比如说平均值吧，然后呢把我们的这个 prototype 往那个方向移动，然后呢不断的去迭代。这样子呢，到最后自然而然的我们的 prototype 呢，它的整个这个它的整体的分布呢，就能够描述我们这个原始样本它的这个分布的这个密度，是一个非常经典的方法。",
+    "关于它的更多信息呢，",
+    "你可以在这些网站里面查看。",
+    "那么这个东西究竟要怎么跟 VAE 结合呢？其实非常简单",
+    "我们来看到这个 Variational Auto Encoder它设计成这样呢是因为我们想用这个高深 Distribution，",
+    "它的一些好的性质。",
+    "那么我通过很多个这些高深 Distribution，它们的分布的不同，就可以描述我们原始的这个输入的信号。比如说图像或者是音频。所以呢对于 VAE 来说呢我们是用很多个连续的变量，去描述我们的 Latent Space那么很自然的我们就想到，除了这种连续的变量，来描述我们的 Latent Space我们能不能用很多个离散的变量？",
+    "去描述我们的 Latent Space 呢当然也是可以的这里我们来到本文提出的，",
+    "Discrete Latent Variables首先我们可以定义一个 Latent Embeddings，比如说它的维度是 k 乘以 d，那么 k 就是我们离散变量的数量，d 就是每一个离散变量，它的长度那么这里我们既然有 k 的向量，我们就编好号对吧那么到后面我们就要用 k 向量的，不同的排列组合去描述我们输入的图像。",
+    "那么具体来看编码的过程，我们输入进一个图像，我们放到 CNN 里面它提出一个 tensor 来那么现在经过 encoder 出来的，原始的编码我们叫它 ze那么对这个 zx 来说呢，你可以想象成它是一个 h 乘 w 这样的个数的这个向量。那么对其中的每一个向量来说呢，在我们的 embedding space 里面查找跟它最相近的这个 embedding vector。比如说这个向量它查到了最近的是这个 1，这个向量最近的是 2 对吧？这样依次类推。然后呢，我们用这个 embedding vector 给它组合成一个新的 tensor，它叫做 zq。",
+    "用他呢送到我们的 decoder 里面去解除这个原始的图像来。那这个呢就像你们听我扯犊子啊，这个输入的就是这个犊子。那我的发音也不清楚，说话的思路呢也不是很清晰啊。他的编码出来呢就是这个，但是呢这个编码呢也不是完全不靠谱啊。你稍加思索发现啊，原来说的是这个东西啊，就是在我们这个 embedding space 里面。",
+    "在你的记忆当中发现，哎原来有这些东西哎，他们能够对应上。那最后呢你把这些东西组合起来就成了你自己的理解了。于是呢你也得到了一个独子。那根据起来看的编码的过程 q，这个 encoder given x 我们的输入，它的输出呢全部集中在这个 z 等于 k 的这种情况下，而对于其他的值呢都等于 0。所以呢它是一个 deterministic 的这样一个过程。",
+    "那注意呢这里他他为了简化我们 z 呢，你把它理解成一个 vectork 呢，就是距离这个 ze 这个东西最近的这个 vector 他的这个 index。我们之后编码出来的这个 vector 也就是 zq。你可以看到这里 zq 呢就等于这个 ek ，k 是我们这个 index 对吧，就直接等过来了。那么在这个过程中呢，我们的 elbo 它依然是成立的，我们依然可以写成 loss 加上 reconstruction 加上这个 regularization 这种形式。只是呢我们的解法呢会有一点不同，因为我们并没有使用这个 gaussian distribution。那么这个呢就是一个从直觉上来看编码的过程。",
+    "那为什么说这个东西是离散的编码呢？你想我现在要怎么样去保存一张图像呢？我只需要保存这个 embedding space 里面的所有这个 vector，然后呢记录一下这个图像它每一个位置用到了哪一个 vector，就是这些 vector 的 index 记录下来。那么有了这两样呢，我们就可以通过这个 decoder 来把这个图像给它恢复出来了。那么这个呢就是核心的这个 discrete latent variables。",
+    "那么接下来呢我们就要看为了训练这样一个模型我们需要用哪些 loss 那首先根据 elbo 我们会有 reconstruction loss 和 regression loss 但是呢在本文中呢我们把这两个 loss 退化成了只有一个 reconstruction loss 具体的原因呢我们后面马上会讲而这个 loss 呢我们更新 encoder 和 decoder 两个部分共同的去优化这个 loss 那这个时候有朋友就说了",
+    "你中间去查最近零的操作它怎么可以传递梯度这里作者用了一个非常直接的方法直接的把这个点的梯度给它复制到这边来然后继续往下传非常简单相当于直接跳过的这一层在跳的时候没有更改一阶导数但是更改了原始的函数的值把函数的值从 ZE 变到了 ZQ 只有这样一个区别而已那么那这时候呢你可以注意到这个 loss 只管了这个 encoder 和 decoder 那么这个中间的这个 embedding 没有得到训练所以呢马上我们要引入第二个 loss 就是这个 vector quantization 这里呢作者用了这个 l2 distance 去约束每次让我们这个 embedding 呢这个是离我们编码最近的这个的 embedding 呢向我们这个编码靠拢一点这个呢是一次典型的这个 vector quantization 这样一步的更新",
+    "那么当然你可以在这个基础上再加这个 exponential moving average 这个东西，让它的过程呢变得更稳定。这里呢 sg 呢表示 stop gradient 停住基础的传递，所以你看到这个部分这个 loss 呢，它只是训练了这个 embedding，让我们的 embedding 呢能够跟上我们这些 encoder decoder 它们的进展。那第三个这里呢我们有一个 commitment loss。",
+    "你看到这里呢它呢是希望我们的这个 ze 也就是这个 encoder output 和我们的这个 embedding space 里面的这些这个 embeddings 啊他们呢尽量的靠近但是这个 loss 设计的用意呢更多是像一种 regularization 它让我们的这个 encoder 出来的结果呢不至于太过的偏离比如说你的这个 embedding space 啊大家都是-1 到 1 之间的你这儿好冒出来个 100",
+    "那这你再查了最近的这个 world embedding 那距离也很远那没什么意义所以呢这个呢算某种程度上的 regulation 那么接下来呢我们就要重点关注这个 elbo 它本来是有两个这个 loss 那现在为什么它变成了这个样子那变成这个样子之后我们优化的对象有没有变那么下面呢我们继续来看首先呢我们来快速回顾一下这个 vae 我们这里有 losstheta 呢是 decoder 的参数 fi 呢是这个 encoder 的参数",
+    "x 是我们输入的样本，那么写出来 loss 有一个 reconstruction loss 对吧？我们希望期望尽量的大，同时 regularization loss 我希望 KL divergence 尽量的小。前面这部分我们刚刚也看到了，就直接保留下来了，它没有什么变化。因为这里你可以看到我们希望 decoder 能够从 latent representation 中还原出尽量多的信息，这一块我们是不用动的。",
+    "而对于我们的 encoder 呢所以呢我们有一些假设比如说因为这个 z 我们是定义的这个离散空间我们就假设这个 z 呢它是均匀分布的然后同时呢我们注意到这个 posterior 你无论这个 encoder 怎么改它的影响呢是这个 ze 也就是 encoder 的输出但是你从这个 encoder 的输出到我们真正的这个 latent representation 也就是这里从 ze 到 zq",
+    "你中间需要查最近 0 查出来之后呢，是从这个 embedding space 里面去拿我们这个 zq 的。所以呢，这里呢 encoder 的参数呢并不能对我们的这个 zq 它的 distribution 产生影响。所以这个 recognition loss 呢，在这里是个常数弄它呢是没有意义的。我们呢就可以把它拿去了，剩下呢就是 reconstruction loss 了。那么再往下看我们这个 reconstruction loss 我们究竟优化了些什么东西呢？这里呢我们用一个 log likelihood。",
+    "来去评估我们的这个模型的效果那么根据定义呢我们把这个 log likelihood 写出来那这里呢对每一种 z 来积分因为这个 z 是离散的嘛所以这个地方是一个求和了就不是积分那么定义呢就是这个样子那么下面呢我们看到因为我们的 decoder 呢训练的时候呢适用的是这个 zq 而这个 zq 呢是从我们这个 embedding space 里面从这个 e 里面拿的",
+    "而且呢我们每次确定只拿某一个这个 E 呢是离我们的 encoder 编码出来的这个结果 ZE 最近的这么一个 embedding 或者应该叫这个 prototype 这个东西那么一旦这个模型收敛之后呢我们对于每一种 X 呢每次呢都一定会导到某一个这个 ZK 因为我们之前的这个编码的过程是 deterministic 的是确定的然后呢从这个 ZK 再重建回 X 的时候呢它也是确定的所以当这个 Z 不等于这个 ZQgiven 这个 X 的时候呢那么它的这个概率呢应该就是 0 所以呢上面这个式子这个求和整个这个式子你就可以把它退化成这样一个式子就只对我们实际编码这个 ZQ 只对我们实际编码这个 ZQ 它来计算我们的这个 log likelihood 就可以了",
+    "作者呢说 empirically 这个呢是成立的。那同时呢我们再回到上面这个式子，我们用这个 Jensen 这个不等式，它本质就是这个关于图函数这个性质嘛，或者说你写成这个概率论的这个形式呢就是长这个样子。这里呢这个 f 呢就是我们这个 log 函数对吧，这个求和。",
+    "那么根据不等式因为 log 是一个上突的这么一个函数所以左边这一项作为两个点或者很多的点之间中间的某一点它应该大于等于这个端点的线性差不而是一个个端点呢我们来到这个形式我们把这个系数 t 看作是这个 zk 它的这个概率把这个 x 呢就看作这个那显然呢我们把这个式子换到这边来这个 f 对应了这个 log",
+    "log 这个 p 这个条件概率那么它呢对应的就是这里的 fx1 那么这个 t 就是我们这个概率拿出来那同样的因为我们之前说的这个模型收敛之后整个这个模型应该是一个 deterministic 的模型它不存在这个随机抽案的过程所以呢整个这一个球核又可以退化成只有一个 zq 这样一个情况于是呢就得到了这样一个形式这里红线表示 log 向到此为止啊外面只是它的一个系数那所以呢你可以看到这说明了什么说明我们的 loss 呢它存在一个 upperbound 对吧在这里算是一种挺有意思的解读吧虽然不是说非常非常的严谨啊好的那么以上就是本文重要的技术细节了那么下面我们快速的做一个回顾说说是 loss 这方面 loss 有三个 loss 一个是 elbo 我们刚刚讲的只剩下一个 reconstruction loss",
+    "它呢原本只是用来优化这个 decoder 做着说我们把这个 encoder 一块优化了吧不然没人优化它了但是呢如果你想这么优化的话那存在一个问题就是中间这个查最近的过程它是不可以传递梯度的啊这里呢做的解方案呢就是把梯度直接复制过来用这个函数值去替换这个函数值而保持这个梯度的值不变那具体的实现呢可以看到这里这个 context 呢可以理解为这个 zqinput 呢可以理解为这个 ze",
+    "通过这样一通操作哎就把本来 zq 上传递的这个梯度顺理成章的给它继承到了这个 input 上面啊非常巧妙的一个实现啊就像这个图所表示的啊我们的这个 ze 可能在这里我们的 zq 呢其实是在这里这 e 呢都是我们的 prototype 对吧我们的 ze 呢找到最近的这个 prototype 在这里那么这个时候呢我们在传递梯度的时候呢我们需要 e2 的这个函数值同时呢要求导数值",
+    "这里的解决方案就是我用 ZE 它的函数值去代替 E2，也就是 ZQ 它的函数值，而导数值保持无变。那么再往下，我们优化了 decoder ，优化了 encoder，我们 embedding space 里面的这些 prototypes 也要优化。",
+    "一个 L2 distance，最后这个 regularization 用它来规制一下这个 encoder。那么总的来说，这个就是本文的核心了，你可以用它去做 image，可以做 video，可以做 audio。关于它的实现包括后面很多的应用，感兴趣的朋友非常推荐你去原文查看。好的，那么以上就是我对这篇论文的一个简单的介绍，感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "ba4d0b321dbef663d91c5a1a26c712075d8fd97434457a0a46e5fede1369e6bb"
+}

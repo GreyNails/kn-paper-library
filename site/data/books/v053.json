@@ -1,0 +1,212 @@
+{
+  "video_id": "v053",
+  "title": "DAT Vision Transformer with Deformable Attention[2201.00520]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v053/0001.jpg",
+      "path": "assets/slides/v053/0001.jpg",
+      "sha256": "ef714c642722a814d5360fadec04e45a62f7abce2c7952202b35300785f81b06",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v053/0002.jpg",
+      "path": "assets/slides/v053/0002.jpg",
+      "sha256": "67634d4aa68fb20e2f135908d3922eb26c3abd61f061a3fa2162b663292d9421",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v053/0003.jpg",
+      "path": "assets/slides/v053/0003.jpg",
+      "sha256": "2f5fa61c61b1ee9a16d243d0bfa88e73bbe1109d14cd6f9ff50d5475aa560683",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v053/0004.jpg",
+      "path": "assets/slides/v053/0004.jpg",
+      "sha256": "b129adbc98a1ac1ceb8761c5ff31ca59fc886589e46282ffd7b9da1455baf383",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v053/0005.jpg",
+      "path": "assets/slides/v053/0005.jpg",
+      "sha256": "f4ab62328c85eaee473d2db24887ec8dae5e0e82ef554227e428833cb8c387ff",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v053/0006.jpg",
+      "path": "assets/slides/v053/0006.jpg",
+      "sha256": "b977efd3d82f4a75ed6dec19799cea2d0fdcb10eab5ef0d6d20c3872f4af2c97",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v053/0007.jpg",
+      "path": "assets/slides/v053/0007.jpg",
+      "sha256": "f9b61c2efcfe16c092c274793b5f37e74d966567b20d96042dfbda00fee3b812",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v053/0008.jpg",
+      "path": "assets/slides/v053/0008.jpg",
+      "sha256": "eae3f771e3145fa742b9f5ab53a6c0a839472bef93f75ddab6c87b6e8eb2da4d",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v053/0009.jpg",
+      "path": "assets/slides/v053/0009.jpg",
+      "sha256": "2c3e8456d6f526e6ae65ecc0fb2d40c31f088d51f6e4554e89fea8abee0525e5",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v053/0010.jpg",
+      "path": "assets/slides/v053/0010.jpg",
+      "sha256": "514c31b7895c5ef21bba44e3a7df2bf40dd8a46566580984fe0abdfb6945c00a",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v053/0011.jpg",
+      "path": "assets/slides/v053/0011.jpg",
+      "sha256": "afb73096883c17f0c2d36270d6b96be00ccaef190a78c9f5cf3ba4d98352fd90",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v053/0012.jpg",
+      "path": "assets/slides/v053/0012.jpg",
+      "sha256": "184cc89ed7e2c29455ab0dd7dbc5ecdde6c89e1b484dd00cd64ed5dc31f4bbbb",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v053/0013.jpg",
+      "path": "assets/slides/v053/0013.jpg",
+      "sha256": "06c963b389235d6a14e0bd777ec1056c360003992a41fdf7550bf1ec4b4f75ad",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v053/0014.jpg",
+      "path": "assets/slides/v053/0014.jpg",
+      "sha256": "e792d9549e5e515f59fa6ffc075e6b40f9937d2abc2baf463d946ed0ee17c1bd",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v053/0015.jpg",
+      "path": "assets/slides/v053/0015.jpg",
+      "sha256": "7eb2717d0bbee2858952d58635bdaeddd07b66b9405ce2b4c310fde1141ff317",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v053/0016.jpg",
+      "path": "assets/slides/v053/0016.jpg",
+      "sha256": "52e1475a23cc3dae652fa6977acf4500b9d4af87c3f46975366a5b573506d4cf",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v053/0017.jpg",
+      "path": "assets/slides/v053/0017.jpg",
+      "sha256": "509de716d8a4d83368aba59672c2bd05785560c4073aca4a7ad4991dae555196",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v053/0018.jpg",
+      "path": "assets/slides/v053/0018.jpg",
+      "sha256": "5232a6f4fbfc7041ea9d8f5aa24c188859c3774fbec0d8cd0039952355a43d09",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v053/0019.jpg",
+      "path": "assets/slides/v053/0019.jpg",
+      "sha256": "94b6bceac7c7f9d961af215fc28822b91a11aa11d5e7bab69592428f23eeca10",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v053/0020.jpg",
+      "path": "assets/slides/v053/0020.jpg",
+      "sha256": "95b2df713346a7b28649926abd3fa8e5b0adba447f19a6440beb4839602821e7",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v053/0021.jpg",
+      "path": "assets/slides/v053/0021.jpg",
+      "sha256": "17f1a0a6c32ce23ee6608baafe0d8c5c4b71f9eeee772b3cac16f8b42fc4bd8b",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v053/0022.jpg",
+      "path": "assets/slides/v053/0022.jpg",
+      "sha256": "e578b5f21b70be87353d858a838d979f39c1d5d970e909f34eb16dceb62a270c",
+      "slide_index": 22
+    },
+    {
+      "src": "../../assets/slides/v053/0023.jpg",
+      "path": "assets/slides/v053/0023.jpg",
+      "sha256": "64663328848c9fda217341059211116411af9b834bb23334b1381ebbb8732951",
+      "slide_index": 23
+    },
+    {
+      "src": "../../assets/slides/v053/0024.jpg",
+      "path": "assets/slides/v053/0024.jpg",
+      "sha256": "d80b3f570d7f3b56d057a0c645078faa0f64d59f11c783ca37c0ec87abf60ddb",
+      "slide_index": 24
+    },
+    {
+      "src": "../../assets/slides/v053/0025.jpg",
+      "path": "assets/slides/v053/0025.jpg",
+      "sha256": "9e8df53fbfe4461dc275d6fdeea67295e6500e4cdd2487bab5b2b468e059a58e",
+      "slide_index": 25
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 Vision Transformer with Deformable Attention 这篇文章把我们之前介绍的 Deformable Convolution 经过一番改造带入到 Vision Transformer 这个构架里面下面我们具体来看首先,Intuition 为什么我们要做 Deformable Convolution 作者的解释是我们的 Attention 的范围从这个角度来理解对于 VIT 来说,整个图都是这个显示太大了",
+    "对于 PVT 来说会损失很多的信息也不好，然后这个 Swin 因为它的这种注意力区域是交叠了，这个晃来晃去的这种对吧？所以作者吐槽他说呢，这个感受野的增长呢速度太慢了。然后呢就是我们之前介绍的这个 DCN，它呢不太好直接的用在 Transformer 里面，但是呢还真有人啊改了一个叫做 Deformable DETR，感兴趣的朋友呢也可以去查查这篇文章。那么最后呢就是本文提出的",
+    "这个 dat 那他的思想就是我要限制 attention 产生的范围而这个限制的方法呢不是人为给定我也是通过像 deformable convolution 一样的啊这个 deformable offset 这种形式来给他学习出来一个这个范围那在这个范围内呢我的 query 就跟所有的这些 token 来租我这个 attention 那是这样的一个设计那下面我们具体来看吧那首先一个概览就是我的一张图像进来对吧这一个个都是 token",
+    "那不变的呢是我们首先用这个 linear layer 把我们的 query 做出来那 query 留着就后面做 attention 就好了这是这一只然后拿到这个 query 同时呢我要用这个 query 来做一个 offset 就是用它来告诉我我的 attention 的范围是什么那具体来说就是原始的一张图像经过 downsample 比如说这里剩下了四个这个 reference point 然后呢根据我的这个 offset 加上之后对我这个 reference point 就移动了嘛",
+    "对吧，移动到相应的位置，然后在这个位置我们取他临近的 4 个 token，对吧？临近的 4 个 token，然后经过一番线性插值操作，跟我们之前介绍的 dcn 一样对吧？然后你就把相当于把这 4 个点他的这个 token 给他找出来了，那这些 token 叫做 sampled feature然后把这些插值出来的这些 token 送到我们的 value 的 projection ，key 的 projection，有了 query key value 对吧？大家一起做一个 attention 就好了。然后后面多个头串接起来对吧？再做后续的工作就可以了。同时因为你实际上采这些 token 的位置它不是一个整数，它变化了，所以你的 positional embedding 也要相应的变化",
+    "因此在 relative position embedding 的基础上，这里作者叫 positional bias，不过都是一样的。在它的基础上作者也是四个 token 的 positional embedding 对吧？大家来插补一下精确的 deform 的位置的它的 positional embedding，然后再算个 attention 的时候加到里面就可以了。这个就是 deformable attention module",
+    "那当然呢，这个 offset 具体应该怎么算呢？我们来看到这边对吧？首先输入是 a 乘 w 乘 c，这个是我们的 query 的尺寸。然后这里注意用一个 stride 等于 r，这个 r 就相当于这个 downsample 对吧？那做完之后整个这个尺寸的图就变成了只有 2 乘 2 的这样一个图。然后呢做的是 depthwise convolution，先在 spatial-wise 做一个混合，然后呢激活函数激活完了之后再做一个这个 1 乘 1 的 convolution，那它本质上就是每一个 channel",
+    "做这个 mlp 嘛对吧那得到的这个尺寸呢是长这个样子的哎为什么乘以 2 呢因为 offset 有两个坐标一个是横轴的一个是纵轴的啊那这个呢就是这个 offset network 发生在这里的一系列事情那么以上呢就是本文的主要的一个技术脉络那下面我们看一些具体的定义啊比如说首先啊我们的这个 reference point 选择那它本质上呢是进行了均匀的采样我们的 resolution 从原来的 h 和 w 变成了这个 hg 和 wg 啊这样子",
+    "然后 query token 呢一样呢对吧正常就正常做然后算这个 offset那算完这个 offset 的时候呢，我们注意这里他用一个 tanh 首先来限制住这个 offset 的这个值，他不能跑太偏。然后呢用这个 s 来决定这个 offset scale 啊，他到底能够多大一个范围内在晃动。那这样算出来的 offset 呢不至于太过自由。那再往下呢这个 key 和 value，我们之前都说了，他是根据我们算好的移动过的这个 reference point，然后呢他插值差出来这个相应的 token 的 value，然后呢做了这个 attention",
+    "至于这边怎么这个插值，跟我们之前的 deformable convolution 是一样的对吧？包括这个距离等等都是一样的。那么这个就是 deformable attention 相应的 offset generation，之前我们也说了也没有什么特别的地方，唯一需要注意的是这里同样的跟 multi-head self-attention 一样，我们也是把这个 offset 一组一组的来做",
+    "也就是说我一个 vector 进来，我按照不同的 channel 去给它分嘛，分成不同的组嘛，然后呢每个组去做，在这里呢作者维持一个 multi head 的数量是数倍于我们这个分的这个 offset 这个组的它的数量的啊，那这也意味着每一个 offset 组呢它会对应个很多个这个 attention head那当然后面还有这个 positional embedding 对吧也是插值插出来的这个都不新鲜了那以上就是本文的主要的一个技术贡献那下面我们来看整个这个网络的结构还是 Swin 那套结构只不过呢我们把相应的 attention 换成这个本文的这个 deformable attention 就可以了那具体的设计呢我们来看到这里根据这个 evaluation 呢作者发现",
+    "我并不是把所有的 stage 里面的 attention 都换成 deformableattention 效果是最好的实际上只换最后两层它达到的性能是最好的因此在设计中前面的这两集还都是 Swin 它的 attention 被限制在了一个相对较小的范围内后面这几集我们有了 deformableattention 这个是本文的网络设计当然这里作者还汇报了其他 ablation",
+    "那这里表示的是前面两个 stage 用的是什么 attention 那这个 P 代表的是 SRA 的 attentionS 就是 Swin 的 attention 然后呢本文这个 deformable 的 offset 有没有对 positional embedding 什么样子的等等这一些的 ablation 那还有包括这边这个 offset 的范围就是我的一个位置点它能在多大范围内移动对吧那可以看到 S 等于 8 的时候性能是最好的不过前面这些呢都差不多基本也算在误差之内吧那这是 ablation",
+    "后面作者还汇报了很多实验的结果包括还有他自己的 Visualization 比如说 ImageNet 是 Coco 用了不同的 Backbone 做 Detection 做 Semantic Segmentation 这些东西等等感兴趣的朋友非常推荐你到原文中查看总的来说这篇还是把 Deformable Convolution 改到了 Vision Transformer 里面取得了一个令人满意的结果那么以上就是我对这一个论文的快速的整理那么感谢您的收看再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "fe2fc0a071400e6aaa645169e190b81008fb3d688ee5b0d36938b2b2913d0260"
+}

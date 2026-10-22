@@ -1,0 +1,136 @@
+{
+  "video_id": "v192",
+  "title": "Efficient Visual Pretraining with Contrastive Detection[2103.10957]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v192/0001.jpg",
+      "path": "assets/slides/v192/0001.jpg",
+      "sha256": "bada8b0e5ca851fea9c1372f48f972b52d009aebd5ddabe1b9b42fe0f2a035e2",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v192/0002.jpg",
+      "path": "assets/slides/v192/0002.jpg",
+      "sha256": "0026b4992b34c90e7cee3fcded9e313f91910f858c92d80b9d8474cc6efc9794",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v192/0003.jpg",
+      "path": "assets/slides/v192/0003.jpg",
+      "sha256": "6c5834fd19601f72bc2624760b2a5cdc657e519cf04b17370a9d9e24ac85a8e6",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v192/0004.jpg",
+      "path": "assets/slides/v192/0004.jpg",
+      "sha256": "8cc47effacdbbf89eb733f8ce6d1e328c34ab143231b0942fd477739da16d7d7",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v192/0005.jpg",
+      "path": "assets/slides/v192/0005.jpg",
+      "sha256": "fea0772cee9a15aa0a1f90c5420c5af0c1674914c4affec63983dd3959d2a1f2",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v192/0006.jpg",
+      "path": "assets/slides/v192/0006.jpg",
+      "sha256": "f68264900808e01e7e0520ee66415a3cac024737b60167e9907a1d4f9b984a17",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v192/0007.jpg",
+      "path": "assets/slides/v192/0007.jpg",
+      "sha256": "ad08b78d1c269e346123a11421f8adbbab23a74ab141064c472ed26dd83d87db",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v192/0008.jpg",
+      "path": "assets/slides/v192/0008.jpg",
+      "sha256": "559a59c77877617d81e6714c95fac764b50bcd7791caa8458dfe6de5b0c83e10",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v192/0009.jpg",
+      "path": "assets/slides/v192/0009.jpg",
+      "sha256": "a1cc1ef81f56a037bde3532cc604379f7078ba70c7ad1231e6e7b1bc5ee0c762",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v192/0010.jpg",
+      "path": "assets/slides/v192/0010.jpg",
+      "sha256": "765a714d4827d09d1def88898e2a47037f05f1b22bd60f7954eda4a9f90a9c32",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v192/0011.jpg",
+      "path": "assets/slides/v192/0011.jpg",
+      "sha256": "0ddf7c6c3c20f65de0ca136d7873ba360ff32de816c804bd0076c95b5be6dd80",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v192/0012.jpg",
+      "path": "assets/slides/v192/0012.jpg",
+      "sha256": "d1f46bf8dd0eb9079ef7aa5b55c0d23b683999c643dba9b3554d0c269bcb7176",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v192/0013.jpg",
+      "path": "assets/slides/v192/0013.jpg",
+      "sha256": "fea2b071895f72f9f50100b0274939982d3e834cbc87a8cd02207d2c79c90436",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v192/0014.jpg",
+      "path": "assets/slides/v192/0014.jpg",
+      "sha256": "fd5e18dd971c762bc36f735a317ce3b2781191193cabc76d9dad09132764942a",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v192/0015.jpg",
+      "path": "assets/slides/v192/0015.jpg",
+      "sha256": "e49e408b59eab1d95b2477bb05b093558dd4efde762cd1823a7551ad6c822971",
+      "slide_index": 15
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们来快速水一篇论文，Efficient Visual Pretraining with Contrastive Detection。这篇思路很简单，就是 Contrastive Learning 用在 Object Detection 上面。我们之前介绍的像 SimCLR 、BYOL 都是做 Image Classification。",
+    "那么虽然你可以把这个 feature transfer 到后面的这个 detection 到 segmentation，但是呢毕竟不是按照下游的这些任务来做训练，所以呢本文呢就提出，说我稍微对原来的这个框架进行一个改进，那么让它呢能够兼容这个下游的这个 detection 这个任务，甚至包括这个 segmentation 这些任务。那具体来看，从这个框架上呢还是一个标准的这个 SimCLR 或者是 BYOL 的一个构型，那么一张图像进来。",
+    "经过不同的 Data Augmentation 送到这个 Encoder 里面，然后得到一个 Feature。",
+    "这里我们的 encoder 是 resnet50，那么这里的 feature 用的是它的 global average pooling 之前的一层，它是一个 7x7x2048 这么一个 tensor。那么现在既然我们要从 instance level 整个图像的尺度缩到 object level，就是图像中每一个 object 它的尺度，对于每一个 object 我们都可以用一个 mask 去表示它在图像中占的具体的位置具体的像素，那么这里就把 mask 也缩放成 7x7。",
+    "那么这样一个图像有很多 object，也就意味着很多的 mask。那针对每个 mask 呢就可以提一个 feature。这里呢作者用了非常简单的方法，直接做一个 pooling，也就是把这个 mask 所覆盖的上面的这些所有的这个 feature 把它们求一个平均。那这样得到一个最终的长度为 2048 的这么一个 vector，就是这个 object 它的这个 representation 它的这个 feature。",
+    "那么现在对于每个 object 我都有一个 feature 那下面我都只需要做常规的这个 contrastive learning 就可以了比如说这样这个是 SimCLR 的设计那 byol 这里呢只是网络结构不一样它左边一只有这个 predictor 右边一只呢是这个 ema exponential moving average 但是它使用的 loss 呢还是这个 loss 那么这个呢就是本文的主要的思想就是把原来这个 image level 的这个 feature、instance level 的这个 feature 给它细化到这个 object level",
+    "就是每个 object 我给它一个 feature，那下面呢很自然的我们就要提一个问题，就是说我们这里默认拿到这个 mask，但实际上这个 mask 应该从哪里来呢？那这里呢作者介绍了几种方法，比如说最 naive 的就是我按照这个网格把这个图像分成比如说这个 4x4 的网格，这个就是我们最初始的 mask，这是一种方法。那么还有像这个 fh 啊、mcg 啊这些方法都可以。",
+    "那最后实在不济你抓一个人过来吧，让他人手动给你标注一下对吧，这个都行。所以本文的重点只是实现一个 object level 的这个 contrastive learning，并没有在于这个 mask 是怎么提出的。不过后面马上我们会更新一篇文章去把这个 mask 的这个 proposal 也加到我们的这个 contrastive learning 加到这个 self-supervised learning 里面。",
+    "那么接着往下解决，了这个 mask 的问题之后，在实际工程中呢，我们还会遇到一张图像，它里面包含 object 的数量是不一样的。那为了解决这个问题，做的很直接的就是，每张图像我都采 16 个这个 mask。那这 16 个呢，是允许重复的。这样子呢，就把每个图像的这个 object 的数量都给它限制到一起了，就方便你一整个 batch 做操作嘛。然后抽出来还不算完，我们一定要确保说，在 augmented 的两个 view 里面因为我们有不同的 scale，有不同的 random crop，他们可能不一定同时能够看到同一个物体。这里就是要确保一下，我们这个物体可以在两个 view 里面同时被看到，同时被看到就可以做 contrastive learning。如果看不到就没有，所以这里要加一个判断。那么有了这些细节，我们就可以高效的去做一个 contrastive learning",
+    "来看作者汇报的结果，作者主要是研究的是用 ImageNet pre-train 之后，然后后面做 fine-tuning。你可以看到本文的方法很快的就超过了 supervised 的方法，包括下面的不同的任务。还有原文中汇报的很多实验 ablation 具体的细节，感兴趣的朋友非常推荐你去原文查看。好的，以上就是我对这篇文章的一个快速的整理，整理这篇主要是为了引出下面一篇。那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "3bddcd98aa1ded764f1705e1709922292ac2738ba0f199b63f2696effb350a0a"
+}

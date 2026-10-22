@@ -1,0 +1,206 @@
+{
+  "video_id": "v173",
+  "title": "Object-Centric Learning with Slot Attention[2006.15055]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v173/0001.jpg",
+      "path": "assets/slides/v173/0001.jpg",
+      "sha256": "fc92e0d9c69ad68fda1d172ca6be8fa61b121a73781c769c7dd2f365442c9ca3",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v173/0002.jpg",
+      "path": "assets/slides/v173/0002.jpg",
+      "sha256": "e2b6271cb53c89f8cb544869107417f648ffcbd6d4b172a74d5c05270c0eee3e",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v173/0003.jpg",
+      "path": "assets/slides/v173/0003.jpg",
+      "sha256": "0aaa3483f651c1a692c77fd4c2dab3bf414f8a71694a28441b374f8534e83a80",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v173/0004.jpg",
+      "path": "assets/slides/v173/0004.jpg",
+      "sha256": "26b70ccbcb07f57c49e4c2e1379dfb05acb8fc0a8edf99ca412f52681080f6a3",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v173/0005.jpg",
+      "path": "assets/slides/v173/0005.jpg",
+      "sha256": "ff894e90ac2908995b215b4fcc82138478efca15f172fa5df9cb29a94d464ca0",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v173/0006.jpg",
+      "path": "assets/slides/v173/0006.jpg",
+      "sha256": "246e6f5e82df7696ae780ef95656c66f9fa0b73bf9d5d1dc7fa42bf4b1b01c0b",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v173/0007.jpg",
+      "path": "assets/slides/v173/0007.jpg",
+      "sha256": "0762575978f694536896b7fa3a470219b1074a6cef1f0cd580532ecdb9d87800",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v173/0008.jpg",
+      "path": "assets/slides/v173/0008.jpg",
+      "sha256": "3060d78d81ba7f2dae4fda937480c391f29526a9d420356c68da3007e279dadf",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v173/0009.jpg",
+      "path": "assets/slides/v173/0009.jpg",
+      "sha256": "abca5fe60a1328369789be205bcbdef2be7f2e78f6bbd104f9ddf58f468b3fee",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v173/0010.jpg",
+      "path": "assets/slides/v173/0010.jpg",
+      "sha256": "463eb361deed90914626e90f45ae655c9788cae2926fe7cac0f877530e48db21",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v173/0011.jpg",
+      "path": "assets/slides/v173/0011.jpg",
+      "sha256": "4522f9cbb87949cec9f263074180faf0c7d73597966bb54a56381a0ea98ae3a6",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v173/0012.jpg",
+      "path": "assets/slides/v173/0012.jpg",
+      "sha256": "1813012f0464cffef9c648fe97afdb2c96a8a6e4dcde1c435ac89aed2c2c6c8c",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v173/0013.jpg",
+      "path": "assets/slides/v173/0013.jpg",
+      "sha256": "58a82c11b428ef2d0a22b51f437fd5f2031987db01f9e6da99f635067abbeee3",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v173/0014.jpg",
+      "path": "assets/slides/v173/0014.jpg",
+      "sha256": "6dd38771dab3157e4d8804397a5bcd5297660d23fed13c0ab1021079ce83a272",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v173/0015.jpg",
+      "path": "assets/slides/v173/0015.jpg",
+      "sha256": "a94fcc35ca70ec9f9b5b6658bae7762beab679ffeeaa303f332e125acf987777",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v173/0016.jpg",
+      "path": "assets/slides/v173/0016.jpg",
+      "sha256": "a59d2369efd14247d167c7a2b2639d64cd6ea70e37af9714886b35e0e37a1196",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v173/0017.jpg",
+      "path": "assets/slides/v173/0017.jpg",
+      "sha256": "bd7697bfcb2577a741f311083d501ef4c0ec0c8153e5abd92dbb0b2639dcb077",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v173/0018.jpg",
+      "path": "assets/slides/v173/0018.jpg",
+      "sha256": "7c5dfe63efe8b8e64eaa63c78d1ba58637ec157ce8c5e239925f8166dac6dfee",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v173/0019.jpg",
+      "path": "assets/slides/v173/0019.jpg",
+      "sha256": "65e7a0c5c621bd2652f356cb7a0564ebaf9920c1f3147c5618f6d4cfa59f7c59",
+      "slide_index": 19
+    },
+    {
+      "src": "../../assets/slides/v173/0020.jpg",
+      "path": "assets/slides/v173/0020.jpg",
+      "sha256": "0003735cb0b5461bb8c8645cff2660f925d70b32e261d667cb50c8217d0cb3ac",
+      "slide_index": 20
+    },
+    {
+      "src": "../../assets/slides/v173/0021.jpg",
+      "path": "assets/slides/v173/0021.jpg",
+      "sha256": "e0efb47da8c8cf2c688dabb9a83af3d11a08509d2e3c7f6081aa5d539d242dd9",
+      "slide_index": 21
+    },
+    {
+      "src": "../../assets/slides/v173/0022.jpg",
+      "path": "assets/slides/v173/0022.jpg",
+      "sha256": "b6b6b88b53b9b557fa385149efca19cb6ceec6b7e55a1a35abf17ceda66cc069",
+      "slide_index": 22
+    }
+  ],
+  "paragraphs": [
+    "大家好，今天我们来快速说一篇论文，Object-centric learning with slot attention。这篇论文的主要贡献就是介绍一个 slot attention。那么我们具体来看作者的实践，包括为什么要讲这个 Object-centric 这么一个定语。那么在介绍本文之前，我们首先来快速回顾一下这个 DETR，这个我们之前也介绍过了。那么 DETR 里面最核心的创新在于这个 Decoder。",
+    "这里 decoder 的这个输入是 object query 还有从 decoder 过来的这些 t value。那么每个 query 出来之后经过我们 classifier，每个 query 对应一个 object 这样一个结果。然后把这样的一个检测的结果和真实的 ground truth 匹配起来 ，再施加 loss。这个是 DETR 的核心的贡献。那么本文提出的方法。",
+    "它本质上跟这个 detr 里面这个 decoder 是非常相近的。那么我们具体来看，我们把 detr 里面的这个 object 这个名词呢换成这里本文作者使用的这个 slot。那我直接来看这个方法，假设呢我们现在有这么一个 slot attention 这么一个模块啊，它的输入首先是一堆 features。这里呢它叫做 input，有 n 乘 d 这样一个输入的 feature。那 detr 里面就是 encoder 给我们送来的东西。",
+    "然后呢还有这个 slots，我们之前说了它对应的 DETR 里面的 query，它呢是从一个这个 Gaussian distribution 里面 sample 出来了 K 个 slots，每个 slots 呢它的长度是 D。而这个 D 里面的每一个元素呢是一个独立的高斯分布。然后呢这个高斯分布的这个参数呢还是一个可学的。那么换句话来说呢，你也可以把它理解成这个 slots 是从 VAE 里面的这个 vector 里面这个 sample 出来的。",
+    "那么然后呢拿到这个 input 和 slot，我们就开始操作了对吧？首先先是我们设 attention 这个 keyquery 和这个 value 少不了了对不对？按照 transformer 的惯例呢，进来先做一个 layernormalization，这都好说。然后呢有意思的事情发生了，就是这里有一个循环。我们假设先无视这个循环，这个 slot 要做这个 layernormalization，然后呢开始算 attention 吧对吧？",
+    "从这个 input 里面出 query，从这个 slot 里面出，然后呢做这个 softmax。但这个 softmax 呢，它是沿着这个 slots 这个轴来做的。也就是说呢，对于每一个这个 feature，对于每一个这个 input 来说，它的这个对于所有的 slot 它的权重是 1。相当于把每一个 feature 呢按照比例分给一个一个的这个 slots。那么这个呢是一个很有意思的操作。",
+    "然后计算完这个 attention 之后呢，我们按照刚刚分配好的这个权重，把每一个这个 feature 这个 value 呢给它分到相应的这个 slot 上面。那这里呢做了一个加权的平均。那么得到的是整个这个 attention 机制它的这个输出，这里是 updates。为什么是 updates 呢？因为你看到这里呢做着还维护了一个 gru，它呢相当于用这个 updates 来去更新我们 slot 一开始的这个 vector。",
+    "用 GRU 呢去维护一个 slot vector，它的这个进化的过程。那这里呢相当于我们有的这个新的 slot 对吧，更新一下。那么最后科选呢加上一个 residual 的 MLP，就像这个 transformer 里面最后的那层这个 MLP 一样。那整完这个之后，因为我们是有 GRU 嘛，所以这个过程呢它会循环很多次。那这里呢在训练的时候呢做的时候循环三次差不多。",
+    "那么这个呢就是本文的这个核心的这个 slot attention 这个 module 这个机制，那么通过这个机制你发现它只返回一个 slot vector，也就像这个 transformer decoder 一样，它最后呢只出来这个 query 里面每个 query 它对应的 feature 的不同，而这个 feature 呢是根据我们这个 input 这个 feature 就是图像里面提取出来的这个 feature 它呢做 attention 这个机制做出来的",
+    "所以本质上呢你可以把它理解成这是一个带这个 GRU 的这么一个 Transformer，那么这个呢就是本文最核心的这个贡献。那当然可以看到这里做的有一些 Visualization，这个 Feature Map 就是我们这里说的 Input Visual Embedding 对吧，它提供这个 Key 和 Value，然后呢这里我们分配了这个四个 Slot，可能在第一次循环的时候它们各自表达意义并不是很明显，那么再往后你可以看到",
+    "随着这个循环的不断的继续，他们逐渐的每一个 slot 分配到了不同的这个 object，还有一个分配到这个 background 上面，这是一个看上去还不错的 Visualization。那当然你现在一想，这一个 GRU 弄进来，它本质上和叠了很多层 transformer 然后每层 transformer decoder 它们之间还 share 这个权重，本质上和这个有什么区别呢，有没有本质的区别？那么下面有了这个 slot attention 的机制，我们就要来看作者用了这个机制去做什么事呢",
+    "这里呢作者使用了两个这个下游的任务，一个呢是这个 object discovery，这个呢是一个无监督的。那下面这个呢是 set prediction，这个呢就是有监督的。那么这个任务呢就很像这个 DETR 里面做的这个 detection，那么本质上呢这两个任务呢都是想让每一个 slot 这个 vector 去描述一个 object为什么叫 object centric 对吧，因为我们的这个 vector 这个 feature 是最后是跟着每个 object 来走的。那么区别就是上面这个是无监督的啊，我们看整个这样一个机制能不能自己去找到相应的这个 object 那这是一个，那么下面这个呢是有监督的，就是跟 DETR 做 detection 一样，每个 vector 扔到一个 classifier 里面对吧，然后出一个结果跟我们的 Ground Truth 来比较一下，然后呢比较完之后这个 loss 再传回来",
+    "那么下面呢我们就来看作者在每一个任务的具体的实现的细节，首先这个 object discovery 它的 encoder 呢用的是这个 CNN base 加上了这个 positional embedding，那么这个配置呢在我们之前的 DETR 里面也见过了，那么经过我们这个 slot attention 呢我们得到这个 slot 每个 slot 呢跟着一个 vector，那在 decoder 阶段呢作者就把每一个 slot 的这个 vector 呢给它 broadcast 成一个这个 2D 的这么一个 representation",
+    "然后呢在这个 representation 上又加了一个 positional embedding，那加完之后呢用这个 CNN 的这个 decoder 去把它变成了一个四通道的这个图像，有什么四通道 RGB 还有一个 alpha 通道，尝试去把这个图像的这个 mask 给它预测出来，然后呢再根据这个 alpha 通道做个 softmax 对吧，把所有的每个 slot 就给它结合起来，最后综合成一张图像，你算这个 reconstruction loss 就可以了，所以呢它是一个无监督的",
+    "那么 Set Prediction 对吧，就是其实就是一个这个 DETR 里面这个 Detection 这样一个东西，好的。那么以上就是本文的主要的这个技术细节，那么我们来看作者汇报一些结果吧。首先是这个 Unsupervised 这个 Object Discovery，用了一些非常简单的这个数据集，取得了一些不错的数字。这里呢，我们的数据集非常简单，我们有多少个 Object",
+    "就分配多少个这个 slot 加再加一个 background 这个 slot 那就可以了所以呢这个问题的设置呢是相对比较简单的同时呢还有一个比较有趣的事情就是做着发现我虽然 train 的时候啊我这是 t 等于 3 我 GRU 只跑了三次但是呢我在实际测试的时候呢我可以增加这个 GRU 跑的次数哎他能够给我们带来性能的提升啊挺有意思的这么一个观察那么再往下呢，是这个做了一些 visualization，不同的 slot 它能够抓到不同的 object 对吧，它这个 reconstruction 出来的这个结果还是可以看的。同时呢，随着我们一遍一遍的去走这个 GRU，你可以看到它的这个 reconstruction 这个 decoder 出来的结果呢是越来越好的。那么从这几个非常简单的这个任务来说呢，本文的这个方法呢能够达成它的想要的这个目的。那么接下来这个 setprediction",
+    "同样的也是一堆美好的数字，作者也是观察到这个随着这个 GRU 的次数的增加对吧，我们的这个性能在增加。但是如果我们的数据集中呢有更多的 object 放下来呢，首先性能有下降，逐渐下降，说明我们的这个 slot 确实和 object 有对应。那么此外呢，作者还在复录中汇报了大量的 ablation各种实验的细节，欢迎感兴趣的朋友呢去查看。那么总的来说，本文提出了一个非常像这个 Transformer Decoder DETR 这么一个 slot attention，那目的呢还是就是针对每一个 object 去 assign 这个 feature，想法是非常好的。但是实验来看呢，只是解决了相对简单的数据集。那么当然它是 GRU 嘛，所以相当于 DETR 来说呢，也算做出了这个自己的特色",
+    "好的，那么以上就是我对这个论文的一个简单的介绍，感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "8a352c0b18dbeb5fe3d1555472e5e041e806d42b3ae0372480aeb12236f41642"
+}

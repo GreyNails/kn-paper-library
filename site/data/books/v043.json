@@ -1,0 +1,145 @@
+{
+  "video_id": "v043",
+  "title": "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections",
+  "frames": [
+    {
+      "src": "../../assets/slides/v043/0001.jpg",
+      "path": "assets/slides/v043/0001.jpg",
+      "sha256": "00261a2b7094cc30d477bc3e21b103e57eb5ed1f0f08b56242a3521eaea18fbc",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v043/0002.jpg",
+      "path": "assets/slides/v043/0002.jpg",
+      "sha256": "e3886713e0a02d213457e38dae4894ae825cfcfb3cf7490e2fa4a3b22cbd9e2f",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v043/0003.jpg",
+      "path": "assets/slides/v043/0003.jpg",
+      "sha256": "dd071e2ea8d1e4ec0dd4c1a4f9075d669a170316519962223ccb3ad9ff5bd202",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v043/0004.jpg",
+      "path": "assets/slides/v043/0004.jpg",
+      "sha256": "7f6f2299f9d46c5e96737b466d3339d6b7814eb1eeccd7c20fa1bd6e4cf49283",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v043/0005.jpg",
+      "path": "assets/slides/v043/0005.jpg",
+      "sha256": "e0f4d214bf02125797a81b9a15df9d6e02edddf03eed1522743b7a84046a3c3f",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v043/0006.jpg",
+      "path": "assets/slides/v043/0006.jpg",
+      "sha256": "7fcabd6426ad0de88d8293661d049dd082702f0e799b23692d0d9d9627b9ab5d",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v043/0007.jpg",
+      "path": "assets/slides/v043/0007.jpg",
+      "sha256": "3f03db0cbf1e02333deb6a6db74edc04757bf1785f931654db94dc3b8496a616",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v043/0008.jpg",
+      "path": "assets/slides/v043/0008.jpg",
+      "sha256": "f6dc2fa851c699f060eb7b49ed9302734092932fed46ce16204960c4b11215cf",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v043/0009.jpg",
+      "path": "assets/slides/v043/0009.jpg",
+      "sha256": "da0a1a3b795dddd3d5c8bccf81241f727e16a119d5cab445a78ad37d4e2d505d",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v043/0010.jpg",
+      "path": "assets/slides/v043/0010.jpg",
+      "sha256": "7a28814c0ef8873ca3c8b67d9a878a94da6b4012b895fb7f0d9e50cc7de25e82",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v043/0011.jpg",
+      "path": "assets/slides/v043/0011.jpg",
+      "sha256": "bbfd7c4946a179d59317deb01ead09910852baa7c33b10fd6f9c2584c0d41dba",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v043/0012.jpg",
+      "path": "assets/slides/v043/0012.jpg",
+      "sha256": "3963ef4f2f8c9ccaa532852bf399682c830f873f537788c3aab9c3b0b42feb67",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v043/0013.jpg",
+      "path": "assets/slides/v043/0013.jpg",
+      "sha256": "04ff879dce489a0b91f771e2eb17a7356ed006db88433bd7fc3b4bdce87d3eeb",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v043/0014.jpg",
+      "path": "assets/slides/v043/0014.jpg",
+      "sha256": "474ac1fbaf44faf47a95a5a6699d07c47a6d822bb65493757cb70afb9abfb331",
+      "slide_index": 14
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速说一篇论文 LaFTer: Label-Free Tuning of Zero-Shot Classifier Using Language and Unlabeled Image Collections 这篇是做 Zero-Shot Learning 但是它用了 Language 来帮助我们去在已经有的 Clip 的模型中去发掘它做 Zero-Shot 的潜力我们直接来看本文",
+    "依赖于 Clip 里面 Visual Embedding 和 Text Embedding 的相似性，我们通过从 Text Embedding 训练一个 Text Classifier，进而让它很快速的迁移到 Visual Embedding 上，让 Text Classifier 能对 Visual Embedding 做分类，最终获得我们想要的 Text，其实就是我们最终的想要的图片的分类，那么在这个思路的基础上，我们只需要把 Text Classifier 训练一下",
+    "给它一个好的初始化，这样子呢，我们的迁移的过程呢会变得非常流畅，那我们应该怎么样采集样本呢，你想这个 Text Classifier 里面是什么呢，它就是把一个句子的 embedding 最后映射到某一个这个数据集中的某一个类里面，那么这个样本的获得呢就非常取巧，这里呢作者用这个 GPT-3 让它呢去生成一些对我们这个类别的东西的描述把这个描述出来的句子送到我们的这个 CLIP 的这个 text encoder 里面，这样子呢你就能拿到一个 text embedding，你多重复的不断的向这个 GPT-3 提问，用不同的这个 prompt 的模板给它提问，能达到不同的回答，那么拿到不同的回答之后呢你都提取这个 text embedding，这样子呢你就建立了一个从 text embedding 到具体的某一个类的这么一个映射，你有了这种映射呢你就可以拿它来训练一个 classifier",
+    "那么在这里呢，本文作者的 classifier 呢这个 text classifier 呢就是一个线性层，一个全连接层，非常简单的一个结构，那么他的这个 text embedding 呢作者呢是首先做了这个 L2 normalization，然后呢加上一个高斯噪声，作为一个类似于 data augmentation 的这样一个这样一个作用，然后呢送到我们这个 text classifier 里面和我们的真正的这个 C，也就是说我想要的这个图像的这个类具体的类别上",
+    "然后他们呢做这个 smoothed cross entropy 这样训练就可以了，那么可以看到呢，因为我们的这个 Classifier 它的结构非常简单，同时呢因为我们是训练的文本，它的数据量比这个图像要小很多，所以这个训练起来呢是非常快的，两分钟呢在 3090 上就训练好了，把 Clip 的 text embedding 能够映射到我们具体的图像的某一个类，那么然后下面要做的呢就是把这个 visual embedding 映射到我们图像的具体的类，最终能做到这么一个分类的任务嘛",
+    "那么拿到这个 text classifier 之后呢，我们还是说因为这个 clip 它的这个 visual embedding 和 text embedding 最后在一个这个 latent space 里面，它们呢我们假设就直接用这样子呢，你一张图片进来送到这个 vision encoder 里面它就能得到这个 visual embedding，直接送到这个 text classifier 里面，这里呢作者用它来生成一个 pseudo-label，也就是说我根据我之前训练好了这个 text classifier 就初始的做一下这个分类",
+    "那么然后呢，在另一个分支，它对这个原始的图像做非常强的这个图像的增强，然后呢，用为这个 Visual Prompt Tuning，也就是在这个 VIT 前面加几个 Learnable 的 Token 这样的形式呢，一起和这个图像和这个 Prompt 送到这个 Vision Encoder 里面，拿到 Embedding，送到我们的这个 Text Classifier 里面，然后呢，就能够复杂出一个分类的结果那么在这里，监督信号从哪里来呢？和我们之前介绍了很多的 self-supervised learning 的方法一样，contrastive learning 的方法一样，因为我们知道这两张图像这两个 branch 的图像，它们都是来自于同一张图像，它们的语义信息应该是相似的，所以经过你这个 text classifier 训练出来图像的 class 图像的类别，它们两个应该是相同的",
+    "也就相当于你用 pseudo-label 去监督你整个这一周的训练，那么当然使用的 loss 竟然是一个 image classification 竟然是一个图像分类问题还是用这个 smoothed cross entropy，你把这个 pseudo-label 作为 ground truth，那么下面这一条呢，你就把它们全部训练起来就好了，那么这里呢，就是本文如何利用前面训好的这个 text classifier 非常机智的方法构造一个数据集，然后训练这个 text classifier，用它呢，再去整个的去训练我们的这个 vision encoder 去训练我们这个 text classifier，那么当然在第二阶段的这个训练过程中呢，有一些细节我们还是要注意一下",
+    "首先就是我们的整个的这个结构就是照着这个 SimSiam 以来的，所以呢，这两个分支的 Vision Encoder 它们的权重是相同的，或者说你在实际的操作中你只维持一个 Vision Encoder 就可以了，包括这个 Text Encoder 也是，然后第二点呢，注意这里作者用的是这个 Visual Prompt Tuning 这样子呢，你需要训练的参数就大大的减小了，但是呢，你这个 Vision Encoder 也不是完全不训练的这里呢，作者说他把这个 Vision Encoder 里面的这个 Layer Normalization 里面的这个参数，比如说就是他的 Shift 还有他的这个 Scale 这两个参数，他是训练这个东西，这就避免了把所有的参数都拉到我们的显卡里面去计算，这就避免了去 fine-tune 很多的参数，那当然你像这个 Text Classifier 还有我们的这个 Prompt 就是新加的这个 Prompt 就是前面加的这些 Prompt Token 这些呢，都是需要学习的参数",
+    "那作者也说了，经过我这一通操作，特别是这个 Visual Prompt Tuning 用了这个技术之后呢，我需要训练的参数呢，只占了整个模型参数的这个 0.4%只占了非常小的一部分，那么你就像做 SimSiam 一样做对吧，你不断的训练你的 Vision Encoder，不断训练你的模型，同时你的 pseudo-label 呢也跟着改进，那么经过你不断训练，最终你就可以把这个图像映射到一个具体的分类上",
+    "那么你可以看到，本文的核心就是利用这个 Text Embedding 和这个 Visual Embedding 它们两个相似性，然后用 GPT 这种强大的工具有很多先验知识的工具根据这个模板来生成我们的这些文字样本，通过这个文字样本来先把这个 Text Classifier 训练好，然后再去处理这个 Visual Embedding，可以说是一个水到渠成的过程",
+    "那么下面呢，我们直接来看作者汇报的结果。这里呢，作者汇报了 12 个不同的这个数据集。那么同时呢，你看到带信号的这个版本，这个版本呢，是去掉了前面这个 text pretraining 一切是这个左脚踩右脚按 SimSiam 那样子的，通过自监督的方法把整个这个 classification 的任务做出来的。那么还是作者在他的原文中呢，汇报了更多的 ablation，感兴趣的朋友呢，非常推荐你到原文查看。",
+    "好的，那么以上就是我对这个文章的一个快速的整理。那么感谢您的收看，再见。"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "10ef37f867e84f2b0e15339088f19d9be1345ca4c7bba78cbeb58e1f6b495714"
+}

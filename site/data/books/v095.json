@@ -1,0 +1,165 @@
+{
+  "video_id": "v095",
+  "title": "A Framework for Efficient Robotic Manipulation[2012.07975]",
+  "frames": [
+    {
+      "src": "../../assets/slides/v095/0001.jpg",
+      "path": "assets/slides/v095/0001.jpg",
+      "sha256": "460ac5e607909e1cce0f0372241f177dcb958e913aca0b65b0a2ab803c8fa1c4",
+      "slide_index": 1
+    },
+    {
+      "src": "../../assets/slides/v095/0002.jpg",
+      "path": "assets/slides/v095/0002.jpg",
+      "sha256": "11f6078929130082477246d01397e4b6f6b391ddad51f36390eb654a02126222",
+      "slide_index": 2
+    },
+    {
+      "src": "../../assets/slides/v095/0003.jpg",
+      "path": "assets/slides/v095/0003.jpg",
+      "sha256": "06fdaea9201d077efc01b32c8fc8cde3ac5b0fe15d5e5c2dc5b4f0f6e7fb6092",
+      "slide_index": 3
+    },
+    {
+      "src": "../../assets/slides/v095/0004.jpg",
+      "path": "assets/slides/v095/0004.jpg",
+      "sha256": "c6ab6d7fc4f7045006dc5ba6d4b0c37cd26bc89e4a40dd1ee972cf96a890d23d",
+      "slide_index": 4
+    },
+    {
+      "src": "../../assets/slides/v095/0005.jpg",
+      "path": "assets/slides/v095/0005.jpg",
+      "sha256": "f102914dfcfa151efc9a3c345bad93661c5fcbf375fe1f54aef0f02debadaf3b",
+      "slide_index": 5
+    },
+    {
+      "src": "../../assets/slides/v095/0006.jpg",
+      "path": "assets/slides/v095/0006.jpg",
+      "sha256": "ef69467bb9729312c3e9b811af48a35ffe9282c8b7ac86bab3480d6f8b0fe3a1",
+      "slide_index": 6
+    },
+    {
+      "src": "../../assets/slides/v095/0007.jpg",
+      "path": "assets/slides/v095/0007.jpg",
+      "sha256": "34624ea9d771605d2b47367dbc0b8cb129e0342e1e3502e98588f61c15d5b5e5",
+      "slide_index": 7
+    },
+    {
+      "src": "../../assets/slides/v095/0008.jpg",
+      "path": "assets/slides/v095/0008.jpg",
+      "sha256": "23e53944cbc1da2342c0435a60219ee54e597614db3e088719ead96eecc49df1",
+      "slide_index": 8
+    },
+    {
+      "src": "../../assets/slides/v095/0009.jpg",
+      "path": "assets/slides/v095/0009.jpg",
+      "sha256": "ada0d1c185f561929fbb21d3ed4ee6e9ae229951cf1af4e88212c3b3ef58570a",
+      "slide_index": 9
+    },
+    {
+      "src": "../../assets/slides/v095/0010.jpg",
+      "path": "assets/slides/v095/0010.jpg",
+      "sha256": "e6658b6d3c8284807f2114af89fd7e24507571d17a896ab4b98e2e181f823c8f",
+      "slide_index": 10
+    },
+    {
+      "src": "../../assets/slides/v095/0011.jpg",
+      "path": "assets/slides/v095/0011.jpg",
+      "sha256": "1601040227b6a6dceb4f129e401256fd1dee34c73b93a8231999aa7d0eaab530",
+      "slide_index": 11
+    },
+    {
+      "src": "../../assets/slides/v095/0012.jpg",
+      "path": "assets/slides/v095/0012.jpg",
+      "sha256": "3e6583953701eac59d913bd6f06bfb4dcee9ba6ca103b2547a55624d7e461ce8",
+      "slide_index": 12
+    },
+    {
+      "src": "../../assets/slides/v095/0013.jpg",
+      "path": "assets/slides/v095/0013.jpg",
+      "sha256": "890d0805be7ead53031cf1b97bfd87c66327711fa93f1383498b48820694598c",
+      "slide_index": 13
+    },
+    {
+      "src": "../../assets/slides/v095/0014.jpg",
+      "path": "assets/slides/v095/0014.jpg",
+      "sha256": "a1c9f2e68dd484cf0f071898f69746c4f0ca40ee81a0807e01b0c283656d0458",
+      "slide_index": 14
+    },
+    {
+      "src": "../../assets/slides/v095/0015.jpg",
+      "path": "assets/slides/v095/0015.jpg",
+      "sha256": "9952ae7d7b4287ed6f9f9f51b028b894a647aff5c7f9f22eb0d2c2c7b82ce7a6",
+      "slide_index": 15
+    },
+    {
+      "src": "../../assets/slides/v095/0016.jpg",
+      "path": "assets/slides/v095/0016.jpg",
+      "sha256": "7bfdffde6ea00e99724b4908817b7f017829139743264849713e39ca31891553",
+      "slide_index": 16
+    },
+    {
+      "src": "../../assets/slides/v095/0017.jpg",
+      "path": "assets/slides/v095/0017.jpg",
+      "sha256": "ecb25a717546148ee9f3824adbbc1a57d401e2439bca9dc0077762206065a315",
+      "slide_index": 17
+    },
+    {
+      "src": "../../assets/slides/v095/0018.jpg",
+      "path": "assets/slides/v095/0018.jpg",
+      "sha256": "66f5544c57e511a56cf0a4a47bd752b33b8d76bf68a029f8e4482331aeb6386a",
+      "slide_index": 18
+    },
+    {
+      "src": "../../assets/slides/v095/0019.jpg",
+      "path": "assets/slides/v095/0019.jpg",
+      "sha256": "46af286f7871004c0ad9856e94333828d632175faf5a36d7bd4be1227c5497df",
+      "slide_index": 19
+    }
+  ],
+  "paragraphs": [
+    "大家好,今天我们来快速水一篇论文 A Framework for Efficient Robotic Manipulation 这篇论文结构上设计上本质上非常简单我们水这篇是借这个机会聊聊其他的东西首先一个 intuition 这个 reinforcement learning 我们想在现实世界中部署 reinforcement learning 一般来讲特别是 online 这些情况它需要大量的和现实世界环境中的交互",
+    "你在这些交互中去收集样本去收集 reward 然后再去训练但这些交互呢归根结底呢都是这个机器运行的成本都是钱那么本文的核心的思想就是 efficient 嘛对吧叫 data efficient 就是尽量减少和我们真实世界的交互那本文的方法也非常直接对吧我机器自己去摸索自己去学那可能是确实耗费时间效率比较低怎么办呢找个人来教他对吧 demonstration那这个跟你一开始读论文读不明白对吧然后上网搜一搜看有没有老哥讲过这个东西那一样的道理它就让你的这个学习呢能够快很多那么当然你也要注意真笔啊不能照单全收对吧要保留一个自己的判断那我们直接来看作者这里的这个设计吧它呢就是有这么一个机械手这是那个 xArm 国产的入呢你可以看到这里有一个摄像头然后呢这里呢有一个在机械手上的一个摄像头两个摄像头",
+    "他们的这个 RGB 的这个图像呢会就是 downsample 然后切对吧最后再给它串到一起其实就是在 channel 上叠起来嘛那我们 agent 给大家指令呢你可以看到它包括我们这个手爪三个自由度注意这是三个自由度位置上的这个移动然后呢加上这个爪子的这个开闭而不是直接的去算这里面每一个关节它的这个操作的量这样呢降低了我们这个 reinforcement learning 的这个难度也是比较实用的一个技巧吧那么做什么任务呢这一看到作者设计了六种任务比如说第一个就是让我们的抓手到达某个位置捡起某个东西把某个东西移动到某个位置上这是一个难度递进的这么一个任务然后呢还有像这个然后还有像这个 pull 其实是 push 都可以开这个灯的开关然后拉抽屉这种动作这个呢是作者的设计的一个环境",
+    "那么本文的重点呢在于说我们怎么样利用我们的这个人类给他做的这个示范那所以看到这个呢是整个论文的这个学习的流程那一开始呢我们要用人来收集一些 demonstration 也就是不同的 trajectory 或者叫 episode 对吧让人来告诉这个机器人我应该怎么完成他们呢就是拿一个 xbox 的这个手柄啊去控制让这个机械臂去做相应的动作完了之后呢这些东西呢就收集到这个 replay buffer 里面",
+    "那有了这个东西之后呢作者并不是说直接的去做这个 reinforcement learning 而是呢我们中间加了一步对我们的这个 CNN 这个 encoder 因为我们出来是图像嘛它这个它提这个 feature 用的是 CNN 嘛对吧对这个 encoder 呢做了这个 contrastive learning 用它呢来做一个 pre-training 让我们的 encoder 有一个好的初始化这样子呢方便我们后面的 reinforcement learning 进一步减小这个 RL 的难度",
+    "那么最后是一个 data-augmented reinforcement learning 就是我的图像经过了 data augmentation 之后再送到我们的 encoder 里面再做 RL 下面我们继续来看一些细节其实它都是我们之前介绍出来的知识堆积出来的前面的 demonstration 我们都知道了就不管了像 contrastive learning 它就是直接用了 CURL 之前我们讲过的就是一幅图像两个不同的 data augmentation",
+    "这里的 data augmentation 就是 random crop，就是一张大的图像随机切出一块来，然后呢做这个 contrastive learning，它的 contrastive loss 呢跟 CURL 一样，就是一个这个乘的形式，query 和 key 中间呢夹着一个 w 这个矩阵，这个 w 这个矩阵呢是我们需要学习的，还有 positive sample 在上面，negative sample 在下面，这个 InfoNCE 这些东西对吧，这个呢是在这个 pre-training 这个阶段，contrastive learning 发生的事情，那但是呢有一个有意思的事情就是你需要注意到",
+    "这个 contrastive learning 这个 contrastive loss 它只发生在这个 pre-training 这个阶段，而在后面我们做这个 online reinforcement learning 的时候它并没有发生，这个呢是它区别于 CURL 很重要的一个点，那说到 reinforcement learning 的这个部分呢，它区别于我们标准的这个 online RL，因为我们有之前有 demonstration 对吧，我们这个 demonstration 也可以拿来直接用，同时呢加上我们在线训练的这些 sample 对吧，他们一起来训练我们这个 RL 这个 agent，这里呢就是这个 Soft Actor-Critic",
+    "但是呢这里有这个 data augmentation，也就是说你的这个图像输入进来的时候也是要做这个 Random Shifts、Random Crop，然后呢再去做我们这个 Soft Actor-Critic，这个技巧呢你在 Rainbow 里面也见过，也是很常用的一个方法，那当然这里呢我也标出来了，这个 Offline 呢应该是不对的，确切的来说呢它应该是一个 Online 但是 Off Policy 的这么一个 Reinforcement Learning，这里呢我们注意一下，那么以上呢就是本文的这个核心的贡献就结束了",
+    "我们下面来看作者汇报一些结果，肯定有了 demonstration 的加持，我们的训练速度就变得非常快了，当然作者还是汇报了很多 ablation，包括我们怎么样决定 demonstration 的数量等等，感兴趣的朋友还是推荐你去查看原文，总的来说这篇文章的框架非常简单，用的技术都是我们之前讲过的这些东西，因为都是这一组人做的，我们介绍这个工作是因为后面它会经常作为一个 baseline 出现",
+    "好的，那么以上就是我对这个论文的一个快速的介绍，那么感谢您的收看，再见"
+  ],
+  "segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "source_segment_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "audio_notes": [],
+  "source_transcript_sha256": "073e3bb2d61bbf42a46abff9452bd9a9f9ded1d855897ab158b585906ebcb027"
+}
