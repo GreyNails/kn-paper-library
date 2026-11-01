@@ -1,11 +1,11 @@
 {
-  "pages": 1538,
+  "pages": 1635,
   "lectures": 63,
-  "complete_drafts": 53,
+  "complete_drafts": 58,
   "videos_available": 0,
-  "bilingual_complete": 11,
-  "translated_segments": 5137,
-  "source_segments": 19133,
+  "bilingual_complete": 16,
+  "translated_segments": 6913,
+  "source_segments": 20299,
   "courses": [
     {
       "video_id": "v001",
@@ -202,19 +202,19 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 246,
+      "translated_segments": 248,
       "source_segments": 255
     },
     {
       "video_id": "v019",
       "course": "强化学习",
       "title": "Lecture 1 课程介绍（Class Intro）",
-      "pages": 0,
+      "pages": 10,
       "complete": false,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
-      "source_segments": 0
+      "translated_segments": 8,
+      "source_segments": 129
     },
     {
       "video_id": "v020",
@@ -245,8 +245,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 149,
+      "bilingual_complete": true,
+      "translated_segments": 402,
       "source_segments": 402
     },
     {
@@ -256,8 +256,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 271,
       "source_segments": 271
     },
     {
@@ -267,8 +267,8 @@
       "pages": 26,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 399,
       "source_segments": 399
     },
     {
@@ -278,8 +278,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 335,
       "source_segments": 335
     },
     {
@@ -289,8 +289,8 @@
       "pages": 23,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 318,
       "source_segments": 318
     },
     {
@@ -312,7 +312,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 190,
       "source_segments": 263
     },
     {
@@ -330,12 +330,12 @@
       "video_id": "v030",
       "course": "强化学习",
       "title": "Lecture 3 策略梯度（Policy Gradients）",
-      "pages": 22,
-      "complete": false,
+      "pages": 23,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 196
+      "source_segments": 201
     },
     {
       "video_id": "v031",
@@ -363,12 +363,12 @@
       "video_id": "v033",
       "course": "强化学习",
       "title": "Lecture 6 Q学习（Q-Learning）",
-      "pages": 0,
-      "complete": false,
+      "pages": 22,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 219
     },
     {
       "video_id": "v034",
@@ -473,12 +473,12 @@
       "video_id": "v043",
       "course": "机器学习",
       "title": "【斯坦福CS229】大语言模型与下一词预测损失",
-      "pages": 0,
-      "complete": false,
+      "pages": 22,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 315
     },
     {
       "video_id": "v044",
@@ -561,12 +561,12 @@
       "video_id": "v051",
       "course": "机器学习",
       "title": "【斯坦福CS229】神经网络（二）反向传播",
-      "pages": 2,
-      "complete": false,
+      "pages": 22,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 13
+      "source_segments": 327
     },
     {
       "video_id": "v052",
@@ -660,12 +660,12 @@
       "video_id": "v060",
       "course": "深度学习",
       "title": "斯坦福CS230：深度学习导论",
-      "pages": 0,
-      "complete": false,
+      "pages": 22,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 184
     },
     {
       "video_id": "v061",
