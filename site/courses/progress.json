@@ -3,8 +3,8 @@
   "lectures": 63,
   "complete_drafts": 62,
   "videos_available": 0,
-  "bilingual_complete": 35,
-  "translated_segments": 14605,
+  "bilingual_complete": 40,
+  "translated_segments": 17060,
   "source_segments": 20953,
   "courses": [
     {
@@ -521,7 +521,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 444,
+      "translated_segments": 458,
       "source_segments": 496
     },
     {
@@ -531,8 +531,8 @@
       "pages": 29,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 420,
+      "bilingual_complete": true,
+      "translated_segments": 461,
       "source_segments": 461
     },
     {
@@ -542,8 +542,8 @@
       "pages": 28,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 420,
       "source_segments": 420
     },
     {
@@ -553,8 +553,8 @@
       "pages": 29,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 571,
       "source_segments": 571
     },
     {
@@ -564,8 +564,8 @@
       "pages": 22,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 327,
       "source_segments": 327
     },
     {
@@ -576,7 +576,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 466,
       "source_segments": 494
     },
     {
@@ -586,8 +586,8 @@
       "pages": 13,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 254,
       "source_segments": 254
     },
     {
@@ -598,7 +598,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 362,
       "source_segments": 584
     },
     {
