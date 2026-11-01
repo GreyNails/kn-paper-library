@@ -1,8 +1,11 @@
 {
-  "pages": 1168,
+  "pages": 1201,
   "lectures": 63,
-  "complete_drafts": 38,
+  "complete_drafts": 39,
   "videos_available": 0,
+  "bilingual_complete": 1,
+  "translated_segments": 601,
+  "source_segments": 15036,
   "courses": [
     {
       "video_id": "v001",
@@ -10,7 +13,10 @@
       "title": "01 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 218,
+      "source_segments": 227
     },
     {
       "video_id": "v002",
@@ -18,7 +24,10 @@
       "title": "02 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": true,
+      "translated_segments": 320,
+      "source_segments": 320
     },
     {
       "video_id": "v003",
@@ -26,7 +35,10 @@
       "title": "03 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 3",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 57,
+      "source_segments": 271
     },
     {
       "video_id": "v004",
@@ -34,7 +46,10 @@
       "title": "04 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 4",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 217
     },
     {
       "video_id": "v005",
@@ -42,7 +57,10 @@
       "title": "05 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 5",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 285
     },
     {
       "video_id": "v006",
@@ -50,7 +68,10 @@
       "title": "06 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 6",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 219
     },
     {
       "video_id": "v007",
@@ -58,7 +79,10 @@
       "title": "07 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 7",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 259
     },
     {
       "video_id": "v008",
@@ -66,7 +90,10 @@
       "title": "08 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 8",
       "pages": 30,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 223
     },
     {
       "video_id": "v009",
@@ -74,7 +101,10 @@
       "title": "09 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 9",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 284
     },
     {
       "video_id": "v010",
@@ -82,7 +112,10 @@
       "title": "10 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 232
     },
     {
       "video_id": "v011",
@@ -90,7 +123,10 @@
       "title": "11 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 253
     },
     {
       "video_id": "v012",
@@ -98,7 +134,10 @@
       "title": "12 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 314
     },
     {
       "video_id": "v013",
@@ -106,7 +145,10 @@
       "title": "13 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 13",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 205
     },
     {
       "video_id": "v014",
@@ -114,7 +156,10 @@
       "title": "14 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 14",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 251
     },
     {
       "video_id": "v015",
@@ -122,7 +167,10 @@
       "title": "15 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 15",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 200
     },
     {
       "video_id": "v016",
@@ -130,7 +178,10 @@
       "title": "16 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 16",
       "pages": 30,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 6,
+      "source_segments": 309
     },
     {
       "video_id": "v017",
@@ -138,7 +189,10 @@
       "title": "17 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 17",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 243
     },
     {
       "video_id": "v018",
@@ -146,7 +200,10 @@
       "title": "18 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 18",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 255
     },
     {
       "video_id": "v019",
@@ -154,7 +211,10 @@
       "title": "Lecture 1 课程介绍（Class Intro）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v020",
@@ -162,7 +222,10 @@
       "title": "Lecture 10 用RL提升大语言模型推理（RL for LLM Reasoning）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v021",
@@ -170,7 +233,10 @@
       "title": "Lecture 11 基于模型的强化学习（Model-Based RL）",
       "pages": 26,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 354
     },
     {
       "video_id": "v022",
@@ -178,7 +244,10 @@
       "title": "Lecture 12 多任务强化学习（Multi-Task RL）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v023",
@@ -186,15 +255,21 @@
       "title": "Lecture 13 元强化学习（Meta RL）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v024",
       "course": "强化学习",
       "title": "Lecture 14 探索机制（Exploration）",
-      "pages": 16,
-      "complete": false,
-      "video_ready": false
+      "pages": 26,
+      "complete": true,
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 399
     },
     {
       "video_id": "v025",
@@ -202,7 +277,10 @@
       "title": "Lecture 15 分层强化学习与模仿学习（Hierarchical RL and IL）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v026",
@@ -210,7 +288,10 @@
       "title": "Lecture 16 机器人中的强化学习（RL for Robots）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v027",
@@ -218,15 +299,21 @@
       "title": "Lecture 17 提升机器人智能（Advancing Robot Intelligence）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v028",
       "course": "强化学习",
       "title": "Lecture 18 深度强化学习前沿（Frontiers）",
-      "pages": 0,
+      "pages": 23,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 214
     },
     {
       "video_id": "v029",
@@ -234,7 +321,10 @@
       "title": "Lecture 2 模仿学习（Imitation Learning）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v030",
@@ -242,7 +332,10 @@
       "title": "Lecture 3 策略梯度（Policy Gradients）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v031",
@@ -250,7 +343,10 @@
       "title": "Lecture 4 Actor-Critic算法（Actor-Critic Methods）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v032",
@@ -258,7 +354,10 @@
       "title": "Lecture 5 Off-Policy Actor Critic算法",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v033",
@@ -266,7 +365,10 @@
       "title": "Lecture 6 Q学习（Q-Learning）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v034",
@@ -274,7 +376,10 @@
       "title": "Lecture 7 离线强化学习（Offline RL）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v035",
@@ -282,7 +387,10 @@
       "title": "Lecture 8 奖励学习（Reward Learning）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v036",
@@ -290,7 +398,10 @@
       "title": "Lecture 9 大语言模型中的强化学习（RL for LLMs）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v037",
@@ -298,7 +409,10 @@
       "title": "Tutorial Session Q学习回顾（Review of Q-Learning）",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v038",
@@ -306,7 +420,10 @@
       "title": "bilidown检测到重名文件-4eus-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 522
     },
     {
       "video_id": "v039",
@@ -314,7 +431,10 @@
       "title": "bilidown检测到重名文件-l78n-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 656
     },
     {
       "video_id": "v040",
@@ -322,7 +442,10 @@
       "title": "【斯坦福CS229】K-Means 与混合高斯模型（非 EM）",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 475
     },
     {
       "video_id": "v041",
@@ -330,7 +453,10 @@
       "title": "【斯坦福CS229】Transformer 与上下文学习",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 362
     },
     {
       "video_id": "v042",
@@ -338,7 +464,10 @@
       "title": "【斯坦福CS229】加权最小二乘",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v043",
@@ -346,7 +475,10 @@
       "title": "【斯坦福CS229】大语言模型与下一词预测损失",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v044",
@@ -354,7 +486,10 @@
       "title": "【斯坦福CS229】强化学习基础与策略梯度",
       "pages": 26,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 737
     },
     {
       "video_id": "v045",
@@ -362,7 +497,10 @@
       "title": "【斯坦福CS229】扩散模型",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 625
     },
     {
       "video_id": "v046",
@@ -370,7 +508,10 @@
       "title": "【斯坦福CS229】指数族、广义线性模型与分类",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 348
     },
     {
       "video_id": "v047",
@@ -378,7 +519,10 @@
       "title": "【斯坦福CS229】数据集划分与机器学习建议",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 496
     },
     {
       "video_id": "v048",
@@ -386,7 +530,10 @@
       "title": "【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 461
     },
     {
       "video_id": "v049",
@@ -394,7 +541,10 @@
       "title": "【斯坦福CS229】监督学习设定",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 420
     },
     {
       "video_id": "v050",
@@ -402,7 +552,10 @@
       "title": "【斯坦福CS229】神经网络（一）架构",
       "pages": 29,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 571
     },
     {
       "video_id": "v051",
@@ -410,7 +563,10 @@
       "title": "【斯坦福CS229】神经网络（二）反向传播",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v052",
@@ -418,7 +574,10 @@
       "title": "【斯坦福CS229】表示学习",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 494
     },
     {
       "video_id": "v053",
@@ -426,7 +585,10 @@
       "title": "【斯坦福CS229】课程介绍",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v054",
@@ -434,7 +596,10 @@
       "title": "【斯坦福CS229】高斯判别分析",
       "pages": 28,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 584
     },
     {
       "video_id": "v055",
@@ -442,7 +607,10 @@
       "title": "斯坦福CS230：AI项目策略",
       "pages": 27,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 317
     },
     {
       "video_id": "v056",
@@ -450,7 +618,10 @@
       "title": "斯坦福CS230：AI领域的职业建议",
       "pages": 37,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 352
     },
     {
       "video_id": "v057",
@@ -458,7 +629,10 @@
       "title": "斯坦福CS230：增强 LLM 应用",
       "pages": 38,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 710
     },
     {
       "video_id": "v058",
@@ -466,7 +640,10 @@
       "title": "斯坦福CS230：对抗鲁棒性和生成模型",
       "pages": 38,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 290
     },
     {
       "video_id": "v059",
@@ -474,7 +651,10 @@
       "title": "斯坦福CS230：模型内部发生了什么",
       "pages": 38,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 393
     },
     {
       "video_id": "v060",
@@ -482,7 +662,10 @@
       "title": "斯坦福CS230：深度学习导论",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v061",
@@ -490,7 +673,10 @@
       "title": "斯坦福CS230：深度学习项目全流程",
       "pages": 0,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 0
     },
     {
       "video_id": "v062",
@@ -498,7 +684,10 @@
       "title": "斯坦福CS230：深度强化学习",
       "pages": 36,
       "complete": false,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 401
     },
     {
       "video_id": "v063",
@@ -506,7 +695,10 @@
       "title": "斯坦福CS230：监督、自监督、弱监督学习",
       "pages": 36,
       "complete": true,
-      "video_ready": false
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 288
     }
   ]
 }
