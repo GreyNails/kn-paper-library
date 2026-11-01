@@ -1,11 +1,11 @@
 {
-  "pages": 1201,
+  "pages": 1240,
   "lectures": 63,
-  "complete_drafts": 39,
+  "complete_drafts": 41,
   "videos_available": 0,
-  "bilingual_complete": 1,
-  "translated_segments": 601,
-  "source_segments": 15036,
+  "bilingual_complete": 0,
+  "translated_segments": 539,
+  "source_segments": 15512,
   "courses": [
     {
       "video_id": "v001",
@@ -25,8 +25,8 @@
       "pages": 29,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": true,
-      "translated_segments": 320,
+      "bilingual_complete": false,
+      "translated_segments": 307,
       "source_segments": 320
     },
     {
@@ -37,7 +37,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 57,
+      "translated_segments": 8,
       "source_segments": 271
     },
     {
@@ -220,12 +220,12 @@
       "video_id": "v020",
       "course": "强化学习",
       "title": "Lecture 10 用RL提升大语言模型推理（RL for LLM Reasoning）",
-      "pages": 0,
-      "complete": false,
+      "pages": 25,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 187
     },
     {
       "video_id": "v021",
@@ -242,12 +242,12 @@
       "video_id": "v022",
       "course": "强化学习",
       "title": "Lecture 12 多任务强化学习（Multi-Task RL）",
-      "pages": 0,
+      "pages": 12,
       "complete": false,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 240
     },
     {
       "video_id": "v023",
@@ -308,12 +308,12 @@
       "video_id": "v028",
       "course": "强化学习",
       "title": "Lecture 18 深度强化学习前沿（Frontiers）",
-      "pages": 23,
-      "complete": false,
+      "pages": 25,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 214
+      "source_segments": 263
     },
     {
       "video_id": "v029",
