@@ -3,8 +3,8 @@
   "lectures": 63,
   "complete_drafts": 62,
   "videos_available": 0,
-  "bilingual_complete": 47,
-  "translated_segments": 20603,
+  "bilingual_complete": 48,
+  "translated_segments": 20614,
   "source_segments": 20953,
   "courses": [
     {
@@ -136,7 +136,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 279,
+      "translated_segments": 284,
       "source_segments": 314
     },
     {
@@ -355,8 +355,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 258,
+      "bilingual_complete": true,
+      "translated_segments": 264,
       "source_segments": 264
     },
     {
