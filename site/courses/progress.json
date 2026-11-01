@@ -3,8 +3,8 @@
   "lectures": 63,
   "complete_drafts": 62,
   "videos_available": 0,
-  "bilingual_complete": 40,
-  "translated_segments": 17060,
+  "bilingual_complete": 43,
+  "translated_segments": 18740,
   "source_segments": 20953,
   "courses": [
     {
@@ -597,8 +597,8 @@
       "pages": 28,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 362,
+      "bilingual_complete": true,
+      "translated_segments": 584,
       "source_segments": 584
     },
     {
@@ -609,7 +609,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 303,
       "source_segments": 317
     },
     {
@@ -619,8 +619,8 @@
       "pages": 37,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 352,
       "source_segments": 352
     },
     {
@@ -630,8 +630,8 @@
       "pages": 38,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 710,
       "source_segments": 710
     },
     {
@@ -642,7 +642,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 93,
       "source_segments": 290
     },
     {
