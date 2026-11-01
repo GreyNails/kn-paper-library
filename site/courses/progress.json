@@ -1,11 +1,11 @@
 {
-  "pages": 1471,
+  "pages": 1538,
   "lectures": 63,
-  "complete_drafts": 50,
+  "complete_drafts": 53,
   "videos_available": 0,
-  "bilingual_complete": 9,
-  "translated_segments": 4076,
-  "source_segments": 18400,
+  "bilingual_complete": 11,
+  "translated_segments": 5137,
+  "source_segments": 19133,
   "courses": [
     {
       "video_id": "v001",
@@ -191,7 +191,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 104,
+      "translated_segments": 229,
       "source_segments": 243
     },
     {
@@ -202,7 +202,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 246,
       "source_segments": 255
     },
     {
@@ -223,8 +223,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 187,
       "source_segments": 187
     },
     {
@@ -234,8 +234,8 @@
       "pages": 26,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 354,
       "source_segments": 354
     },
     {
@@ -246,7 +246,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 149,
       "source_segments": 402
     },
     {
@@ -330,23 +330,23 @@
       "video_id": "v030",
       "course": "强化学习",
       "title": "Lecture 3 策略梯度（Policy Gradients）",
-      "pages": 0,
-      "complete": false,
-      "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
-      "source_segments": 0
-    },
-    {
-      "video_id": "v031",
-      "course": "强化学习",
-      "title": "Lecture 4 Actor-Critic算法（Actor-Critic Methods）",
       "pages": 22,
       "complete": false,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 245
+      "source_segments": 196
+    },
+    {
+      "video_id": "v031",
+      "course": "强化学习",
+      "title": "Lecture 4 Actor-Critic算法（Actor-Critic Methods）",
+      "pages": 23,
+      "complete": true,
+      "video_ready": false,
+      "bilingual_complete": false,
+      "translated_segments": 0,
+      "source_segments": 252
     },
     {
       "video_id": "v032",
@@ -396,12 +396,12 @@
       "video_id": "v036",
       "course": "强化学习",
       "title": "Lecture 9 大语言模型中的强化学习（RL for LLMs）",
-      "pages": 3,
-      "complete": false,
+      "pages": 23,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 19
+      "source_segments": 191
     },
     {
       "video_id": "v037",
@@ -462,12 +462,12 @@
       "video_id": "v042",
       "course": "机器学习",
       "title": "【斯坦福CS229】加权最小二乘",
-      "pages": 0,
-      "complete": false,
+      "pages": 22,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 345
     },
     {
       "video_id": "v043",
@@ -561,12 +561,12 @@
       "video_id": "v051",
       "course": "机器学习",
       "title": "【斯坦福CS229】神经网络（二）反向传播",
-      "pages": 0,
+      "pages": 2,
       "complete": false,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 13
     },
     {
       "video_id": "v052",
