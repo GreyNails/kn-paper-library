@@ -3,8 +3,8 @@
   "lectures": 63,
   "complete_drafts": 62,
   "videos_available": 0,
-  "bilingual_complete": 45,
-  "translated_segments": 20386,
+  "bilingual_complete": 46,
+  "translated_segments": 20574,
   "source_segments": 20953,
   "courses": [
     {
@@ -696,8 +696,8 @@
       "pages": 36,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 100,
+      "bilingual_complete": true,
+      "translated_segments": 288,
       "source_segments": 288
     }
   ]
