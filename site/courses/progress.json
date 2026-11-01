@@ -4,7 +4,7 @@
   "complete_drafts": 62,
   "videos_available": 0,
   "bilingual_complete": 48,
-  "translated_segments": 20614,
+  "translated_segments": 20624,
   "source_segments": 20953,
   "courses": [
     {
@@ -136,7 +136,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 284,
+      "translated_segments": 294,
       "source_segments": 314
     },
     {
