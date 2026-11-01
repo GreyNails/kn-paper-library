@@ -1,7 +1,7 @@
 {
-  "pages": 899,
+  "pages": 991,
   "lectures": 63,
-  "complete_drafts": 29,
+  "complete_drafts": 31,
   "videos_available": 0,
   "courses": [
     {
@@ -416,8 +416,8 @@
       "video_id": "v052",
       "course": "机器学习",
       "title": "【斯坦福CS229】表示学习",
-      "pages": 4,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -440,8 +440,8 @@
       "video_id": "v055",
       "course": "深度学习",
       "title": "斯坦福CS230：AI项目策略",
-      "pages": 0,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -464,7 +464,7 @@
       "video_id": "v058",
       "course": "深度学习",
       "title": "斯坦福CS230：对抗鲁棒性和生成模型",
-      "pages": 25,
+      "pages": 37,
       "complete": false,
       "video_ready": false
     },
@@ -472,7 +472,7 @@
       "video_id": "v059",
       "course": "深度学习",
       "title": "斯坦福CS230：模型内部发生了什么",
-      "pages": 0,
+      "pages": 30,
       "complete": false,
       "video_ready": false
     },
