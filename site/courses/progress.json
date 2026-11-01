@@ -1,11 +1,11 @@
 {
-  "pages": 1635,
+  "pages": 1693,
   "lectures": 63,
-  "complete_drafts": 58,
+  "complete_drafts": 62,
   "videos_available": 0,
-  "bilingual_complete": 16,
-  "translated_segments": 6913,
-  "source_segments": 20299,
+  "bilingual_complete": 26,
+  "translated_segments": 8892,
+  "source_segments": 20953,
   "courses": [
     {
       "video_id": "v001",
@@ -58,8 +58,8 @@
       "pages": 29,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 283,
+      "bilingual_complete": true,
+      "translated_segments": 285,
       "source_segments": 285
     },
     {
@@ -136,7 +136,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 273,
+      "translated_segments": 278,
       "source_segments": 314
     },
     {
@@ -146,8 +146,8 @@
       "pages": 28,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 198,
+      "bilingual_complete": true,
+      "translated_segments": 205,
       "source_segments": 205
     },
     {
@@ -209,12 +209,12 @@
       "video_id": "v019",
       "course": "强化学习",
       "title": "Lecture 1 课程介绍（Class Intro）",
-      "pages": 10,
-      "complete": false,
+      "pages": 19,
+      "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 8,
-      "source_segments": 129
+      "bilingual_complete": true,
+      "translated_segments": 184,
+      "source_segments": 184
     },
     {
       "video_id": "v020",
@@ -297,12 +297,12 @@
       "video_id": "v027",
       "course": "强化学习",
       "title": "Lecture 17 提升机器人智能（Advancing Robot Intelligence）",
-      "pages": 0,
-      "complete": false,
+      "pages": 18,
+      "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
-      "source_segments": 0
+      "bilingual_complete": true,
+      "translated_segments": 190,
+      "source_segments": 190
     },
     {
       "video_id": "v028",
@@ -311,8 +311,8 @@
       "pages": 25,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 190,
+      "bilingual_complete": true,
+      "translated_segments": 263,
       "source_segments": 263
     },
     {
@@ -322,8 +322,8 @@
       "pages": 24,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 181,
       "source_segments": 181
     },
     {
@@ -333,8 +333,8 @@
       "pages": 23,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 201,
       "source_segments": 201
     },
     {
@@ -344,8 +344,8 @@
       "pages": 23,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 252,
       "source_segments": 252
     },
     {
@@ -356,7 +356,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 258,
       "source_segments": 264
     },
     {
@@ -366,8 +366,8 @@
       "pages": 22,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 219,
       "source_segments": 219
     },
     {
@@ -377,8 +377,8 @@
       "pages": 24,
       "complete": true,
       "video_ready": false,
-      "bilingual_complete": false,
-      "translated_segments": 0,
+      "bilingual_complete": true,
+      "translated_segments": 325,
       "source_segments": 325
     },
     {
@@ -389,7 +389,7 @@
       "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
-      "translated_segments": 0,
+      "translated_segments": 90,
       "source_segments": 327
     },
     {
@@ -407,12 +407,12 @@
       "video_id": "v037",
       "course": "强化学习",
       "title": "Tutorial Session Q学习回顾（Review of Q-Learning）",
-      "pages": 0,
-      "complete": false,
+      "pages": 18,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 155
     },
     {
       "video_id": "v038",
@@ -583,12 +583,12 @@
       "video_id": "v053",
       "course": "机器学习",
       "title": "【斯坦福CS229】课程介绍",
-      "pages": 0,
-      "complete": false,
+      "pages": 13,
+      "complete": true,
       "video_ready": false,
       "bilingual_complete": false,
       "translated_segments": 0,
-      "source_segments": 0
+      "source_segments": 254
     },
     {
       "video_id": "v054",
