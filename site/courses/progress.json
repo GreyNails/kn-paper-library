@@ -1,7 +1,7 @@
 {
-  "pages": 746,
+  "pages": 808,
   "lectures": 63,
-  "complete_drafts": 23,
+  "complete_drafts": 24,
   "videos_available": 0,
   "courses": [
     {
@@ -312,7 +312,7 @@
       "video_id": "v039",
       "course": "机器学习",
       "title": "bilidown检测到重名文件-l78n-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
-      "pages": 15,
+      "pages": 26,
       "complete": false,
       "video_ready": false
     },
@@ -320,15 +320,15 @@
       "video_id": "v040",
       "course": "机器学习",
       "title": "【斯坦福CS229】K-Means 与混合高斯模型（非 EM）",
-      "pages": 0,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
       "video_id": "v041",
       "course": "机器学习",
       "title": "【斯坦福CS229】Transformer 与上下文学习",
-      "pages": 0,
+      "pages": 24,
       "complete": false,
       "video_ready": false
     },
