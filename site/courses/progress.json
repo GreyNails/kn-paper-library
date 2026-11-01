@@ -1,7 +1,7 @@
 {
-  "pages": 808,
+  "pages": 899,
   "lectures": 63,
-  "complete_drafts": 24,
+  "complete_drafts": 29,
   "videos_available": 0,
   "courses": [
     {
@@ -312,8 +312,8 @@
       "video_id": "v039",
       "course": "机器学习",
       "title": "bilidown检测到重名文件-l78n-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
-      "pages": 26,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -328,8 +328,8 @@
       "video_id": "v041",
       "course": "机器学习",
       "title": "【斯坦福CS229】Transformer 与上下文学习",
-      "pages": 24,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -368,16 +368,16 @@
       "video_id": "v046",
       "course": "机器学习",
       "title": "【斯坦福CS229】指数族、广义线性模型与分类",
-      "pages": 0,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
       "video_id": "v047",
       "course": "机器学习",
       "title": "【斯坦福CS229】数据集划分与机器学习建议",
-      "pages": 0,
-      "complete": false,
+      "pages": 28,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -392,8 +392,8 @@
       "video_id": "v049",
       "course": "机器学习",
       "title": "【斯坦福CS229】监督学习设定",
-      "pages": 0,
-      "complete": false,
+      "pages": 28,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -416,7 +416,7 @@
       "video_id": "v052",
       "course": "机器学习",
       "title": "【斯坦福CS229】表示学习",
-      "pages": 0,
+      "pages": 4,
       "complete": false,
       "video_ready": false
     },
