@@ -25,3 +25,34 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
+
+      - name: Verify published course readers
+        env:
+          COURSES_BASE: ${{ steps.deployment.outputs.page_url }}courses/
+        run: |
+          python3 - <<'PY'
+          import json, os, time, urllib.request
+          from pathlib import Path
+          expected = json.loads(Path('site/courses/progress.json').read_text())
+          base = os.environ['COURSES_BASE']
+          last_error = None
+          for attempt in range(12):
+              try:
+                  with urllib.request.urlopen(base + 'progress.json?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
+                      actual = json.load(response)
+                  assert actual == expected, 'Published course manifest has not refreshed yet'
+                  with urllib.request.urlopen(base, timeout=30) as response:
+                      index = response.read().decode('utf-8')
+                  assert index.count('class="card"') == 63
+                  first = next(course for course in expected['courses'] if course['pages'])
+                  with urllib.request.urlopen(base + 'books/' + first['video_id'] + '.html', timeout=30) as response:
+                      reader = response.read().decode('utf-8')
+                  assert 'id="data"' in reader and 'id="local-video"' in reader
+                  print('Verified live course index, manifest and reader:', expected['pages'], 'pages')
+                  break
+              except Exception as error:
+                  last_error = error
+                  time.sleep(5)
+          else:
+              raise RuntimeError('Live course verification failed') from last_error
+          PY
