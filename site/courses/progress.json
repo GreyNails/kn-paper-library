@@ -1,7 +1,7 @@
 {
-  "pages": 1066,
+  "pages": 1168,
   "lectures": 63,
-  "complete_drafts": 33,
+  "complete_drafts": 38,
   "videos_available": 0,
   "courses": [
     {
@@ -144,8 +144,8 @@
       "video_id": "v018",
       "course": "凸优化",
       "title": "18 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 18",
-      "pages": 0,
-      "complete": false,
+      "pages": 27,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -168,8 +168,8 @@
       "video_id": "v021",
       "course": "强化学习",
       "title": "Lecture 11 基于模型的强化学习（Model-Based RL）",
-      "pages": 0,
-      "complete": false,
+      "pages": 26,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -192,7 +192,7 @@
       "video_id": "v024",
       "course": "强化学习",
       "title": "Lecture 14 探索机制（Exploration）",
-      "pages": 0,
+      "pages": 16,
       "complete": false,
       "video_ready": false
     },
@@ -304,8 +304,8 @@
       "video_id": "v038",
       "course": "机器学习",
       "title": "bilidown检测到重名文件-4eus-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
-      "pages": 27,
-      "complete": false,
+      "pages": 28,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -352,8 +352,8 @@
       "video_id": "v044",
       "course": "机器学习",
       "title": "【斯坦福CS229】强化学习基础与策略梯度",
-      "pages": 0,
-      "complete": false,
+      "pages": 26,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -504,8 +504,8 @@
       "video_id": "v063",
       "course": "深度学习",
       "title": "斯坦福CS230：监督、自监督、弱监督学习",
-      "pages": 30,
-      "complete": false,
+      "pages": 36,
+      "complete": true,
       "video_ready": false
     }
   ]
