@@ -31,7 +31,7 @@ jobs:
           COURSES_BASE: ${{ steps.deployment.outputs.page_url }}courses/
         run: |
           python3 - <<'PY'
-          import json, os, time, urllib.request
+          import json, os, re, time, urllib.request
           from pathlib import Path
           expected = json.loads(Path('site/courses/progress.json').read_text())
           base = os.environ['COURSES_BASE']
@@ -41,13 +41,21 @@ jobs:
                   with urllib.request.urlopen(base + 'progress.json?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                       actual = json.load(response)
                   assert actual == expected, 'Published course manifest has not refreshed yet'
-                  with urllib.request.urlopen(base, timeout=30) as response:
+                  with urllib.request.urlopen(base + '?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                       index = response.read().decode('utf-8')
                   assert index.count('class="card"') == 63
                   first = next(course for course in expected['courses'] if course['pages'])
                   with urllib.request.urlopen(base + 'books/' + first['video_id'] + '.html', timeout=30) as response:
                       reader = response.read().decode('utf-8')
                   assert 'id="data"' in reader and 'id="local-video"' in reader
+                  assert '讲者原文 · 中英逐段对照' in reader
+                  bilingual = next(course for course in expected['courses'] if course.get('translated_segments', 0))
+                  with urllib.request.urlopen(base + 'books/' + bilingual['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
+                      bilingual_html = response.read().decode('utf-8')
+                  payload = re.search(r'<script type="application/json" id="data">(.*?)</script>', bilingual_html, re.S)
+                  content = json.loads(payload.group(1))
+                  translated = sum(bool(segment.get('zh')) for page in content['pages'] for segment in page['segments'])
+                  assert translated == bilingual['translated_segments'] and translated > 0
                   print('Verified live course index, manifest and reader:', expected['pages'], 'pages')
                   break
               except Exception as error:
