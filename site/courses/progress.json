@@ -1,7 +1,7 @@
 {
-  "pages": 991,
+  "pages": 1066,
   "lectures": 63,
-  "complete_drafts": 31,
+  "complete_drafts": 33,
   "videos_available": 0,
   "courses": [
     {
@@ -464,16 +464,16 @@
       "video_id": "v058",
       "course": "深度学习",
       "title": "斯坦福CS230：对抗鲁棒性和生成模型",
-      "pages": 37,
-      "complete": false,
+      "pages": 38,
+      "complete": true,
       "video_ready": false
     },
     {
       "video_id": "v059",
       "course": "深度学习",
       "title": "斯坦福CS230：模型内部发生了什么",
-      "pages": 30,
-      "complete": false,
+      "pages": 38,
+      "complete": true,
       "video_ready": false
     },
     {
@@ -496,7 +496,7 @@
       "video_id": "v062",
       "course": "深度学习",
       "title": "斯坦福CS230：深度强化学习",
-      "pages": 0,
+      "pages": 36,
       "complete": false,
       "video_ready": false
     },
@@ -504,7 +504,7 @@
       "video_id": "v063",
       "course": "深度学习",
       "title": "斯坦福CS230：监督、自监督、弱监督学习",
-      "pages": 0,
+      "pages": 30,
       "complete": false,
       "video_ready": false
     }
