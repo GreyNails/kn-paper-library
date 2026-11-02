@@ -173,7 +173,7 @@
       "bilingual_complete": true,
       "translated_segments": 251,
       "source_segments": 251,
-      "ppt_verified_points": 51
+      "ppt_verified_points": 53
     },
     {
       "video_id": "v015",
@@ -185,7 +185,7 @@
       "bilingual_complete": true,
       "translated_segments": 200,
       "source_segments": 200,
-      "ppt_verified_points": 65
+      "ppt_verified_points": 69
     },
     {
       "video_id": "v016",
@@ -197,7 +197,7 @@
       "bilingual_complete": true,
       "translated_segments": 309,
       "source_segments": 309,
-      "ppt_verified_points": 46
+      "ppt_verified_points": 48
     },
     {
       "video_id": "v017",
@@ -764,5 +764,5 @@
       "ppt_verified_points": 27
     }
   ],
-  "ppt_verified_points": 1113
+  "ppt_verified_points": 1121
 }
