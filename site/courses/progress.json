@@ -2,7 +2,7 @@
   "pages": 1693,
   "lectures": 63,
   "complete_drafts": 62,
-  "videos_available": 21,
+  "videos_available": 63,
   "bilingual_complete": 49,
   "translated_segments": 20649,
   "source_segments": 20953,
@@ -200,7 +200,7 @@
       "title": "18 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 18",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 248,
       "source_segments": 255
@@ -244,7 +244,7 @@
       "title": "Lecture 12 多任务强化学习（Multi-Task RL）",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 402,
       "source_segments": 402
@@ -255,7 +255,7 @@
       "title": "Lecture 13 元强化学习（Meta RL）",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 271,
       "source_segments": 271
@@ -266,7 +266,7 @@
       "title": "Lecture 14 探索机制（Exploration）",
       "pages": 26,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 399,
       "source_segments": 399
@@ -277,7 +277,7 @@
       "title": "Lecture 15 分层强化学习与模仿学习（Hierarchical RL and IL）",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 335,
       "source_segments": 335
@@ -288,7 +288,7 @@
       "title": "Lecture 16 机器人中的强化学习（RL for Robots）",
       "pages": 23,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 318,
       "source_segments": 318
@@ -299,7 +299,7 @@
       "title": "Lecture 17 提升机器人智能（Advancing Robot Intelligence）",
       "pages": 18,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 190,
       "source_segments": 190
@@ -310,7 +310,7 @@
       "title": "Lecture 18 深度强化学习前沿（Frontiers）",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 263,
       "source_segments": 263
@@ -321,7 +321,7 @@
       "title": "Lecture 2 模仿学习（Imitation Learning）",
       "pages": 24,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 181,
       "source_segments": 181
@@ -332,7 +332,7 @@
       "title": "Lecture 3 策略梯度（Policy Gradients）",
       "pages": 23,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 201,
       "source_segments": 201
@@ -343,7 +343,7 @@
       "title": "Lecture 4 Actor-Critic算法（Actor-Critic Methods）",
       "pages": 23,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 252,
       "source_segments": 252
@@ -354,7 +354,7 @@
       "title": "Lecture 5 Off-Policy Actor Critic算法",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 264,
       "source_segments": 264
@@ -365,7 +365,7 @@
       "title": "Lecture 6 Q学习（Q-Learning）",
       "pages": 22,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 219,
       "source_segments": 219
@@ -376,7 +376,7 @@
       "title": "Lecture 7 离线强化学习（Offline RL）",
       "pages": 24,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 325,
       "source_segments": 325
@@ -387,7 +387,7 @@
       "title": "Lecture 8 奖励学习（Reward Learning）",
       "pages": 24,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 327,
       "source_segments": 327
@@ -398,7 +398,7 @@
       "title": "Lecture 9 大语言模型中的强化学习（RL for LLMs）",
       "pages": 23,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 191,
       "source_segments": 191
@@ -420,7 +420,7 @@
       "title": "bilidown检测到重名文件-4eus-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 522,
       "source_segments": 522
@@ -431,7 +431,7 @@
       "title": "bilidown检测到重名文件-l78n-【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 574,
       "source_segments": 656
@@ -442,7 +442,7 @@
       "title": "【斯坦福CS229】K-Means 与混合高斯模型（非 EM）",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 469,
       "source_segments": 475
@@ -453,7 +453,7 @@
       "title": "【斯坦福CS229】Transformer 与上下文学习",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 349,
       "source_segments": 362
@@ -464,7 +464,7 @@
       "title": "【斯坦福CS229】加权最小二乘",
       "pages": 22,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 345,
       "source_segments": 345
@@ -475,7 +475,7 @@
       "title": "【斯坦福CS229】大语言模型与下一词预测损失",
       "pages": 22,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 315,
       "source_segments": 315
@@ -486,7 +486,7 @@
       "title": "【斯坦福CS229】强化学习基础与策略梯度",
       "pages": 26,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 737,
       "source_segments": 737
@@ -497,7 +497,7 @@
       "title": "【斯坦福CS229】扩散模型",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 625,
       "source_segments": 625
@@ -508,7 +508,7 @@
       "title": "【斯坦福CS229】指数族、广义线性模型与分类",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 348,
       "source_segments": 348
@@ -519,7 +519,7 @@
       "title": "【斯坦福CS229】数据集划分与机器学习建议",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 472,
       "source_segments": 496
@@ -530,7 +530,7 @@
       "title": "【斯坦福CS229】混合高斯模型（EM）与主成分分析",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 461,
       "source_segments": 461
@@ -541,7 +541,7 @@
       "title": "【斯坦福CS229】监督学习设定",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 420,
       "source_segments": 420
@@ -552,7 +552,7 @@
       "title": "【斯坦福CS229】神经网络（一）架构",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 571,
       "source_segments": 571
@@ -563,7 +563,7 @@
       "title": "【斯坦福CS229】神经网络（二）反向传播",
       "pages": 22,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 327,
       "source_segments": 327
@@ -574,7 +574,7 @@
       "title": "【斯坦福CS229】表示学习",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 466,
       "source_segments": 494
@@ -585,7 +585,7 @@
       "title": "【斯坦福CS229】课程介绍",
       "pages": 13,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 254,
       "source_segments": 254
@@ -596,7 +596,7 @@
       "title": "【斯坦福CS229】高斯判别分析",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 584,
       "source_segments": 584
@@ -607,7 +607,7 @@
       "title": "斯坦福CS230：AI项目策略",
       "pages": 27,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 303,
       "source_segments": 317
@@ -618,7 +618,7 @@
       "title": "斯坦福CS230：AI领域的职业建议",
       "pages": 37,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 352,
       "source_segments": 352
@@ -629,7 +629,7 @@
       "title": "斯坦福CS230：增强 LLM 应用",
       "pages": 38,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 710,
       "source_segments": 710
@@ -640,7 +640,7 @@
       "title": "斯坦福CS230：对抗鲁棒性和生成模型",
       "pages": 38,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 290,
       "source_segments": 290
@@ -651,7 +651,7 @@
       "title": "斯坦福CS230：模型内部发生了什么",
       "pages": 38,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 393,
       "source_segments": 393
@@ -662,7 +662,7 @@
       "title": "斯坦福CS230：深度学习导论",
       "pages": 22,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 178,
       "source_segments": 184
@@ -673,7 +673,7 @@
       "title": "斯坦福CS230：深度学习项目全流程",
       "pages": 23,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 377,
       "source_segments": 441
@@ -684,7 +684,7 @@
       "title": "斯坦福CS230：深度强化学习",
       "pages": 36,
       "complete": false,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 401,
       "source_segments": 401
@@ -695,7 +695,7 @@
       "title": "斯坦福CS230：监督、自监督、弱监督学习",
       "pages": 36,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 288,
       "source_segments": 288
