@@ -1,11 +1,11 @@
 {
-  "pages": 1693,
+  "pages": 1694,
   "lectures": 63,
-  "complete_drafts": 62,
+  "complete_drafts": 63,
   "videos_available": 63,
-  "bilingual_complete": 52,
-  "translated_segments": 20938,
-  "source_segments": 20953,
+  "bilingual_complete": 63,
+  "translated_segments": 20981,
+  "source_segments": 20981,
   "courses": [
     {
       "video_id": "v001",
@@ -14,8 +14,8 @@
       "pages": 29,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 224,
+      "bilingual_complete": true,
+      "translated_segments": 227,
       "source_segments": 227,
       "ppt_verified_points": 21
     },
@@ -74,8 +74,8 @@
       "pages": 28,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 218,
+      "bilingual_complete": true,
+      "translated_segments": 219,
       "source_segments": 219,
       "ppt_verified_points": 71
     },
@@ -125,7 +125,7 @@
       "bilingual_complete": true,
       "translated_segments": 232,
       "source_segments": 232,
-      "ppt_verified_points": 38
+      "ppt_verified_points": 40
     },
     {
       "video_id": "v011",
@@ -137,7 +137,7 @@
       "bilingual_complete": true,
       "translated_segments": 253,
       "source_segments": 253,
-      "ppt_verified_points": 10
+      "ppt_verified_points": 20
     },
     {
       "video_id": "v012",
@@ -182,8 +182,8 @@
       "pages": 28,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 199,
+      "bilingual_complete": true,
+      "translated_segments": 200,
       "source_segments": 200,
       "ppt_verified_points": 0
     },
@@ -218,8 +218,8 @@
       "pages": 27,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 254,
+      "bilingual_complete": true,
+      "translated_segments": 255,
       "source_segments": 255,
       "ppt_verified_points": 0
     },
@@ -470,8 +470,8 @@
       "pages": 27,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 655,
+      "bilingual_complete": true,
+      "translated_segments": 656,
       "source_segments": 656,
       "ppt_verified_points": 0
     },
@@ -482,8 +482,8 @@
       "pages": 27,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 474,
+      "bilingual_complete": true,
+      "translated_segments": 475,
       "source_segments": 475,
       "ppt_verified_points": 0
     },
@@ -494,8 +494,8 @@
       "pages": 27,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 361,
+      "bilingual_complete": true,
+      "translated_segments": 362,
       "source_segments": 362,
       "ppt_verified_points": 0
     },
@@ -662,8 +662,8 @@
       "pages": 27,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 315,
+      "bilingual_complete": true,
+      "translated_segments": 317,
       "source_segments": 317,
       "ppt_verified_points": 0
     },
@@ -722,8 +722,8 @@
       "pages": 22,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 183,
+      "bilingual_complete": true,
+      "translated_segments": 184,
       "source_segments": 184,
       "ppt_verified_points": 0
     },
@@ -734,8 +734,8 @@
       "pages": 23,
       "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 438,
+      "bilingual_complete": true,
+      "translated_segments": 441,
       "source_segments": 441,
       "ppt_verified_points": 0
     },
@@ -743,12 +743,12 @@
       "video_id": "v062",
       "course": "深度学习",
       "title": "斯坦福CS230：深度强化学习",
-      "pages": 36,
-      "complete": false,
+      "pages": 37,
+      "complete": true,
       "video_ready": true,
-      "bilingual_complete": false,
-      "translated_segments": 401,
-      "source_segments": 401,
+      "bilingual_complete": true,
+      "translated_segments": 429,
+      "source_segments": 429,
       "ppt_verified_points": 0
     },
     {
@@ -764,5 +764,5 @@
       "ppt_verified_points": 0
     }
   ],
-  "ppt_verified_points": 411
+  "ppt_verified_points": 423
 }
