@@ -161,7 +161,7 @@
       "bilingual_complete": true,
       "translated_segments": 205,
       "source_segments": 205,
-      "ppt_verified_points": 52
+      "ppt_verified_points": 57
     },
     {
       "video_id": "v014",
@@ -173,7 +173,7 @@
       "bilingual_complete": true,
       "translated_segments": 251,
       "source_segments": 251,
-      "ppt_verified_points": 43
+      "ppt_verified_points": 51
     },
     {
       "video_id": "v015",
@@ -764,5 +764,5 @@
       "ppt_verified_points": 27
     }
   ],
-  "ppt_verified_points": 1100
+  "ppt_verified_points": 1113
 }
