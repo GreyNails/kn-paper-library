@@ -2,7 +2,7 @@
   "pages": 1693,
   "lectures": 63,
   "complete_drafts": 62,
-  "videos_available": 3,
+  "videos_available": 21,
   "bilingual_complete": 49,
   "translated_segments": 20649,
   "source_segments": 20953,
@@ -35,7 +35,7 @@
       "title": "03 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 3",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 271,
       "source_segments": 271
@@ -46,7 +46,7 @@
       "title": "04 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 4",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 217,
       "source_segments": 217
@@ -57,7 +57,7 @@
       "title": "05 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 5",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 285,
       "source_segments": 285
@@ -68,7 +68,7 @@
       "title": "06 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 6",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 206,
       "source_segments": 219
@@ -79,7 +79,7 @@
       "title": "07 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 7",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 259,
       "source_segments": 259
@@ -90,7 +90,7 @@
       "title": "08 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 8",
       "pages": 30,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 223,
       "source_segments": 223
@@ -101,7 +101,7 @@
       "title": "09 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 9",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 284,
       "source_segments": 284
@@ -112,7 +112,7 @@
       "title": "10 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 232,
       "source_segments": 232
@@ -123,7 +123,7 @@
       "title": "11 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 253,
       "source_segments": 253
@@ -134,7 +134,7 @@
       "title": "12 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 294,
       "source_segments": 314
@@ -145,7 +145,7 @@
       "title": "13 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 13",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 205,
       "source_segments": 205
@@ -156,7 +156,7 @@
       "title": "14 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 14",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 251,
       "source_segments": 251
@@ -167,7 +167,7 @@
       "title": "15 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 15",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 181,
       "source_segments": 200
@@ -178,7 +178,7 @@
       "title": "16 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 16",
       "pages": 30,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 309,
       "source_segments": 309
@@ -189,7 +189,7 @@
       "title": "17 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 17",
       "pages": 28,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 243,
       "source_segments": 243
@@ -211,7 +211,7 @@
       "title": "Lecture 1 课程介绍（Class Intro）",
       "pages": 19,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 184,
       "source_segments": 184
@@ -222,7 +222,7 @@
       "title": "Lecture 10 用RL提升大语言模型推理（RL for LLM Reasoning）",
       "pages": 25,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 187,
       "source_segments": 187
@@ -233,7 +233,7 @@
       "title": "Lecture 11 基于模型的强化学习（Model-Based RL）",
       "pages": 26,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 354,
       "source_segments": 354
