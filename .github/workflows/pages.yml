@@ -2,6 +2,9 @@ name: Deploy paper library
 on:
   push:
     branches: [main]
+    paths:
+      - site/**
+      - .github/workflows/pages.yml
   workflow_dispatch:
 permissions:
   contents: read
@@ -36,9 +39,24 @@ jobs:
           def course_payload(text):
               found = re.search(r'<script type="application/json" id="data"[^>]*>(.*?)</script>', text, re.S)
               value = found.group(1)
-              if 'data-encoding="gzip-base64"' in found.group(0):
+              source = re.search(r'data-source-url="([^"]+)"', found.group(0))
+              root = ''
+              if source:
+                  root = source.group(1).split('/course-data/')[0] + '/'
+                  with urllib.request.urlopen(source.group(1), timeout=60) as response:
+                      value = gzip.decompress(response.read()).decode()
+              elif 'data-encoding="gzip-base64"' in found.group(0):
                   value = gzip.decompress(base64.b64decode(value)).decode()
-              return json.loads(value)
+              data = json.loads(value)
+              def asset(url):
+                  return root + url[5:] if isinstance(url, str) and url.startswith('@raw/') else url
+              for page in data['pages']:
+                  for point in page.get('boards', []):
+                      point['frame'] = asset(point.get('frame'))
+                      point['redraw_svg_url'] = asset(point.get('redraw_svg_url'))
+                      if point.get('visual_source'):
+                          point['visual_source']['slide_image'] = asset(point['visual_source'].get('slide_image'))
+              return data
           expected = json.loads(Path('site/courses/progress.json').read_text())
           base = os.environ['COURSES_BASE']
           last_error = None
@@ -73,6 +91,17 @@ jobs:
                       with urllib.request.urlopen(request, timeout=30) as response:
                           assert response.status == 206, 'Original video must support byte-range seeking'
                           assert response.read(1024)[4:8] == b'ftyp', 'Original video is not a readable MP4'
+                  if expected.get('ppt_verified_points', 0):
+                      ppt_course = next(course for course in expected['courses'] if course.get('ppt_verified_points', 0))
+                      with urllib.request.urlopen(base + 'books/' + ppt_course['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
+                          ppt_content = course_payload(response.read().decode('utf-8'))
+                      verified_points = [point for page in ppt_content['pages'] for point in page.get('boards', []) if point.get('visual_source', {}).get('verified')]
+                      assert len(verified_points) == ppt_course['ppt_verified_points']
+                      assert any(point.get('redraw_svg') or point.get('redraw_svg_url') for point in verified_points)
+                      vector = next((point.get('redraw_svg_url') for point in verified_points if point.get('redraw_svg_url')), None)
+                      if vector:
+                          with urllib.request.urlopen(vector, timeout=60) as response:
+                              assert b'<svg' in gzip.decompress(response.read())
                   print('Verified live course index, manifest and reader:', expected['pages'], 'pages')
                   break
               except Exception as error:
