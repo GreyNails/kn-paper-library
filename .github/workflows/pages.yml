@@ -31,8 +31,14 @@ jobs:
           COURSES_BASE: ${{ steps.deployment.outputs.page_url }}courses/
         run: |
           python3 - <<'PY'
-          import json, os, re, time, urllib.request
+          import json, os, re, time, urllib.request, gzip, base64
           from pathlib import Path
+          def course_payload(text):
+              found = re.search(r'<script type="application/json" id="data"[^>]*>(.*?)</script>', text, re.S)
+              value = found.group(1)
+              if 'data-encoding="gzip-base64"' in found.group(0):
+                  value = gzip.decompress(base64.b64decode(value)).decode()
+              return json.loads(value)
           expected = json.loads(Path('site/courses/progress.json').read_text())
           base = os.environ['COURSES_BASE']
           last_error = None
@@ -52,16 +58,16 @@ jobs:
                   bilingual = next(course for course in expected['courses'] if course.get('translated_segments', 0))
                   with urllib.request.urlopen(base + 'books/' + bilingual['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                       bilingual_html = response.read().decode('utf-8')
-                  payload = re.search(r'<script type="application/json" id="data">(.*?)</script>', bilingual_html, re.S)
-                  content = json.loads(payload.group(1))
+                  payload = re.search(r'<script type="application/json" id="data"[^>]*>(.*?)</script>', bilingual_html, re.S)
+                  content = course_payload(bilingual_html)
                   translated = sum(bool(segment.get('zh')) for page in content['pages'] for segment in page['segments'])
                   assert translated == bilingual['translated_segments'] and translated > 0
                   if expected.get('videos_available', 0):
                       video_course = next(course for course in expected['courses'] if course['video_ready'])
                       with urllib.request.urlopen(base + 'books/' + video_course['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                           video_reader = response.read().decode('utf-8')
-                      video_payload = re.search(r'<script type="application/json" id="data">(.*?)</script>', video_reader, re.S)
-                      video_url = json.loads(video_payload.group(1))['video_url']
+                      video_payload = re.search(r'<script type="application/json" id="data"[^>]*>(.*?)</script>', video_reader, re.S)
+                      video_url = course_payload(video_reader)['video_url']
                       assert video_url.endswith('/' + video_course['video_id'] + '.mp4')
                       request = urllib.request.Request(video_url, headers={'Range': 'bytes=0-1023'})
                       with urllib.request.urlopen(request, timeout=30) as response:
