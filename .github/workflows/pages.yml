@@ -56,6 +56,17 @@ jobs:
                   content = json.loads(payload.group(1))
                   translated = sum(bool(segment.get('zh')) for page in content['pages'] for segment in page['segments'])
                   assert translated == bilingual['translated_segments'] and translated > 0
+                  if expected.get('videos_available', 0):
+                      video_course = next(course for course in expected['courses'] if course['video_ready'])
+                      with urllib.request.urlopen(base + 'books/' + video_course['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
+                          video_reader = response.read().decode('utf-8')
+                      video_payload = re.search(r'<script type="application/json" id="data">(.*?)</script>', video_reader, re.S)
+                      video_url = json.loads(video_payload.group(1))['video_url']
+                      assert video_url.endswith('/' + video_course['video_id'] + '.mp4')
+                      request = urllib.request.Request(video_url, headers={'Range': 'bytes=0-1023'})
+                      with urllib.request.urlopen(request, timeout=30) as response:
+                          assert response.status == 206, 'Original video must support byte-range seeking'
+                          assert response.read(1024)[4:8] == b'ftyp', 'Original video is not a readable MP4'
                   print('Verified live course index, manifest and reader:', expected['pages'], 'pages')
                   break
               except Exception as error:
