@@ -2,7 +2,7 @@
   "pages": 1693,
   "lectures": 63,
   "complete_drafts": 62,
-  "videos_available": 0,
+  "videos_available": 3,
   "bilingual_complete": 49,
   "translated_segments": 20649,
   "source_segments": 20953,
@@ -13,7 +13,7 @@
       "title": "01 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": false,
       "translated_segments": 219,
       "source_segments": 227
@@ -24,7 +24,7 @@
       "title": "02 - Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2",
       "pages": 29,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 320,
       "source_segments": 320
@@ -409,7 +409,7 @@
       "title": "Tutorial Session Q学习回顾（Review of Q-Learning）",
       "pages": 18,
       "complete": true,
-      "video_ready": false,
+      "video_ready": true,
       "bilingual_complete": true,
       "translated_segments": 155,
       "source_segments": 155
