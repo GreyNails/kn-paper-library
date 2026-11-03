@@ -67,12 +67,13 @@ jobs:
                   assert actual == expected, 'Published course manifest has not refreshed yet'
                   with urllib.request.urlopen(base + '?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                       index = response.read().decode('utf-8')
-                  assert index.count('class="card"') == 63
+                  assert len(re.findall(r'<a\b[^>]*class="[^"]*\bcard\b[^"]*"', index)) == 63
                   first = next(course for course in expected['courses'] if course['pages'])
                   with urllib.request.urlopen(base + 'books/' + first['video_id'] + '.html', timeout=30) as response:
                       reader = response.read().decode('utf-8')
                   assert 'id="data"' in reader and 'id="local-video"' in reader
-                  assert '讲者原文 · 中英逐段对照' in reader
+                  assert 'data-reader-version="2"' in reader and 'id="tab-transcript"' in reader
+                  assert 'id="video-dock"' in reader and 'id="page-list"' in reader
                   bilingual = next(course for course in expected['courses'] if course.get('translated_segments', 0))
                   with urllib.request.urlopen(base + 'books/' + bilingual['video_id'] + '.html?commit=' + os.environ['GITHUB_SHA'], timeout=30) as response:
                       bilingual_html = response.read().decode('utf-8')
